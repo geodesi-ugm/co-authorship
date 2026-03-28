@@ -1,0 +1,154 @@
+[
+    {
+        "title": "Comparison between averaged and localised subsidence measurements for coastal floods projection in 2050 Semarang, Indonesia",
+        "authors": [
+            "Amir M Irawan",
+            "Muh A Marfai",
+            "Imma R Nugraheni",
+            "Sandy T Gustono",
+            "Hasti A Rejeki",
+            "Anton Widodo",
+            "Rikha R Mahmudiah",
+            "Maritsa Faridatunnisa"
+        ],
+        "cited_by": "38",
+        "year": "2021",
+        "venue": "Urban Climate",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2021/1/1",
+        "abstract": "This paper uses a raster-based inundation model (LISFLOOD-FP) to simulate coastal flooding using the major causes of coastal inundation i.e. extreme water levels and subsidence combined with rising sea level. Specifically, this study uses sea level scenarios through 2050, projected by linear estimation of the Semarang tide gauge record from 1997 to 2015. In addition, we calculated extreme water levels along Semarang, Indonesia, using the modern extreme value theory introduced by Gumbel (1958) and Jenkinson (1955). Simulations of coastal flooding show that subsidence in Semarang may be the leading reason that coastal flooding is getting worse, followed by sea level rise (SLR). Compared to the average subsidence scenario, the scenario with SLR projection and subsidence interpolated based on the local measurements in the research area by 2050 shows the highest flood volume with an increase at 1 …",
+        "total_citations": "Cited by 38"
+    },
+    {
+        "title": "Drone LiDAR application for 3D city model",
+        "authors": [
+            "Afradon Aditya Setyawan",
+            "Muhammad Iqbal Taftazani",
+            "Syamsul Bahri",
+            "Erma Dwi Noviana",
+            "Maritsa Faridatunnisa"
+        ],
+        "cited_by": "12",
+        "year": "2022",
+        "venue": "Journal of Applied Geospatial Information",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2022/4/19",
+        "abstract": "The availability of spatial information in 3D in a city that will apply the smart city concept is minimal or even non-existent. This makes the information conveyed less clear and less accurate. 3D map presentation is an indispensable component in the visualization of smart cities. The acquisition of spatial information in 3D can use several methods, one of which is the LiDAR (Light Detection and Ranging) drone. The Drone LiDAR is one of the new technologies in mapping surveys. Initially, LiDAR technology used a manned aircraft and had very large dimensions. Technological developments have made LiDAR portable using drones. Data acquisition was carried out using a multirotor-type Drone LiDAR from microdrones with a flying height of 60 meters above the ground. An area of\"‹\"‹ 6 hectares in the Bulaksumur UGM area is the object of research for the 3D city model building. The objects mapped would range from one-story to five-story buildings. The results of data acquisition in the form of a point cloud are then modeled into a 3D building with the micro station software plugin Terra Solid and Terra Model. Modeling is done using automatic and manual methods. The results obtained are in the form of a 3D city model with a LOD 2 level of detail. The amount of vegetation in the mapped area makes the point cloud detail on the front side of the building less dense. However, the accuracy obtained is quite high, ranging from 0, 4 to 5, 1 cm, making it suitable for making 3D city models with LOD 2 detailed specifications.",
+        "total_citations": "Cited by 12",
+        "pdf_link": "https://jurnal.polibatam.ac.id/index.php/JAGI/article/download/3462/1669"
+    },
+    {
+        "title": "Study of sea level rise using tide gauge data year 1996 to 2015 at semarang and prigi stations",
+        "authors": [
+            "Maritsa Faridatunnisa",
+            "Leni Sophia Heliani"
+        ],
+        "cited_by": "7",
+        "year": "2018",
+        "venue": "2018 4th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2018/8/7",
+        "abstract": "Sea level rise monitoring using tide gauge data is done continously so that long period data is available. The objective of this research is to analyze sea level rise from long period tide gauge data. This research uses tide gauge data in Semarang and Prigi station period 1996 to 2015. Data processing is done using Matlab 2013b to plot sea level rise data and to calculate the the trend of sea level rise. Initial stage of data processing is quality control of tide gauge data by eliminating outlier data with confidence level of three sigmas and filled empty data with NaN (Not A Number). Shifting correction is done if there is reference bias at some period of data recording at a station. Processing followed by calculation of monthly MSL (Mean Sea Level) and SLR (Sea Level Rise) with linear regression to calculate trend value of sea level rise. The result of this research is at Semarang tidal station produces SLR 4,4 mm/year with …",
+        "total_citations": "Cited by 7"
+    },
+    {
+        "title": "Utilization of Tide Observation and Satellite Altimetry Data for Detecting Land Vertical Movement",
+        "authors": [
+            "Maritsa Faridatunnisa",
+            "Leni Sophia Heliani",
+            "Dwi Lestari"
+        ],
+        "cited_by": "2",
+        "year": "2018",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2018",
+        "abstract": "Indonesia is one of the country that often experiences earthquakes and volcanic eruptions because of its position on the meeting point of three active tectonic plates, namely the Eurasian, Indo-Australian and Pacific plates. This causes movement or deformation both horizontally and/or vertically. Current movement monitoring is done using GNSS technology. However, the distribution of monitoring points are not spread evenly and the results of GNSS observation have weaknesses in their vertical components. An alternative method for monitoring movement especially in vertical components is using combination of tide observation and satellite altimetry data. The measurement concept of satellite altimetry produces absolute sea level values and it’s not affected by plate movements, besides tidal measurements which sensors are installed on the ground so that the sea level values are affected by land uplift or subsidence at that location. This study used main data, namely long-period tidal observation data and GDR (Geophysical Data Record) satellite altimetry. GNSS observation data is needed as a control of vertical movement. The differences in spatial and temporal resolution of tidal observation and satellite altimetry are overcome by two methods, namely the daily and monthly methods. Each of these methods will produce an annual SLR value (Sea Level Rise) from tidal data and satellite altimetry calculated using linear regression. The difference between the tidal and satellite altimetry data trends is compared with the vertical movement value from GNSS data. The results of the study indicate that the determination of vertical movement can be …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://pdfs.semanticscholar.org/b40f/6bfad9b24067eb6776e0fe8b6c81f5be4d99.pdf"
+    },
+    {
+        "title": "Understanding Vertical Land Motion in Eastern Indonesia and Its Implications to Regional Sea Level Rise",
+        "authors": [
+            "NISA Maritsa Faridatun",
+            "Paul Denys",
+            "YONG Chien Zheng",
+            "Robert Odolinski"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "FIG Working Week 2025",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:W7OEmFMy1HYC",
+        "publication_date": "2025"
+    },
+    {
+        "title": "PEMANFAATAN TEKNOLOGI UAV UNTUK PEMETAAN PELABUHAN PERIKANAN ADIKARTO",
+        "authors": [
+            "Hilmiyati Ulinnuha",
+            "Maritsa Faridatunnisa",
+            "Abdul Basith",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "Vierendeel Journal",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2024/11/30",
+        "abstract": "Abstrak Pelabuhan Perikanan Adikarto terletak disekitar Pantai Gelagah, Kulon Progo. Pelabuhan ini mulai dibangun pada tahun 2004, namun hingga kini belum dapat beroperasi. Masalah ini ditimbulkan oleh adanya proses sedimentasi di sekitar muara Sungai Serang. Pemerintah DIY akan melakukan redesign pelabuhan untuk menyelesaikan permasalahan sedimentasi tersebut. Dalam proses redesign, diperlukan data awal yang dapat memberikan gambaran keseluruhan area Pelabuhan. Pemetaan UAV dapat memberikan gambaran spasial dari area yang dipetakan. Penelitian ini bertujuan untuk memetakan dan mengevaluasi kondisi Pelabuhan Perikanan Adikarto saat ini dengan memanfaatkan teknologi UAV. Hasil dari penelitian ini menunjukkan bahwa orthofoto Pelabuhan Perikanan Adikarto tahun 2018 memiliki ketelitian sebesar 0,082 m. Kondisi topografi di sekitar Pelabuhan cenderung …"
+    },
+    {
+        "title": "Bathymetry and photogrammetry measurements of Opak river segment of Sumberagung village in Yogyakarta to support tourist village planning",
+        "authors": [
+            "Maritsa Faridatunnisa",
+            "Hilmiyati Ulinnuha",
+            "Bambang Kun Cahyono",
+            "Abdul Basith",
+            "Afradon Aditya Setyawan"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2023/2/14",
+        "abstract": "Opak river is one of the rivers that flow through Yogyakarta Province, especially Sleman and Bantul Districts. One of the villages crossed by this river in Bantul district is Sumberagung village. The village government plans to utilize the Opak river in their administrative area as a tourist location to grow the town as a tourist village. One of the initial efforts in planning is to collect as much data about the river and its surroundings, that is, river depth and the planimetric map around the area. Therefore, a bathymetric survey was done to obtain depth data of the Opak River, while photogrammetry technology was conducted to produce a digital image map of the river. The river depth data was acquired using Unmanned Surface Vehicle (USV) and geodetic GPS instrument as its positioning, while the photogrammetric measurement was conducted using UAV (Unmanned Aerial Vehicle). As a result, the bathymetric map shows …",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0117380/16683398/050008_1_online.pdf"
+    },
+    {
+        "title": "ANALISIS BATIMETRI SUNGAI SERANG UNTUK MENDUKUNG PENGEMBANGAN INFRASTRUKTUR YOGYAKARTA",
+        "authors": [
+            "Hilmiyati Ulinnuha",
+            "Maritsa Faridatunnisa",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2020",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2020/6/1",
+        "abstract": "Salah satu kriteria infrastruktur yang baik adalah adanya connecting jalur transportasi darat, laut, maupun udara. Untuk mendukung infrastruktur yang baik di Yogyakarta, diperlukan pengembangan pelabuhan Tanjung Adikarto yang terletak saling berdekatan dengan Bandara New Yogyakarta International Airport. Alih-alih memiliki infrastruktur Pelabuhan yang baik, Pelabuhan Tanjung Adikarto mengalami sedimentasi karena pengaruh berbagai hal. Salah satu faktor yang dapat menyebabkan sedimentasi Pelabuhan Tanjung Adikarto adalah sedimen yang terbawa oleh Sungai Serang. Oleh karena itu, penelitian ini bertujuan untuk menganalisis batimetri Sungai Serang dan menginterpolasi lokasi sedimentasi Sungai Serang.",
+        "pdf_link": "https://scholar.archive.org/work/wohrdmhgwzekleyuinzohct4um/access/wayback/http://iptek.its.ac.id/index.php/geoid/article/download/6094/4769"
+    },
+    {
+        "title": "PEMODELAN NILAI TANAH DI DAERAH EKSKLAVE (Studi Kasus di Desa Gawanan, Kecamatan Colomadu, Kabupaten Karanganyar, Jawa Tengah)",
+        "authors": [
+            "Maritsa Faridatunnisa Anugerah Satria P. Budiyono",
+            "Untung Rahardjo"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Seminar Nasional Geomatika 2018",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:qjMakFHDy7sC",
+        "publication_date": "2018"
+    },
+    {
+        "title": "Kajian Pergerakan Vertikal Tanah menggunakan Data Satelit Altimetri dan Pasang Surut dengan Kontrol Data GNSS pada Stasiun Pasut Semarang dan Prigi",
+        "authors": [
+            "Maritsa Faridatunnisa"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vWyXz6UAAAAJ&citation_for_view=vWyXz6UAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2016"
+    }
+]

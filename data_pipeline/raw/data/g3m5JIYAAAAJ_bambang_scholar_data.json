@@ -1,0 +1,1234 @@
+[
+    {
+        "title": "The combination of terrestrial Lidar and UAV photogrammetry for interactive architectural heritage visualization using unity 3D game engine",
+        "authors": [
+            "R Andaru",
+            "BK Cahyono",
+            "G Riyadi",
+            "GR Ramadhan",
+            "S Tuntas"
+        ],
+        "cited_by": "28",
+        "year": "2019",
+        "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:u_35RYKgDlwC",
+        "publication_date": "2019/11/29",
+        "abstract": "The digital 3D documentation of architectural heritage using advanced 3D measurement technologies such as UAV photogrammetry and terrestrial LiDAR (TLS) becomes a potential and efficient method since it can produce 3D pointclouds in detail and high density of pointclouds levels. However, TLS is unable to scan the roof part of tall building, whereas UAV photogrammetry achieves high density of pointclouds at that area. In order to make a complete 3D pointclouds of heritage building, we merged and integrated the TLS and UAV pointclouds data by using Iterative Closest Point (ICP) algorithms into one reference system. In this study, we collected two architectural heritage building in Yogyakarta, Indonesia, i.e., \"Vredeburg Fort Museum (VFM)\" and \"Kotagede Great Mosque (KGM)\", the oldest mosque in Yogyakarta. For the data acquisition, we used Faro Focus X330 and GLS 2000 Laser Scanner. We produced three-dimensional point clouds from UAV imagery by using Structure from Motion and Multi View Stereo (SfM-MVS) technique through Photoscan software. In order to merging and integrating both of pointclouds data, Maptek I-Site Studio 6.1 with Educational License was used. Those data were successfully registered, and according to the registration report, we had observed 20.60 mm of RMS error. The 3D models and their textures in outdoor and indoor side were processed using Autodesk software. Modelling was carried out on the structure of building’s façade base on simple geometric primitive as planes, straight lines, circles, spheres and cylinder. For interactive visualization, a modern and widely accessible game engine …",
+        "total_citations": "Cited by 28",
+        "pdf_link": "https://isprs-archives.copernicus.org/articles/XLII-2-W17/39/2019/isprs-archives-XLII-2-W17-39-2019.pdf"
+    },
+    {
+        "title": "Sistem Pendukung Keputusan Pemilihan Obyek Wisata di Kota Balikpapan Menggunakan Metode Profile Matching",
+        "authors": [
+            "Farid Al Muhaimin",
+            "Joan Angelina Widians",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "19",
+        "year": "2018",
+        "venue": "Jurnal Rekayasa Teknologi Informasi (JURTI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:uLbwQdceFCQC",
+        "publication_date": "2018/6/10",
+        "abstract": "Pentingnya memilih obyek wisata yang tepat membutuhkan sebuah sistem pendukung keputusan dalam bidang kepariwisataan, untuk mendapat informasi dan pengambilan keputusan pemilihan obyek wisata secara efektif dan mampu membantu wisatawan untuk menentukan lokasi obyek wisata yang akan dikunjungi. Sistem pendukung keputusan penentuan obyek wisata dilakukan secara perhitungan detail berdasarkan metode profile matching. Sistem pendukung keputusan memberikan hasil berupa prioritas obyek wisata yang sesuai bagi setiap wisatawan. Sistem ini juga mengacu pada skala bobot yang dimiliki oleh setiap wisatawan dalam memilih obyek dan juga nilai profile dari setiap obyek yaitu faktor biaya, fasilitas obyek, jenis obyek, dan jarak ke obyek wisata.",
+        "total_citations": "Cited by 19",
+        "pdf_link": "https://ocs.unmul.ac.id/index.php/INF/article/viewFile/1427/1110"
+    },
+    {
+        "title": "Development and definition of prambanan temple deformation monitoring control points",
+        "authors": [
+            "Rochmad Muryamto",
+            "M Iqbal Taftazani",
+            "Yulaikhah Yulaikhah",
+            "Bambang Kun Cahyono",
+            "Anindya Sricandra Prasidya"
+        ],
+        "cited_by": "19",
+        "year": "2018",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:RGFaLdJalmkC",
+        "publication_date": "2018",
+        "abstract": "As one of the cultural heritage of historical buildings that has been recognized by UNESCO since 1991, the construction of Prambanan Temple was established on an unstable soil structure, not far from the Opak River. In the geological map of Yogyakarta, there is a fault under the Opak River which caused an earthquake in 2006 and had an impact on Prambanan Temple. Because of its position in disaster-prone areas, regular monitoring of the deformation of Prambanan Temple is very necessary. This research aims to build a deformation monitoring control point in Prambanan Temple. Eight control points, consist of three existing points and five new points are built around Prambanan Temple. These eight control points then were measured by GNSS receiver for 1x24 hours in order to define their coordinates. The GNSS data processing is done using GAMIT 10.70 software with two strategies, namely (1) processing with regional reference points, in this case using IGS stations namely BAKO and JOG2, and (2) processing with global reference points using IGS stations namely COCO, DARW, KARR, POHN, PIMO, DGAR, and IISC. Processing with these two strategies is done to find out the best processing results between regional or global processing. This research yields benchmarks of Prambanan temple deformation control points with their coordinates and their standard deviations in two processing strategies. The smallest standard deviation in the first strategy is 78.7 mm on the Z-axis for points of PRB1 and PRB3. The biggest standard deviation is 121.8 mm on the Y-axis at point of PRB2. In the second strategy the smallest standard deviation is …",
+        "total_citations": "Cited by 19",
+        "pdf_link": "https://pdfs.semanticscholar.org/2adb/bac4c6eaa87e035749f7ccca8a5ad9bfff78.pdf"
+    },
+    {
+        "title": "Analisis Hasil Penetapan Batas Desa Di Kabupaten Gunungkidul Provinsi Daerah Istimewa Yogyakarta",
+        "authors": [
+            "Heri Sutanta",
+            "Imasti Dhani Pratiwi",
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono",
+            "Diyono Diyono"
+        ],
+        "cited_by": "14",
+        "year": "2020",
+        "venue": "Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:1sJd4Hv_s6UC",
+        "publication_date": "2020/11/30",
+        "abstract": "Batas administrasi desa memiliki peran yang sangat penting dalam berbagai kegiatan pemerintahan. Batas desa di Kabupaten Gunungkidul didelineasi ulang pada tahun 2018 melalui kegiatan yang difasilitasi oleh Dinas Pertanahan dan Tata Ruang Provinsi Daerah Istimewa Yogyakarta. Acuan utama untuk membuat Peta Kerja Batas adalah Peta Desa Lama skala 1: 5.000 yang dibuat antara tahun 1932-1938. Batas desa pada Peta Desa Lama tersebut diinterpretasi dan didigitasi di Citra Tegak Resolusi Tinggi dari Badan Informasi Geospasial. Penelitian ini menganalisis perbedaan batas dalam hal karaksteristik segmen batas, pergeseran segmen batas, dan perubahan luas wilayah. Terdapat perubahan karakteristik segmen batas yang berupa titik temu, segmen berbatasan dan segmen tidak berbatasan. Pergeseran posisi segmen batas yang terjadi sampai 1.773 m pada Peta RBI, dan 997 m pada hasil …",
+        "total_citations": "Cited by 14"
+    },
+    {
+        "title": "The least square adjustment for estimating the tropical peat depth using LiDAR data",
+        "authors": [
+            "BK Cahyono",
+            "Istarno",
+            "Trias Aditya"
+        ],
+        "cited_by": "13",
+        "year": "2020",
+        "venue": "Remote Sensing",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:HE397vMXCloC",
+        "publication_date": "2020",
+        "abstract": "High-accuracy peat maps are essential for peatland restoration management, but costly, labor-intensive, and require an extensive amount of peat drilling data. This study offers a new method to create an accurate peat depth map while reducing field drilling data up to 75%. Ordinary least square (OLS) adjustments were used to estimate the elevation of the mineral soil surface based on the surrounding soil parameters. Orthophoto and Digital Terrain Models (DTMs) from LiDAR data of Tebing Tinggi Island, Riau, were used to determine morphology, topography, and spatial position parameters to define the DTM and its coefficients. Peat depth prediction models involving 100%, 50%, and 25% of the field points were developed using the OLS computations, and compared against the field survey data. Raster operations in a GIS were used in processing the DTM, to produce peat depth estimations. The results show that the soil map produced from OLS provided peat depth estimations with no significant difference from the field depth data at a mean absolute error of ±1 meter. The use of LiDAR data and the OLS method provides a cost-effective methodology for estimating peat depth and mapping for the purpose of supporting peat restoration.",
+        "total_citations": "Cited by 13",
+        "pdf_link": "https://www.mdpi.com/2072-4292/12/5/875"
+    },
+    {
+        "title": "Perhitungan Kecepatan Sedimentasi Melalui Pendekatan Usle Dan Pengukuran Kandungan Tanah Dalam Air Sungai Yang Masuk Ke Dalam Waduk Sermo",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Lukman Hakim",
+            "Waljiyanto Waljiyanto",
+            "Agus Darmawan Adhi"
+        ],
+        "cited_by": "9",
+        "year": "2017",
+        "venue": "Jurnal Nasional Teknologi Terapan",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:hMod-77fHWUC",
+        "publication_date": "2017/11",
+        "abstract": "Dam is one of the essential man-made buildings which was developed to various beneficialy purposes such as irrigation, fresh water supply, flooding and drying control, and also tourism. Due to those mentioned functions, condition of the dam has to be maintained continuously especially from sedimentation. Sedimentation is being a serious threat for the continuity of dam services. Protecting dam from sedimentation is not only managing dam area, but also we have to care all watershed area, because the sedimentation is caused by erotion on the area. In order to know the rate of the sedimentation within the dam, measurement and prediction must be done. One of methods to predict and measure the sedimentation is by analyzing geospatial data using USLE Approach, and analyzing suspended sediment in river’s water toward to the dam. By those both analysis, rate of sedimentation happened within the dam can be calculated. This paper try to use geospatial (GIS) based analysis to estimate the sedimentation rate using USLE approach within Ngrancah Watershed. The USLE Formula requires four types of maps, they are soil type, slope, land cover, and rain erosivity maps. Each of maps is classified to the specific standards, then will be analized by overlaying to another map. Another method will be used to estimate the sedimentation rate is the suspended sediment measurement. This method was determined using sediment transport formula. The data used are samples of river water ing Ngerancah Watershed that was flow toward to the Sermo Dam, and daily volume of inflow water. Those resulted values, then were compared each other …",
+        "total_citations": "Cited by 9",
+        "pdf_link": "https://www.academia.edu/download/113049382/20349.pdf"
+    },
+    {
+        "title": "Close-range photogrammetric data for landslide monitoring on slope area",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Munirah Radin Mohd Mokhtar",
+            "Khamaruzaman bin Wan Yusof"
+        ],
+        "cited_by": "9",
+        "year": "2012",
+        "venue": "2012 IEEE Colloquium on Humanities, Science and Engineering (CHUSER)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:KlAtU1dfN6UC",
+        "publication_date": "2012/12/3",
+        "abstract": "Malaysia has seen at least 40 cases of landslide due to slopes failures from 1961 to 2008 which have claimed at least 128 lives. This emphasizes the importance of monitoring such slopes for safety and maintenance purposes. However the monitoring of them could be both expensive and dangerous. Therefore this study provides alternative of monitoring the slope using a Digital Elevation Model (DEM) derived from close-range photogrammetric data. Mass movement on the slope area can be detected by comparison of DEMs derived from two or more epochs data. In this study the DEMs were generated from stereo photographs captured from two different times (13/05/2007 and 07/04/2008). This method used commercial pocket camera for its data capture, thus indicates its low cost and its suitability for monitoring inaccessible and risky areas remotely. Restitution of stereo model is performed by involving Ground …",
+        "total_citations": "Cited by 9",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/261054579_Close-range_photogrammetric_data_for_landslide_monitoring_on_slope_area/links/5e57340192851cefa1c7ecd9/Close-range-photogrammetric-data-for-landslide-monitoring-on-slope-area.pdf"
+    },
+    {
+        "title": "Estimasi Volume Sedimentasi Waduk Sermo Menggunakan Metode RUSLE, Batimetri, dan Angkutan Sedimen",
+        "authors": [
+            "Annisa Wulandari",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "6",
+        "year": "2020",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:bFI3QPDXJZMC",
+        "publication_date": "2020",
+        "abstract": "Waduk Sermo merupakan waduk yang dibangun Pemerintah Indonesia dengan dukungan dari Asian Development Bank dalam program Integrated Irrigation Sector Project (IISP) tahun 1996. Waduk Sermo berfungsi sebagai pengendali banjir, sumber air baku dan irigasi. Berbagai perubahan yang terjadi di daerah tangkapan air Waduk Sermo berpengaruh terhadap kondisi waduk itu sendiri. Terutama perubahan yang terjadi pada aspek limpasan air, produksi sedimen dan endapan Daerah Aliran Sungai (DAS), yang disebabkan oleh erosi di daerah tangkapan air sehingga mengakibatkan pendangkalan. Sedimentasi dalam jangka panjang menyebabkan penurunan daya tampung waduk. Untuk menanggulangi permasalahan tersebut maka perlu dilakukan estimasi volume sedimentasi untuk mengetahui keadaan terkini Waduk Sermo. Dalam kegiatan ini, dilakukan estimasi volume sedimentasi Waduk Sermo menggunakan metode RUSLE, batimetri dan angkutan sedimen. Adapun data yang digunakan dalam kegiatan ini adalah data tahun 2016, 2017 dan 2018. Pada kegiatan ini, analisis metode RUSLE pada DAS Ngrancah meliputi faktor erosivitas hujan, erodibilitas tanah, kemiringan dan panjang lereng serta tutupan dan preservasi lahan. Selain RUSLE, dilakukan analisis menggunakan metode batimetri. Metode ini menghitung sedimentasi berdasarkan data DTM dasar waduk tahun 2017 dan 2018. Dari selisih volume kedua epoch DTM, diperoleh volume dan persebaran sedimen Waduk Sermo. Selain itu dilakukan analisis metode angkutan sedimen menggunakan data kandungan tanah dalam air tahun 2016 yang diasumsikan …",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://www.academia.edu/download/70722351/27910.pdf"
+    },
+    {
+        "title": "Seabed classification using multibeam echosounder measurement data",
+        "authors": [
+            "R Nitriansyah",
+            "BK Cahyono"
+        ],
+        "cited_by": "5",
+        "year": "2022",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:WA5NYHcadZ8C",
+        "publication_date": "2022/9/1",
+        "abstract": "Multibeam Echosounder (MBES) utilizes acoustic waves emitted to the seafloor through a transmitter or transducer and records its reflective. The information obtained by MBES are depth data and the scattering value of the acoustic signal reflected by the object or the seabed, called backscatter. Acoustic backscatter can be used to classify objects or the seabed such as shipwrecks or seabed sediments. This study focuses on seabed classification using an acoustic backscatter obtained from the measurement at Alur Pelayaran Barat Surabaya (APBS). The data used in this research are acoustic backscatter from bathymetry data extraction and ground truth data of sediments. This study found the fine sand sediments with backscatter value −15.56 dB, and clayey silt sediments with backscatter value −24.36 dB. The correlations between backscatter and seabed sediments in study area were classified into four classes …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/1039/1/012045/pdf"
+    },
+    {
+        "title": "Istarno; Djurdjani; Ramadhan, GR; Tuntas, S. The combination of terrestrial LiDAR and UAV photogrammetry for interactive architectural heritage visualization using unity 3D …",
+        "authors": [
+            "R Andaru",
+            "BK Cahyono",
+            "G Riyadi"
+        ],
+        "cited_by": "5",
+        "year": "2019",
+        "venue": "Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:fEOibwPWpKIC",
+        "publication_date": "2019",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "Calculation of Sedimentation at Sempor Reservoirs in 2018 Using Modified Universal Soil Loss Equation Method (MUSLE)",
+        "authors": [
+            "Septi Arini",
+            "Bambang Kun Cahyono", 
+            "Yulaikhah"
+        ],
+        "cited_by": "5",
+        "year": "2019",
+        "venue": "Journal of Geospatial Information Science and Engineering. Yogyakarta",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:fPk4N6BV_jEC",
+        "publication_date": "2019",
+        "abstract": "Sempor Reservoir located in the Telomoyo River Basin in the Serayu River region is categorized as one of the priority watersheds based on the 2015-2019 Strategic Plan of the Ministry of Environment and Forestry. Priority watershed is a watershed that is getting more attention in controlling water quality, including sedimentation. Monitoring and management activities of the watershed are needed in order to get an optimal operation of the reservoir. One of the monitoring and management activities of the Sempor Watershed is the sedimentation rate calculation. In this research, the sedimentation rate calculates using the MUSLE method. The Sempor watershed boundary is defined through the delineation of DEM and satellite images data. The calculation of sedimentation is obtained by several factors, including runoff parameter, erodibility, length and slope, land cover, and conservation. The calculation is performed by a Geographic Information System (GIS) method through analysis of soil type maps, length and slope maps, land cover, and conservation maps. Based on the calculation result, the Sempor Reservoir has a sedimentation rate of 166.173, 500 tons/year or 3, 7259 mm/year in thickness. According to the provisions of the Ministry of Forestry in 2009, the sedimentation thickness rate of the reservoir is categorized in the medium class. The river as one of the potential means of sediment transport contributes to the rate of sediment thickness of 3, 7256 mm/year, while for areas outside the river coverage it only 0.0003 mm/year.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.academia.edu/download/92358547/26643.pdf"
+    },
+    {
+        "title": "Media pembelajaran pengenalan Binatang dengan konsep game edukasi untuk PAUD berbasis macromedia flash",
+        "authors": [
+            "Novita Winata Mutiara Pratiwi",
+            "Muhammad Ugiarto",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "5",
+        "year": "2017",
+        "venue": "Jurnal Rekayasa Teknologi Informasi (JURTI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:5awf1xo2G04C",
+        "publication_date": "2017/6/12",
+        "abstract": "Pendidikan Anak Usia Dini (PAUD), merupakan tahap dimana anak akan cenderung lebih tertarik dengan permainan yang mudah dimainkan dan didalamnya terdapat warna-warna cerah, suara-suara serta gambar animasi yang menarik perhatian. Untuk menarik minat belajar serta perhatian anak–anak, diperlukan sebuah media pembelajaran berbasis komputer. Media pembelajaran adalah alat yang berfungsi untuk menyampaikan pesan pembelajaran. Media pembelajaran ini berupa perangkat lunak dan perangkat keras yang bertujuan untuk meningkatkan efektivitas proses belajar mengajar. Media pembelajaran ini bertujuan untuk memudahkan siswa dalam memahami materi. Penelitian ini menggunakan metode penelitian kuantitatif berupa eksperimen dimana peneliti menggunakan metode analisis hasil penelitian dengan membandingkan nilai siswa sebelum dan sesudah menggunakan media …",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "The determination of priority areas for the restoration of degraded tropical peatland using hydrological, topographical, and remote sensing approaches",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Trias Aditya", 
+            "Istarno"
+        ],
+        "cited_by": "4",
+        "year": "2022",
+        "venue": "Land",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:t6usbXjVLHcC",
+        "publication_date": "2022/7/18",
+        "abstract": "Degraded peatland is caused by forest clearing and the construction of artificial water networks. When water management is not implemented across land uses in the entire peatland landscape, then it will be a big issue that causes a water deficit and leads to increasing droughts and fires. Effective restoration must first identify the part of Peatland Hydrological system Units (PHUs) with insufficient water storage and resources. This study used intercorrelated factors of water balance, deficit months, NDMI-NDVI indices, dry periods, recurrent fires, peat depth, and water loss conditions, as the evaluation parameters, within individual sub-PHUs to determine the most degraded areas that require intervention and restoration. Sub-PHU was determined based on the peat hydrological unity concept by identifying streamline, outlet channels, peat-depth, slopes, and network connectivity. Global hydrological data using TerraClimate and CHIRPS, combined with field observations, were used to validate and calculate each sub-PHU’s water balance and dry periods. Soil moisture (NDMI), vegetation density (NDVI), and fire frequency were extracted from multispectral satellite images (e.g., Landsat 8, MODIS-Terra, and MODIS-Aqua). Each parameter was ranked by the score for each sub-PHU. The parameters that can be ranked are only the ordinal type of number. The lowest ranks indicated the most degraded sub-PHUs requiring peat rewetting interventions.",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://www.mdpi.com/2073-445X/11/7/1094"
+    },
+    {
+        "title": "Klasifikasi Jenis dan Sebaran Sedimen Menggunakan Data Multibeam Echosounder Multi-Temporal di Alur Pelayaran Barat dan Timur Surabaya",
+        "authors": [
+            "Fadilla Ivana Ayuningtyas",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "4",
+        "year": "2021",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:08ZZubdj9fEC",
+        "publication_date": "2021",
+        "abstract": "Pelabuhan Tanjung Perak Surabaya merupakan salah satu pelabuhan utama di Indonesia yang memiliki peran penting dalam transportasi laut Indonesia. Survei batimetri rutin diperlukan untuk mengidentifikasi kedalaman alur akses pelabuhan dan kondisi sedimentasi yang terjadi. Kondisi sedimen dapat dikarakterisasi berdasarkan sifat alaminya: ukuran butir, berat jenis, kecepatan jatuh, komposisi, porositas, bentuk, dll. Kondisi sedimen juga dapat dikarakterisasi berdasarkan nilai hamburan balik sonar, menggunakan instrumen Multibeam Echosounder (MBES). Data mentah nilai hamburan balik kemudian dikoreksi dengan mengadopsi persamaan regangan kontras linier ke kisaran tertentu. Data masukan penelitian ini diukur menggunakan ODOM MB2 dengan instrumen Applanix oleh The Surabaya Navigational District (DISNAV) pada bulan Februari 2019 (Lokasi 2) dan Oktober 2018 (Lokasi 1) untuk alur akses barat Surabaya (APBS) dan Agustus 2017 (Lokasi 3) untuk jalur akses timur Surabaya (APTS). Uji kualitas data batimetri dilakukan dengan mengikuti IHO S-44 2008 untuk spesifikasi pesanan khusus. Hasil penelitian menunjukkan bahwa data batimetri memiliki akurasi yang baik pada lokasi 1, 2, dan 3 dengan nilai 0, 0862; 0, 1317; dan 0, 1072. Hubungan antara tipe sedimen dan hamburan balik menunjukkan bahwa tipe sedimen pasir memberikan hamburan balik yang kuat. Semakin kecil nilai hamburan balik maka jenis sedimennya semakin lunak. Klasifikasi di APBS dan APTS menunjukkan bahwa di APBS terdiri dari empat jenis sedimen (lempung, lanau lempung, lanau berpasir, dan pasir) sedangkan di APTS hanya …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/357419597_Klasifikasi_Jenis_dan_Sebaran_Sedimen_Menggunakan_Data_Multibeam_Echosounder_Multi-Temporal_di_Alur_Pelayaran_Barat_dan_Timur_Surabaya_Classification_of_Type_and_Distribution_of_Sediment_Using_Multi-T/links/61cd72b3d450060816786bba/Klasifikasi-Jenis-dan-Sebaran-Sedimen-Menggunakan-Data-Multibeam-Echosounder-Multi-Temporal-di-Alur-Pelayaran-Barat-dan-Timur-Surabaya-Classification-of-Type-and-Distribution-of-Sediment-Using-Multi-T.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9"
+    },
+    {
+        "title": "3D modeling and volume estimation of riverbed layers based on sub bottom profiler measurement data",
+        "authors": [
+            "Nurkhalis Rahili",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "4",
+        "year": "2019",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:J_g5lzvAfSwC",
+        "publication_date": "2019",
+        "abstract": "River is one of the transportation routes for human beings, as well as the pipelines for oil and gas distribution transport, or power cable and communications networks. In order to not disturb the pipe or cable due to the activity of the ship through the river, it is necessary to study the sediment of the river. This study aims to determine the type, the thickness, the depth and the volume of sediment. It can be done with acoustic measurements. The measurement of the acoustic survey in this activity uses a sub bottom profiler Strata Box HD type Chirp. By using this tool, it can obtain sediment layer up to a certain depth. The result of the measurement will be interpreted to obtain the travel time of the acoustic wave as it reflected on the sediment layer. The travel time than processed and corrected with the tidal measurement data which made over 14 days to obtain the actual depth value from the result with the sub bottom profiler. The depth data then were quality tested with Z table. This activity produces a 3D model of river layer, depth profile and sediment layer volume estimation. The result of the quality tested obtained corrected depth data has met the established standards. Using a 95% confidence level, the test results in the first layer is-0.210 and the second layer has a data quality test results-0.052 with a tolerance at±1.96. The result of depth profile is a long section and cross section. The long section indicates that in the deflection of the river area there is a steep decline compared to the area before and after the river deflection. In addition, the river deflection area has a thinner sedimentary layer. The volume estimation of sediment layers obtained in the …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://pdfs.semanticscholar.org/481f/8e129888dca576b00cf0624eb245408c29a3.pdf"
+    },
+    {
+        "title": "The Updating of the Nautical Chart Number 69 on Java Sea Area for Safety Navigation of Sailing",
+        "authors": [
+            "Dwi Septri Hastuti",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "4",
+        "year": "2019",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:ns9cj8rnVeAC",
+        "publication_date": "2019",
+        "abstract": "Indonesia is the largest archipelagic country in the world that has become one of the main routes in international marine trade by contributing 40% of all international marine trade routes. The importance of waterways in international trading demands the existence of nautical chart for navigation. Time after time, the sea changes, therefore nautical chart needs to be update especially on the area that has a high marine traffic density such as Java Sea which currently has developed an electronic map for navigation, however paper charts are still needed for planning shipping line, the navigation on small boats and backup of charts on large ships. The aim to be achieved from this research is the availability of the latest paper chart which is appropriate with IHO standard S-4, INT1 (symbols, abbreviations and terms used on charts), INT2 (the boundary lines, gradient, grid and linear scale) and Chart Number 1. Updating chart number 69 was created by using data Electronic Navigation Chart (ENC) Northern part of Central Java region, data raster paper chart number 69 the ninth edition of the second expenditure, survey data 2017 in Cirebon and the Eastern part of Java Sea and Indonesian Notice to Mariners number 11-29 year 2017. Data obtained from the Pusat Hidrografi dan Oseanografi TNI-AL. The software used in production of nautical chart is Paper Chart Composer (PCC). Then it was added the updated data and information to the chart. The result of production a chart were corrected using digital and manual quality control analysis to eliminate errors in the process of production chart. As a result of updating nautical chart number 69 is that some …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://pdfs.semanticscholar.org/4fe0/aaa4a00656ddf4d80cfb65b8e86c553bfd7b.pdf"
+    },
+    {
+        "title": "Penentuan Kecepatan Sedimentasi Waduk Berdasarkan Data Pengukuran Batimetri dan Analisa Kandungan Sedimen Dalam Air",
+        "authors": [
+            "BK Cahyono",
+            "AD Adi",
+            "P Nugroho",
+            "S Sumarno"
+        ],
+        "cited_by": "4",
+        "year": "2015",
+        "venue": "Conference Proceedings. Forum Ilmiah Tahunan, Ikatan Surveyor Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:iH-uZ7U-co4C",
+        "publication_date": "2015",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "Quality assessment of DTM generated from RTK GPS data on area with various sky views",
+        "authors": [
+            "Abdul Nasir Matori",
+            "Dedi Atunggal",
+            "BK Cahyono"
+        ],
+        "cited_by": "4",
+        "year": "2008",
+        "venue": "Proceedings of the 21st International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS 2008)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:R3hNpaxXUhUC",
+        "publication_date": "2008/9/19",
+        "abstract": "Most of civil engineering projects are in large scale applications which need high-resolution DTM. The use of DTM in civil engineering projects has always been assessed from technical and financial point of view, particularly on the data collection stage where greatest time and cost are recognized. Real Time Kinematic GPS (RTK GPS), techniques provides an easy, quick, and efficient alternative for DTM data collection tool. The paper is focused on the experiment aiming to derive a high-resolution DTM by RTK GPS and to assess the quality of the generated DTM, by comparing with Total Station (TS) survey. The assessment also includes an overview on the productivity and efficiency of the technique. Quality measure of the DTM is performed by volumetric accuracy analysis and height error analysis. Experimental result shows that RTK GPS technique can provide a sufficient accuracy to be employed as data …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://www.academia.edu/download/71652033/Quality_Assessment_of_DTM_Generated_from20211006-10952-yw6g8w.pdf"
+    },
+    {
+        "title": "Leveraging machine learning and open accessed remote sensing data for precise rainfall forecasting",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Muhammad Hidayatul Ummah",
+            "Ruli Andaru",
+            "Neil Andika",
+            "Adjie Pamungkas",
+            "Hepi Hapsari Handayani",
+            "Paramita Atmodiwirjo",
+            "Rory Nathan"
+        ],
+        "cited_by": "3",
+        "year": "2025",
+        "venue": "Communications in Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:j8SEvjWlNXcC",
+        "publication_date": "2025/7/31",
+        "abstract": "Rainfall forecasts are essential for human activities enabling communities to anticipate any impacts. Rainfall events correlate with other natural and hydro-meteorological phenomena, which can be used in modeling and prediction. This study used daily CHIRPS for the Gajahwong watershed in Yogyakarta, Indonesia as the precipitation data. It also used Sea Surface Temperature, Land Surface Temperature (Day and Night), Minimum and Maximum Temperatures, Solar Radiation, Wind Speed (U and V components), Cloud Pressure (Top and Base), and Cloud Height (Top and Base) as the parameters. Further, data processing was performed by means of the Google Earth Engine (GEE) platform. Machine learning methods, including Support Vector Regression, Gradient Boosting Regression, Random Forest, and Deep Neural Networks, were applied. The correlation analysis revealed that only the Wind Speed V-component showed significant correlation with rainfall, other seven parameters showed moderate and four showed weak ones. Meanwhile, accuracy assessments indicated that Support Vector Regression had the most accurate predictions accompanied by Root Mean Square Error (RMSE), Mean Absolute Error (MAE), Mean Squared Error (MSE), R2, and Coefficient Correlation (CC) at 1.366, 0.947, 1.866, 0.948 and 0.982 respectively. This study demonstrated that utilizing openly accessible atmospheric datasets processed through the GEE could yield reliable rainfall predictions, facilitating informed decisions on a wide scale. The methodology is adaptable and can be reproduced for any comparable research or operational purposes.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://cst.kipmi.or.id/journal/article/download/1638/218"
+    },
+    {
+        "title": "The development of WebGIS for the cultural sites in Kotagede Sub-District combined with 360 photosphere visualization",
+        "authors": [
+            "S Ni Luh Kompyang",
+            "Bambang Kun Cahyono",
+            "Dany Puguh Laksono", 
+            "Djurdjani",
+            "Gondang Riyadi"
+        ],
+        "cited_by": "3",
+        "year": "2020",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&citation_for_view=g3m5JIYAAAAJ:_xSYboBqXhAC",
+        "publication_date": "2020/6/1",
+        "abstract": "Kotagede is one of sub-districts in the Special Region of Yogyakarta which has several potentials especially in the cultural tourism industry. Long time ago, it was being the capital of Mataram Islam Kingdom. As a center of The Kingdom, Kotagede becomes one of the most important historical tourist spots in Yogyakarta. It is also a heritage city with great potentials to support the prosperity of its residents. The cultural site in Kotagede could be presented in the form of web based Geographical Information System (GIS) related to the spatial aspects, also by combining with 360° photosphere as its dynamic visualization. This WebGIS was made by integrating Google Camera, ArcGIS Online, ArcGIS Desktop, Pannellum website, and Cloudinary website. Usability testing was conducted with the System Usability Scale (SUS) as the testing instrument. Cultural site information in the WebGIS can be displayed in the form of an …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/500/1/012071/pdf"
+    },
+    {
+        "title": "Pembuatan Model Tiga Dimensi Candi Gebang Menggunakan Metode Fotogrametri Jarak Dekat",
+        "authors": [
+            "I NYOMAN HENDY GJ",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "3",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:XiSMed-E-HIC",
+        "publication_date": "2014",
+        "abstract": "Perlindungan terhadap Cagar Budaya didukung oleh kegiatan pendokumentasian dalam rangka mencegah terjadinya perubahan keasliannya. Pendokumentasian Cagar Budaya dapat dilakukan dengan menggunakan fotogrametri jarak dekat. Metode fotogrametri jarak dekat menjadi semakin cepat, efektif, dan fleksibel dalam pembentukan model tiga dimensi yang menggunakan foto sebagai salah satu sarana pengukuran, sehingga melakukan pemodelan tiga dimensi (3D) yang digunakan untuk pendokumentasian Candi Gebang, dengan patung Ganesha sebagai karakteristik Candi Gebang, dimana nilai resolusi spasial yang dihasilkan adalah kurang dari 5mm. Tahapan yang dilakukan pada proyek ini, yaitu pengukuran koordinat Ground Control Point (GCP) sebagai titik kontrol dan Independent Check Point (ICP) sebagai titik cek. Pemotretan Candi Gebang dilakukan secara radial dengan jarak rata-rata adalah 10 meter. Kalibrasi kamera menggunakan metode field calibration dengan Ringed Automatically Detected (RAD) Coded sebagai target. Parameter-parameter orientasi dalam adalah hasil dari kalibrasi kamera yang digunakan untuk memperbaiki geometri foto pada proses orientasi dalam. Ground Control Point (GCP) dipasang pada setiap foto secara manual untuk membantu proses orientasi luar dalam menentukan posisi kamera dari setiap foto. Pembuatan stereo matching dilakukan secara otomatis pada PhotoModeler Scanner menggunakan metode SmartMatch. Point clouds diciptakan dari foto-foto yang bertampalan dengan pemilihan b/h ratio mendekati 0, 3 dan point clouds diciptakan pada kerapatan 35mm. Model tiga …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Landslide Detection on Slope Area by Using Close-Range Photogrammetric Data",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Abdul Nasir Matori",
+            "A BASITH",
+            "D ATUNGGAL"
+        ],
+        "cited_by": "3",
+        "year": "2009",
+        "venue": "Prosiding Seminar Nasional Revitalisasi Data dan, Sains-Teknik, Prosiding Seminar/Lokakarya/Konferensi, http://lib. ugm. ac. id/digitasi/index. php",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:Zph67rFs4hoC",
+        "publication_date": "2009",
+        "abstract": "Slope area is one of the important areas that need to be monitored for safety and maintenance purposes. Monitoring of the slope area can be performed easily by using a Digital Elevation Model (DEM). Landslide and mass-movement on the slope area can be detected by calculation of DEMs derived from two difference epoch data. In this study the DEMs were derived by using close-range photogrammetric method from stereo photographs captured on two different times (13/05/2007 and 07/04/2008). This method is preferred due to its reasonably cost and its suitability for measuring inaccessible and risky areas. Restitution of stereo model is performed by involving Ground Control Points (GCP) to yield some camera parameters, positions and orientations of each photo. Having these parameters, positions of all sampling points on stereo photos can be transformed into ground coordinate system. Terrain data sampling points in this research were performed by regular sampling methods. To measure the quality of this technique in DEM generation, resulted DEMs were compared with a set of correct data measured by reflector-less Total Station (TS). The result yield DEMs with accuracy in elevation interpolation is in centimeters level, and accuracy in volume estimation is less than 0.5%. The result shows that in period of one year there were significant terrain changes on ground surface. It was indicated by distribution of gain and loss areas on the slope, and extremely changes in longitudinal-section and cross-section profiling.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.academia.edu/download/71652084/LANDSLIDE_DETECTION_ON_SLOPE_AREA_BY_USI20211006-6632-10y6d93.pdf"
+    },
+    {
+        "title": "Automatic DTM and Building Footprint Extraction from Imageries and Point Clouds in Indonesia’s Land Registration Drone Survey: A Roadmap Towards Reconstruction of LOD1 3D …",
+        "authors": [
+            "Ruli Andaru",
+            "Trias Aditya",
+            "Bambang Kun Cahyono",
+            "Purnama Budi SANTOSA"
+        ],
+        "cited_by": "2",
+        "year": "2024",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:Fu2w8maKXqMC",
+        "publication_date": "2024",
+        "abstract": "Accurate and automatic Digital Terrain Model (DTM) and building footprint extraction from drone survey has become essential and challenging work for cadastre verification, modernization and updating. In the context of multipurpose cadastre, the integration of land parcels with other spatial information such as building footprint, terrain elevation, and 3D model, allows for detailed representation of land information. This facilitates spatial analysis and adjacency information within the real-world objects above the ground. In this paper, we introduce an approach for automatic DTM and building footprint extraction by implementing deep-learning methods (ie, YOLO v8 and CNN) using true-orthoimage UAV and point clouds. We first apply photogrammetric processing through SfM pipelines to produce 3D point clouds and true-orthophoto. To extract DTM, CNN deep learning is implemented to classify point clouds into ground and non-ground objects. The detection of building footprint, as an important spatial information in the cadastral intelligence, is performed by implementing YOLO v8 deep-learning using custom trained data. To ensure that users, irrespective of their technical skill levels, can easily navigate and utilize those two algorithms, we build a GUI for a desktop application using Python, namely Geo-Carta (Geospatial-Cadastre with Artificial Intelligence for Generating LOD 3D City Model). It consists of four features dealing with the detection of building footprint from orthophotos, ground extraction from point clouds, land parcel editing feature, and generation of LOD-1 3D building models. We tested the Geo-CARTA app for detecting building …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.gdmc.nl/3DCadastres/workshop2024/programme/3DLA2024_paper_D.pdf"
+    },
+    {
+        "title": "Perencanaan Rute dan Desain Lendutan Kabel Listrik untuk Jalur Transmisi dari PLTS Apung Kutai Lama ke Gardu Induk PLN Sambutan Samarinda",
+        "authors": [
+            "Dinda Amar Pradana",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "2",
+        "year": "2022",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:_B80troHkn4C",
+        "publication_date": "2022",
+        "abstract": "Dalam pengembangan Pembangkit Listrik Tenaga Surya (PLTS) apung yang direncanakan berada di area galian bekas tambang batubara PT. Alfa Daya Energi di Kutai Lama, diperlukan studi pembangunan berupa Pre-Feasibility Study. Salah satunya yaitu daya dukung pembangunan jaringan transmisi yang menghubungkan PLTS apung ke gardu induk terdekat yaitu GI PLN Sambutan dan desain lendutan kabel sepanjang jalur transmisi dengan menggunakan Metode Desktop Study. Pelaksanaan kegiatan ini meliputi tahapan identifikasi penutup lahan, ekstraksi Digital Terrain Model (DTM) dengan metode filtering, pemilihan rute dengan Metode Analytic Hierarchy Process (AHP), penempatan titik rencana tower transmisi, dan juga pembuatan desain lendutan. Titik rencana tower transmisi memiliki jarak gawang sebesar 300 meter, dengan memperhatikan ruang bebas dan jarak bebas lendutan kabel terhadap objek di sekitarnya ke arah vertikal dan horizontal (sesuai dengan dokumen SPLN T5. 006: 2019). Desain lendutan perlu memperhatikan data DTM dan DSM untuk menentukan elevasi tower, dan sudut defleksi dalam penentuan tipe tower. Hasil yang diperoleh dari kegiatan ini yaitu 3 alternatif rute transmisi dengan mempertimbangkan panjang rute, jumlah tower pendekatan berdasarkan panjang rute, akses terhadap jaringan jalan utama serta jarak terhadap kawasan permukiman. Berdasarkan pertimbangan tersebut dipilih 1 alternatif rute transmisi yaitu rute kedua yang memiliki panjang 13, 5 kilometer dengan jumlah tower transmisi sebanyak 44 buah dengan masing-masing jumlah tower untuk tipe AA sebanyak 33 tower, tipe …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://scholar.archive.org/work/lknnqqhq5vbopkjg2mihc4ho7m/access/wayback/https://jurnal.ugm.ac.id/jgise/article/download/68527/35603"
+    },
+    {
+        "title": "Pemodelan 3D Lapisan Dasar Laut dan Identifikasi Ketebalan Sedimen Berdasarkan Kombinasi Data Pengukuran Sub-Bottom Profiler dan Single Beam Echosounder (Studi Kasus: Alur …",
+        "authors": [
+            "Windy Hapsari",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "2",
+        "year": "2021",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:fQNAKQ3IYiAC",
+        "publication_date": "2021",
+        "abstract": "Pelabuhan merupakan salah satu fasilitas umum yang memiliki peran penting dalam keselamatan navigasi pelayaran. Shipping yang aman harus didukung dengan pemantauan dan pemeliharaan secara berkala untuk mendapatkan informasi terkini tentang kedalaman, dasar laut, dan sedimentasi. Jika sedimentasi terakumulasi secara terus menerus dalam waktu singkat di alur akses (jalur pelayaran), maka dapat meningkatkan kemungkinan terjadinya kecelakaan kapal. Kajian ini mencoba memetakan dan menganalisis kondisi batimetri dan sedimentasi untuk mendukung pemantauan dan pemeliharaan rutin alur akses Timur Pelabuhan Tanjung Perak Surabaya. Metode yang digunakan dalam penelitian ini adalah survei akustik berdasarkan data pengukuran Sub-Bottom Profiler (SBP) dan Single Beam Echosounder (SBES). Data yang diperoleh kemudian dikoreksi oleh Sound Velocity Profiler (SVP), data …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Sistem Manajemen Kartu Rencana Studi Mahasiswa Universitas Mulawarman",
+        "authors": [
+            "Prano Pebri Ansari",
+            "Masna Wati",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "2",
+        "year": "2020",
+        "venue": "J. Rekayasa Teknol. Inf",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:1yQoGdGgb4wC",
+        "publication_date": "2020/1/13",
+        "abstract": "Tujuan penelitian ini adalah untuk merancang dan mengimplementasikan sebuah sistem manajemen kartu rencana studi yang dapat membantu mahasiswa dalam proses manajemen kartu rencana studi seperti matakuliah yang harus dilulusi dan diperbaiki. Mahasiswa juga dapat mengetahui informasi matakuliah secara detail berdasarkan kurikulum dan mengetahui informasi data dosen. Pengambilan data dalam penelitian ini dilakukan dengan wawancara terhadap bagian akademik Fakultas Ilmu Komputer dan Teknologi Informasi.. Pengembangan sistemnya menggunakan metode waterfall. Pemodelan analisis dan desain menggunakan bahasa pemograman PHP dan database server MySQL. Metode pengujian menggunakan pengujian blackbox. Hasil penelitian ini adalah sebuah sistem informasi berbasis website yang dapat memudahkan mahasiswa dalam melakukan manajemen kartu rencana studi sehingga mahasiswa dapat lebih optimal dalam proses manajemen matakuliah.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.academia.edu/download/100187627/pdf.pdf"
+    },
+    {
+        "title": "IMPLEMENTASI SEAMLESS MULTIPROTOCOL LABEL SWITCHING (MPLS) PADA JARINGAN MPLS",
+        "authors": [
+            "Nisa Aulia Nurhasanah",
+            "Ida Wahidah",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "2",
+        "year": "2017",
+        "venue": "Prosiding SENIATI",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:ZfRJV9d4-WMC",
+        "publication_date": "2017",
+        "abstract": "Multiprotocol Label Switching (MPLS) merupakan platform packet transport yang dapat mengelola jaringan dengan lebih mudah dan biaya yang lebih murah. Konsep dasar MPLS sendiri adalah melekatkan informasi dalam label pada paket IP. Namun, MPLS juga memiliki beberapa kekurangan seperti lamanya profisioning suatu service pada jaringan MPLS yang berbeda domain. Oleh karena itu, Seamless MPLS digunakan sebagai solusi dari semua permasalahan tersebut. Seamless MPLS adalah framework yang memungkinkan pembentukan jaringan MPLS berskala besar yang dapat digunakan untuk membangun semua jenis service di atas hirarki end-to-end MPLS LSP. Beberapa keuntungan Seamless MPLS yaitu memungkinkan ketersediaan layanan lebih cepat dengan mengurangi titik operasional dalam pembentukan service dan kompleksitas keseluruhan dari jaringan serta dapat menurunkan cost. Skenario yang dilakukan adalah pembandingan antara performansi Seamless MPLS dan MPLS tradisional dengan dan tanpa penyuntikan tabel routing menggunakan perangkat Spirent TestCenter. Pada penelitian ini akan diimplementasikan Seamless MPLS pada jaringan MPLS dengan menggunakan LDP berbasis MPLS LSP untuk fungsi transport dan BGPLU MPLS LSP untuk menggabungkan dua intra-area MPLS LSP kedalam satu hirarki inter-area LSP serta BGP/LDP untuk service yang akan memberikan contoh nyata konfigurasi dan hasil Seamless MPLS dibandingkan dengan MPLS tradisional dari sisi performansi ukuran tabel routing, delay yang lebih baik.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://ejournal.itn.ac.id/seniati/article/download/1782/1553"
+    },
+    {
+        "title": "Identifikasi Posisi Matahari saat Terbit Fajar Shadiq",
+        "authors": [
+            "Djawahir Fahrurrazi",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "2",
+        "year": "2012",
+        "venue": "Yogyakarta: Laporan Akhir Penelitian Jurusan Teknik Geodesi Fakultas Teknik UGM",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:V3AGJWp-ZtQC",
+        "publication_date": "2012",
+        "abstract": "The emergence of fajar shadiq is defined as the starting time of shubuh prayer and fasting. In terms of astronomy, the fajar shadiq is called morning astronomical twilight which is related to the particular angular depression of the sun below the horizon. Among moslem community, there are different interpretations about the angular depression of the sun when fajar shadiq starts to appear. This condition results in variation of the starting time of shubuh prayer and fasting. This research is conducted to identify the time when fajar shadiq starts to appear. The identified time is then applied to compute the angular depression of the sun below the horizon. The fajar shadiq observations were carried out on the northern coastal area of Java, precisely in Desa Tayu, and Desa Margomulyo, Kecamatan Tayu, Kabupaten Pati, Central Java. The observations were conducted by imaging the eastern horizon when it gradually …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/357875579_Identifikasi_Posisi_Matahari_Saat_Terbit_Fajar_Shadiq/links/61e4f9025779d35951b38574/Identifikasi-Posisi-Matahari-Saat-Terbit-Fajar-Shadiq.pdf"
+    },
+    {
+        "title": "Generating 3D model of instable open slope area from 2D photographs using commercial pocket camera",
+        "authors": [
+            "BK Cahyono",
+            "AN Matori",
+            "D Atunggal",
+            "A Basith"
+        ],
+        "cited_by": "2",
+        "year": "2008",
+        "venue": "Proc. Int. Conf. Construct. Build. Technol.(ICCBT)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:ULOm3_A8WrAC",
+        "publication_date": "2008",
+        "abstract": "Instable slope is one of the important areas that need to be measured and monitored for safety and maintenance purposes. Monitoring and measurement of the areas would be significant if the location is closed to a housing area residential or infrastructure. The method used in this study is a close-range photogrammetry technique by using a commercial pocket camera for generating three dimensional (3D) model of the object. In order to determine the accuracy of this method, the generated model is compared to the data obtained from measurement by using a reflector-less total station. Camera calibration is accomplished before the survey execution. This is intended to remove radial and tangential lens distortions. Restitution stereo model is performed by involving Ground Control Points (GCP) to yield positions and orientation of each photo. Having these parameters, positions of every feature on stereo photos can be transformed into ground coordinate system. The 3D Digital Elevation Model (DEM) is interpolated by using Triangular Irregular Network (TIN) interpolation method. The comparison between the DEM generated by this method and the DEM from total station shows that the Root Mean Square Error (RMSE) for height is 0.067638 meter (6.764 cm) and RMSE for volume comparison is 7.041 m3 (0.228%). It means that the method is capable of yielding accurate DEM.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/347516515_Generating_3D_Model_of_Instable_Open_Slope_Area_from_2D_Photographs_using_Commercial_Pocket_Camera/links/5fe02ed5299bf140882f902d/Generating-3D-Model-of-Instable-Open-Slope-Area-from-2D-Photographs-using-Commercial-Pocket-Camera.pdf"
+    },
+    {
+        "title": "Digital Terrain Modeling by Real Time Kinematic GPS",
+        "authors": [
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono",
+            "Abdul Nasir Matori"
+        ],
+        "cited_by": "2",
+        "year": "2007",
+        "venue": "Map Asia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:_kc_bZDykSQC",
+        "publication_date": "2007",
+        "abstract": "Digital Terrain Model (DTM) nowadays is invaluable aid for the engineering community. Nevertheless, the time and cost associated with DTM data acquisition have often been prohibitive. This is due to the process of data collection, which is costly and time consuming. DTM is based on topographical information which is commonly obtained by photogrammetry, remote sensing, laser scanning, radar interferometry, and other classical terrestrial or Global Positioning System (GPS) survey. Photogrammetry, remote sensing and radar interferometry are commonly applied on the generation of medium to lowresolution DTM covering large area. Meanwhile, laser scanning, classical terrestrial survey and GPS are employed for high-resolution DTM generation.Most of civil engineering projects are in large scale applications which need highresolution DTM. Laser scanning furnishes latest technology for medium to high resolution DTM generation but it is still relatively expensive. Classical terrestrial survey is relatively cheaper but requires intervisibility between stations. Real Time Kinematic GPS (RTK GPS), compared to both previously mentioned techniques, provides an easy, quick, and comparatively cheap alternative where less surveyor needed for the survey and no intervisibility between stations required. The paper is focused on the experiment aiming to derive a high-resolution DTM by RTK GPS by comparing it to classical terrestrial survey using Total Station. The analysis of this research covers the accuracy and efficiency assessment of the digital terrain modeling using RTK GPS.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.academia.edu/download/71652037/Digital_Terrain_Modeling_by_Real_Time_Ki20211006-637-1rjtz4q.pdf"
+    },
+    {
+        "title": "A Geospatial Big Data Approach for Web Mapping of Water Balance & Dry Days in Indonesia's Peatlands",
+        "authors": [
+            "Akram Sripandam Prihanantya",
+            "Bambang Kun Cahyono",
+            "Dinda Amar Pradana",
+            "Nanda Sachra Yuliawati",
+            "Putri Elma Octavya"
+        ],
+        "cited_by": "1",
+        "year": "2024",
+        "venue": "2024 IEEE International Conference on Aerospace Electronics and Remote Sensing Technology (ICARES)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:evX43VCCuoAC",
+        "publication_date": "2024/11/8",
+        "abstract": "Peatlands in Indonesia, covering approximately 24.67 million hectares by the end of 2015, are predominantly found in the provinces of Riau and West Kalimantan. These ecosystems are critically dependent on the interplay between vegetation, water, and peat, making effective water management essential for their restoration and conservation. Accurate identification of water surplus and deficit periods is crucial for devising appropriate management strategies. This study investigates the water balance and consecutive dry days in two Peatland Hydrological Units (PHUs): Tebing Tinggi Island and Mempawah River-Peniti River. Utilizing the Geospatial Big Data platform Google Earth Engine (GEE), and employing TerraClimate data for monthly water balance and CHIRPS data for dry day analysis, the study spans the period from 2010 to 2020. Calculations of precipitation, evapotranspiration, and runoff were performed …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/386397337_A_Geospatial_Big_Data_Approach_for_Web_Mapping_of_Water_Balance_Dry_Days_in_Indonesia%27s_Peatlands/links/678dbe1898c4e967fa7079c6/A-Geospatial-Big-Data-Approach-for-Web-Mapping-of-Water-Balance-Dry-Days-in-Indonesias-Peatlands.pdf"
+    },
+    {
+        "title": "Pemetaan Batimetri Hasil Pengukuran Multibeam Echosounder untuk Penentuan Jalur Kabel Laut Ina Tews di Rangko, Labuan Bajo",
+        "authors": [
+            "FADILA SOBASITA",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "1",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:KxtntwgDAa4C",
+        "publication_date": "2021",
+        "abstract": "Tsunami merupakan salah satu bencana besar di Indonesia yang sering menimbulkan korban jiwa dan kerugian material. Langkah awal mitigasi yang dapat dilakukan adalah membangun sebuah alat pendeteksi dini tsunami yang disebut Indonesia Tsunami Early Warning System (Ina TEWS). Rangkaian alat pendeteksi tsunami ini terdiri dari pusat sensor, instalasi kabel dasar laut dan instalasi sirine. Kabel dasar laut menjadi komponen penting dalam Ina TEWS karena sebagai penyalur informasi pergerakan gelombang air laut dari pusat sensor ke instalasi sirine sebagai peringatan dini datangnya gelombang tsunami. Pada proses pembangunan alat pendeteksi dini memerlukan informasi batimetri sebagai dasar acuan perencanaan jalur kabel laut khususnya pada perairan yang memiliki potensi terjadinya gempa bumi besar disertai tsunami. Salah satu wilayah perairan Indonesia yang memiliki potensi tersebut berada di perairan utara Nusa Tenggara Timur tepatnya di Rangko, Labuan Bajo. Oleh karena itu, penelitian ini bertujuan memberikan informasi kedalaman perairan dan memberikan informasi kemiringan dasar laut dari pengukuran multibeam echosounder sebagai dasar pertimbangan penentuan desain jalur kabel laut untuk pemasangan kabel laut Ina TEWS di Rangko, Labuan Bajo. Pemetaan batimetri dilakukan menggunakan alat ukur multibeam echosounder yang merujuk pada standar International Hydrographic Organization (IHO) S-44 tahun 2020. Data pengukuran multibeam echosounder (MBES) memiliki spasi jalur survei 50-100 m, koridor survei 250 m, dan dilakukan hingga kedalaman 50 m. Pengolahan data …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "The analysis of monitoring control point displacement of Sermo Dam based on the 2015-2016 GNSS data",
+        "authors": [
+            "Yulaikhah",
+            "W Nurrohmat",
+            "N Prijono",
+            "KC Bambang", 
+            "Waljiyanto",
+            "DA Agus",
+            "MI Taftazani"
+        ],
+        "cited_by": "1",
+        "year": "2017",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:RHpTSmoSYBkC",
+        "publication_date": "2017/7/25",
+        "abstract": "Sermo dam has operated for 20 years. This dam has a great benefit, especially as a water storage for water supply, irrigation and flood prevention. For the purposes of Sermo dam deformation monitoring, the control network was built around the Sermo dam in 2010. Then, this network was developed in 2015 by adding 5 new control points. For the time being, the network consists of 8 existing control points (micro) and 5 new control points (macro). The aim of the study is to monitor the control network displacement in the period of 2015 to 2016 based on GNSS observation data.GNSS measurement were conducted at 9 to10 of May 2015 and 12 to 15 of May 2016. The data observation was processed using GAMIT/GBLOK scientific software referenced to IGS station to determine the coordinates and its standard deviation. Further, horizontal and vertical displacement was analyzed by comparing with 2.5 times the …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4987078/13746827/040014_1_online.pdf"
+    },
+    {
+        "title": "Penentuan Kecepatan Sedimentasi Waduk Sermo dengan Pendekatan USLE dan Pengukuran Kandungan Tanah dalam Air yang Masuk ke dalam Waduk",
+        "authors": [
+            "LUKMAN HAKIM",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "1",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:nb7KW1ujOQ8C",
+        "publication_date": "2017",
+        "abstract": "Tanah adalah sumber daya alam yang esensial bagi kelangsungan makhluk hidup. Tanah dapat mengalami kerusakan, salah satu penyebabnya adalah erosi. Pada upaya pengelolaan Daerah Aliran Sungai (DAS), erosi merupakan masalah serius yang harus dihadapi. Selain tanah menjadi tidak produktif, erosi di DAS menimbulkan sedimentasi di sepanjang sungai dan waduk. Salah satu DAS di Indonesia yang dikatakan cukup kritis terhadap masalah tersebut adalah DAS Ngrancah yang merupakan daerah tangkapan air Waduk Sermo di Kabupaten Kulon Progo. Upaya pengendalian erosi dan sedimentasi yang dapat dilakukan salah satunya yaitu dengan diketahuinya nilai kecepatan sedimentasi terutama di Waduk Sermo sebagai penyedia air. Kecepatan sedimentasi dapat ditentukan dengan pendekatan USLE (Universal Soil Loss Equation). USLE menentukan laju sedimentasi berdasarkan jumlah kehilangan tanah akibat erosi di suatu DAS. Penentuan kecepatan sedimentasi juga dilakukan melalui pengukuran kandungan tanah dalam air berupa sedimen yang masuk ke dalam waduk. Berdasarkan nilai kecepatan sedimentasi Waduk Sermo dari dua metode yang digunakan, dapat diketahui pola dan pengelolaan waduk yang harus dilakukan agar usia waduk dalam melakukan fungsinya sesuai yang direncanakan. Penentuan kecepatan sedimentasi Waduk Sermo dengan pendekatan USLE, dilakukan dengan menggunakan Sistem Informasi Geografis (SIG). Berdasarkan pada rumus pendekatan USLE, dibutuhkan empat jenis peta yaitu peta jenis tanah, peta kemiringan lereng, dan peta tutupan lahan serta peta nilai erosivitas …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "PERHITUNGAN VOLUME DAN SEBARAN SEDIMENTASI WADUK SERMO BERDASARKAN KONDISI AWAL PEMBANGUNAN DAN KEADAAN TERKINI DI TAHUN 2016",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Oktavinno Permadi",
+            "Waljiyanto",
+            "Rofika Dyah Maharani"
+        ],
+        "cited_by": "1",
+        "year": "2016",
+        "venue": "Universitas Gadjah Mada, Indonesia From: https://repository. ugm. ac. id/274369/1/FullPap er_PerhitunganVolumeDanSebaranSedimenta siWadukSermoBerdasarkanKondisiAwalPem bangunanDanKeadaanTerkiniDiTahun2016_ BambangKun-Waljiyanto-Oktavinno-2. pdf",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:YFjsv_pBGBYC",
+        "publication_date": "2016",
+        "abstract": "Sermo Dam was built in the Hargowilis village, Kokap, Kulonprogo, DI Yogyakarta. The Dam is blocking river’s water flow of the Ngerancah river and several rivers in this area. It fills certain part of Hargowilis area with approximately 25 million cubic meters fresh water. Because of the water potential and side view of the area, Sermo dam was developed to various beneficial function such as irrigation, fresh water needs for surrounding area, flooding and drying control, and tourism. Due to this mentioned functions, therefore good management and maintenance for the dam is needed. One of the problems that can not be avoided be cause of blocking rivers flow is sedimentation. If the sedimentation is uncontroled it will fill up the dam, and will reduce water storage capacity of the dam. To control the sedimentation, so some measurements must be executed to know the current condition and the acceleration of sedimentation. It is necessary to measure the volume of water storage and predict the sedimentation rate. This paper trying to determine volume of Sermo Dam water storage in 2016, and predict Sermo Dam sedimentation rate since it was first built (1996) to the present (2016). Based on resulted data it can be analysis using geospatial based data analysis, the volume of Sermo Dam water storage is 13,153,894.056 cubic meters (water level at 130 meter), and the rate of sedimentation acceleration in Sermo Dam is 184,569.687 m3/year. In addition, spread of sedimentation patterns also served in the distribution map and profile changes of sedimentation.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.academia.edu/download/113049397/FullPaper_PerhitunganVolumeDanSebaranSedimentasiWadukSermoBerdasarkanKondisiAwalPembangunanDanKeadaanTerkiniDiTahun2016_BambangKun-Walji.pdf"
+    },
+    {
+        "title": "Evaluasi Kemampuan Alat Fish Finder Garmin MapSounder 178C Dan EchoSounder ODOM Hydrotrac II Untuk Pengukuran Batimetri",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Abdul Basith"
+        ],
+        "cited_by": "1",
+        "year": "2014",
+        "venue": "Annual Engineering Seminar",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:maZDTaKrznsC",
+        "publication_date": "2014",
+        "abstract": "Bathymetric mapping is needed in order to provide geo-spatial information for planning and decision making activities related to information of inland and marine waters. There are various technologies that can be used to generate the bathymetric data, one of them is by using a single beam echo sounder (SBES). There are two types of SBES, ie standard single beam echo sounder and fish finder. Fish finder is a low cost alternative depth gauges, but the resulted accuracy based on the existing specifications is lower, compared to the standard SBES. Nevertheless it is necessary to compare the bathymetric data measured using both those tools. It was performed in order to provide a comparative picture, whether the quality of the data measured by the fish finder and a standard SBES are different or not, by following the referral standardization IHO SP-44 in 2008 and ISO 7646 in 2010. The works in this study consist of the measurement scenario design, equipments configuration, calibration barcheck, sounding (data collection), data processing, quality testing, and comparison of the depth data refers to the IHO and SNI standardizations. Based on the results of quality testing of the depth data measured by both fish finder and standard SBES, the resulted depths meet IHO and SNI standardizations for both uniform and varied depth areas. When viewed from the position of the placement of standard SBES and fish finder transducers in term of statistical test with a confidence level of 95%, transducers placed side by side will produce different data statistically. However if the transducer placed on opposite left and right side of the ship will result in data that …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/347439378_Evaluasi_Kemampuan_Alat_Fish_Finder_Garmin_MapSounder_178C_Dan_EchoSounder_ODOM_Hydrotrac_II_Untuk_Pengukuran_Batimetri/links/5fdbaced92851c13fe958c40/Evaluasi-Kemampuan-Alat-Fish-Finder-Garmin-MapSounder-178C-Dan-EchoSounder-ODOM-Hydrotrac-II-Untuk-Pengukuran-Batimetri.pdf"
+    },
+    {
+        "title": "Perbandingan Beberapa Metode Interpolasi untuk Pembentukan Digital Terrain Model dari Peta Topografi Skala Besar",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Heri Sutanta"
+        ],
+        "cited_by": "1",
+        "year": "2009",
+        "venue": "Documentation Teknik Geodesi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:olpn-zPbct0C",
+        "publication_date": "2009",
+        "abstract": "Digital Terrain Model (DTM) merupakan suatu model pendekatan matematis dari data posisi planimetris dan vertikal untuk menyajikan keadaan permukaan bumi. Sumber data untuk pembuatan DTM meliputi data titik tinggi dan/atau garis kontur yang dapat diperoleh dari pengukuran langsung di lapangan, konversi dari peta topografi, teknik fotogrammetri, INSAR dan LIDAR. DTM dibuat dengan menggunakan metode interpolasi tertentu. Tulisan ini, membahas perbandingan penggunaan tiga metode interpolasi yang berbeda, yaitu Inverse Distance Weighted (IDW), Spline, dan Triangular Irregular Network (TIN) untuk pembuatan DTM dengan data dari peta topografi skala besar. Peta topografi tersedia dalam skala 1:5000 yang dibuat dengan metode fotogrametri. Peta memiliki kerapatan kontur 2 meter dan ribuan titik tinggi yang tersebar di daerah studi dengan elevasi dan kelerengan yang bervariasi. Kontur dan titik tinggi digunakan untuk membuat DTM dengan tiga metode yang berbeda. Evaluasi dilakukan dengan analisis secara visual dan matematis pada daerah uji. Analisis visual dilakukan dengan mengamati adanya anomali lubang dan puncak yang terbentuk. Analisis secara matematis dilakukan dengan perhitungan RMS error beberapa titik sampel dengan tingkat kepercayaan 95%. Titik sampel diambil pada daerah datar, berbukit jarang dan berbukit rapat. Hasil akhir DTM disajikan dalam format raster untuk memudahkan proses evaluasi. Penggunaan metode TIN menghasilkan DTM dengan RMS error 1,54 meter, metode IDW menghasilkan RMS error 1,79 meter, dan 1,78 meter pada metode Spline. Evaluasi secara visual dan …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "LEAST-SQUARES ADJUSTMENT IN DETERMINING ZERO ERROR (Zo) OF REFLECTOR-LESS TOTAL STATION FOR VARIOUS MATERIAL TARGETS",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Bambang Kun Cahyono",
+            "Dedi Atunggal SP"
+        ],
+        "cited_by": "1",
+        "year": "2008",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:_Qo2XoVZTnwC",
+        "publication_date": "2008",
+        "abstract": ": Application of continuous reflector-less Total Station (TS) measurements is widely used for deformation inspection of inacessible man-made structure, such as; bridge, dam, highway, open mines, and high rise tower. This method is also extensively employed in natural disaster monitoring for land slides and steep slope subsidences. This instrument allows the surveyor to measure 3D coordinates of point remotely from the object without requiring the use ofprism reflector. It also permits the recording of the data in a digital format to be downloaded to computer afterward or transmitted to a central processing site. There are numerous sources of error inherent to TS equipment. Three distinct systematic errors, which may occur in TS are zero error, scale error and cyclic error. Zero error. which is a constant systematic-error, is the focus of this current investigation. In this work, zero error is determined by using a least …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "CASCADE-3D: A GUI-Driven Framework for Automated 3D Building Model Reconstruction",
+        "authors": [
+            "Ruli Andaru",
+            "Bambang Kun Cahyono",
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Calvin Wijaya",
+            "Riyas Syamsul",
+            "Fairuz Akmal",
+            "Hyatma Adikara",
+            "Habib Muhammad",
+            "Fikri Kurniawan"
+        ],
+        "cited_by": "",
+        "year": "2026",
+        "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:t7zJ5fGR-2UC",
+        "publication_date": "2026/2/19",
+        "abstract": "Generating fast and accurate geospatial data and three-dimensional (3D) properties is essential for supporting multipurpose land management services. This study presents the CAdastre and Spatial map adjustment with spatial Computation for Automatic builDing dEtection and 3D generation (CASCADE-3D), a graphical user interface (GUI) developed for the automated reconstruction of 3D models at Levels of Detail (LOD) 1 and 2. CASCADE-3D integrates advanced deep-learning frameworks—including the Segment Anything Model (SAM) AI and Dynamic Graph Convolutional Neural Network (DGCNN)—to perform building outline detection and point cloud classification, subsequently reconstructing 3D models using true orthoimage acquired from unmanned aerial vehicles and building height models (BHMs). Photogrammetric processing using Structure-from-Motion and Multi-View Stereo techniques is initially …",
+        "pdf_link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11400619.pdf"
+    },
+    {
+        "title": "Design of Shipping Channels, Berthing Areas and Turning Basin by Utilizing Bathymetry and Side Scan Sonar Data at the Branta Harbor, East Java",
+        "authors": [
+            "Bonatua Palsius Situmorang",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Engineering Headway",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:z_wVstp3MssC",
+        "publication_date": "2025/10/24",
+        "abstract": "The basic facilities in a port consist of shipping channels, berthing area, and turning basins. Those facilities will also be built at Branta Harbor so large ships can enter and dock. Those basic facilities are not yet available due to the lack of appropriate data. The port planning activities require bathymetric data, seabed imageries, tides, and topographic conditions of the port area. It is essential in port planning, which can guarantee the safety of maritime shipping. The depth of Branta Harbor ranges from 0.7 m to 25.2 m. The condition of the seabed is mostly sand, and several submarine pipes, trawl nets, and fishing nets were found in the area, although there were no endangered shipping objects. The shipping channels is designed as a two-way lane with a length of 1,550 m and a width of 200 m. The berthing area is 23 hectares, the emergency area is 11.56 hectares, and the turning basin is 7.06 hectares. The main …"
+    },
+    {
+        "title": "Detached Hexareef Breakwater Configuration Design to Reduce the Effect of Ocean Waves at Eco-Resort Area Raja Ampat",
+        "authors": [
+            "Achmad Ridwan Abdullah",
+            "Bambang Kun Cahyono",
+            "Haryo Dwito Armono"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Engineering Headway",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:VLnqNzywnoUC",
+        "publication_date": "2025/10/24",
+        "abstract": "The Eco-Resort area at Raja Ampat is frequently impacted by extreme waves, particularly during the west monsoon, increasing the risk of abrasion and damage to ecosystems and infrastructure. A detached hexareef breakwater configuration was designed to reduce wave height while maintaining coastal aesthetics, as the site is an eco-friendly tourism area. The data used included tidal observations, bathymetry and topography surveys, wind and wave data, and hexareef formation data. The configuration was designed based on the beach response index, leading to periodic tombolo formation. Four configuration alternatives were developed based on freeboard (f) values under the HWS (Highest Water Springs) condition. Numerical modeling using Delft3D-WAVE assessed wave reduction effectiveness for each alternative. Results showed wave reductions for two significant wind and wave directions - North and …"
+    },
+    {
+        "title": "Evaluation of Water Depth Extraction Using Empirical Method with Sentinel 2 Image on Google Earth Engine in South Sea Island of Bangka Belitung",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Jeremi Benito Sihombing"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Engineering Headway",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:uJ-U7cs_P_0C",
+        "publication_date": "2025/10/24",
+        "abstract": "The development of remote sensing technology based on cloud computing is an important concern, especially in providing convenience in processing and storing images for various importance. This can be utilized in hydrographic activities in terms of determining depth values using the Satellite Derived Bathymetry (SDB) method. This research focuses on the utilization of Google Earth Engine (GEE) technology in obtaining depth values using the SDB method with Stumpf and Lyzenga algorithms. The area used in this research is on the island of Bangka Belitung which has different characteristics of waters such water depth, water clarity, and water bottom cover. The results of the research conducted were evaluated with the Indonesian National Standard (SNI) 8202 in 2015 regarding the accuracy of the base map. Depth extraction using 2,662 depth sample data. The results of this study show that the Stumpf model …"
+    },
+    {
+        "title": "Pemanfaatan Data Batimetri untuk Identifikasi Perubahan Dasar Laut pada Area Pertambangan Timah di Laut Penyusuk, Pulau Bangka",
+        "authors": [
+            "Vivy Wahyu Wijayanti",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Journal of Geospatial Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:XD-gHx7UXLsC",
+        "publication_date": "2025",
+        "abstract": "Pulau Bangka memiliki potensi sumber daya alam laut, termasuk pertambangan timah yang aktif di Laut Penyusuk. Aktivitas ini menimbulkan dampak serius terhadap ekosistem, terutama perubahan topografi dasar laut. Penelitian ini bertujuan untuk mengidentifikasi perubahan topografi dasar laut menggunakan data hasil pengukuran singlebeam echosounder dual frekuensi. Data diperoleh dari survei batimetri pada 30 Agustus 2023 dan 12 September, serta pasang surut prediksi dari Pushidros. Data diuji menggunakan metode TVU sesuai IHO S-44 edisi 6.2. 0 tahun 2024. Interpolasi kedalaman dilakukan dengan metode kriging, sedangkan estimasi volume menggunakan metode average end area. Hasil analisis menunjukkan adanya pendalaman pada zona dalam di area A dengan rata-rata 0, 33 meter Ketika diukur dengan frekuensi tinggi dan 0, 52 meter Ketika diukur dengan frekuensi rendah, sementara zona dangkal mengalami pendangkalan rata-rata sebesar 0, 37 meter ketika diukur dengan frekuensi tinggi dan 0, 25 meter ketika diukur dengan frekuensi rendah. Area B mengalami pendangkalan rata-rata 0, 13 meter. Hal ini menunjukkan bahwa penambangan timah berdampak langsung terhadap topografi dasar laut.",
+        "pdf_link": "https://journal.ugm.ac.id/v3/jgst/article/download/25240/6717"
+    },
+    {
+        "title": "PEMANFAATAN TEKNOLOGI UAV UNTUK PEMETAAN PELABUHAN PERIKANAN ADIKARTO",
+        "authors": [
+            "Hilmiyati Ulinnuha",
+            "Maritsa Faridatunnisa",
+            "Abdul Basith",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "Vierendeel Journal",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:-_dYPAW6P2MC",
+        "publication_date": "2024/11/30",
+        "abstract": "Abstrak Pelabuhan Perikanan Adikarto terletak disekitar Pantai Gelagah, Kulon Progo. Pelabuhan ini mulai dibangun pada tahun 2004, namun hingga kini belum dapat beroperasi. Masalah ini ditimbulkan oleh adanya proses sedimentasi di sekitar muara Sungai Serang. Pemerintah DIY akan melakukan redesign pelabuhan untuk menyelesaikan permasalahan sedimentasi tersebut. Dalam proses redesign, diperlukan data awal yang dapat memberikan gambaran keseluruhan area Pelabuhan. Pemetaan UAV dapat memberikan gambaran spasial dari area yang dipetakan. Penelitian ini bertujuan untuk memetakan dan mengevaluasi kondisi Pelabuhan Perikanan Adikarto saat ini dengan memanfaatkan teknologi UAV. Hasil dari penelitian ini menunjukkan bahwa orthofoto Pelabuhan Perikanan Adikarto tahun 2018 memiliki ketelitian sebesar 0,082 m. Kondisi topografi di sekitar Pelabuhan cenderung …"
+    },
+    {
+        "title": "Bathymetry and photogrammetry measurements of Opak river segment of Sumberagung village in Yogyakarta to support tourist village planning",
+        "authors": [
+            "Maritsa Faridatunnisa",
+            "Hilmiyati Ulinnuha",
+            "Bambang Kun Cahyono",
+            "Abdul Basith",
+            "Afradon Aditya Setyawan"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:UHK10RUVsp4C",
+        "publication_date": "2023/2/14",
+        "abstract": "Opak river is one of the rivers that flow through Yogyakarta Province, especially Sleman and Bantul Districts. One of the villages crossed by this river in Bantul district is Sumberagung village. The village government plans to utilize the Opak river in their administrative area as a tourist location to grow the town as a tourist village. One of the initial efforts in planning is to collect as much data about the river and its surroundings, that is, river depth and the planimetric map around the area. Therefore, a bathymetric survey was done to obtain depth data of the Opak River, while photogrammetry technology was conducted to produce a digital image map of the river. The river depth data was acquired using Unmanned Surface Vehicle (USV) and geodetic GPS instrument as its positioning, while the photogrammetric measurement was conducted using UAV (Unmanned Aerial Vehicle). As a result, the bathymetric map shows …",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0117380/16683398/050008_1_online.pdf"
+    },
+    {
+        "title": "Kajian Pengukuran Kedalaman Menggunakan Metode Satellite Derived Bathymetry di Area Perairan Tidak Jernih",
+        "authors": [
+            "CERIIL ALFA KARINA",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:8AbLer7MMksC",
+        "publication_date": "2021"
+    },
+    {
+        "title": "PERHITUNGAN VOLUME PENGERUKAN AWAL BERDASARKAN DATA PENGUKURAN SINGLEBEAM ECHOSOUNDER PADA AREA KOLAM PUTAR DAN ALUR AKSES PELABUHAN BAGIAN DALAM DI PELABUHAN PATIMBAN KAB …",
+        "authors": [
+            "ANANDA TAUFIQ AKBAR",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:B3FOqHPlNUQC",
+        "publication_date": "2021"
+    },
+    {
+        "title": "Identifikasi Pengaruh Penggunaan Bidang Referensi Vertikal terhadap Perubahan Arah Aliran Air Permukaan dan Luas Area Genangan Pasang Surut di Daerah Gambut",
+        "authors": [
+            "RAHMADIKA DANDIANTO",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:K3LRdlH-MEoC",
+        "publication_date": "2021"
+    },
+    {
+        "title": "PERBANDINGAN ANALISIS HARMONIK PASANG SURUT LAUT MENGGUNAKAN METODE ADMIRALTY DAN LEAST SQUARE DI WILAYAH PERAIRAN SELAT NASIK, BANGKA BELITUNG",
+        "authors": [
+            "DHIHA AFIYANTI",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2020",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:eJXPG6dFmWUC",
+        "publication_date": "2020"
+    },
+    {
+        "title": "PENGUJIAN KUALITAS DATA DIGITAL TERRAIN MODEL HASIL PENGUKURAN LIDAR DI AREA LAHAN GAMBUT (Studi Kasus: Kesatuan Hidrologis Gambut Pulau Padang, Kabupaten Kepulauan Meranti …",
+        "authors": [
+            "HANDUNG RAMADHAN",
+            "Bambang Kun CAHYONO"
+        ],
+        "cited_by": "",
+        "year": "2020",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:738O_yMBCRsC",
+        "publication_date": "2020"
+    },
+    {
+        "title": "Analisis Keterkaitan Tutupan Lahan dan Suhu Permukaan di Kabupaten Sleman Tahun 2019 Menggunakan Citra Landsat 8",
+        "authors": [
+            "PUPUT PURWANTI",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2020",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:Tiz5es2fbqcC",
+        "publication_date": "2020",
+        "abstract": "Pertumbuhan penduduk yang terus meningkat setiap tahun di Kabupaten Sleman membuat kebutuhan manusia akan lahan semakin meningkat sehingga terjadi konversi lahan non terbangun menjadi terbangun. Diduga daerah perkotaan dengan pemukiman yang padat dan menjadi pusat pendidikan memiliki suhu permukaan tinggi dibandingkan daerah yang jauh dari pusat perkotaan dan pusat pendidikan. Penelitian ini penting dilakukan untuk menperoleh informasi mengenai keterkaitan antara tutupan lahan dan suhu permukaan sehingga informasi tersebut dapat digunakan untuk keperluan tertentu. Tujuan dari penelitian ini adalah untuk mengetahui tutupan lahan di Kabupaten Sleman, mendapat persebaran suhu permukaan lahan di wilayah Kabupaten Sleman dan menganalisis keterkaitan kelas tutupan lahan dengan suhu permukaan lahan. Citra Landsat 8 Onboard Operational Land Imager (OLI) dan Thermal Infrared Sensor (TIRS) digunakan untuk pembuatan peta tutupan lahan dan ekstraksi suhu permukaan lahan secara digital. Klasifikasi tutupan lahan menggunakan metode klasifikasi supervised maximum likehood menggunakan software ENVI. Ekstraksi suhu permukaan menggunakan USGS formulas yang dihitung menggunakan ArcMap Raster Calculator. Analisis geospasial dengan overlay dilakukan pada hasil klasifikasi tutupan lahan dan hasil ekstraksi suhu permukaan lahan yaitu dengan fungsi intersect untuk mengetahui hubungan antara keduanya. Klasifikasi tutupan lahan menghasilkan 6 kelas tutupan lahan yaitu perairan, pemukiman, sawah, lahan kosong, kebun campuran, dan hutan. Kelas tutupan lahan yang …"
+    },
+    {
+        "title": "Penggunaan Metode Random Forest Dalam Estimasi Kedalaman Gambut Memanfaatkan Data DTM Hasil Pengukuran LiDAR",
+        "authors": [
+            "AYU FITRIA",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:LPZeul_q3PIC",
+        "publication_date": "2019"
+    },
+    {
+        "title": "PEMETAAN SITUASI SKALA 1: 500 SECARA TERESTRIS DUSUN BABADAN DESA BELUK KECAMATAN BAYAT KABUPATEN KLATEN PROVINSI JAWA TENGAH",
+        "authors": [
+            "SUSI SUSILOWATI",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:tS2w5q8j5-wC",
+        "publication_date": "2019"
+    },
+    {
+        "title": "IDENTIFIKASI MODEL GEOPOTENSIAL GLOBAL YANG PALING SESUAI DALAM PENENTUAN SISTEM REFERENSI TINGGI (Studi Kasus: Pulau Padang, Riau)",
+        "authors": [
+            "Dovan Priliandika",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:vRqMK49ujn8C",
+        "publication_date": "2019"
+    },
+    {
+        "title": "KEGIATAN PEMETAAN DAN PEMBUATAN PETA SITUASI SKALA BESAR DENGAN METODE TERISTRIS, DAERAH DUKUH CUNGKRUNGAN DESA BELUK KECAMATAN BAYAT KABUPATEN KLATEN PROVINSI JAWA TENGAH",
+        "authors": [
+            "NICO KHAROLLIS",
+            "Bambang Kun CAHYONO"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:WbkHhVStYXYC",
+        "publication_date": "2019",
+        "abstract": "Seiring dengan perkembangan ilmu pengetahuan, kebutuhan manusia akan data geospasial menjadi sangat besar. Penyajian data geospasial yang paling baik dan paling mudah dimengerti oleh masyarakat secara umum adalah peta. Jenis peta yang paling banyak digunakan sebagai dasar kebijakan pembangunan adalah peta situasi. Melihat masih sedikitnya daerah-daerah di kawasan repubik indonesia yang sudah terpetakan dengan skala yang besar yang seharusnya dapat dimanfaatkan sebagai penentuan kebijakan pembangunan dalam lingkup dusun maupun kelurahan. Sehingga dalam kegiatan ini akan dilakukan pemetaan situasi skala besar dengan metode teristris dalam lingkup dusun dan kelurahan. Pemetaan situasi dengan metode teristris ini dilaksanakan dalam beberapa tahapan. Dimulai dari tahap persiapan, pengukuran lapangan, pengolahan data, penyajian data, dan pengujian peta. Tahap persiapan yaitu penyegaran materi serta penjelasan tentang TOR (Term Of Reference) yang diterapkan pada pengukuran, tahap pengukuran lapangan adalah tahap pembuatan serta pengukuran kerangka kontol di lapangan baik kerangka kontrol horizontal (KKH) maupun kerangka kontrol vertikal (KKV), pengukuran orientasi atau azimuth dan dilanjutkan dengan pengukuran detil baik detail planimetrim maupun detail ketinggian. Tahap penyajian data dilakukan diatas kertas gambar dan dilakuan menggunakan perangkat lunak komputer, dan tahap pengujian peta dilakukan untuk mengetahui kualitas peta situasi yang sudah sesuai dengan keadaan sebenarnya atau belum. Hasil akhir yang didapatkan adalah peta situasi …"
+    },
+    {
+        "title": "PEMBUATAN WEBGIS SITUS BUDAYA DI KECAMATAN KOTAGEDE DENGAN VISUALISASI FOTO SFERIS 360 DERAJAT",
+        "authors": [
+            "NI LUH KOMPYANG SARIANI",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:b0M2c_1WBrUC",
+        "publication_date": "2019"
+    },
+    {
+        "title": "Kajian Spasial Alur Laut Kepulauan Indonesia (ALKI) Timur-Barat di Laut Jawa",
+        "authors": [
+            "LUTHFIA RACHMATIKA NOERIS",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:BrmTIyaxlBUC",
+        "publication_date": "2018"
+    },
+    {
+        "title": "PERBANDINGAN MSL LOKAL PULAU SUMATRA DENGAN BERBAGAI MODEL GEOPOTENSIAL GLOBAL",
+        "authors": [
+            "FAUZAN RAMADHAN",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:tOudhMTPpwUC",
+        "publication_date": "2018"
+    },
+    {
+        "title": "Klasifikasi Dasar Laut Menggunakan Data Pengukuran Multibeam Echosounder",
+        "authors": [
+            "RACHMAT NITRIANSYAH",
+            "Bambang Kun CAHYONO"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:NhqRSupF_l8C",
+        "publication_date": "2018",
+        "abstract": "Kegiatan batimetri dilakukan untuk mendapatkan data kedalaman laut atau gambaran relief dasar laut. Salah satu alat yang digunakan dan memiliki ketelitian tinggi adalah multibeam echosounder (MBES). MBES memanfaatkan gelombang akustik yang dipancarkan ke dasar laut melalui alat pemancar atau transducer dan menangkap kembali gelombang pantulnya. Informasi yang didapat MBES berupa data kedalaman dari pantulan gelombang akustik dan nilai hamburan dari sinyal suara yang dipantulkan oleh objek atau dasar laut yang disebut backscatter. Pemanfaatan backscatter akustik yang dapat dilakukan adalah klasifikasi objek atau dasar laut, seperti kerangka kapal atau sedimen dasar laut. Penelitian ini difokuskan untuk klasifikasi dasar laut menggunakan backscatter akustik yang diperoleh dari pengukuran MBES di Alur Pelayaran Barat Surabaya (APBS). Data yang digunakan dalam penelitian ini yaitu backscatter akustik dari hasil ekstraksi data batimetri menggunakan MBES tipe Odom MB2 dan data kebenaran dasar laut sebagai representatif dasar laut. Data kebenaran dasar laut dilakukan klasifikasi fraksi sedimen dengan metode ayakan American Society for Testing and Materials (ASTM), selanjutnya dilakukan klasifikasi dari persentase hasil ayakan sedimen pada masing-masing massa partikel ke dalam tabel Grain Size untuk menentukan jenis tekstur sedimen menggunakan segita tekstur United States Department of Agriculture (USDA). Klasifikasi dasar laut dilakukan dengan klasifikasi supervised terhadap ukuran butir dan lokasi sedimen yang dikorelasikan terhadap koordinat nilai backscatter. Berdasarkan data …"
+    },
+    {
+        "title": "PEMODELAN 3D DAN PERHITUNGAN VOLUME LAPISAN DASAR SUNGAI BERDASARKAN DATA HASIL PENGUKURAN SUB BOTTOM PROFILER",
+        "authors": [
+            "NURKHALIS RAHILI",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:abG-DnoFyZgC",
+        "publication_date": "2018",
+        "abstract": "Sungai merupakan salah satu jalur transportasi bagi manusi, juga sebagai jalur yang dilalui oleh pipa untuk penyaluran minyak dan gas ataupun sebagai jalur kabel listrik dan jaringan komunikasi. Agar tidak terjadinya gangguan terhadap pipa ataupun kabel karena adanya aktivitas kapal yang melalui sungai, perlu dilakukan pengkajian sedimen dari sungai. Pengkajian ini bertujuan untuk mengetahui jenis sedimen, tebal dari sedimen, kedalaman sedimen, dan volume dari sedimen itu sendiri. Pengkajian dapat dilakukan dengan pengukuran akustik. Pengukuran survei akustik pada kegiatan ini menggunakan alat sub bottom profiler Strata Box HD tipe Chirp. Dengan menggunakan alat tersebut didapatkan lapisan sedimen sampai dengan kedalaman tertentu. Hasil pengukuran kemudian diinterpretasi untuk mendapatkan waktu tempuh gelombang akustik saat merambat pada lapisan sedimen. Waktu tempuh kemudian diolah dan dikoreksikan terhadap data hasil pengukuran pasang surut untuk medapatkan nilai kedalaman yang sebenarnya dari hasil pengukuran dengan sub bottom profiler. Data kedalaman kemudian diuji kualitas berdasarkan acuan IHO SP-44 2008 pada orde 1a. Kegiatan ini menghasilkan model tiga dimensi lapisan sungai, profil kedalaman serta volume lapisan sedimen. Dari hasil uji kualitas didapatkan data kedalaman terkoreksi telah memenuhi standar orde 1a IHO SP-44 2008. Dengan menggunakan tingkat kepercayaan 95%, hasil uji pada lapisan pertama sebesar 0,271 m dengan toleransi kesalahan sebesar 0,510 m. Untuk lapisan kedua memiliki hasil uji kualitas data sebesar 0,491 m dengan toleransi sebesar …"
+    },
+    {
+        "title": "Pembaharuan Peta Laut Nomor 69 Area Laut Jawa untuk Keselamatan Navigasi Pelayaran",
+        "authors": [
+            "DWI SEPTRI HASTUTI",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:EUQCXRtRnyEC",
+        "publication_date": "2018",
+        "abstract": "Indonesia merupakan negara kepulauan terbesar di dunia yang perairannya menjadi salah satu jalur utama dalam perdagangan laut internasional dengan menyumbang 40% dari seluruh jalur perdagangan laut internasional. Pentingnya perairan dalam perdagangan internasional menuntut adanya informasi peta laut untuk keperluan navigasi pelayaran. Seiring berjalannya waktu laut mengalami perubahan, oleh karena itu perlu dilakukan pembaharuan peta laut terutama pada daerah yang memiliki kepadatan lalu lintas laut tinggi seperti Laut Jawa. Meskipun saat ini telah berkembang peta elektronik untuk navigasi pelayaran, peta laut kertas masih dibutuhkan untuk perencanaan alur pelayaran, navigasi pelayaran pada kapal-kapal kecil maupun cadangan peta laut pada kapal besar. Tujuan yang ingin dicapai dari kegiatan ini adalah tersedianya peta laut kertas terbaru yang sesuai dengan standar IHO S-4, INT1 (simbol, singkatan dan istilah yang digunakan dalam peta laut), INT2 (garis batas, graduasi, grid dan skala linier) dan Peta Laut Nomor 1. Kegiatan pembaharuan peta laut nomor 69 dibuat dengan menggunakan data ENC wilayah Jawa Tengah bagian Utara, data raster peta nomor 69 pengeluaran kesembilan cetakan kedua, data survei 2017 pada Cirebon dan Laut Jawa bagian Timur dan BPI (Berita Pelaut Indonesia) nomor 11-29 tahun 2017. Data diperoleh dari Pusat Hidrografi dan Oseanografi TNI-AL. Dalam kegiatan ini perangkat lunak yang digunakan dalam pembuatan peta laut adalah PCC (Paper Chart Composer). Kemudian dilakukan penambahan data pembaruan dan informasi peta. Hasil dari proses pembuatan …"
+    },
+    {
+        "title": "PENGUJIAN KUALITAS DATA HASIL PEMETAAN MENGGUNAKAN WAHANA UAV PADA TITIK ICP HASIL PENGUKURAN GNSS UNTUK KEPERLUAN PEMETAAN TOPOGRAFI PADA AREA LUAS",
+        "authors": [
+            "YOSEPH DIMAS ARDIAN",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:VOx2b1Wkg3QC",
+        "publication_date": "2017"
+    },
+    {
+        "title": "Pengukuran Batimetri Waduk Sermo Menggunakan Alat Odom Hydrotrac Ii Dan RTK GNSS dengan Perangkat Lunak Hydropro",
+        "authors": [
+            "STEFFAN RICO RONALDO",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:4fKUyHm3Qg0C",
+        "publication_date": "2017"
+    },
+    {
+        "title": "PEMETAAN BATIMETRI BERDASARKAN DATA HASIL PENGUKURAN MBES ELAC SEABEAM MENGGUNAKAN PERANGKAT LUNAK HDP 4061",
+        "authors": [
+            "BARNABAS JAMOT TAMBUN",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:u9iWguZQMMsC",
+        "publication_date": "2017",
+        "abstract": "Pengukuran batimetri menggunakan multi beam echo sounder (MBES) menghasilkan data kedalaman yang sangat banyak dalam pelaksanaannya. Data kedalaman tersebut merepresentasikan nilai kedalaman dan topografi bawah air daerah yang di survei. Data yang sangat banyak tersebut perlu diolah secara cepat dan baik terutama koreksinya terhadap bermacam fenomena laut seperti pasang surut, kecepatan rambat bunyi bawah air dan lain sebagainya. Pengolahan data kedalaman merupakan cara dalam mengolah data-data kedalaman beserta fenomena dan sifat fisis alam untuk mendapatkan model permukaan 3 dimensi yang merepresentasikan dasar perairan dari daerah yang telah diukur. Model permukaan 3 dimensi tersebut dapat mendeskripsikan kondisi kedalaman perairan yang telah disurvei, baik secara tampilan visual maupun analisis data yang telah terukur. Kegiatan ini menggunakan data primer dari Badan Pengkajian dan Penerapan Teknologi (BPPT) berupa data batimetri, sound velocity profile (SVP) dan data pendukung berupa data pasang surut dan koreksi parameter lainnya di wilayah Teluk Kabui, Kabupaten Raja Ampat, Propinsi Papua Barat. Pada kegiatan ini, perangkat lunak yang digunakan untuk mengolah data MBES yang digunakan adalah HDP 4061. HDP 4061 merupakan perangkat lunak yang menggunakan sistem operasi Linux SUSE yang dapat mengkoreksi nilai yang mempengaruhi kedalaman beserta keseluruhan parameter lainnya. Pengolahan data menghasilkan data koordinat dan titik kedalaman yang telah terkoreksi dan dimodelkan secara 3 dimensi. Pada kegiatan ini, daerah yang …"
+    },
+    {
+        "title": "Perhitungan Volume Dan Sebaran Sedimentasi pada Waduk Sermo Berdasarkan Kondisi Awal Pembangunan dan Keadaan Terkini",
+        "authors": [
+            "OKTAVINNO PERMADI",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:uWQEDVKXjbEC",
+        "publication_date": "2017"
+    },
+    {
+        "title": "PENGARUH KOREKSI KECEPATAN GELOMBANG SUARA DALAM AIR LAUT PADA DATA PENGUKURAN MULTIBEAM ECHOSOUNDER",
+        "authors": [
+            "RACHMAT HIDAYAT",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:UxriW0iASnsC",
+        "publication_date": "2017"
+    },
+    {
+        "title": "PENENTUAN CHART DATUM SUNGAI BARITO BERDASARKAN DATA PENGAMATAN PASANG SURUT DI TIGA STASIUN",
+        "authors": [
+            "NUR FANI HABIBAH",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:dshw04ExmUIC",
+        "publication_date": "2017",
+        "abstract": "Pulau Kalimantan dikenal sebagai pulau seribu sungai. Sungai-sungai yang terdapat di Pulau Kalimantan banyak yang digunakan sebagai sarana transportasi, salah satunya adalah Sungai Barito. Sungai Barito merupakan sungai yang terbesar dan terpanjang di Kalimantan Selatan. Hal penting yang harus diketahui dalam bidang transportasi di sungai adalah kedalaman dari sungai tersebut, karena kedalaman sungai akan sangat menentukan kapal-kapal dapat melewati sungai tersebut atau tidak. Untuk menunjang hal tersebut, maka perlu adanya penentuan nilai chart datum sebagai acuan kedalaman permukaan sungai. Dalam kegiatan aplikatif ini, dilakukan penentuan nilai chart datum di Sungai Barito menggunakan data pengamatan pasang surut guna membantu keselamatan navigasi dan pelayaran di sungai tersebut. Data yang digunakan dalam kegiatan ini adalah data pengamatan pasang surut, yang dilakukan oleh Pusat Hidrografi dan Oseanografi TNI Angkatan Laut di Sungai Barito, Banjarmasin, Kalimantan Selatan. Data pengamatan pasang surut tersebut didapat dari 3 stasiun di sepanjang sungai. Letak stasiun tersebut berada pada 3 titik yang tersebar secara acak, yaitu stasiun pertama berada di Rumah Pandu, tepatnya sekitar 10, 86 kilometer dari daratan. Stasiun pasang surut kedua di Dermaga PPI Aluh-aluh yang berada sekitar 20, 96 kilometer dari stasiun pertama. Letak stasiun kedua ini berjarak sekitar 7, 40 kilometer dari muara sungai dan berada tepat di antara aliran sungai dari Desa Aluh-aluh Kecil. Sedangkan, stasiun pasang surut ketiga berada di Dermaga Trisakti yang berjarak 22, 20 kilometer dari muara …"
+    },
+    {
+        "title": "Pemodelan Tiga Dimensi (3D) Jalan Gading Kirana Berdasarkan Data Mobile Laser Scanning",
+        "authors": [
+            "MUHAMMAD ANUGRAH JUNI ARDIAN",
+            "Bambang Kun CAHYONO"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:eflP2zaiRacC",
+        "publication_date": "2016",
+        "abstract": "Jalan raya merupakan aspek penting dalam kehidupan manusia yang sangat berpengaruh terhadap pertumbuhan ekonomi, sosial dan budaya suatu daerah. Kegiatan perencanaan, pemeliharaan dan evaluasi perlu dilakukan untuk menjaga agar jalan raya tetap berfungsi secara optimal. Data yang dibutuhkan untuk kegiatan tersebut adalah data spasial. Mobile laser scanning merupakan teknologi terkini di bidang survei dan pemetaan yang digunakan untuk memperoleh data spasial. Keunggulan dari teknologi mobile laser scanning menekankan pada efisiensi waktu dan biaya dalam proses akuisisi datanya. Data pengukuran scanner berupa data point clouds yang kemudian dapat diolah menjadi model tiga dimensi (3D). Kegiatan aplikatif ini bertujuan untuk memperoleh informasi data spasial berupa model tiga dimensi (3D) jalan raya berdasarkan data mobile laser scanning. Mobile laser scanner yang digunakan dalam kegiatan ini adalah Leica Pegasus: Two dengan data mentah hasil pengukuran berupa data Global Positioning System (GPS), Inertial Measurement Unit (IMU), data laser scanner dan data foto. Pengolahan data dimulai dari integrasi data GPS dan IMU untuk menghasilkan suatu trajektori yang dibutuhkan untuk georeferensi dan registrasi data laser. Data laser yang telah terregistrasi dimodelkan dalam bentuk mesh untuk setiap objek non vegetasi sehingga diperoleh suatu model 3D jalan raya. Analisis ketilitian dari model kota 3D tersebut didapatkan melalui perhitungan Root Mean Square (RMS) antara model dengan titik uji total station reflectorless. Model 3D yang dihasilkan terdiri dari model jalan, model vegetasi …"
+    },
+    {
+        "title": "PEMBUATAN PETA LAUT NAVIGASI ELEKTRONIK UNTUK ALUR MASUK PELABUHAN TANJUNGBARA (SANGATA)",
+        "authors": [
+            "JANE WARDA KARIMA",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:l7t_Zn2s7bgC",
+        "publication_date": "2016"
+    },
+    {
+        "title": "PEMODELAN TIGA DIMENSI MONUMEN NASIONAL MENGGUNAKAN MULTISTAION LEICA NOVA MS50",
+        "authors": [
+            "BAYU AFDILLA AL HUSAIN",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:D_sINldO8mEC",
+        "publication_date": "2015"
+    },
+    {
+        "title": "PENGOLAHAN DATA MULTIBEAM ECHOSOUNDER MENGGUNAKAN SOFTWARE CARIS HIPS AND SIPS PADA PEMETAAN BATIMETRI",
+        "authors": [
+            "FAHMI YUNI ANDARI",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:5Ul4iDaHHb8C",
+        "publication_date": "2015"
+    },
+    {
+        "title": "PENGOLAHAN DATA MULTIBEAM ECHOSOUNDER MENGGUNAKAN SOFTWARE MB-SYSTEM",
+        "authors": [
+            "QORI TRI KURNIA",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:e5wmG9Sq2KIC",
+        "publication_date": "2015",
+        "abstract": "Seiring dengan berkembangnya teknologi, echosounder sebagai alat pengukur kedalaman mengalami perkembangan pula. Saat ini ada dua jenis alat yang dapat digunakan dalam pengukuran kedalaman yaitu singlebeam echosounder dan multibeam echosounder. Sesuai dengan standar yang ditetapkan oleh IHO ada orde yang memerlukan cakupan area 100%, sehingga multibeam akan dipilih untuk digunakan. Ada konsekuensi tersendiri ketika memilih alat multibeam, konsekuensinya adalah pemrosesan data yang lebih kompleks. Meskipun saat ini sudah banyak perangkat lunak yang dapat melakukan prosesing data multibeam, kendala lainnya adalah mahalnya lisensi yang harus dibeli. Open source merupakan perangkat lunak yang dapat diunduh secara gratis dan tanpa membutuhkan lisensi untuk menjalankannya. Atas dasar alasan tersebut, pada tulisan ini membahas mengenai penggunaan perangkat lunak Open Source sebagai salah satu pilihan yang dapat digunakan untuk pemrosesan data multibeam echosounder. Perangkat lunak ini bernama MB-System. Perangkat lunak ini berbasis linux dan pemrosesan dilakukan dengan menggunakan command melalui terminal pada linux. Data diproses dengan menggunakan command yang disediakan oleh MB-System dengan tahapan dimulai dari konversi data sampai penerapan hasil editing data. Sebelum hasil akhir disajikan dilakukan terlebih dahulu uji kualitas data yang mengacu pada standar IHO pada orde spesial. Uji kualitas dilakukan agar data yang dihasilkan tetap terjaga kualitasnya. Hasil akhir pekerjaan berupa penyajian data secara visualisasi 3D sebagai hasil …"
+    },
+    {
+        "title": "Pengembangan dan Konstruksi Purwarupa Autonomous Remotely Operated Surface Vessel (AROSsel) yang murah untuk Pengukuran dan Pemantauan Batimetri Perairan Spesifik",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Addin Suwastono"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:HDshCWvjkbEC",
+        "publication_date": "2014/4/1",
+        "abstract": "Survei batimetri (kedalaman) perairan (laut, sungai, kanal, bendungan, danau, waduk) pada umumnya menggunakan kapal/perahu konvesional yang padanya dilengkapi dengan alat pengukur kedalaman (echosounder) dan alat pengukur posisi kapal yaitu GPS (Global Positioning System) receiver, alat yang dapat menerima sinyal-sinyal dari sateli GPS untuk tujuan penentuan posisi kapal. Untuk survei batimetri di wilayah yang sempit, berkelok-kelok,penggunaan kapal/perahu survei konvensional menjadi tidak efektif dan fleksibel terkait dengan manuver, mengikuti kelokan dan jalur-jalur survei yang direncanakan. Sebagai alternatif, perahu kecil/model yang dioperasikan dari jauh atau disebut sebagai ROV (Remotely Operated Vehicle) digunakan untuk mengukur perairan tersebut. Penelitian sebelumnya telah berhasil membuat model perahu ROV berbahan fiber dengan bentuk katamaran dengan dimensi …"
+    },
+    {
+        "title": "Analisis Perbandingan Data Batimetri Hasil Pengukuran Multibeam Echosounder dan Singlebeam Echosounder Untuk Wilayah Perairan Dangkal",
+        "authors": [
+            "Rahmat Sidik",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:geHnlv5EZngC",
+        "publication_date": "2014"
+    },
+    {
+        "title": "Prediksi Kecepatan Sedimentasi Waduk Sermo Berdasarkan Data Pengukuran Batimetri Multi Temporal",
+        "authors": [
+            "INDRO WICAKSONO",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:p2g8aNsByqUC",
+        "publication_date": "2014"
+    },
+    {
+        "title": "PEMBUATAN SOFTWARE APLIKASI PERHITUNGAN ASENSIOREKTA MATAHARI, DEKLINASI MATAHARI, SETENGAH DIAMETER MATAHARI DAN AZIMUT MATAHARI",
+        "authors": [
+            "RIZKI AL IKHLAS",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:OU6Ihb5iCvQC",
+        "publication_date": "2014",
+        "abstract": "Pada setiap kegiatan pemetaan, terutama pada pengukuran titik kontrol, pengukuran azimut hampir tidak dapat ditinggalkan. Pada perhitungan azimut diperlukan nilai deklinasi matahari dan koreksi setengah diameter matahari pada waktu pengamatan matahari. Dikarenakan penyediaan tabel deklinasi matahari yang sulit diperoleh dan tahapan-tahapan pada hitungan azimut matahari yang membuat proses perhitungan menjadi lambat, oleh karena itu perlu dibuat program aplikasi yang dibuat secara khusus untuk menghitung nilai deklinasi matahari dan menghitung nilai azimut matahari, sehingga proses perhitungan tersebut dapat dilakukan secara otomatis oleh program aplikasi tersebut. Program ini dibuat dengan menggunakan perangkat lunak Microsoft Visual Basic 2008 yang dapat mempercepat perhitungan dan dapat menyajikan hasil perhitungan yang lebih interaktif. Pengujian program dilakukan dengan membandingkan hasil hitungan program yang dibuat pada proyek ini dengan hasil hitungan pada software Accurate Times. Proyek ini menghasilkan sebuah program yang dapat digunakan untuk menghitung nilai azimut matahari dan menghitung nilai deklinasi matahari. Hasil hitungan tabel deklinasi tersebut disajikan dalam format Microsoft Word Document. Dari pengujian hasil perhitungan terhadap data accurate time diperoleh selisih yang mungkin disebabkan karena perbedaan algoritma perhitungan dan pembulatan angka. Namun selisih hitungan deklinasi yang dihasilkan tidak lebih dari 5Êº. Jadi bisa dikatakan hasil hitungan pada program aplikasi yang dibuat mendekati hasil hitungan yang benar.In each mapping …"
+    },
+    {
+        "title": "PEMETAAN KONDISI DASAR LAUT MENGGUNAKAN DATA HASIL PENGUKURAN SIDE SCAN SONAR DAN MULTIBEAM ECHOSOUNDER",
+        "authors": [
+            "DICKY PRIMA DIMANTIKHA",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:SP6oXDckpogC",
+        "publication_date": "2014",
+        "abstract": "Pemetaan laut, khususnya pemetaan bathimetri merupakan keperluan dalam rangka penyediaan informasi spasial untuk kegiatan, perencanaan, dan pengambilan keputusan yang berkaitan dengan informasi di bidang kelautan. Seiring perkembangan zaman, pemetaan bathimetri dapat dilakukan dengan berbagai teknologi dan metode. Penerapan teknologi akustik dasar laut terus berkembang untuk tujuan ilmiah antara lain, digunakan untuk mempelajari proses perambatan suara pada medium air yang mampu memberikan informasi dasar perairan, komunikasi, dan penentuan posisi di perairan. Penerapan teknologi akustik adalah penggunaan side scan sonar dan multibeam echosounder untuk melakukan pengumpulan data posisi dan situasi dalam survei hidrografi. Salah satu kegiatan survei hidrografi yang memanfaatkan teknologi akustik dilaksanakan oleh BPPTTeknologi Survei Laut di daerah Balongan Indramayu. Daerah ini merupakan salah satu daerah pembangunan infrainfrastruktur dasar laut antara lain, pipa minyak milik Pertamina. Survei hidrografi tersebut bertujuan untuk memperoleh informasi kondisi dasar laut menggunakan side scan sonar dan multibeam echosounder terhadap posisi pipa dan objek dasar laut. Survei atau pemetaan menggunakan multibeam echosounder dan side scan sonar ini termasuk ke dalam jenis pemetaan tematik yang menghasilkan peta yang menjelaskan keadaan lingkungan berdasarkan hasil survei tersebut. Survei hidrografi menggunakan data side scan sonar dan multibeam menghasilkan peta kondisi dasar laut untuk melakukan interpretasi terhadap kondisi dasar laut, sehingga dari …"
+    },
+    {
+        "title": "Digital Elevation Modeling oflnaccessible Slope by Using Close-range Photogrammetric Data",
+        "authors": [
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:4DMP91E08xMC",
+        "publication_date": "2013/10/9",
+        "abstract": "Digital Elevation Model (DEM) currently is extensively used extensively in vanous applications such as for natural hazard assessment and monitoring of high risk areas. DEM data source of inaccessible areas can be collected by using several methods, but mostly are costly and requires sophisticated instruments. Due to these conditions, close-range photograrnmetry offers a low cost alternative solution. Materials presented in this thesis are based on the experiments to explain the application of close-range photogrammetry with the aid of commercial digital pocket camera as DEM data collection tools, applied on inaccessible slope areas. The analysis covers calibration of the camera and surveying instruments, DEM data collections, data processing and visualization, together with DEM quality measures. The data collections are accomplished on several study areas with different topographical characteristics by using close-range photograrnmetry technique. The sampling points were selected on stereo model, by using three types of sampling methods. The DEM quality measures are assessed by following elevation interpolation error and volumetric difference error analyses. The representation of the DEM is generated using TIN-based (Triangular Irregular Network) approach. The result shows that the method is able to be applied for three dimensional (3D) modeling of potentially unstable slope areas, with accuracy of less than 15 em in RMS for elevation error and is less than 1% in volume error. The result has indicated that topographical condition has not affected the accuracy of generated DEM. Improvement of point density radically enhances …",
+        "pdf_link": "https://utpedia.utp.edu.my/id/eprint/8749/1/2009%20-%20Digital%20Elevation%20Modelling%20of%20Inaccessible%20Slope%20by%20Using%20Close-Range%20Photogrammetric%20Dat.pdf"
+    },
+    {
+        "title": "ANALISIS PERBANDINGAN DATA HASIL PENGUKURAN BATIMETRI MENGGUNAKAN ALAT SINGLEBEAM ECHOSOUNDER ODOM HYDROTRAC II DAN FISH FINDER GARMIN MAP SOUNDER 178 C",
+        "authors": [
+            "GIA ADI PRAMANDA",
+            "Bambang Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:sSrBHYA8nusC",
+        "publication_date": "2013"
+    },
+    {
+        "title": "MASS MOVEMENT MONITORING ON SLOPE OF SIMPANG PULAI-LOGING HIGHWAY USING TERRESTRIAL SURVEY DATA",
+        "authors": [
+            "Mohd Asri Bin Hj ZAHID",
+            "Bambang Kun CAHYONO",
+            "Nurrohmat WIDJAJANTI",
+            "Abdul Nasir MATORI"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "EACEF-International Conference of Civil Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:cFHS6HbyZ2cC",
+        "publication_date": "2011/8/1",
+        "abstract": "Deformation monitoring of slope area will be essential if the location is close to a vital infrastructure or public utilities. By monitoring the velocity and direction of mass movement, landslide can be accurately identified, in order to rescue the surrounding area. Study area of this research is located at Simpang Pulai–Lojing Highway in Cameron Highland, Malaysia. This paper presents trend-line of weekly data in duration time of 4th May 2006 to 1st August 2007, whereas the data was measured by using robotic Total Station. This paper focus on landslide detection based on magnitudes and directions of each permanent point calculated using certain statistical method. Therefore based on the statistical test stability of each point can be defined. The results show that in the period of 64 days there were significant movements at the study area."
+    },
+    {
+        "title": "Pemanfaatan Prototip ROV (Remotely Operated Vehicle) dan Aplikasi Antarmuka untuk Visualisasi Jalur Perum dalam Survei Batimetri",
+        "authors": [
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:P5F9QuxV20EC",
+        "abstract": "Boat/ship has been conventionally used as a vehicle for bathymetry survey using echosounder. One of the main factors that influence the effectiveness of the implementation of bathymetry survey using a boat/ship is in the flexibility of doing the survey along and across the predefined survey lanes. In the narrow waters (small dam sluice gates, settling pond area of open pit and so on), this activities are always constrained. This study aims to build ROV prototype that can be used as an alternative vehicle for bathymetric surveys in narrow waters. ROV planned to be used in this study is a mini boat controlled using a remote control. By using a smaller vehicle it is expected that the survey will be more flexible. This study also aimed to produce an application interface that can be used by surveyors to control ROV during the survei execution along and across the predefined survey lane. The interface is planned to provide visual guidance to the operator during the survey excution. Based on the result of the work it can be concluded that the ROV can be used for bathymetric measurements with the spacing between survey lanes of below 7, 5m. The time needed to make the shift between lanes is below 30 seconds. ROV still requires further development due to the slow movement during the survey. Application interfaces generated in this study is called VisualLine with 1.01 Mb size and can run on Windows operating systems. This application can display the position of the ROV, survey lanes and the distance between the ROV position to the closest survey lane. In general, the application runs fine due to the the absence of rogram error during the simulations …",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/350105631_Pemanfaatan_Prototip_ROV_Remotely_Operated_Vehicle_dan_Aplikasi_Antarmuka_untuk_Visualisasi_Jalur_Perum_dalam_Survei_Batimetri/links/60518ddda6fdccbfeae6243a/Pemanfaatan-Prototip-ROV-Remotely-Operated-Vehicle-dan-Aplikasi-Antarmuka-untuk-Visualisasi-Jalur-Perum-dalam-Survei-Batimetri.pdf"
+    },
+    {
+        "title": "Analisis Ketelitian Pergeseran Titik Pantau Terhadap Variasi Resolusi Foto Pada Teknik Fotogrametri Jarak Dekat",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Ruli Andaru",
+            "Nur Ikawati"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:blknAaTinKkC",
+        "abstract": "Observation of displacement of any object can be done by geometrical analysis. One of the alternative technics in data acquisition in term of geometric analysis is by using close range photogrammetry method. Selection of photo resolution used for image capturing of moving objects is an important aspect, but this aspect rarely to be concerned. Further research about photo resolution used for image capturing is need to be performed. This research performed by following close-range photogrammetric method using DSLR non-metric digital cameras. Some procedures in this research included acquisition coordinates of GCPs data by total station (TS), camera callibrations, capturing image a cliff as deform object, photogrametric processing, and data analysis. Based on the result can be noted that a better resolution of the photograph produces more accurate in coordinat determination, therefore the displacement of the observed points can be acquired more accurately. Resolution of the photographs used in image capturing will be linear to the acuracy of observed point positioning. The average of RMSE for observed point coordinates in the resolution of 1936 x 1280 pixel is 22.346/9.008/11.085 mm respectively in directions of x, y, and z. The average of RMSE on 2816 x 1880 pixel are 19.139/8.952/12.790 mm, whereas by resolution of 3888x2592 pixel are 18.764/8.444/12.987 mm. In the other hand, photographs resolution will be linear to the observed point displacement. The average of RMSE of observed point displacements for each photo resolution are 3.694 mm on 1936 x 1280 pixel; 3.088 mm on 2816 x 1880 pixel and 2.630 mm on 3888 x …",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/347439452_Analisis_Ketelitian_Pergeseran_Titik_Pantau_Terhadap_Variasi_Resolusi_Foto_Pada_Teknik_Fotogrametri_Jarak_Dekat/links/5fdbaa99299bf140881b4552/Analisis-Ketelitian-Pergeseran-Titik-Pantau-Terhadap-Variasi-Resolusi-Foto-Pada-Teknik-Fotogrametri-Jarak-Dekat.pdf"
+    },
+    {
+        "title": "APPLICATION OF SPOT5 SATELLITE IMAGE AND GIS FOR UPDATING ROAD NETWORK: TOWARDS BUILDING LANDSLIDE SPATIAL DATABASE",
+        "authors": [
+            "Abdul Basith",
+            "Abdul Nasir Matori",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:IWHjjKOFINEC",
+        "abstract": "Rapid development in urbanization is usually followed by development in transportation network. As the consequence, latest developed road networks are not found on the existing topographic map. As the topographic map-derived road network is not updated in short period, it is important to shorten the map updating cycles. SPOT 5 satellite image offers a cost effective way for updating the map compared to a conventional mapping method. The image, acquired in 2005, is used for updating road network on topographic map scaled at 1: 50000, sheet 74, issued by JUPEM which was derived from aerial photograph taken in 1981. The road connecting Simpang Pulai cross and Kampung Raja, Cameron Highlands, is selected due to its considerably rapid development and susceptibility to landslide. Since most landslide occurrences take place along the road, updating road map as part of landslide geo-database becomes necessary. SPOT5 image is registered into Malaysian Coordinate System, RSO, to conform to the existing registered topographic map. Both image classification and on screen digitization methods are used to extract road network feature. The latest method is applied to complement to the first one in case of facing uncertainty in image classification. The quality of extracted road network from image classification is discussed. The extracted road network is stored into landslide spatial database. In regard to landslide aspects, features such as barren land, vegetation coverage, are also extracted. DEM derived from topographic map is used to generate slope risk map. GIS analysis is performed to locate high risk areas that prone to …",
+        "pdf_link": "https://www.academia.edu/download/91678179/HBP31.pdf"
+    },
+    {
+        "title": "CHARACTERIZING ACCURACY OF DEM DERIVED FROM CLOSE-RANGE PHOTOGRAMMETRIC",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Abdul Nasir Matori",
+            "Dedi Atunggal",
+            "Abdul Basith"        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:dhFuZR0502QC",
+        "abstract": "Digital Elevation Model (DEM) is a digital data represented an easting northing and height of object position, in which it can be derived from many data sources and techniques. One such method is a close-range photogrammetry. It is a technique for obtaining three dimensional (3D) geometric information of any object that was imaged on two dimensional (2D) photographs by an analytical stereo model. Analytical stereo model involves three main steps; interior, relative, and absolute orientations. It requires Ground Control Points (GCP) to determine positions and orientation of the camera and also parameters of coordinate transformations. By these orientations coordinates all features on overlapping area can be transformed into ground coordinate system. Camera calibration is accomplished before the survey execution. This is intended to derive the intrinsic and extrinsic camera parameters, which are needed to refine the images on the interior orientation process. The 3D DEM is interpolated by using Triangular Irregular Network (TIN) method. Correlation between point density and DEM quality can be characterized by generating set of DEM where the point density is subsequently increased by 10%. Then it was compared with a reference DEM derived from Total Station data, in term of elevation interpolation and volumetric calculation. Result of the experiment shows that the increasing of point density leads to a significant improvement of the DEM quality.",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/347442496_Characterizing_Accuracy_of_DEM_Derived_from_Close-Range_Photogrammetric/links/5fdc2d10299bf140881b575d/Characterizing-Accuracy-of-DEM-Derived-from-Close-Range-Photogrammetric"
+    },
+    {
+        "title": "Estimating the Quality of Digital Terrain Model Generated from RTK GPS Data on Terrain with Various Sky of Views",
+        "authors": [
+            "Dedi Atunggal SP",
+            "BK Cahyono"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:9ZlFYXVOiuMC",
+        "abstract": "Digital Terrain Model is an essential tool in many engineering projects including civil engineering. Most of civil engineering projects are in large scale applications which commonly use high-resolution DTM. One of the consequences of using such digital model is the need to characterize its quality. This article is based on the experiment of studying the effect of sky of view on the accuracy of RTK GPS data and its influence on the quality of the generated DTM. This is due to the fact that obstruction is the main factor which normally decreases the quality of GPS data. Total station survey was carried out to provide the reference DTM. Grid-based points sampling was used to ensure an apple to apple comparison between the RTK GPS DTM and the reference DTM. Height error and volumetric error analysis were taken as the parameter of the DTM quality. Result of the experiment shows that applying RTK GPS for data …"
+    },
+    {
+        "title": "Pemantauan Perubahan Kedalaman dan Persebaran Sedimentasi Bendungan Berdasarkan Data Pengukuran Batimetri (Studi kasus: Waduk Sermo, Kec. Kokap Kab. Kulonprogo–DIY)",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Abdul Basith Parseno"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g3m5JIYAAAAJ&cstart=20&pagesize=80&citation_for_view=g3m5JIYAAAAJ:kNdYIx-mwKoC",
+        "abstract": "Air merupakan sebuah potensi dan sumber daya yang harus tetap diperhatikan ketersediaan dan distribusinya, diharapkan dengan pengelolaan yang baik bancana kekeringan ataupun banjir tidak akan terjadi. Salah satu usahanya adalah pembangunan bendungan yang membendung aliran sungai pada daerah tertentu. Pembuatan bendungan selalu diiringi dengan perkembangan aktifitas masyarakat sekitar, baik kegiatan wisata, ekonomi, maupun aktifitas sehari-hari. Sayangnya aktifitas ini seringnya berdampak negatif terhadap kondisi bendungan itu sendiri, seperti terjadinya erosi dan pendangkalan bendungan. Apabila hal ini tidak diperhatikan dengan seksama, keberadaan bendungan sebagai penyedia air bagi masyarakat pasti terancam. Paper ini mencoba menyajikan cara pemantauan sedimentasi yang terjadi beserta persebarannya, sekaligus memantau perubahan volume airnya. Dengan mengambil studi kasus di waduk sermo yang terletak di desa Hargosari, Kokap-Kulonprogo, diharapkan teknik ini bisa aplikasikan pada bendungan lainnya. Perhitungan sedimentasi serta perubahan volume air yang terjadi pada bendungan diturunkan dari data topografi dasar bendungan. Pengukuran batimetri dilakukan pada 06/08/2005 dan 24/06/2006, menggunakan echosounder dan GPS. Hasil pemetaan berupa peta batimetri tiga dimensi. Berdasarkan peta tersebut, dihitung luas permukaan dan volume air bendungan. Pesebaran dan kondisi sedimentasi bendungan diketahui dengan membandingkan peta batimetri 2006 dengan peta 2005. Perhitungan arus dilakukan untuk mengetahui pengaruh arus terhadap persebaran …",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/347517195_Pemantauan_Perubahan_Kedalaman_dan_Persebaran_Sedimentasi_Bendungan_Berdasarkan_Data_Pengukuran_Batimetri/links/5fe04c37299bf140882f9762/Pemantauan-Perubahan-Kedalaman-dan-Persebaran-Sedimentasi-Bendungan-Berdasarkan-Data-Pengukuran-Batimetri.pdf"
+    }
+]

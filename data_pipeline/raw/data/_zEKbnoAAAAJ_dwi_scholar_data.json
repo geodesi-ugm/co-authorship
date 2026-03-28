@@ -1,0 +1,119 @@
+[
+    {
+        "title": "Present-day crustal deformation revealed active tectonics in Yogyakarta, Indonesia inferred from GPS observations",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "T Aris Sunantyo",
+            "Leni Sophia Heliani",
+            "Bilal Ma'ruf",
+            "Dedi Atunggal",
+            "Dwi Lestari",
+            "Hilmiyati Ulinnuha",
+            "Arinda Pinasti",
+            "Riska Fajrul Ummi"
+        ],
+        "cited_by": "30",
+        "year": "2020",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_zEKbnoAAAAJ&citation_for_view=_zEKbnoAAAAJ:qjMakFHDy7sC",
+        "publication_date": "2020/3/1",
+        "abstract": "We investigated the active crustal structure in Yogyakarta, Indonesia, using new and denser Global Positioning System (GPS) data. Deformation rate estimated from five years (2013–2018) of observations on 22 campaign might record broad deformation after the 2006 Mw7.8 Java tsunami earthquake and postseismic transient due to the 2006 Mw6.3 Yogyakarta earthquake. We conducted a decomposition method to obtain a short wavelength feature by removing those postseismic deformations from the observation data. The short wavelength pattern revealed active tectonics indicating a combination of E–W dip-slip motion and N–S left-lateral structure. A large maximum shear strain rate (>0.1 microstrain/yr) was estimated along the Opak fault while a large dilatation rate (<-0.1 microstrain/yr) was estimated around the Bantul Graben. The analysis result indicates important implications for crustal dynamics and …",
+        "total_citations": "Cited by 30",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984720300148"
+    },
+    {
+        "title": "GPS study for resolving the stability of Borobudur temple site",
+        "authors": [
+            "Dwi Lestari"
+        ],
+        "cited_by": "26",
+        "year": "2006",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_zEKbnoAAAAJ&citation_for_view=_zEKbnoAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2006",
+        "abstract": "The maintenance of the world’s important cultural monuments is a complex task embracing many disciplines. One important aspect of individual management plans is the stability of the monument. Borobudur, in Central Java, uncovered in a state of dilapidation in the early nineteenth century and finally restored in the second half of the twentieth century was restored using internal beams and injection technology with the view of providing a stable foundation for the foreseeable future.",
+        "total_citations": "Cited by 26",
+        "pdf_link": "https://unsworks.unsw.edu.au/bitstreams/6564b9cb-a07d-45af-858a-eba2f8d345ab/download"
+    },
+    {
+        "title": "Analisis Pergeseran Titik Jaring Pemantau Candi Borobudur Mengacu ke ITRF 2008 Berdasarkan Data Pengamatan GPS pada Tahun 2003 dan 2012",
+        "authors": [
+            "Dwi Lestari",
+            "Bondan Galih Dewanto"
+        ],
+        "cited_by": "10",
+        "year": "2020",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_zEKbnoAAAAJ&citation_for_view=_zEKbnoAAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2020",
+        "abstract": "Pemantauan posisi Candi Borobudur bertujuan untuk menjaga warisan dunia. Salah satu caranya adalah dengan pembangunan bench mark (BM) atau titik kontrol untuk pemantauan deformasi menggunakan Global Positioning System (GPS). Pengukuran menggunakan teknologi GPS untuk pemantauan stabilitas Candi Borobudur telah dilakukan pada tahun 2002, 2003, dan 2012, menggunakan Global Kalman Filter VLBI dan analisis GPS dan mengacu pada ITRF2000 untuk menganalisis pergeseran horisontal. ITRF menuntut pemutakhiran data koordinat titik-titik kontrol secara periodik. Perbedaan penggunaan versi ITRF pada pengolahan data GPS berdampak pada perbedaan ketelitian estimasi posisi, besar kecepatan dan arah pergeseran titik-titik kontrol. Tujuan dari penelitian ini adalah untuk mengukur estimasi posisi, kecepatan, dan arah pergerakan dari titik control GPS berdasarkan data 2003 dan 2012 dan mengacu pada ITRF2008. Masing-masing kala melalui tahapan regional processing dan local processing. Koordinat dari hasil local processing GAMIT/GLOBK selanjutnya dibandingkan dengan koordinat hasil olahan mengacu ITRF2000 yang telah ditransformasi menjadi koordinat mengacu ITRF2008. Analisis pergeseran titik berdasarkan koordinat dan hasil dari data 2003 dan 2012. Penelitian ini menghasilkan bahwa perbedaan posisi dan akurasi pada pengolahan regional dan lokal mengindikasikan transformasi dari ITRF2000 ke ITRF2008 berada pada standar deviasi yang dihasilkan GAMIT dan GLOBK yang mengacu pada ITRF2008. Selanjutnya, rata-rata nilai pergeseran horisontal periode 2003 dan 2012 adalah …",
+        "total_citations": "Cited by 10",
+        "pdf_link": "https://www.academia.edu/download/93594691/29803.pdf"
+    },
+    {
+        "title": "Analisis Stabilitas Candi Borobudur Berdasar Integrasi Data Pengamatan GPS dan Terestris Jaring Pemantau Deformasi Candi",
+        "authors": [
+            "DWI LESTARI"
+        ],
+        "cited_by": "6",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_zEKbnoAAAAJ&citation_for_view=_zEKbnoAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2015",
+        "total_citations": "Cited by 6"
+    },
+    {
+        "title": "Estimasi Potensi Gempa Tektonik di Wilayah Sesar Opak Berdasarkan Data Pengamatan GPS",
+        "authors": [
+            "ST Novianti H Ulinnuha",
+            "D Lestari",
+            "N Widjajanti, Parseno",
+            "C Pratama",
+            "LS Heliani"
+        ],
+        "cited_by": "1",
+        "year": "2022",
+        "venue": "Journal of Geodesy and Geomatics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_zEKbnoAAAAJ&citation_for_view=_zEKbnoAAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2022/9/1",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Comparison of Horizontal Displacement from Horizontal Control Network Adjustment Result  Using Observation Model and Time-Variant Methods (Case Study: Horizontal Control …",
+        "authors": [
+            "Dwi Lestari",
+            "Een Lujainatul Isnaini"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_zEKbnoAAAAJ&citation_for_view=_zEKbnoAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2018/9/25"
+    },
+    {
+        "title": "Time Variant Adjustment for The Solution of Control Point Unstability in Deformation Analysis of Borobudur Vertical Deformation Network",
+        "authors": [
+            "Rizki Iman Sari",
+            "Dwi Lestari",
+            "Yulaikhah"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_zEKbnoAAAAJ&citation_for_view=_zEKbnoAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2018"
+    },
+    {
+        "title": "Studi Deformasi pada Candi Borobudur dengan Pendekatan Geodetik",
+        "authors": [
+            "Dwi Lestari",
+            "Nurrohmat Widjajanti"
+        ],
+        "cited_by": "",
+        "year": "2000",
+        "venue": "text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_zEKbnoAAAAJ&citation_for_view=_zEKbnoAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2000"
+    }
+]

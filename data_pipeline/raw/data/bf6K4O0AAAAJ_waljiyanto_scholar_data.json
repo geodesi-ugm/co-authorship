@@ -1,0 +1,139 @@
+[
+    {
+        "title": "Pembuatan Peta dan Sistem Informasi Geospasial Lahan Pertanian di Kecamatan Sentolo, Kabupaten Kulonprogo, Yogyakarta",
+        "authors": [
+            "Rochmad Muryamto",
+            "Waljiyanto Waljiyanto",
+            "Untung Rahardjo",
+            "Gondang Riyadi",
+            "Ruli Andaru",
+            "Iqbal Taftazani",
+            "Wahyu Marta",
+            "Annisa Farida"
+        ],
+        "cited_by": "11",
+        "year": "",
+        "venue": "Jurnal Pengabdian Kepada Masyarakat (Indonesian Journal of Community Engagement)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bf6K4O0AAAAJ&citation_for_view=bf6K4O0AAAAJ:u5HHmVD_uO8C",
+        "abstract": "Kabupaten Kulonprogo merupakan bagian dari wilayah Daerah Istimewa Yogyakarta yang memiliki luas lahan pertanian sebesar±10.700 hektar (Dinas Pertanian dan Kehutanan, 2014). Berdasarkan Perda DIY, Nomor 10, Tahun 2011, Pasal 9, Ayat 2, Butir (d) ditetapkan bahwa luas lahan pertanian pangan berkelanjutan di Kabupaten Kulonprogo hanya seluas 5.029 hektar. Peraturan Daerah Provinsi Daerah Istimewa Yogyakarta, Nomor 10, Tahun 2011 tentang Perlindungan Lahan Pertanian Pangan Berkelanjutan menyebutkan bahwa kegiatan mempertahankan ketahanan dan kedaulatan pangan serta pencegahan terjadinya alih fungsi lahan pertanian ke nonpertanian perlu dilakukan. Tujuan pengabdian masyarakat ini adalah untuk membuat sistem informasi geospasial lahan pertanian pada sebagian kecil area pertanian di Desa Sukoreno, Kecamatan Sentolo, Kabupaten Kulonprogo. Pada kegiatan pengabdian ini, luas daerah yang dipetakan adalah±10 hektar. Berdasarkan luas lahan pertanian yang dipetakan tersebut ditentukan metode yang akan digunakan dalam pengambilan data, yaitu metode pemotretan foto udara dengan pesawat tanpa awak atau Unmanned Aerial Vehicle (UAV). Dengan metode tersebut, seluruh area pertanian yang ada di Kabupaten Kulonprogo diharapkan dapat dipotret dengan cepat. Hasil dari pengabdian masyarakat ini adalah sistem informasi geospasial dan peta lahan pertanian yang dapat digunakan oleh Pemerintah Kabupaten Kulonprogo dalam mendukung kegiatan perlindungan lahan pertanian pangan berkelanjutan.",
+        "total_citations": "Cited by 11",
+        "pdf_link": "https://www.academia.edu/download/79455677/7997.pdf"
+    },
+    {
+        "title": "Perhitungan Kecepatan Sedimentasi Melalui Pendekatan Usle dan Pengukuran Kandungan Tanah dalam Air Sungai yang Masuk ke dalam Waduk Sermo",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Lukman Hakim",
+            "Waljiyanto Waljiyanto",
+            "Agus Darmawan Adhi"
+        ],
+        "cited_by": "9",
+        "year": "2017",
+        "venue": "Jurnal Nasional Teknologi Terapan (JNTT)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bf6K4O0AAAAJ&citation_for_view=bf6K4O0AAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2017/11",
+        "abstract": "Dam is one of the essential man-made buildings which was developed to various beneficialy purposes such as irrigation, fresh water supply, flooding and drying control, and also tourism. Due to those mentioned functions, condition of the dam has to be maintained continuously especially from sedimentation. Sedimentation is being a serious threat for the continuity of dam services. Protecting dam from sedimentation is not only managing dam area, but also we have to care all watershed area, because the sedimentation is caused by erotion on the area. In order to know the rate of the sedimentation within the dam, measurement and prediction must be done. One of methods to predict and measure the sedimentation is by analyzing geospatial data using USLE Approach, and analyzing suspended sediment in river’s water toward to the dam. By those both analysis, rate of sedimentation happened within the dam can be calculated. This paper try to use geospatial (GIS) based analysis to estimate the sedimentation rate using USLE approach within Ngrancah Watershed. The USLE Formula requires four types of maps, they are soil type, slope, land cover, and rain erosivity maps. Each of maps is classified to the specific standards, then will be analized by overlaying to another map. Another method will be used to estimate the sedimentation rate is the suspended sediment measurement. This method was determined using sediment transport formula. The data used are samples of river water ing Ngerancah Watershed that was flow toward to the Sermo Dam, and daily volume of inflow water. Those resulted values, then were compared each other …",
+        "total_citations": "Cited by 9",
+        "pdf_link": "https://www.academia.edu/download/113049382/20349.pdf"
+    },
+    {
+        "title": "Penyusunan Model Konsepsual Basisdata untuk Sistem Informasi Kadaster Multiguna.",
+        "authors": [
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "9",
+        "year": "2003",
+        "venue": "Forum Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bf6K4O0AAAAJ&citation_for_view=bf6K4O0AAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2003",
+        "abstract": ": The term of multipurpose cadastre is used to describe a system that is designed to record, store, and provide not only land-tenure and land valuation information but also a wide variety of information that can be functionally related to and referenced by property parcels. It means that multipurpose not only receives information and data from many sources, but it also provides services and products for many purposes and users. The research is directed to design a conceptual model of multipurpose cadastre database for developing its information system.The conceptual model was developed using entity relationship diagram and represented in relational database structure. A model of multipurpose cadastre was also developed using some parcel based data that came from many sources. The model was situated in Kelurahan Tahunan, Yogyakarta.",
+        "total_citations": "Cited by 9"
+    },
+    {
+        "title": "Understanding the Urgency for 3D Cadastre in Indonesia: Development & Visualization of a Hybrid 3D Cadastre Model",
+        "authors": [
+            "T Aditya",
+            "Waljiyanto Subaryono",
+            "Diyono Istarno",
+            "R Untung",
+            "M ROCHMAD",
+            "I FEBRI"
+        ],
+        "cited_by": "4",
+        "year": "2009",
+        "venue": "10th South East Asian Survey Congress",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bf6K4O0AAAAJ&citation_for_view=bf6K4O0AAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2009",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "Perhitungan Volume dan Sebaran Sedimentasi Waduk Sermo Berdasarkan Kondisi Awal Pembangunan dan Keadaan Terkini di Tahun 2016",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Oktavinno Permadi",
+            "Waljiyanto Waljiyanto",
+            "Rofika Dyah Maharani"
+        ],
+        "cited_by": "1",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bf6K4O0AAAAJ&citation_for_view=bf6K4O0AAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2017/11/11",
+        "abstract": "Sermo Dam was built in the Hargowilis village, Kokap, Kulonprogo, DI Yogyakarta. The Dam is blocking river’s water flow of the Ngerancah river and several rivers in this area. It fills certain part of Hargowilis area with approximately 25 million cubic meters fresh water. Because of the water potential and side view of the area, Sermo dam was developed to various beneficial function such as irrigation, fresh water needs for surrounding area, flooding and drying control, and tourism. Due to this mentioned functions, therefore good management and maintenance for the dam is needed. One of the problems that can not be avoided be cause of blocking rivers flow is sedimentation. If the sedimentation is uncontroled it will fill up the dam, and will reduce water storage capacity of the dam. To control the sedimentation, so some measurements must be executed to know the current condition and the acceleration of sedimentation. It is necessary to measure the volume of water storage and predict the sedimentation rate. This paper trying to determine volume of Sermo Dam water storage in 2016, and predict Sermo Dam sedimentation rate since it was first built (1996) to the present (2016). Based on resulted data it can be analysis using geospatial based data analysis, the volume of Sermo Dam water storage is 13,153,894.056 cubic meters (water level at 130 meter), and the rate of sedimentation acceleration in Sermo Dam is 184,569.687 m3/year. In addition, spread of sedimentation patterns also served in the distribution map and profile changes of sedimentation.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.academia.edu/download/113049397/FullPaper_PerhitunganVolumeDanSebaranSedimentasiWadukSermoBerdasarkanKondisiAwalPembangunanDanKeadaanTerkiniDiTahun2016_BambangKun-Walji.pdf"
+    },
+    {
+        "title": "The analysis of monitoring control point displacement of Sermo Dam based on the 2015-2016 GNSS data",
+        "authors": [
+            "Yulaikhah",
+            "W Nurrohmat",
+            "N Prijono",
+            "KC Bambang, Waljiyanto",
+            "DA Agus",
+            "MI Taftazani"
+        ],
+        "cited_by": "1",
+        "year": "2017",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bf6K4O0AAAAJ&citation_for_view=bf6K4O0AAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2017/7/25",
+        "abstract": "Sermo dam has operated for 20 years. This dam has a great benefit, especially as a water storage for water supply, irrigation and flood prevention. For the purposes of Sermo dam deformation monitoring, the control network was built around the Sermo dam in 2010. Then, this network was developed in 2015 by adding 5 new control points. For the time being, the network consists of 8 existing control points (micro) and 5 new control points (macro). The aim of the study is to monitor the control network displacement in the period of 2015 to 2016 based on GNSS observation data.GNSS measurement were conducted at 9 to10 of May 2015 and 12 to 15 of May 2016. The data observation was processed using GAMIT/GBLOK scientific software referenced to IGS station to determine the coordinates and its standard deviation. Further, horizontal and vertical displacement was analyzed by comparing with 2.5 times the …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4987078/13746827/040014_1_online.pdf"
+    },
+    {
+        "title": "Pengukuran Laju Sedimentasi Waduk Sermo Berdasarkan Analisa Data Pengukuran Batimetri, Kandungan Tanah dalam Air Sungai, serta Analisa Sedimentasi Dasar Waduk",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Agus Darmawan Adi",
+            "Sumarno Sumarno",
+            "Yulaikhah Yulaikhah",
+            "Nurrohmat Widjajanti",
+            "Waljiyanto Waljiyanto",
+            "Muhammad Iqbal Taftazani"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bf6K4O0AAAAJ&citation_for_view=bf6K4O0AAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2016"
+    },
+    {
+        "title": "Uji Kualitas Data Pengukuran Titik Kontrol Pemantauan Waduk Sermo Tahun 2016",
+        "authors": [
+            "Muhammad Iqbal Taftazani",
+            "Bambang Kun Cahyono",
+            "Waljiyanto Waljiyanto",
+            "Prijono Nugroho",
+            "Yulaikhah Yulaikhah",
+            "Nurrohmat Widjajanti",
+            "Agus Darmawan Adi"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bf6K4O0AAAAJ&citation_for_view=bf6K4O0AAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2016"
+    }
+]

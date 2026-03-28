@@ -1,0 +1,381 @@
+[
+    {
+        "title": "Visualization of 3D survey data for strata titles",
+        "authors": [
+            "Trias Aditya",
+            "Dany Laksono",
+            "Febrian F Susanta",
+            "I Istarno",
+            "D Diyono",
+            "Didik Ariyanto"
+        ],
+        "cited_by": "19",
+        "year": "2020",
+        "venue": "ISPRS International Journal of Geo-Information",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2020/5/7",
+        "abstract": "Major cities and urban areas are beginning to develop and use 3D properties and public facilities. Consequently, 3D cadastral surveys are increasingly being employed for strata unit ownership registration as a part of land administration services. At present, most national land information systems do not support 2D and 3D cadastral visualizations. A field survey or validation survey is required to determine the geometry of 3D spatial units for property registration. However, the results of 3D surveys and mapping are not stored in the land information system. This work aims to integrate 2D and 3D geospatial data of property units collected from cadastral surveys with their corresponding legal data. It reviews the workflow for the use of 3D survey data for first-titling of 3D properties in Indonesia. A scenario of use and a prototype were developed based on existing practices and the possibility of extending Indonesia’s Land Administration Domain Model (LADM) to represent 3D units. Data submitted to the prototype as 3D geometries was survey data from 3D cadastral surveys or validation surveys utilizing terrestrial survey methods. The prototype used PostGIS and Cesium Ion to store 3D geometries of data from six 3D surveys. Registrars in local land offices could use the prototype to undertake strata unit registration that establishes a relationship among geospatial features and their survey documents and legal documents. Cesium JS was used as a 3D browser, customized as a web application, to manage and visualize 3D survey data to support strata title registration. The results demonstrate that the first titling of 3D cadaster objects could be conducted …",
+        "total_citations": "Cited by 19",
+        "pdf_link": "https://www.mdpi.com/2220-9964/9/5/310"
+    },
+    {
+        "title": "Predicting land use affected by land subsidence in semarang based on topographic map of scale 1: 5.000 and leveling data",
+        "authors": [
+            "HRASD Sutanta",
+            "A Rachman",
+            "Diyono",
+            "Sumaryo"
+        ],
+        "cited_by": "19",
+        "year": "2005",
+        "venue": "Proceedings of the Map Asia 2005 Conference (in CDRom), Jakarta",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2005/8/22",
+        "total_citations": "Cited by 19"
+    },
+    {
+        "title": "Analisis Hasil Penetapan Batas Desa Di Kabupaten Gunungkidul Provinsi Daerah Istimewa Yogyakarta",
+        "authors": [
+            "Heri Sutanta",
+            "Imasti Dhani Pratiwi",
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono",
+            "Diyono Diyono"
+        ],
+        "cited_by": "14",
+        "year": "2020",
+        "venue": "Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2020/11/30",
+        "abstract": "Batas administrasi desa memiliki peran yang sangat penting dalam berbagai kegiatan pemerintahan. Batas desa di Kabupaten Gunungkidul didelineasi ulang pada tahun 2018 melalui kegiatan yang difasilitasi oleh Dinas Pertanahan dan Tata Ruang Provinsi Daerah Istimewa Yogyakarta. Acuan utama untuk membuat Peta Kerja Batas adalah Peta Desa Lama skala 1: 5.000 yang dibuat antara tahun 1932-1938. Batas desa pada Peta Desa Lama tersebut diinterpretasi dan didigitasi di Citra Tegak Resolusi Tinggi dari Badan Informasi Geospasial. Penelitian ini menganalisis perbedaan batas dalam hal karaksteristik segmen batas, pergeseran segmen batas, dan perubahan luas wilayah. Terdapat perubahan karakteristik segmen batas yang berupa titik temu, segmen berbatasan dan segmen tidak berbatasan. Pergeseran posisi segmen batas yang terjadi sampai 1.773 m pada Peta RBI, dan 997 m pada hasil …",
+        "total_citations": "Cited by 14"
+    },
+    {
+        "title": "I-SRI, an SDI Readiness Index for Local Government in Indonesia",
+        "authors": [
+            "Heri Sutanta",
+            "Trias Aditya",
+            "Purnama Budi",
+            "Dany Laksono",
+            "Diyono",
+            "Annisa Farida"
+        ],
+        "cited_by": "7",
+        "year": "2014",
+        "venue": "Proceedings of the FIG International Congress",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2014/6",
+        "abstract": "I-SRI, an SDI Readiness Index for Local Government in Indonesia Outline Page 1 I-SRI, an SDI \nReadiness Index for Local Government in Indonesia Heri Sutanta, Trias Aditya, Purnama Budi, \nDiyono, Dany Laksono, Annisa Farida Research Centre for Spatial Data Infrastructure \nDevelopment (Pusat Pengembangan Infrastruktur Data Spasial) Universitas Gadjah Mada XXV \nInternational Federation of Surveyors Congress, Kuala Lumpur, Malaysia, 16 – 21 June 2014 \nIntroduction SDI Development in Indonesia SDI Readiness Index for Local Government Results \nKey findings and Future Works Outline XXV International Federation of Surveyors Congress, \nKuala Lumpur, Malaysia, 16 – 21 June 2014 Page 2 SDI has been developed for around \ntwenty years Success stories varies from countries and from different level of governments \nSDI Readiness Index (SRI) can facilitate mapping of progress as well as impediments in …",
+        "total_citations": "Cited by 7",
+        "pdf_link": "http://w.fig.net/resources/proceedings/fig_proceedings/fig2014/ppt/ts04h/TS04H_sutanta_aditya_et_al_7298_ppt.pdf"
+    },
+    {
+        "title": "Geospatial information utilization in Indonesian local government",
+        "authors": [
+            "Sutanta Heri",
+            "Diyono Diyono",
+            "Swasto Deva"
+        ],
+        "cited_by": "6",
+        "year": "2018",
+        "venue": "2018 4th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:W7OEmFMy1HYC",
+        "publication_date": "2018/8/7",
+        "abstract": "Government decisions and actions at national and local levels have, to varying degree, spatial footprints. At the local government level, this includes spatial planning, land management, taxation, and the issuance of building and site permits. Utilization of geospatial information in Indonesian local government was started more than 25 years ago. However, there was a high variation in the intensity, frequency, and types of geospatial information utilization. In a particular local government, there was also a variation of use among local government agencies. This paper aims to portray and analyses the current status of geospatial information utilization in Indonesian local government. Quantitatively, the information was obtained from questionnaires distributed to 24 districts and seven cities. The questionnaire covered areas of data availability, utilization, and management of geospatial information. For every district and …",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://www.researchgate.net/profile/Heri-Sutanta/publication/329490480_Geospatial_Information_Utilization_in_Indonesian_Local_Government/links/65169a911e2386049de411ee/Geospatial-Information-Utilization-in-Indonesian-Local-Government.pdf"
+    },
+    {
+        "title": "Perancangan Sistem Informasi Penilaian Tanah Berbasis Web untuk Efektivitas dan Aksesibilitas yang Lebih Baik",
+        "authors": [
+            "Lasono Lasono",
+            "Diyono Diyono"
+        ],
+        "cited_by": "5",
+        "year": "2024",
+        "venue": "Tunas Agraria",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:hqOjcs7Dif8C",
+        "publication_date": "2024/5/2",
+        "abstract": "Penilaian tanah merupakan kegiatan untuk mengestimasi nilai ekonomis pada tanah atau properti untuk tujuan tertentu pada waktu tertentu dengan mempertimbangkan karakteristik pada obyek tersebut. Tahapan dalam proses penilaian tanah belum sepenuhnya terint egrasi ke dalam satu sistem. Perkembangan teknologi informasi berpeluang untuk menyediakan sistem informasi penilaian tanah berbasis web yang efisien dalam proses penilaian tanah. Penelitian ini bertujuan merancang sistem informasi penilaian tanah berbasis bidang tanah yang dapat diakses secara online dan mampu mengintegrasikan seluruh tahapan penilaian tanah dalam satu sistem. Sistem informasi dirancang berdasarkan identifikasi masalah dan kebutuhan terhadap sistem. Perancangan konseptual sistem informasi menggunakan diagram use case dan diagram aktivitas. Sistem informasi dibangun menggunakan bahasa pemrograman PHP, Leaflet. Js, HTML, CSS, dan JavaScript. Hasilnya adalah sistem informasi yang dilengkapi dengan menu utama manajemen pengguna, peta, verifikasi pembayaran, dan dashboard dengan pengguna admin, penilai, petugas BPN dan masyarakat. Sistem ini terbukti mudah digunakan berdasarkan uji kebergunaan yang menggunakan 5 dimensi yaitu efektif, efisien, menarik, toleransi terhadap kesalahan dan mudah dipelajari dengan melibatkan partisipasi pengguna. Hasil analisis pengukuran uji kebergunaan menunjukkan nilai sebesar 85, 45% yang berarti sistem informasi memberikan manfaat dan layak digunakan dalam kegiatan penilaian tanah.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "http://jurnaltunasagraria.stpn.ac.id/index.php/JTA/article/download/306/210"
+    },
+    {
+        "title": "Evaluasi Pemanfaatan Citra Tegak Satelit Resolusi Tinggi untuk Percepatan Pembuatan Peta Blok Pajak Bumi dan Bangunan (PBB-P2) secara Partisipatif di Desa Triharjo, Kabupaten …",
+        "authors": [
+            "Fauzia Aristalindra",
+            "Purnama Budi Santosa",
+            "Diyono Diyono",
+            "Subaryono Subaryono"
+        ],
+        "cited_by": "5",
+        "year": "2020",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2020/6/1",
+        "abstract": "The recent advances of remote sensing technology development can support government needs including cadastral related purposes. One of the purposes is to supply geospatial data especially land parcel maps for land and tax value inventory. This research tries to evaluate the utilization of Quickbird Satellite image for updating land and building (PBB-P2) block maps in Bantul Regency, Yogyakarta Province of Indonesia. The image was recorded in 2014 with resolution of 0.6 meter and has been ortho-rectified. Evaluation is conducted by analyzing the utilization of the image as the base map for deriving land parcel maps according to the Decree of Tax Director General number: KEP-533/PJ/2000. The process was firstly done by digitizing land parcel boundaries on Quickbird image to produce block maps. The process was done by the community through participatory mapping. The resulting block maps then were …",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "„Analisis Pemangku Kepentingan Dan Peranannya Dalam Pemanfaatan Informasi Geospasial Di Pemerintah Daerah Menggunakan Metode Social Network Analysis‟",
+        "authors": [
+            "Yesi Monika Manik",
+            "D Diyono"
+        ],
+        "cited_by": "5",
+        "year": "2018",
+        "venue": "Seminar Nasional Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:WF5omc3nYNoC",
+        "publication_date": "2018/2",
+        "abstract": "p> Informasi Geospasial (IG) merupakan informasi yang penting dalam mendukung perencanaan dan pelaksanaan pembangunan di lembaga pemerintah pusat dan daerah. Dalam Infrastruktur Data Spasial (IDSN) nasional, pemerintah daerah merupakan simpul jaringan yang memiliki peran sebagai pengguna dan produsen IG. Supaya dapat berperan dengan baik, pihak-pihak yang terlibat dalam pemanfaatan IG di pemerintah daerah perlu dioptimalisasi. Langkah optimalisasi dapat dilakukan apabila para pemangku kepentingan dan perannya dalam pemanfaatan IG dapat diidentifikasi dengan baik. Metode Social Network Analysis (SNA) digunakan dalam penelitian ini dengan tujuan untuk meneliti pola hubungan antara para pemangku kepentingan pemanfaatan IG serta untuk menganalisis tingkat partisipasinya. Data yang digunakan dalam penelitian ini diperoleh dari penelitian Pusat Pengembangan IDS Universitas Gadjah tentang indeks kesiapan pembangunan IDS pada tahun 2015 dan indeks kinerja IDS pada tahun 2016. Sebanyak 91 kabupaten dan 19 kota mengisi kuesioner tentang pola hubungan produsen dan pengguna IG. Terdapat 18 lembaga pemerintah daerah dan pusat yang terlibat dalam pertukaran IG di daerah. Perangkat lunak open source UCINET digunakan untuk pengolahan data. Sejumlah 183 ikatan dapat dibuat dengan persentase umpan balik sebesar 75, 96%. Berdasarkan analisis degree of centrality Badan Perencanaan Pembangunan Daerah merupakan lembaga yang memiliki peran paling penting dalam pemanfaatan IG di daerah, ditunjukkan dengan nilai relative centrality sebesar 9, 78. Pada sisi …",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "Analisis Geostatistik untuk Pemetaan Perubahan Kualitas Air Tanah Kawasan Karst Kabupaten Gunungkidul",
+        "authors": [
+            "Herlina Herlina",
+            "Diyono Diyono"
+        ],
+        "cited_by": "3",
+        "year": "2020",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:eQOLeE2rZwMC",
+        "publication_date": "2020/7/3",
+        "abstract": "Gunungkidul Regency has a karst area of approximately 807 km 2 or 53% of the total area of its territory. There is a tendency for expansion in karst mining leading to a number of potentials, including damage to the water system which is a pollution of karst water sources. Temperature, turbidity, Total Dissolve Solid (TDS), PH, hardness, manganese, iron, and chloride are parameters affecting groundwater quality. Measurement of the concentration of each parameter is performed through a long process and expensive costs. Therefore, not all measurements are performed in the entire area of Gunungkidul. Hence, it is important to interpolate the eight parameters using the geostatistical method. Geostatistical kriging method is an estimation method that reduces the error of variance estimation by a cross-correlation between primary and secondary variables. The best semivariogram for a five-year period with the smallest RMSE value is the temperature in 2018 using an gaussian model, turbidity in 2018 using a IDW model, Total Dissolve Solid (TDS) in 2017 using a gaussian model, PH in 2016 using a linear exponential, hardness in 2019 using a exponential model, manganese in 2017 using a circular model, iron in 2017 using a exponential model, and chlorides in 2015 using a RBF. Monitoring points of groundwater quality using these eight parameters have different variances so that five parameters are producing more than one RMSE value. To resolve this, besides comparing several interpolation methods, natural logarithmic transformations and the correlation of actual values with estimates were also performed. The correlation between the actual …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/7762/4426"
+    },
+    {
+        "title": "Tipologi alamat di perkotaan dan perdesaan Indonesia dalam proses standardisasi pengalamatan",
+        "authors": [
+            "Heri Sutanta",
+            "Ni Putu Praja Chintya",
+            "Dedi Atunggal",
+            "Diyono Diyono",
+            "M Fakhruddin Mustofa",
+            "Suprajaka Siswosudarma"
+        ],
+        "cited_by": "2",
+        "year": "2022",
+        "venue": "Majalah Geografi Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:YsMSGLbcyi4C",
+        "publication_date": "2022",
+        "abstract": "Alamat merupakan salah satu komponen wajib pada identitas penduduk dan dokumen legal-formal lain yang digunakan dalam berbagai kepentingan serta kegiatan sehari-hari. Dalam dunia nyata terdapat variasi penulisan alamat. Variasi penulisan alamat ini memiliki elemen yang terkait aspek lokalitas wilayah maupun yang terkait dengan ketiadaan standar pengalamatan. Variasi penulisan alamat diinventarisasi melalui survei lapangan dan survei secara daring. Survei dilakukan di wilayah perdesaan dan perkotaan untuk dapat memotret berbagai tipe penulisan alamat. Tipologi penulisan alamat tersebut kemudian diklasifikasikan berdasar dua model. Berdasarkan fungsinya, ada alamat yang digunakan untuk kepentingan legal-formal dan alamat yang digunakan untuk penunjuk atau penanda lokasi. Berdasarkan karakteristik wilayahnya terdapat tipologi alamat perdesaan dan alamat perkotaan. Di model …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Harmonisation of Geospatial Data in the Process Evaluation of Land Utilisation Suitability Based on Cadastral Land Parcel",
+        "authors": [
+            "Diyono",
+            "Heri Sutanta",
+            "Muhammad Hidayatul Ummah",
+            "Nurrohmat Widjajanti",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "1",
+        "year": "2025",
+        "venue": "International Journal of Geoinformatics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:5nxA0vEk-isC",
+        "publication_date": "2025/4",
+        "abstract": "One of the fundamental components of Indonesia's Land Administration System (LAS) that still needs to be harmonised is the problem of ideal map geometry, namely spatial units of cadastral land parcels. The LAS has four key functions: land tenure, land value, land use, and land development. This study addresses the harmonisation of Geospatial Data (GD) for land development administration involving spatial planning. This spatial element is crucial in sustainable spatial planning for dynamic regional development. This study harmonises GD to synchronise the spatial planning map based on the cadastral map. We harmonises geometrical aspects of spatial planning maps and cadastral maps using Unmanned Aerial Vehicle (UAV) imagery and field survey as the base map. The analysis reveals that more than 25% of land parcels intersect with multiple spatial zoning maps. To address this, the study uses a hierarchical logic method to unify each cadastral land-parcel's spatial planning. Using cadastral land-parcel-based spatial zoning, the suitability of land utilisation in the study area is dominated by the limitedly and conditionally class, covering an area of 1,023,584 m 2 (40.72%). There is significant difference in area calculation of spatial utilisation suitability when using the original spatial map and cadastral land parcel, with a confidence level of 95%. This discrepancy arises from the different of map framework between zoning and cadastral maps. High-quality cadastral land parcel maps are essential to enhance the quality of spatial zoning maps and support sustainable LAS. The findings of this study underscore the importance of GD …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://ijg.journals.publicknowledgeproject.org/index.php/journal/article/download/4071/2139"
+    },
+    {
+        "title": "Analisis Kesesuaian Lokasi Stasiun Pengisian Kendaraan Listrik Umum (SPKLU) di Kota Surabaya",
+        "authors": [
+            "Muhammad Hidayatul Ummah",
+            "Diyono Diyono"
+        ],
+        "cited_by": "1",
+        "year": "2024",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:ULOm3_A8WrAC",
+        "publication_date": "2024/10/22",
+        "abstract": "Transisi penggunaan kendaraan bermotor berbahan bakar listrik menjadi salah satu solusi pengendalian polusi udara di kota-kota besar salah satunya Kota Surabaya. Untuk mewujudkan upaya tersebut, penyiapan infrastruktur pendukung kendaraan berbahan bakar listrik sangat diperlukan, salah satunya stasiun pengisian kendaraan lsitrik umum (SPKLU). Penelitian ini melakukan analisis tingkat kesesuaian lokasi SPKLU di Kota Surabaya menggunakan pendekatan spatial multi-criteria evaluation (SMCE) dengan menerapkan analytitchal hierarchy process (AHP) sebagai alat pendukung. Penelitian ini mempertimbangkan 4 kriteria yaitu faktor lingkungan, infrastruktur transportasi, ketersediaan energi, dan sosio-ekonomi. Setiap kriteria memiliki 3 sub-kriteria. Berdasarkan perbandingan berpasangan menggunakan AHP, faktor infrastruktur transportasi memiliki bobot tertinggi dengan nilai 0,679. Pada faktor tersebut, sub-kriteria dengan bobot tertinggi adalah jarak dari jalan utama dengan nilai 0,655. Oleh karena itu, parameter jarak dari jalan memiliki bobot akhir tertinggi yaitu 0,445. Nilai inkonsistensi pada semua perbandingan berpasangan yang dilakukan kurang dari 0, 1. Analisis kesesuaian lokasi SPKLU Kota Surabaya menunjukkan bahwa area studi didominasi oleh tingkat kesesuaian sangat tinggi dengan luasan 141,620 km 2 (42, 10% luasan keseluruhan). 20 titik acak dalam wilayah dengan kelas kesesuaian sangat tinggi dipilih sebagai pilihan alternatif penentuan prioritas utama pembangunan SPKLU. Dari 20 titik tersebut A20 merupakan titik dengan prioritas tertinggi yaitu 5, 6%,. Berdasarkan analisis sensitivitas, alternatif …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/1932/1757"
+    },
+    {
+        "title": "Konsep Aupb Untuk Keamanan Data Dalam Standardisasi Dan Sistem Geocoding Alamat Perkotaan Dan Perdesaan Indonesia",
+        "authors": [
+            "Dyah Ayu Widowati",
+            "Heri Sutanta",
+            "Diyono Diyono",
+            "Dedi Atunggal",
+            "Dany Laksono",
+            "Sumaryono Sumaryono",
+            "Fakhruddin Mustofa"
+        ],
+        "cited_by": "1",
+        "year": "2023",
+        "venue": "Refleksi Hukum: Jurnal Ilmu Hukum",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:Se3iqnhoufwC",
+        "publication_date": "2023/9/25",
+        "abstract": "This article aims to formulate the embodiment of the AUPB concept in the standardization and geocoding system of Indonesian urban and rural addresses. Furthermore, it analyses the synchronization of data security principles in standardization and geocoding systems for urban and rural addresses in Indonesia. Conceptually, the process of address standardization and geocoding in the context of AUPB is closely related to the orderly administration of government, accountability of government agencies and/or officials, and implementation of statutory provisions. Overall, the element of AUPB that plays the most role in the standardization process and the address geocoding system is the principle of legal certainty. The principle of openness is attached to data security, and both are synchronized in implementing standardization and geocoding systems for urban and rural addresses in Indonesia. Even though all columns in the address database are stored in Elasticsearch, only specific columns can be accessed by general users through the Geocoding System website. Hence, the addresses presented are general data and do not contain personal data.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://ejournal.uksw.edu/refleksihukum/article/download/8154/2535"
+    },
+    {
+        "title": "Optimized Artificial Intelligence-Based Algorithm for Groundwater Potential Mapping in Trenggalek Regency, Indonesia",
+        "authors": [
+            "Muhammad Hidayatul Ummah",
+            "Diyono Diyono"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Forum Geografi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:3fE2CSJIrl8C",
+        "publication_date": "2025/12/11",
+        "abstract": "Groundwater management is essential as more than one-third of the world's population relies on groundwater as a source of freshwater. Exploration of groundwater potential serves as a practical im-plementation to ensure accessibility to freshwater. Therefore, this study developed a machine learning (ML), deep learning (DL), and stacking learning (SL) based model for groundwater potential mapping in Trenggalek Regency, Indonesia. A total of 740 spring locations were used as training data, and 18 variables were considered in the modelling. The eighteen parameters were classified into geological, topographic, land cover, climatological, hydrological, and geophysical factors. We used several algo-rithms, including gradient boosting decision trees (GBDT), random forest (RF), recurrent neural net-work (RNN), convolutional neural network (CNN), SL GBDT-RF, SL CNN-RNN, and SL GBDT-RF-CNN-RNN. This study optimized each basic learning task through hyperparameter fine-tuning using a tree-Parzen structured estimator (TPE) method. Models were evaluated using four metrics: accuracy (Acc), Cohen's kappa (CK), Matthews correlation coefficient (MCC), and receiver operating character-istic (ROC) area under the curve (AUC). Of the seven models generated, SL GBDT-RF achieved the best performance on the test data, with Acc, MCC, CK, and AUC values of 0.957, 0.915, 0.915, and 0.990, respectively. The geological unit parameter has the highest relative contribution rate in all pre-diction models. Based on the best model, the study area is dominated by the low-potential class, accounting for 31.29%. This study contributes to providing …",
+        "pdf_link": "https://journals2.ums.ac.id/fg/article/view/12279"
+    },
+    {
+        "title": "Implementasi Data Geospasial Bidang Tanah dalam Standar Administrasi Pertanahan",
+        "authors": [
+            "Hendry Yuli Wibowo",
+            "Diyono Diyono"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "Jurnal Pertanahan",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:KlAtU1dfN6UC",
+        "publication_date": "2024/11/29",
+        "abstract": "Data bidang tanah yang berkualitas saat ini dibutuhkan untuk berbagai keperluan stakeholder. Mulai dari untuk kegiatan pengadaan tanah untuk kepentingan umum, perpajakan, perencanaan pembangunan maupun untuk kebutuhan informasi masyarakat umum. Penjaminan kualitas menjadi aspek penting yang perlu dipertimbangkan dalam produksi data spasial bidang tanah. Namun penjaminan kualitas data bidang tanah masih belum menjadi prioritas pada regulasi di Indonesia. Makalah ini merupakan studi rinci sejauh mana kualitas data diatur dalam regulasi data geospasial bidang tanah mengacu pada standar SNI ISO 19157. Regulasi yang dipelajari merupakan peraturan terkait pengukuran dan pemetaan sejak tahun 1997 sampai Petunjuk Teknis PTSL 2023. Hasil studi menunjukkan bahwa kontrol kualitas dan penjaminan kualitas masih belum terintegrasi secara spesifik dalam regulasi. Direkomendasikan studi lebih lanjut mengenai bagaimana penjaminan kualitas data geospasial bidang tanah dapat diatur sedemikian rupa dalam regulasi yang bersifat implementatif untuk menjamin data bidang tanah dapat berkualitas dan reliable dalam pemanfaatannya.",
+        "pdf_link": "https://jurnalpertanahan.stpn.ac.id/index.php/jp/article/download/230/81"
+    },
+    {
+        "title": "Pengembangan Sistem Informasi Lokasi Kejahatan Jalanan di Daerah Istimewa Yogyakarta",
+        "authors": [
+            "Diyono Diyono"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:0EnyYjriUFMC",
+        "publication_date": "2024/8/1"
+    },
+    {
+        "title": "Pemetaan Lokasi Potensi Kawasan Peruntukan Industri Kabupaten Purbalingga",
+        "authors": [
+            "Divina Diananda Putri",
+            "Diyono Diyono"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:kNdYIx-mwKoC",
+        "publication_date": "2024",
+        "abstract": "Pertumbuhan ekonomi di kabupaten purbalingga menurut Produk Domestik Regional Bruto (PDRB) 2023 didominasi oleh sektor industri terutama industri pengolahan. Wilayah dengan sektor industri sebagai pendorong pertumbuhan ekonomi seringkali mendapat permasalahan lingkungan apabila lokasinya tidak sesuai dengan tujuannya. Setiap daerah memerlukan Kawasan Peruntukan Indusutri (KPI) untuk pertumbuhan ekonomi. Dalam pembangunan kawasan peruntukan industri perlu dilakukan pemilihan lokasi yang tepat karena akan mempengaruhi kelancaran operasional industri, serta dampak bagi masyarakat dan lingkungan sekitar. Analisis geospasial dengan Sistem Informasi Geospasial (SIG) dapat membantu proses pengembangan kawasan peruntukan industri untuk menentukan lokasi potensial pembangunan kawasan peruntukan industri dengan tetap memperhatikan kepentingan masyarakat dan tetap terjaganya lingkungan.Penelitian ini mempertimbangkan sembilan kriteria mengacu pada Peraturan Menteri Perindustrian Nomor 30 Tahun 2020, meliputi kemiringan lereng, penggunaan lahan, jenis tanah, nilai tanah, jarak terhadap jalan utama, jarak terhadap jaringan sungai, jarak terhadap jaringan energi listrik, jarak terhadap jaringan telekomunikasi, dan jarak terhadap pemukiman. Proses pengolahan menggunakan metode Analytical Hierarcy Process (AHP) untuk memperoleh nilai bobot masing-masing kriteria. Pembobotan dilakukan dengan menggunakan perangkat lunak Expert Choice 11 dan menghasilkan rasio konsistensi (CR) sebesar 0, 03."
+    },
+    {
+        "title": "Metode Penilaian Kematangan Infrastruktur Informasi Geospasial Pemerintah Daerah di Indonesia Menggunakan Capability Maturity Model Integration (CMMI) dan Geospatial Maturity …",
+        "authors": [
+            "Diyono Diyono"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:roLk4NBRz8UC",
+        "publication_date": "2023/6/5"
+    },
+    {
+        "title": "Evaluasi Kesesuaian Pemanfaatan Ruang di Kecamatan Payakumbuh Barat Tahun 2022",
+        "authors": [
+            "Donny Saputra",
+            "Diyono Diyono"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&citation_for_view=cm7zI5cAAAAJ:Zph67rFs4hoC",
+        "publication_date": "2023",
+        "abstract": "Kecamatan Payakumbuh Barat merupakan salah satu kecamatan di Kota Payakumbuh, yang merupakan pintu masuk jalur darat dari Propinsi Riau menuju kota-kota yang ada di Sumatera Barat. Pertumbuhan ekonomi dan pertumbuhan penduduk sejalan dengan bertambahnya kebutuhan ruang terbangun, dengan tetap menjaga kelestarian lingkungan dan berkelanjutan. Pembangunan berkelanjutan dapat meningkatkan kesejahteraan masyarakat dan pemerataan pembangunan. Pemanfaatan ruang perlu dikelola dan diawasi dengan peraturan tentang penataan ruang terhadap perkembangan pembangunan di daerah. Salah satu bentuk peraturan penataan ruang yaitu Peraturan Daerah tentang Rencana Detail Tata Ruang (RDTR). RDTR sebagai pengendali, menjaga kesesuaian, menjamin dan meminimalkan penggunaan lahan yang tidak sesuai dengan rencana tata ruang. Pemerintahan Kota Payakumbuh telah memiliki dokumen RDTR sejak tahun 2018. Adanya RDTR tersebut diharapkan dapat dijadikan sebagai panduan dalam perencanaan, pelaksanaan dan pengawasan terhadap jalannya pembangunan. Upaya tersebut berupa kegiatan evaluasi pemanfaatan ruang yang perlu dilakukan secara berkala. Pemantauan dan evaluasi dibutuhkan peta pemanfaatan ruang kondisi terkini. Penelitian ini bertujuan untuk melakukan evaluasi pemanfaatan ruang berdasarkan RDTR yang ada di wilayah Kecamatan Payakumbuh Barat berdasarkan kondisi tahun 2022. Penelitian dilakukan dengan memanfaatkan peta pola ruang RDTR tahun 2018 dan Citra Tegak Satelit Resolusi Tinggi (CTSRT) Pleiades sebagai data dasar dalam …"
+    },
+    {
+        "title": "Standardisasi Alamat di Indonesia: Kondisi, Urgensi, dan Tantangannya",
+        "authors": [
+            "Heri Sutanta",
+            "Ni Putu Praja Chintya",
+            "Suprajaka Suprajaka",
+            "Amin Widada",
+            "Diyono Diyono",
+            "Fakhruddin Mustofa",
+            "Dedi Atunggal",
+            "Dyah Ayu Widowati",
+            "Mahardika Ega Nugraheni",
+            "Ratih Kusumawardhani"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Seminar Nasional Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&cstart=20&pagesize=80&citation_for_view=cm7zI5cAAAAJ:ufrVoPGSRksC",
+        "publication_date": "2021/4/14"
+    },
+    {
+        "title": "Peta Bidang Tanah dalam Penyusunan Rencana Detail Tata Ruang",
+        "authors": [
+            "Heri Sutanta",
+            "Diyono Diyono"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI) 2019",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&cstart=20&pagesize=80&citation_for_view=cm7zI5cAAAAJ:LkGwnXOMwfcC",
+        "publication_date": "2019/11/28"
+    },
+    {
+        "title": "Kesiapan Penyelenggara Informasi Geospasial Daerah untuk Membangun Metadata",
+        "authors": [
+            "Diyono, Subaryono"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "6th International Annual Engineering Seminar (InAES)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&cstart=20&pagesize=80&citation_for_view=cm7zI5cAAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2016/8/1"
+    },
+    {
+        "title": "MODEL ASESMEN INTEROPERABILITAS DATA GEOSPASIAL DALAM PENGEMBANGAN INFRASTRUKTUR INFORMASI PERTANAHAN DI INDONESIA",
+        "authors": [
+            "DIYONO"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&cstart=20&pagesize=80&citation_for_view=cm7zI5cAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2015",
+        "abstract": "Sistem Administrasi Pertanahan (SAP) merupakan salah satu infrastruktur penting dalam pengelolaan pertanahan yang mencakup aspek yuridis, fiskal dan zonasi bidang tanah. Dalam suatu SAP, Informasi Geospasial (IG) bidang tanah tunggal sangat dibutuhkan terutama untuk menfasilitasi berbagai tema layanan dan tukar-guna data. Di Indonesia kondisi ideal tersebut belum bisa dipenuhi karena setiap institusi pengelola informasi pertanahan (seperti: Badan Pertanahan Nasional/BPN, Badan Perencanaan Pembangunan Daerah/BAPPEDA) menggunakan IG yang berbeda. Adanya keberagaman IG pertanahan menjadikan pengelolaan informasi pertanahan terpadu untuk pengambilan keputusan sulit dilakukan. Penelitian ini berupaya menyelesaikan masalah keberagaman IG yang berbeda sintak dan struktur agar mudah dipadukan. Problem tersebut diselesaikan dengan membuat model asesmen interoperabilitas IG dan perangkatnya berbasis elemen metadata, sehingga IG yang beragam dapat diases, diselaraskan, dibagi-pakai dan cocok saat dipadukan. Penelitian ini mengambil studi kasus di Kabupaten Sleman, Propinsi DIY. Di Kabupaten Sleman ada tiga institusi yang mengelola informasi pertanahan yaitu BPN, BAPPEDA dan Dinas Pengendalian Pertanahan Daerah (DPPD). Tahap pertama penelitian adalah melakukan identifikasi dan analisis standar dasar IG dan standar layanan IG yang dipergunakan pada penyelenggaraan SAP disetiap institusi. Hasil identifikasi dijadikan sebagai dasar pembentukan model asesmen interoperabilitas IG berdasarkan metadata. Model asesmen berisi komponen komparasi untuk …"
+    },
+    {
+        "title": "Aditya, T., Subaryono, Waljiyanto, Istarno, Diyono, Raharja, U., Muryamto, R., dan Iswanto, F., 2009,“Understanding the Urgency for 3D Cadastre in Indonesia: Development …",
+        "authors": [
+            "F Doner",
+            "R Thompson",
+            "J Stoter",
+            "C Lemmen",
+            "H Ploeger",
+            "PV Oosterom"
+        ],
+        "cited_by": "",
+        "year": "2010",
+        "venue": "Policy",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&cstart=20&pagesize=80&citation_for_view=cm7zI5cAAAAJ:_FxGoFyzp5QC",
+        "publication_date": "2010",
+        "abstract": "DAFTAR PUSTAKA Page 1 85 DAFTAR PUSTAKA Aditya, T., Subaryono, Waljiyanto, Istarno, \nDiyono, Raharja, U., Muryamto, R., dan Iswanto, F., 2009, “Understanding the Urgency for 3D \nCadastre in Indonesia: Development & Visualization of a Hybrid 3D Cadastre Model”, Journal \non The 10th South East Asian Survey Congress 2009, Bali, Bakosurtanal. Babalola, SO, \nRahman, AA, Choon, TL, 2015, “A Brief Review of Land Administration Domain Model and Its \nTemporal Dimension”, Journal of Advanced Review on Scientific Research Vol.6, No.1, Pages \n1-5. Babin, L., 2007, “Beginning AJAX with PHP: From Novice to Professional”, Springer, United \nStates of America. BPN RI, 2015, “Laporan Kinerja Tahun 2015”. BPN RI, 2016, “Petunjuk \nPenggunaan KKP”. Budisusanto, Y., Aditya, T., dan Muryamto, R., 2014, “LADM Implementation \nPrototype for 3D Cadastre Information System of Multi-Level Apartment in Indonesia”…",
+        "pdf_link": "https://etd.repository.ugm.ac.id/penelitian/unduh/282002"
+    },
+    {
+        "title": "PENGEMBANGAN METODE PEMODELAN SPASIAL UNTUK MEMPREDIKSI PENGARUH PENURUNAN TANAH DENGAN TEKNOLOGI GEO-INFORMASI: Studi Kasus Kota Semarang, Jawa Tengah",
+        "authors": [
+            "Heri Sutanta",
+            "Sumaryo",
+            "D Diyono"
+        ],
+        "cited_by": "",
+        "year": "2003",
+        "venue": "text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cm7zI5cAAAAJ&cstart=20&pagesize=80&citation_for_view=cm7zI5cAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2003"
+    }
+]

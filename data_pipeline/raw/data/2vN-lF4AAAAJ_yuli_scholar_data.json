@@ -1,0 +1,280 @@
+[
+    {
+        "title": "Validation and collaborative mapping to accelerate quality assurance of land registration",
+        "authors": [
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Yulaikhah Yulaikhah",
+            "Nurrohmat Widjajanti",
+            "Dedi Atunggal",
+            "Miranty Sulistyawati"
+        ],
+        "cited_by": "52",
+        "year": "2021",
+        "venue": "Land Use Policy",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:5nxA0vEk-isC",
+        "publication_date": "2021/10/1",
+        "abstract": "Incomplete digitalisation of land-titling documentation and sporadic first-titling in the past pose considerable challenges to delivering complete and good quality land information. In Indonesia, for the past three years, a new land policy has been implemented as part of a project to completely and systematically register land titles. This new policy has increased the production of land titles by seven to nine times. However, the approach remains focused on increasing quantity rather than improving quality. As the number of unmapped land titles is still high, insecurity of land certificates resulting from the current national project is imminent. Social challenges to land-titling activities include poor participation of landowners while technical problems could include incomplete validation. This paper presents the results of a study that employed collaborative mapping to validate land titles and evaluated corresponding quality …",
+        "total_citations": "Cited by 52",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S0264837721004129"
+    },
+    {
+        "title": "Development and definition of prambanan temple deformation monitoring control points",
+        "authors": [
+            "Rochmad Muryamto",
+            "M Iqbal Taftazani",
+            "Yulaikhah Yulaikhah",
+            "Bambang Kun Cahyono",
+            "Anindya Sricandra Prasidya"
+        ],
+        "cited_by": "19",
+        "year": "2018",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2018",
+        "abstract": "As one of the cultural heritage of historical buildings that has been recognized by UNESCO since 1991, the construction of Prambanan Temple was established on an unstable soil structure, not far from the Opak River. In the geological map of Yogyakarta, there is a fault under the Opak River which caused an earthquake in 2006 and had an impact on Prambanan Temple. Because of its position in disaster-prone areas, regular monitoring of the deformation of Prambanan Temple is very necessary. This research aims to build a deformation monitoring control point in Prambanan Temple. Eight control points, consist of three existing points and five new points are built around Prambanan Temple. These eight control points then were measured by GNSS receiver for 1x24 hours in order to define their coordinates. The GNSS data processing is done using GAMIT 10.70 software with two strategies, namely (1) processing with regional reference points, in this case using IGS stations namely BAKO and JOG2, and (2) processing with global reference points using IGS stations namely COCO, DARW, KARR, POHN, PIMO, DGAR, and IISC. Processing with these two strategies is done to find out the best processing results between regional or global processing. This research yields benchmarks of Prambanan temple deformation control points with their coordinates and their standard deviations in two processing strategies. The smallest standard deviation in the first strategy is 78.7 mm on the Z-axis for points of PRB1 and PRB3. The biggest standard deviation is 121.8 mm on the Y-axis at point of PRB2. In the second strategy the smallest standard deviation is …",
+        "total_citations": "Cited by 19",
+        "pdf_link": "https://pdfs.semanticscholar.org/2adb/bac4c6eaa87e035749f7ccca8a5ad9bfff78.pdf"
+    },
+    {
+        "title": "Pengembangan jaring kontrol geodesi pemantau Waduk Sermo",
+        "authors": [
+            "Waliyanto Waliyanto",
+            "Nurrohmat Widjajanti",
+            "Yulaikhah Yulaikhah",
+            "M Iqbal Taftazani"
+        ],
+        "cited_by": "7",
+        "year": "2015",
+        "venue": "GEOMATIKA",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2015",
+        "abstract": "Keberadaan Waduk Sermo di Kabupaten Kulonprogo, sangat penting karena manfaatnya sebagai tampungan air bersih, sarana pariwisata dan saluran irigasi untuk lahan pertanian di sekitarnya. Namun demikian banyak juga yang tidak menyadari bahwa di bawah Waduk Sermo terdapat segmen sesar aktif yang memanjang dari Parangtritis ke Kulonprogo. Penelitian ini bermaksud untuk mengembangkan jaring pengamatan yang telah ada sebelumnya menjadi lebih luas cakupannya untuk mengetahui dampak dari adanya sesar aktif tersebut. Penelitian dilaksanakan dengan beberapa tahapan, yaitu: 1) pengembangan kerangka kontrol, dengan menambah tujuh titik (5 makro dan 2 mikro) jaring kontrol baru; 2) pengukuran kerangka kontrol, dengan menggunakan pengamatan GPS/GNSS metode relatif statik di semua titik kontrol sejumlah 15 titik; 3) pengolahan data, dengan menggunakan perangkat lunak …",
+        "total_citations": "Cited by 7"
+    },
+    {
+        "title": "Correlation of GNSS Observation Data Quality Resulted from TEQC Checking and Coordinate’s Precision",
+        "authors": [
+            "Yulaikhah Yulaikhah",
+            "Subagyo Pramumijoyo",
+            "Nurrohmat Widjajanti"
+        ],
+        "cited_by": "6",
+        "year": "2018",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2018",
+        "abstract": "GPS Positioning provides good coordinate accuracy that is up to a millimeter. However, some error sources such as multipath, atmospheric conditions and obstruction can reduce the quality of data and also coordinates. To minimize errors due to these factors, at the time of determining the station location, it is necessary to pay attention to the surrounding conditions, namely by looking for open areas and avoiding objects that can reflect GNSS signals. However, it is often not easy to find the ideal observation station location, which forms a good chain while being free from obstruction and multipath. Therefore, it is often necessary to prioritize certain factors over other factors. Information about the correlation between multipath, ionospheric conditions and the recording level of observational data on coordinate accuracy can be used as consideration in determining the location of control points for deformation monitoring …",
+        "total_citations": "Cited by 6"
+    },
+    {
+        "title": "The Effect of Baseline Component Correlation on the Design of GNSS Network Configuration for Sermo Reservoir Deformation Monitoring",
+        "authors": [
+            "Yulaikhah",
+            "Subagyo Pramumijoyo",
+            "Nurrohmat Widjajanti"
+        ],
+        "cited_by": "5",
+        "year": "2019",
+        "venue": "The Indonesian Journal of Geography",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:eQOLeE2rZwMC",
+        "publication_date": "2019/8/1",
+        "abstract": "The condition of the geological structure in the surrounding Sermo reservoir shows that there is a fault crossing the reservoir. Deformation monitoring of that fault has been carried out by conducting GNSS campaigns at 15 monitoring stations simultaneously. However, those campaigns were not well designed. With such a design, it took many instruments and spent much money. For the next GNSS campaign, it should be designed so that the optimal network configuration is obtained and the cost can be reduced. In the design of deformation monitoring network, sensitivity criteria become very important for detecting the deformations. In GNSS relative positioning, the baseline components are correlated, but this correlation is often ignored. This research examined the effect of baseline component correlations on the design results of the GNSS configuration of the Sermo Fault network based on sensitivity criterion. In this case, the western side of the fault was taken as a reference, while the o...",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.academia.edu/download/92358554/pdf.pdf"
+    },
+    {
+        "title": "Calculation of Sedimentation at Sempor Reservoirs in 2018 Using Modified Universal Soil Loss Equation Method (MUSLE)",
+        "authors": [
+            "Septi Arini",
+            "Bambang Kun Cahyono",
+            "Yulaikhah"
+        ],
+        "cited_by": "5",
+        "year": "2019",
+        "venue": "Journal of Geospatial Information Science and Engineering. Yogyakarta",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:LkGwnXOMwfcC",
+        "publication_date": "2019",
+        "abstract": "Sempor Reservoir located in the Telomoyo River Basin in the Serayu River region is categorized as one of the priority watersheds based on the 2015-2019 Strategic Plan of the Ministry of Environment and Forestry. Priority watershed is a watershed that is getting more attention in controlling water quality, including sedimentation. Monitoring and management activities of the watershed are needed in order to get an optimal operation of the reservoir. One of the monitoring and management activities of the Sempor Watershed is the sedimentation rate calculation. In this research, the sedimentation rate calculates using the MUSLE method. The Sempor watershed boundary is defined through the delineation of DEM and satellite images data. The calculation of sedimentation is obtained by several factors, including runoff parameter, erodibility, length and slope, land cover, and conservation. The calculation is performed by a Geographic Information System (GIS) method through analysis of soil type maps, length and slope maps, land cover, and conservation maps. Based on the calculation result, the Sempor Reservoir has a sedimentation rate of 166.173, 500 tons/year or 3, 7259 mm/year in thickness. According to the provisions of the Ministry of Forestry in 2009, the sedimentation thickness rate of the reservoir is categorized in the medium class. The river as one of the potential means of sediment transport contributes to the rate of sediment thickness of 3, 7256 mm/year, while for areas outside the river coverage it only 0.0003 mm/year.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.academia.edu/download/92358547/26643.pdf"
+    },
+    {
+        "title": "Pengaruh sudut vertikal terhadap hasil ukuran jarak dan beda tinggi metode trigonometris menggunakan total station nikon DTM 352",
+        "authors": [
+            "Parseno",
+            "Yulaikhah Yulaikhah"
+        ],
+        "cited_by": "3",
+        "year": "2010",
+        "venue": "Forum Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2010",
+        "abstract": "The measurement of heigh differences using trigonometric technique, and Total Station NikonDTM 352 is used. It is identified that the use of different vertical angle will produce differentheights for the same point. It is interesting to analyse further that, the errors of distance andheight differences in trigonometric technique are as the function of vertical angle. This researchtries to investigate the phenomenom mentioned above: is there sistimatical error? and how tocorect them? This research is initially arranged to include some steps:(1) preparation of instruments,(2) measurement of distance and height differences in study area using spirit levelling andtrigonometric levelling,(3) Data processing including correction of differences in heightmodelling. Evaluation was carried out by comparing both data of observed height differences. Based on the result of the statistical test, it is found that the variety of vertical angles do …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Strain Accumulation Along the Eastern Java Back–Arc Thrust System Inferred from a Dense Global Navigation Satellite System Network",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "Iqbal Hanun Azizi",
+            "Yulaikhah Yulaikhah",
+            "Muhammad Farhan Abiyyu",
+            "Sheva Aulia Rahman",
+            "Mokhamad Nur Cahyadi",
+            "Evi Aprianti",
+            "Oktadi Prayoga"
+        ],
+        "cited_by": "2",
+        "year": "2024",
+        "venue": "Geosciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:3fE2CSJIrl8C",
+        "publication_date": "2024/12/17",
+        "abstract": "The back–arc thrust region in Eastern Java to Flores is significantly influenced by the arc–continent collision between the Australian Plate and the Eastern Sunda Arc, leading to a tectonic regime characterized by high seismic and volcanic hazards. This area has experienced several major earthquakes. However, back–arc thrust in Eastern Java remains absent from significant shallow earthquakes, which might indicate intense deformation. We conducted an analysis using recent and dense Global Navigation Satellite System (GNSS) observations from both continuous and campaign stations to develop a strain rate model and explore the detailed crustal behavior and strain accumulation within the Eastern Java back–arc thrust system. Our findings revealed varying values of compression and extension throughout the region, with compression values ranging from −2.24 to 0.086 μstrain/year. Additionally, we observed that the maximum shear strain rate and dilatation strain rate were within the ranges of 0.0013 to 1.12 μstrain/year and −2.24 to 0.698 μstrain/year, respectively. These findings could facilitate more informed strategies and improve preparedness for future seismic events.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.mdpi.com/2076-3263/14/12/346"
+    },
+    {
+        "title": "Lineament Trend Analysis for Designing of Fault Deformation Monitoring Network in the Sermo Reservoir Area, Yogyakarta, Indonesia",
+        "authors": [
+            "Yulaikhah",
+            "Subagyo Pramumijoyo",
+            "Nurrohmat Widjajanti"
+        ],
+        "cited_by": "2",
+        "year": "2020",
+        "venue": "International Journal on Advanced Science, Engineering and Information Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:UebtZRa9Y70C",
+        "publication_date": "2020/8",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Estimasi Koordinat Titik Kontrol Pemantauan Deformasi Bendungan Sermo dengan Metode Parameter Bertahap dari Data Baseline Hasil Pengolahan GAMIT",
+        "authors": [
+            "Asri Ria Affriani",
+            "Nurrohmat Widjajanti",
+            "Yulaikhah Yulaikhah"
+        ],
+        "cited_by": "2",
+        "year": "2016",
+        "venue": "Jurnal Geografi Gea",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:ufrVoPGSRksC",
+        "publication_date": "2016",
+        "abstract": "Bendungan Sermo merupakan suatu bangunan struktur yang berfungsi sebagai penampung air untuk air bersih, irigasi pengairan, serta pencegah banjir di Kabupaten Kulon Progo. Oleh karena pentingnya bangunan tersebut, perlu dilakukan pemantauan guna mendeteksi adanya deformasi. Adanya pergerakan geodinamik, perluasan area pemantauan, dan deteksi retakan tanah (crack) memerlukan penambahan jumlah titik kontrol pemantauan deformasi. Penambahan titik kontrol dalam suatu pengukuran dapat mempengaruhi ketelitian hasil pengolahan data sehingga memerlukan strategi khusus pengolahan data. Oleh karena itu, digunakan hitung perataan metode parameter bertahap. Tujuan dari penelitian ini adalah teridentifikasi nilai koordinat 3D dan perbedaan ketelitian titik kontrol pemantaun deformasi yang dihasilkan dari pengolahan dengan metode parameter bertahap serta teridentifikasi signifikansi perbedaan koordinat dan ketelitian hasil pengolahan metode parameter bertahap dengan hasil pengolahan dengan perangkat lunak GAMIT/GLOBK.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://ejournal.upi.edu/index.php/gea/article/download/20715/10456"
+    },
+    {
+        "title": "Analisis Perubahan Nilai Tanah Akibat Gempa Bumi 27 Mei 2006 Di Kecamatan Bantul Dan Kecamatan Jetis Kabupaten Bantul",
+        "authors": [
+            "Ulfa Nuryati",
+            "Yulaikhah"
+        ],
+        "cited_by": "2",
+        "year": "2008",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2008",
+        "abstract": ": Earthquake in Yogyakarta, Central Java, May 27, 2006 was recognized as one of deadliest earthquakes ever recorded that caused major damage on buildings and lost of life. Bantul regency was the epicenter of it, and it suffered most of the losses in terms of life and physical properties. It has resulted in a had image that Bantul is not a safe place, and therefore not comfortable to live in. Furthermore, it was predicted that the land value will decrease. This research was carried out to evaluate indirect effect of earthquake on the decreasing of land value, especially in Jells, a district, a part of Bantu', in which Opak fault line across that area.Two land valuation models were employed to represent condition before and after earthquake, using multiple linear regression. Distance to Opak fault line, distance to CBD, road size (width) and land size (area) were chosen as independent variables, while land value was the …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Evaluasi Pergerakan Titik Kontrol Pemantauan Waduk Sermo Untuk Mendukung Mitigasi Multidisaster",
+        "authors": [
+            "Hilmiyati Ulinnuha",
+            "Nurrohmat Widjajanti",
+            "Yulaikhah Yulaikhah",
+            "Purnama Budi Santosa",
+            "Suci Tresna Novianti"
+        ],
+        "cited_by": "1",
+        "year": "2021",
+        "venue": "Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:8k81kl-MbHgC",
+        "publication_date": "2021/12/10",
+        "abstract": "Yogyakarta merupakan daerah dengan tingkat resiko bencana yang tinggi, termasuk daerah Kabupaten Kulon Progo. Dengan topografi yang cenderung berbukit, menjadikan daerah Kulon Progo merupakan area dengan kerawanan tanah longsor. Selain itu, di Kulon Progo juga terdapat Waduk Sermo sebagai sumber irigasi dan air bersih. Waduk ini terletak disekitar area sesar normal, sehingga Waduk Sermo memiliki resiko multidisaster yaitu seismik dan tanah longsor. Oleh karena itu, diperlukan pemantauan secara berkala untuk mengurangi dampak resiko multidisaster tersebut. Penelitian ini bertujuan untuk mengevaluasi pergerakan titik kontrol pemantauan Waduk Sermo untuk mitigasi atau pengurangan resiko multidisaster di area Waduk Sermo. Data yang digunakan dalam penelitian ini adalah data pengamatan GPS pada tahun 2015 sampai dengan 2020 pada lima titik kontrol pemantauan di sekitar Waduk Sermo, yaitu MAK1, MAK2, MAK3, MAK4, dan MAK5. Pengolahan data GPS tersebut dilakukan dengan menggunakan perangkat lunak GAMIT/GLOBK. Selanjutnya dilakukan evaluasi hasil pengolahan GAMIT/GLOBK, dan perhitungan untuk mendapatkan posisi dan arah pergerakan masing-masing titik kontrol pemantauan. Berdasarkan hasil pengolahan data, didapatkan bahwa pergerakan horizontal titik kontrol pemantauan Waduk Sermo berkisar antara 0,006 m/tahun sampai dengan 0,016 m/tahun kearah Timur Laut. Sedangkan pergerakan vertikal berkisar antara 0,006 m/tahun sampai dengan 0,033 m/tahun dengan arah pergerakan keatas permukaan tanah kecuali untuk titik MAK3 yang bergerak kebawah. Pergerakan …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://proceedings.undip.ac.id/index.php/isiundip2021/article/download/634/379"
+    },
+    {
+        "title": "Time Variant Adjustment for The Solution of Control Point Unstability in Deformation Analysis of Borobudur Vertical Deformation Monitoring Network",
+        "authors": [
+            "Dwi Lestari",
+            "Y Yulaikah",
+            "Rizki Iman Sari"
+        ],
+        "cited_by": "1",
+        "year": "2018",
+        "venue": "Journal of Geospatial Information Science and Engineering (JGISE)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2018/9",
+        "abstract": "Monitoring the vertical deformation of the Borobudur temple using Geodetic method is one kind of monitoring work for maintaining the temple as the world’s cultural heritage. This work is carried out using leveling method to observe the height of Borobudur monitoring network points periodically. This network was designed using absolute network with one control point. The control point height was assumed to be fix at each epoch in deformation analysis. Multiyear GPS observation at this point, lately indicated that this point was shifted. The control point displacement would cause a systematic error in the adjustment computation method for the analysis of vertical displacement. The correction of control point height due to the vertical shift is needed prior to the adjustment computation using observation model. In addition, there is a time variant adjustment computation method which able to calculate the vertical rate of object point displacement. This study aims to evaluate the use of time variant adjustment for the solution of control point unstability in vertical deformation analysis. This was done by comparing the vertical displacement analysis of the Borobudur’s vertical network from the adjustment computation using observation model with the correction of control point height and from time-variant adjustment method. The results showed that vertical displacement magnitude of Borobudur’s monitoring points, resulted from the parameter adjustment computation with the correction of control point compared to the timevariant adjustment results was differed in nanometer. Time-variant adjustment computation method gave more accurates result of 1.5 times …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://pdfs.semanticscholar.org/d2c3/6be2830bb72cd20e2d30c0af83f7e37aaf0c.pdf"
+    },
+    {
+        "title": "The analysis of monitoring control point displacement of Sermo Dam based on the 2015-2016 GNSS data",
+        "authors": [
+            "Yulaikhah",
+            "W Nurrohmat",
+            "N Prijono",
+            "KC Bambang",
+            "Waljiyanto",
+            "DA Agus",
+            "MI Taftazani"
+        ],
+        "cited_by": "1",
+        "year": "2017",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2017/7/25",
+        "abstract": "Sermo dam has operated for 20 years. This dam has a great benefit, especially as a water storage for water supply, irrigation and flood prevention. For the purposes of Sermo dam deformation monitoring, the control network was built around the Sermo dam in 2010. Then, this network was developed in 2015 by adding 5 new control points. For the time being, the network consists of 8 existing control points (micro) and 5 new control points (macro). The aim of the study is to monitor the control network displacement in the period of 2015 to 2016 based on GNSS observation data.GNSS measurement were conducted at 9 to10 of May 2015 and 12 to 15 of May 2016. The data observation was processed using GAMIT/GBLOK scientific software referenced to IGS station to determine the coordinates and its standard deviation. Further, horizontal and vertical displacement was analyzed by comparing with 2.5 times the …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4987078/13746827/040014_1_online.pdf"
+    },
+    {
+        "title": "DESAIN KONFIGURASI JARING GPS UNTUK PEMANTAUAN DEFORMASI SESAR SERMO",
+        "authors": [
+            "Yulaikhah Yulaikhah",
+            "Subagyo Pramumijoyo",
+            "Nurrohmat Widjajanti",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "GEOMATIKA",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:hqOjcs7Dif8C",
+        "publication_date": "2021/5/31"
+    },
+    {
+        "title": "The effect of weights observation to estimate the monitoring control point coordinate at sermo dam",
+        "authors": [
+            "AR Affriani",
+            "N Widjajanti",
+            "Y Yulaikhah"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "Journal of Physics: Conference Series",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:_FxGoFyzp5QC",
+        "publication_date": "2019/12/1",
+        "abstract": "The use of weights observation was effected on the estimation of coordinates and its precision. This research aims to identify 3D coordinates and its precision using weights observation from the result of GAMIT processing and the law of error propagation in sequential adjustment method. This research uses GNSS observation data from 10 deformation monitoring control points around Sermo Dam that was measured on doy 250 in 2014 and doy 129 in 2015. Data processing was performed by GAMIT software to get a baseline length and its precision. Baseline length and its precision were used as input in the sequential adjustment method. The values of weight observation were calculated using the result of GAMIT processing and the law of error propagation. The result of this research are 3D coordinates control point and its precision. The coordinate results using weight observation from GAMIT result does not …",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1742-6596/1402/7/077106/pdf"
+    },
+    {
+        "title": "Determination of Boiler Building Verticality in Power Plant Construction using Terrestrial Laser Scanner (TLS)",
+        "authors": [
+            "Mohamad Bagas Setiawan",
+            "Yulaikhah",
+            "Ruli Andaru"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2vN-lF4AAAAJ&citation_for_view=2vN-lF4AAAAJ:YsMSGLbcyi4C",
+        "publication_date": "2019",
+        "abstract": "Nowadays, Indonesian government is focusing on build up infrastructures, especially power plant to fulfil electrical energy needs. One of the power plants that will be built up is Waai power plant which located on Waai Village, Maluku Province. Waai power plant had been postponed since 2014. In order to build this power plant, the advisability of the building needed to be checked from its verticality level. This level was determined by Terrestrial Laser Scanner (TLS). The TLS’s point clouds were registered using two methods, there are target to target and cloud to cloud methods. There are 65 beams on the power plant boiler building, but only 31 beams that used as the samples to assign the verticality of the boiler construction. The verticality level was set on the X-axis, Y-axis, and the resultant of the X and Y axis by using Pythagoras theorem after the bottom and top coordinates from each beam was determined. The Queensland Building and Construction Admission Standards and Tolerances Guide 2016 was used as tolerance of verticality level. The result of the verticality calculation presented on the X-axis consisted from-0ᵒ 1’26,678” to 0ᵒ 4’11,778” with the average was 0ᵒ 1’40,820” and major direction pointed the positive axis. On the Y-axis, the average was-0ᵒ 0’45,772” with-0ᵒ 3’33,345” as minimum and 0ᵒ 1’25,319” as the maximum and the major direction went to the negative axis. The verticality on the resultant of X and Y axis was from 0ᵒ 0’45,225” until 0ᵒ 4’15,674” with the average was 0ᵒ 2’27,057” and the direction was to the southeast. After the verticality number was compared with the tolerance, the verticality level was smaller …",
+        "pdf_link": "https://www.academia.edu/download/92358545/24769.pdf"
+    }
+]

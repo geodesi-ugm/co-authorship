@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Opak fault deformation monitoring using sentinel-1 insar data from 2016-2019 in Yogyakarta Indonesia",
+        "authors": [
+            "Bondan Galih Dewanto",
+            "Mohamad Bagas Setiawan",
+            "Gilang Cahya Nusantara"
+        ],
+        "cited_by": "7",
+        "year": "2020",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D85HnqsAAAAJ&citation_for_view=D85HnqsAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2020/7/4",
+        "abstract": "The 2006 Yogyakarta earthquake occurred at 05.55 West Indonesia Time, May 27, 2006 with a magnitude of M w 5.9. The earthquake had a great trauma effect for the community, because there were many fatalities, around 6,000 people died. Therefore, it is very important to conduct research to determine the deformation that is currently happening around the Opak Fault. In this research, during 2016-2019, we collected products for Sentinel-1 synthetic aperture radar interferometry (InSAR) to measure the current fault deformation. The InSAR data was processed using LiCSBAS, a time series analysis kit of open-source SAR interferometry (InSAR) that integrates with the automated Sentinel-1 InSAR processor (LiCSAR). In the processing scheme for LiCSBAS, interferograms with many unwrapping errors are automatically detected and removed via loop closure. Reliable time series and velocities are extracted using several noise indices with the help of masking. The location of the Opak Fault can be detected clearly in the result because the deformation pattern around the fault is contrary different. The west of Opak Fault shows an uplift movement, while the deformation occurred in east area of the fault shows subsidence movement.",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/viewFile/7758/4432"
+    },
+    {
+        "title": "3D modelling, validation and visualization of 3D parcels in first registration for 3D cadastre-Indonesia case",
+        "authors": [
+            "Trias Aditya",
+            "Dany P Laksono",
+            "Dedi Atunggal",
+            "Febrian F Susanta",
+            "Nurrohmat Widjajanti",
+            "Mohammad B Setiawan",
+            "Nurhidayat AGAM",
+            "T Wibisono"
+        ],
+        "cited_by": "4",
+        "year": "2021",
+        "venue": "7th International FIG Workshop on 3D Cadastres, New York, USA",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D85HnqsAAAAJ&citation_for_view=D85HnqsAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2021/10/11",
+        "abstract": "Developments of legal, institutional and technical aspects in realizing property registration of 3D parcels situated above and below 2D parcels are still evolving in many countries. 3D cadastres have to deal with various institutional/legal gaps and challenging information integration regarding the Rights-Restrictions-Responsibilities (3R) of 2D parcels. This paper aims to present a proof of concept implementing 3D cadastre of a new regulation of land registration in Indonesia (Government Regulation Number 18/2021 on Rights to Manage, Land Rights, Strata Title and Land Registration). This study presents the modelling and validation of 3D cadastral objects for realizing the first registration using the new regulation on 3D cadastre. The study encompasses 2D & 3D data integration, 3D modelling, field validation and visualization of 3D units. The 2D parcels were extracted from the land registration map, collected from the Central Jakarta and the South Jakarta land offices. The 3D constructions to be registered were obtained from PT. MRT in the form of as-built drawings of floor plans and selected cross-sections. The 3D models were created by reconstructing 2D floor plans and cross-sections using Autodesk Revit to create an IFC file of 3D units from geometries of floors, walls and ceilings. Surveyors validated 3D representations of 3D units of two MRT terminals. Field validation includes determining the legal spaces against the 3D constructions and validating floor areas and volumes of 3D units. After field validation is done and agreed upon by stakeholders, 3D models were converted into CityGML to create representations of legal spaces of 3D …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://gdmc.nl/3Dcadastres/literature/3Dcad_2021_14.pdf"
+    },
+    {
+        "title": "PEMODELAN TIGA DIMENSI (3D) SALURAN IRIGASI MENGGUNAKAN DATA AIRBORNE LIDAR BATHYMETRY (ALB) DI BENDUNG PEJENGKOLAN, KEBUMEN",
+        "authors": [
+            "Mohamad Bagas Setiawan",
+            "Istarno Istarno"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D85HnqsAAAAJ&citation_for_view=D85HnqsAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2019/11/4",
+        "abstract": "Pemerintah Indonesia sedang melakukan kegiatan peningkatan dan pembangunan jaringan irigasi yang ditargetkan selesai pada tahun 2019 (Direktorat Jenderal Sumber Daya Air 2016). Untuk merealisasikan hal tersebut diperlukan metode pengukuran jaringan irigasi secara cepat dan tepat. Salah satu alternatif yang dapat digunakan adalah Airborne LiDAR Bathymetry (ALB). ALB merupakan metode penentuan kedalaman pada perairan jernih dan relatif dangkal seperti dekat pantai dan danau, menggunakan wahana seperti pesawat dengan tinggi terbang rendah serta memancarkan pulsa laser (Guenther 2001). Penelitian ini dilakukan untuk mengkaji model tiga dimensi (3D) yang direpresentasikan dengan Digital Terrain Model (DTM) dari data pengukuran ALB untuk menentukan kedalaman saluran irigasi. Pada penelitian ini, DTM dibentuk dari dua buah sensor yaitu sensor Near InfraRed (NIR) dan sensor hijau pada saluran irigasi primer, sekunder, dan tersier. Model 3D yang dibentuk menggunakan data sensor NIR mewakili tinggi permukaan air pada saluran, sedangkan model 3D yang dibentuk menggukan data sensor hijau mewakili dasar saluran. Dalam proses pembentukan DTM menggunakan data ALB, perlu diperhatikan proses editing data kedalaman berdasarkan dimensi saluran agar diperoleh hasil yang representatif.",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/4924/3613"
+    },
+    {
+        "title": "Determination of Boiler Building Verticality in Power Plant Construction using Terrestrial Laser Scanner (TLS)",
+        "authors": [
+            "Mohamad Bagas Setiawan",
+            "Yulaikhah",
+            "Ruli Andaru"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D85HnqsAAAAJ&citation_for_view=D85HnqsAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2019",
+        "abstract": "Nowadays, Indonesian government is focusing on build up infrastructures, especially power plant to fulfil electrical energy needs. One of the power plants that will be built up is Waai power plant which located on Waai Village, Maluku Province. Waai power plant had been postponed since 2014. In order to build this power plant, the advisability of the building needed to be checked from its verticality level. This level was determined by Terrestrial Laser Scanner (TLS). The TLS’s point clouds were registered using two methods, there are target to target and cloud to cloud methods. There are 65 beams on the power plant boiler building, but only 31 beams that used as the samples to assign the verticality of the boiler construction. The verticality level was set on the X-axis, Y-axis, and the resultant of the X and Y axis by using Pythagoras theorem after the bottom and top coordinates from each beam was determined. The Queensland Building and Construction Admission Standards and Tolerances Guide 2016 was used as tolerance of verticality level. The result of the verticality calculation presented on the X-axis consisted from-0ᵒ 1’26,678” to 0ᵒ 4’11,778” with the average was 0ᵒ 1’40,820” and major direction pointed the positive axis. On the Y-axis, the average was-0ᵒ 0’45,772” with-0ᵒ 3’33,345” as minimum and 0ᵒ 1’25,319” as the maximum and the major direction went to the negative axis. The verticality on the resultant of X and Y axis was from 0ᵒ 0’45,225” until 0ᵒ 4’15,674” with the average was 0ᵒ 2’27,057” and the direction was to the southeast. After the verticality number was compared with the tolerance, the verticality level was smaller …",
+        "pdf_link": "https://www.academia.edu/download/92358545/24769.pdf"
+    },
+    {
+        "title": "Extracting Wood Point Cloud from Terrestrial Laser Scanner Data of a Giant Tree",
+        "authors": [
+            "MVI Ryadi",
+            "MB Setiawan",
+            "CC Lee",
+            "CK Wang",
+            "RCC Hsu"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "The 45th Asian Conference on Remote Sensing",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D85HnqsAAAAJ&citation_for_view=D85HnqsAAAAJ:qjMakFHDy7sC",
+        "abstract": "An accurate 3D quantification of giant tree is necessary for estimating the tree part size and carbon estimation. Terrestrial Laser Scanner (TLS) has become a potential instrument supporting the non-destructive study of giant tree with the detailed tree point cloud. The extraction of wood points from tree point cloud has become a challenging task due to the overlapping condition and occlusion from leaves and branches. In this study, we evaluate five machine learning models to classify the wood and leaf from the Tao tree point cloud. A total of 46 features including radiometric and geometric features were used to develop the models. 4.4% of the tree point cloud was selected as the training data. The classification result of all machine learning models ranged from 0.688 to 0.801. The calculation result from feature importance indicates that the percentage of 3rd eigenvalue turns to be an important feature affecting the classification accuracy.",
+        "pdf_link": "https://acrs-aars.org/proceeding/ACRS2024/AB0325.pdf"
+    },
+    {
+        "title": "Sugar Apple Fruit Bags Detection using Geometric Feature in MLS Point Cloud Data",
+        "authors": [
+            "MB Setiawan",
+            "CC Lee",
+            "CK Wang"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "The 45th Asian Conference on Remote Sensing",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D85HnqsAAAAJ&citation_for_view=D85HnqsAAAAJ:2osOgNQ5qMEC",
+        "abstract": "Sugar apple is an important agricultural product with a high market value in Taiwan. Taiwanese farmers have implemented diverse methods to improve the quantity and quality of sugar apples, including the utilization of fruit bags. Fruit bags serve multiple purposes, such as protecting the fruits and avoiding defects. Point cloud data acquired by mobile laser scanning (MLS) provides precise spatial information for distinguishing fruit bags from other objects including plants. The purpose of this study is to detect fruit bags on point cloud by using random forest algorithm. A total of 39 geometric features and intensity derived from point cloud serves as the parameter for random forest computation. The segmentation result demonstrates an acceptable performance with 0.57 F1 score by using 39 geometric features and 0.55 F1 score by using only 15 features. In addition, PC3, Sphericity, Planarity, Dip, Number of Points, and intensity are some significant features that can be utilized to distinguish the fruit bags. Finally, by accounting for a few geometric features, the proposed workflow produces an accurate Sugar Apple fruit bags detection result.",
+        "pdf_link": "https://acrs-aars.org/proceeding/ACRS2024/AB0324.pdf"
+    }
+]

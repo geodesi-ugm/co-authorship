@@ -1,0 +1,209 @@
+[
+    {
+        "title": "Improved deep learning segmentation of outdoor point clouds with different sampling strategies and using intensities",
+        "authors": [
+            "Harintaka Harintaka",
+            "Calvin Wijaya"
+        ],
+        "cited_by": "8",
+        "year": "2024",
+        "venue": "Open Geosciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2024/3/13",
+        "abstract": "The rapid growth of outdoor digital twin data sets and advancements in 3D data acquisition technology have sparked interest in improving segmentation performance using deep learning. This research aims to analyze and evaluate different sampling strategies and optimization techniques while exploring the intensity information of outdoor point cloud data. Two sampling strategies, random and stratified sampling, are employed to divide a limited data set. Additionally, the data set is divided into point cloud data with and without intensity. The PointNet++ model is used to segment the point cloud data into two classes, vegetation and structure. The results indicate that stratified sampling outperforms random sampling, yielding a considerable improvement in mean intersection over union scores of up to 10%. Interestingly, the inclusion of intensity information in the data set does not universally enhance …",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0611/html"
+    },
+    {
+        "title": "Automatic point cloud segmentation using RANSAC and DBSCAN algorithm for indoor model",
+        "authors": [
+            "Harintaka Harintaka",
+            "Calvin Wijaya"
+        ],
+        "cited_by": "7",
+        "year": "2023",
+        "venue": "TELKOMNIKA (Telecommunication Computing Electronics and Control)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2023/12/1",
+        "abstract": "Indoor modeling is a crucial aspect of architecture, engineering, and construction (AEC) projects. While terrestrial laser scanners (TLS) are the most popular tool for acquiring indoor geometry, processing point clouds from TLS scans with manual methods can be inefficient and error-prone. This study proposes a machine learning algorithm to automatically segment point clouds acquired by low-cost TLS. Random sample consensus (RANSAC), a simple yet effective algorithm for segmenting planar surfaces such as walls, ceilings, and floors, is used in the segmentation process. The resulting segmentation is then refined using density-based spatial clustering of application with noise (DBSCAN) to group nearby points that were not segmented correctly by RANSAC into the appropriate segment. The result is a segmented point cloud consisting of five indoor elements: wall, ceiling, floor, column, and interior. The algorithms were found to be effective for segmenting small and simple rooms. For larger or more complex rooms, segmentation can be performed by dividing the room into several parts and applying the algorithms to each partition. Overall, the study demonstrates the potential of machine learning algorithms for automating point cloud segmentation tasks in indoor modeling, especially for low-cost TLS scans.",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://telkomnika.uad.ac.id/index.php/TELKOMNIKA/article/download/25299/11777"
+    },
+    {
+        "title": "Analysis and Evaluation of PointNet for Indoor Office Point Cloud Semantic Segmentation",
+        "authors": [
+            "Harintaka Harintaka Calvin Wijaya"
+        ],
+        "cited_by": "5",
+        "year": "2023",
+        "venue": "International Journal on Advanced Science, Engineering and Information Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2023/12/31",
+        "abstract": "Indoor modeling is one of the primary sources of information in building management due to the increased use of BIM in the AEC industry. The indoor model can be acquired with several survey instruments, but TLS is the most popular resulting point cloud that can be processed into a 3D model. However, the process commonly still uses inefficient manual methods. Point cloud data have irregular, unordered, unstructured characteristics, making them more challenging to process. The deep learning algorithm can be a solution to solve the problem. PointNet is the first deep learning algorithm that directly accepts point cloud data as input. This study aims to analyze and evaluate the office indoor point cloud segmentation using PointNet. The office indoor point cloud data was acquired using TLS and then pre-processed for deep learning input. Transfer learning strategy is used as a weight initialization technique. The pre-trained model was trained with the S3DIS dataset and then fine-tuned to segment nine indoor classes in this study. The result shows PointNet achieves 85% overall accuracy and 66% average class IoU score to predict indoor classes using this study’s point cloud data. Geometry control shows that the predicted point cloud has an RMSE score of 1.8 cm, meaning the geometries of the segmented point cloud are accurate. Using the transfer learning method has increased the performance of the deep learning model. Further research is needed to evaluate the model thoroughly using more training and evaluation data and different transfer learning strategies.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Calvin_Wijaya2/publication/377222183_Analysis_and_Evaluation_of_PointNet_for_Indoor_Office_Point_Cloud_Semantic_Segmentation/links/659b7a496f6e450f19d4b5b5/Analysis-and-Evaluation-of-PointNet-for-Indoor-Office-Point-Cloud-Semantic-Segmentation.pdf"
+    },
+    {
+        "title": "DETEKSI OTOMATIS GARIS PANTAI MENGGUNAKAN TEKNOLOGI MACHINE LEARNING DENGAN COASTSAT",
+        "authors": [
+            "Calvin Wijaya",
+            "Irma Yusiyanti",
+            "Joel Piero Nainggolan"
+        ],
+        "cited_by": "2",
+        "year": "2021",
+        "venue": "Prosiding Paper Competition Sriwijaya Geology Festival (SGF) 2021",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2021/9/21",
+        "abstract": "Indonesia adalah negara kepulauan yang tersusun atas ribuan pulau dari Sabang hingga Merauke. Oleh karena itu, Indonesia memiliki garis pantai yang panjang dan banyak area pesisir di penjuru negeri. Garis pantai dan area pesisir sendiri merupakan lokasi yang sangat penting karena aktivitas yang terjadi melibatkan berbagai aspek, seperti ekonomi, budaya, religi, pariwisata dan pendidikan. Dengan demikian, penting untuk dilakukan manajemen pesisir yang baik dikarenakan garis pantai dan area pesisir senantiasa mengalami perubahan seiring berjalannya waktu diakibatkan faktor alam maupun ulah manusia. Salah satu parameter utama yang dapat dipertimbangkan dalam manajemen pesisir adalah dengan melihatperubahan garis pantai dalam periode waktu tertentu. Metode deteksi garis pantai yang umum dilakukan masih bersifat konvensional, yakni digitasi langsung yang bergantung pada interpretasi visual. Metode tersebut menghasilkan data yang bersifat subjektif dikarenakan setiap orang memiliki persepsi yang berbeda tentang garis pantai. Selain itu metode tersebut juga tidak efektif jika harus digunakan pada jumlah data yang banyak. Untuk mengatasi permasalahan tersebut, paper ini memberikan solusi untuk melakukan deteksi garis pantai secara otomatis dan melakukan analisa perubahannya. Metode yang digunakan pada paper ini adalah dengan menggunakan CoastSat untuk mendeteksi garis pantai dengan citra satelit Sentinel–2. CoastSat memperoleh citra dari Google Earth Engine kemudian dilakukan pengolahan awal citra untuk menghilangkan awan dan meningkatkan resolusi spasial diikuti dengan …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Calvin_Wijaya2/publication/362060563_DETEKSI_OTOMATIS_GARIS_PANTAI_MENGGUNAKAN_TEKNOLOGI_MACHINE_LEARNING_DENGAN_COASTSAT/links/62d41525d351bd24f51f5857/DETEKSI-OTOMATIS-GARIS-PANTAI-MENGGUNAKAN-TEKNOLOGI-MACHINE-LEARNING-DENGAN-COASTSAT.pdf"
+    },
+    {
+        "title": "The Palu-Koro fault behaviour monitoring associated with the 2018 Palu earthquake based on the multi-temporal planetscope and Landsat 8 satellite images",
+        "authors": [
+            "Bondan Galih Dewanto",
+            "Calvin Wijaya",
+            "Ramadhan Priadi"
+        ],
+        "cited_by": "1",
+        "year": "2025",
+        "venue": "Remote Sensing Applications: Society and Environment",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2025/1/1",
+        "abstract": "The Palu-Koro Fault on Sulawesi Island possesses an extensive record of earthquake-related activity, notably the Palu earthquake on September 28, 2018, which was particularly destructive. This study investigates the evolution of this fault by using high-resolution PlanetScope and Landsat 8 Operational Land Imager/Therma Infrared Sensor (OLI/TIRS) images. By investigating the interseismic, coseismic, and postseismic stages of the earthquake's habits, this paper aims to obtain an in-depth understanding of its behavior. The coseismic displacement analysis, which was carried out alongside the optical image correlation technique, indicated major displacements throughout the Palu-Koro Fault, with the largest displacement of roughly 7 m. To ensure the accuracy of the results, internal verification standards, such as a reliability criterion of >30% and a mean structural similarity index (MSSIM) of 1, were used. Landsat …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Design of Mixed Reality Applications for Visualizing Integrated 3D Land Information Services",
+        "authors": [
+            "Trias Aditya",
+            "Ruli Andaru",
+            "Purnama Budi Santosa",
+            "Calvin Wijaya",
+            "Ali Surojaya",
+            "Adrian Nugroho",
+            "Faisal Ashaari",
+            "Miranty N Sulistyawati",
+            "Annisa Nasywa",
+            "B Emor"
+        ],
+        "cited_by": "1",
+        "year": "2024",
+        "venue": "Proceedings of the 12th International FIG Workshop on LADM & 3D LA, Kuching, Malaysia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:YsMSGLbcyi4C",
+        "publication_date": "2024/9",
+        "abstract": "Applications of mixed reality (MR), targeting users of augmented reality (AR) and virtual reality (VR), have become more popular because of their unique advantages. This paper presents both virtual reality and augmented reality applications that use 3D models from cadastral surveys and property-based data that follows the Land Administration Domain Model (LADM). Applications are designed to be able to present integrated 3D models and 2D land information for property professionals. This paper presents the procedures and challenges to process 3D point clouds data from various sensors ie, drones, visual GNSS, handheld SLAM and to implement visualization and interaction designs of 3D and 2D land related data for AR & VR apps. The pipeline—which includes data collecting utilizing a variety of sensors and AI algorithms for model development—for converting 3D cadastral data into integrated land information is presented in this study. One of critical challenges that this paper worked on has been the integration of user location and 3D property representation on the mobile app, used by land professionals in the field. The land information systems on the AR systems superimpose digital data on the real world. Using the same 3D model, we also investigate how various placement strategies for MR might be used to give 3D city models for land administration services. For the VR users, both land professionals and landowners, utilize the glasses to explore the same 3D models and their related 2D land information for inspection and analysis purposes. Determining, documenting, and sharing data about land ownership, value, and planning is …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.gdmc.nl/3DCadastres/workshop2024/programme/3DLA2024_paper_M.pdf"
+    },
+    {
+        "title": "CASCADE-3D: A GUI-Driven Framework for Automated 3D Building Model Reconstruction",
+        "authors": [
+            "Ruli Andaru",
+            "Bambang Kun Cahyono",
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Calvin Wijaya",
+            "Riyas Syamsul",
+            "Fairuz Akmal",
+            "Hyatma Adikara",
+            "Habib Muhammad",
+            "Fikri Kurniawan"
+        ],
+        "cited_by": "",
+        "year": "2026",
+        "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:WF5omc3nYNoC",
+        "publication_date": "2026/2/19",
+        "abstract": "Generating fast and accurate geospatial data and three-dimensional (3D) properties is essential for supporting multipurpose land management services. This study presents the CAdastre and Spatial map adjustment with spatial Computation for Automatic builDing dEtection and 3D generation (CASCADE-3D), a graphical user interface (GUI) developed for the automated reconstruction of 3D models at Levels of Detail (LOD) 1 and 2. CASCADE-3D integrates advanced deep-learning frameworks—including the Segment Anything Model (SAM) AI and Dynamic Graph Convolutional Neural Network (DGCNN)—to perform building outline detection and point cloud classification, subsequently reconstructing 3D models using true orthoimage acquired from unmanned aerial vehicles and building height models (BHMs). Photogrammetric processing using Structure-from-Motion and Multi-View Stereo techniques is initially …",
+        "pdf_link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11400619.pdf"
+    },
+    {
+        "title": "Evaluation of Google Earth Engine Embedding Dataset for Remote Sensing Image Classification",
+        "authors": [
+            "Calvin Wijaya"
+        ],
+        "cited_by": "",
+        "year": "2026",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:ufrVoPGSRksC",
+        "publication_date": "2026/1/20",
+        "abstract": "Google Earth Engine (GEE) has emerged as one of the most powerful cloud-based platforms for processing and analyzing remote sensing imagery. By integrating vast Earth observation archives with scalable computational resources, it provides an accessible environment for researchers, practitioners, and decision-makers. In 2025, Google’s AlphaEarth Foundation introduced a novel embedding model trained on diverse Earth observation datasets available on the GEE server. This model, generated from annual time-series imagery and offered in an analysis-ready format, enables general-purpose applications such as classification, clustering, regression and change detection. Despite its potential, the performance and capabilities of this embedding model remain largely underexplored. This study evaluates the effectiveness of the embedding datasets in GEE for supervised classification method. Comparative experiments were conducted against widely used remote sensing imagery, including Sentinel-2 and Landsat 9 imagery, using multiple algorithms such as K-Neural Network (KNN), Support Vector Machine (SVM), Random Forest (RF), Classification and Regression Trees (CART), and Object-Based Image Analysis (OBIA). In addition, a case study was carried out to examine the use of embedding datasets for mangrove classification. Validation using overall accuracy demonstrates that embedding datasets achieve superior results compared to conventional imagery. Classification using the embedding dataset achieved an average overall accuracy of 94%, outperforming Landsat 9 (83.1%) and Sentinel-2 (82.5%). Moreover, the embedding …",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/8151/7749"
+    },
+    {
+        "title": "Collaboration Mechanics with AR/VR for Cadastral Surveys—A Conceptual Implementation for an Urban Ward in Indonesia",
+        "authors": [
+            "Trias Aditya",
+            "Adrian N Pamungkas",
+            "Faishal Ashaari",
+            "Walter T de Vries",
+            "Calvin Wijaya",
+            "Nicholas G Setiawan"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Geomatics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:eQOLeE2rZwMC",
+        "publication_date": "2025/12/5",
+        "abstract": "Synchronous interactions from different locations have become a globally accepted modus of interaction since the COVID-19 outbreak. For centuries, professional cadastral survey activities always required an interaction modus whereby surveyors, neighboring landowners, and local officers were present simultaneously. During the systematic adjudication and land registration project in Indonesia, multiple problems in the land information systems emerged, which, up to date, remain unsolved. These include the presence of plots of land without a related title, incorrect demarcations in the field, and the listing of titles without a connection to a land plot. We argue that these problems emerged due to ineffective survey workflows, which draw on inflexible process steps. This research assesses how and how much the use of augmented and virtual reality (AR/VR) technologies can make land registration services more effective and expand collaboration in a synchronous and at distant manner (the so-called same time, different place principle). The tested cadastral survey workflows include the procedure for a first land titling, the one for land subdivision, and the updating and maintenance of the cadastral database. These are common cases that could potentially benefit from integrated uses of augmented and virtual reality applications. Mixed reality technologies using VR glasses are also tested as tools, allowing individuals, surveyors, and government officers to work together synchronously from different places via a web mediation dashboard. The work aims at providing alternatives for safe interactions of field surveyors with decision-making groups in …",
+        "pdf_link": "https://www.mdpi.com/2673-7418/5/4/75"
+    },
+    {
+        "title": "Analysis of green open space availability in Surabaya city using Google earth engine",
+        "authors": [
+            "Abdul Basith",
+            "Calvin Wijaya",
+            "Rizal Mubarok"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2025/2/7",
+        "abstract": "Surabaya city has been the center of economy and industry for several decades. It is a port city where all economic activities happen that affect the conversion of the land from its original cover into economic uses. As a result, the land and the open space areas become scarce. The same thing happened to green open spaces, which experienced a decrease in the number of areas. This research aims to find, calculate, analyze, and evaluate green open space using object-based image classification. With advanced remote sensing satellite technology such as Sentinel 2 MSI, the satellite can produce images for use to extract green open space. Google Earth Engine (GEE) offers image processing tools to extract land cover information, including green open space. SNIC (Simple Non-Iterative Clustering) algorithm is used to segment the images and then merge with PCA (Principal Component Analysis) of the GLCM …",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0234006/20384753/030002_1_5.0234006.pdf"
+    },
+    {
+        "title": "Segmentasi Semantik Point Cloud untuk Pemodelan Ruang dengan PointNet",
+        "authors": [
+            "Calvin Wijaya"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:W7OEmFMy1HYC",
+        "publication_date": "2023",
+        "abstract": "Informasi ruang menjadi salah satu sumber informasi utama dalam manajemen bangunan. Hal ini didasari dengan meningkatnya penggunaan Building Information Modeling (BIM) pada industri arsitektur, rekayasa, dan kontruksi (AEC). Data geometri model ruang dapat diakuisisi menggunakan peralatan laser scanner seperti Terrestrial Laser Scanner (TLS). Hasil scan dari TLS adalah point cloud yang dapat diolah menjadi model 3D ruang. Pengolahan data hasil scan ke model 3D seperti labeling umumnya masih menggunakan metode manual yang tidak efisien karena jumlahnya yang sangat banyak. Data point cloud juga memiliki karakteristik tidak teratur, tidak berurutan, dan tidak terstruktur sehingga penelitian terkait otomatisasinya menjadi perhatian saat ini. Deep learning dapat menjadi salah satu solusi alternatif untuk segmentasi point cloud. Namun umumnya deep learning membutuhkan data masukan yang teratur, tidak seperti point cloud. PointNet menjadi algoritma deep learning pertama yang menerima data masukan point cloud langsung tanpa mentransformasinya ke bentuk yang teratur. Penelitian ini bertujuan untuk melakukan analisis dan evaluasi dari proses segmentasi semantik point cloud hasil akuisisi TLS menggunakan PointNet. Penelitian ini secara garis besar terbagi menjadi tiga tahapan, yakni persiapan, akuisisi data, dan pengolahan-analisis hasil. Persiapan merupakan tahapan untuk menyiapkan instrumen, tim, jadwal, administrasi dan melakukan survei pendahuluan. Penelitian ini akan mensegmentasi point cloud menjadi sembilan kelas elemen ruang. Tahapan akuisisi data bertujuan untuk mengumpulkan …"
+    },
+    {
+        "title": "ANALISIS PERGESERAN DINDING CANDI BOROBUDUR MENGGUNAKAN ROBOTIC TOTAL STATION (RTS)",
+        "authors": [
+            "Calvin Wijaya",
+            "Rizal Mubarok",
+            "Raniah Salsabila",
+            "Joni Setiyawan"
+        ],
+        "cited_by": "",
+        "year": "2022",
+        "venue": "Jurnal Konservasi Cagar Budaya",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2022/6/30",
+        "abstract": "Borobudur temple is one of the world's cultural heritages which located in Magelang, Central Java. This largest temple in Indonesia has historical and cultural values that are very valuable, so it is important to be maintained and preserved. One way of preservation that can be done is to monitor the structure of temple walls. This purpose of this monitoring is to observe if there is a shift or movement in the earth’s plates and non-natural factors. The development of survey technology with Robotic Total Station (RTS) will make easier to monitor the structures. The monitoring method is carried out used the principle of geodetic measurement to measure 60 monitoring prisms on all sides of the temple in three cycles. The results of the monitoringshowedthat magnitude of the shift in this temple walls was small, which was under than 1 mm on all sides, so that it can be categorized as relatively stable temple wall."
+    },
+    {
+        "title": "MONITORING POINT OF BOROBUDUR TEMPLE WALL DEFORMATION ANALYSIS USING ROBOTIC TOTAL STATION (RTS)",
+        "authors": [
+            "Calvin Wijaya",
+            "Raniah Salsabila",
+            "Rizal Mubarok",
+            "Joni Setiyawan"
+        ],
+        "cited_by": "",
+        "year": "2022",
+        "venue": "Jurnal Konservasi Cagar Budaya",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFUhWQkAAAAJ&citation_for_view=xFUhWQkAAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2022/6/1"
+    }
+]

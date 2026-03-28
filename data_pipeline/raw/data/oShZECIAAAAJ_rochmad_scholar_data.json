@@ -1,0 +1,414 @@
+[
+    {
+        "title": "LADM implementation prototype for 3D cadastre information system of multi-level apartment in Indonesia",
+        "authors": [
+            "Yanto Budisusanto",
+            "Trias Aditya",
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "32",
+        "year": "2013",
+        "venue": "5th Land Administration Domain Model Workshop",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2013/9/24",
+        "abstract": "Limitations of land supply for infrastructure developments in urban areas led to the development of multi-level and vertical buildings. Massive developments and uses of high rise buildings and constructions such as muti-level apartments and overpass structures in big cities in Indonesia indicated that the demand for space above the ground surface is rapidly increasing in recent years. Regardless the existence of policy and standards of services on land and property registrations, the trend will potentially cause ineffective space management as there is no dedicated information system to efficiently and effectively register and manage information related to boundary of property objects and spaces above the ground and their corresponding rights of ownerships and uses. This paper is dealt with a development of an information system prototype that deals with the registration and management of objects and spaces related to cadastre system (3D cadastre). Currently the registration system does not store geometry and attributes of ownerships of spaces of property objects in a single system whereas there is a potential opportunity to adopt Land Administration Domain Model (LADM) basic classes in enhancing registration and visualization of land and property spaces. For that reason, a prototype was built based on a simple implementation of LADM basic classes by conforming to the national law on strata title for multi-level appartment and regulation of national land office related to land registration systems. This research uses 3D spatial data stored in CAD format of commercial units in multi-level building in city of Semarang. Enterprise Architect UML …",
+        "total_citations": "Cited by 32",
+        "pdf_link": "https://isoladm.org/assets/ce717e__ladm2013_submission_32no_edit.pdf"
+    },
+    {
+        "title": "Development and definition of prambanan temple deformation monitoring control points",
+        "authors": [
+            "Rochmad Muryamto",
+            "M Iqbal Taftazani",
+            "Yulaikhah Yulaikhah",
+            "Bambang Kun Cahyono",
+            "Anindya Sricandra Prasidya"
+        ],
+        "cited_by": "19",
+        "year": "2018",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:_FxGoFyzp5QC",
+        "publication_date": "2018",
+        "abstract": "As one of the cultural heritage of historical buildings that has been recognized by UNESCO since 1991, the construction of Prambanan Temple was established on an unstable soil structure, not far from the Opak River. In the geological map of Yogyakarta, there is a fault under the Opak River which caused an earthquake in 2006 and had an impact on Prambanan Temple. Because of its position in disaster-prone areas, regular monitoring of the deformation of Prambanan Temple is very necessary. This research aims to build a deformation monitoring control point in Prambanan Temple. Eight control points, consist of three existing points and five new points are built around Prambanan Temple. These eight control points then were measured by GNSS receiver for 1x24 hours in order to define their coordinates. The GNSS data processing is done using GAMIT 10.70 software with two strategies, namely (1) processing with regional reference points, in this case using IGS stations namely BAKO and JOG2, and (2) processing with global reference points using IGS stations namely COCO, DARW, KARR, POHN, PIMO, DGAR, and IISC. Processing with these two strategies is done to find out the best processing results between regional or global processing. This research yields benchmarks of Prambanan temple deformation control points with their coordinates and their standard deviations in two processing strategies. The smallest standard deviation in the first strategy is 78.7 mm on the Z-axis for points of PRB1 and PRB3. The biggest standard deviation is 121.8 mm on the Y-axis at point of PRB2. In the second strategy the smallest standard deviation is …",
+        "total_citations": "Cited by 19",
+        "pdf_link": "https://pdfs.semanticscholar.org/2adb/bac4c6eaa87e035749f7ccca8a5ad9bfff78.pdf"
+    },
+    {
+        "title": "Pembuatan Peta dan Sistem Informasi Geospasial Lahan Pertanian di Kecamatan Sentolo, Kabupaten Kulonprogo, Yogyakarta",
+        "authors": [
+            "Rochmad Muryamto",
+            "Waljiyanto Waljiyanto",
+            "Untung Rahardjo",
+            "Gondang Riyadi",
+            "Ruli Andaru",
+            "Iqbal Taftazani",
+            "Wahyu Marta",
+            "Annisa Farida"
+        ],
+        "cited_by": "11",
+        "year": "2016",
+        "venue": "Jurnal Pengabdian Kepada Masyarakat (Indonesian Journal of Community Engagement)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2016",
+        "abstract": "Kabupaten Kulonprogo merupakan bagian dari wilayah Daerah Istimewa Yogyakarta yang memiliki luas lahan pertanian sebesar±10.700 hektar (Dinas Pertanian dan Kehutanan, 2014). Berdasarkan Perda DIY, Nomor 10, Tahun 2011, Pasal 9, Ayat 2, Butir (d) ditetapkan bahwa luas lahan pertanian pangan berkelanjutan di Kabupaten Kulonprogo hanya seluas 5.029 hektar. Peraturan Daerah Provinsi Daerah Istimewa Yogyakarta, Nomor 10, Tahun 2011 tentang Perlindungan Lahan Pertanian Pangan Berkelanjutan menyebutkan bahwa kegiatan mempertahankan ketahanan dan kedaulatan pangan serta pencegahan terjadinya alih fungsi lahan pertanian ke nonpertanian perlu dilakukan. Tujuan pengabdian masyarakat ini adalah untuk membuat sistem informasi geospasial lahan pertanian pada sebagian kecil area pertanian di Desa Sukoreno, Kecamatan Sentolo, Kabupaten Kulonprogo. Pada kegiatan pengabdian ini, luas daerah yang dipetakan adalah±10 hektar. Berdasarkan luas lahan pertanian yang dipetakan tersebut ditentukan metode yang akan digunakan dalam pengambilan data, yaitu metode pemotretan foto udara dengan pesawat tanpa awak atau Unmanned Aerial Vehicle (UAV). Dengan metode tersebut, seluruh area pertanian yang ada di Kabupaten Kulonprogo diharapkan dapat dipotret dengan cepat. Hasil dari pengabdian masyarakat ini adalah sistem informasi geospasial dan peta lahan pertanian yang dapat digunakan oleh Pemerintah Kabupaten Kulonprogo dalam mendukung kegiatan perlindungan lahan pertanian pangan berkelanjutan.",
+        "total_citations": "Cited by 11",
+        "pdf_link": "https://www.academia.edu/download/79455677/7997.pdf"
+    },
+    {
+        "title": "Penyusunan Model Konsepsual Basisdata untuk Sistem Informasi Kadaster Multiguna.",
+        "authors": [
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "9",
+        "year": "2003",
+        "venue": "Forum Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:qjMakFHDy7sC",
+        "publication_date": "2003",
+        "abstract": ": The term of multipurpose cadastre is used to describe a system that is designed to record, store, and provide not only land-tenure and land valuation information but also a wide variety of information that can be functionally related to and referenced by property parcels. It means that multipurpose not only receives information and data from many sources, but it also provides services and products for many purposes and users. The research is directed to design a conceptual model of multipurpose cadastre database for developing its information system.The conceptual model was developed using entity relationship diagram and represented in relational database structure. A model of multipurpose cadastre was also developed using some parcel based data that came from many sources. The model was situated in Kelurahan Tahunan, Yogyakarta.",
+        "total_citations": "Cited by 9"
+    },
+    {
+        "title": "Pemanfaatan UAV dengan sensor kamera dan LiDAR untuk pemetaan situs cagar budaya kawasan Candi Prambanan",
+        "authors": [
+            "Erlyna Nour Arrofiqoh",
+            "Rochmad Muryamto",
+            "Dhiha Afiyanti",
+            "Siti Chikal Azizah",
+            "Dicky Satria Kresnawan",
+            "Amelinda Nuron Fabiola"
+        ],
+        "cited_by": "8",
+        "year": "2022",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:hqOjcs7Dif8C",
+        "publication_date": "2022/4/10",
+        "abstract": "Kawasan Candi Prambanan merupakan situs warisan cagar budaya yang harus dirawat dan dilindungi keberadaannya. Wilayah yang dilintasi patahan tektonik aktif yaitu sesar Opak, membuat wilayah ini memiliki kerentanan yang tinggi terhadap kerusakan karena gempa bumi. Untuk mendukung pelestarian kawasan cagar budaya, diperlukan pendokumentasian kawasan cagar budaya yang dapat merekam kondisi objek dengan baik untuk kepentingan inventarisasi. Salah satu cara yang dapat dilakukan adalah memotret kawasan candi Prambanan dengan menggunakan teknologi UAV (Unmanned Aerial Vehicles). Semakin berkembangnya teknologi, UAV tidak hanya dapat membawa sensor kamera tetapi juga dapat membawa sensor LIDAR (Light Detection and Ranging). Penelitian ini dimaksudkan untuk mengetahui pemanfaatan teknologi UAV yang membawa sensor kamera dan LIDAR untuk pemetaan situs cagar budaya di kawasan Candi Prambanan dan mengetahui potensi hasil point cloud pengolahan data dari kamera dan LIDAR untuk pemodelan 3D. Hasil kajian menunjukkan bahwa pemotretan kawasan Candi Prambanan menghasilkan foto udara dengan tingkat ketelitian yang tinggi. Resolusi yang dihasilkan dari proses pemotretan udara kawasan Candi Prambanan adalah 8 mm. Foto udara tersebut dapat dimanfaatkan untuk pemetaan skala detail yaitu 1: 1000 dengan ketelitian horizontal dan vertikal masuk ke dalam kelas 2. Hasil point cloud dari LIDAR dapat memberikan tampilan geometri 3 dimensi. Bagian atas candi yang tinggi menjulang dapat terekam dengan cukup baik, dimana point cloud dari hasil pengolahan …",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/1737/1415"
+    },
+    {
+        "title": "Three-dimensional digital documentation for the conservation of the Prambanan temple cluster using guided multi-sensor techniques",
+        "authors": [
+            "Anindya Sricandra Prasidya",
+            "Irwan Gumilar",
+            "Irwan Meilano",
+            "Ikaputra Ikaputra",
+            "Rochmad Muryamto",
+            "Erlyna Nour Arrofiqoh"
+        ],
+        "cited_by": "5",
+        "year": "2025",
+        "venue": "Heritage",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:YOwf2qJgpHMC",
+        "publication_date": "2025/1/16",
+        "abstract": "The Prambanan Temple cluster is a world heritage site that has significant value for humanity, a multiple zone cluster arrangement of highly ornamented towering temples, and a Hindu architectural pattern design. It lies near the Opak Fault, at the foothills of Mount Merapi, on an unstable ground layer, and is surrounded by human activities in Yogyakarta, Indonesia. The site’s vulnerability implies the necessity of 3D digital documentation for its conservation, but its complexity poses difficulties. This work aimed to address this challenge by introducing the utilization of architectural pattern design (APD) to guide multi-sensor line-ups for documentation. First, APDs were established from the literature to derive the associated multiple detail levels; then, multiple sensors and modes of light detection and ranging (Lidar) scanners and photogrammetry were utilized according to their detail requirements and, finally, point cloud data were processed, integrated, assessed, and validated by the proof of the existence of an APD. The internal and external qualities of each sensor result showed the millimeter- to centimeter-range root mean squared error, with the terrestrial laser scanner (TLS) having the best accuracy, followed by aerial close-range and terrestrial-mode photogrammetry and nadiral Lidar and photogrammetry. Two relative cloud distance analyses of every point cloud model to the reference model (TLS) returned the millimeter and centimeter ranges of the mean distance values. Furthermore, visually, every point cloud model from each sensor successfully complemented each other. Therefore, we can conclude that our approach is promising for …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.mdpi.com/2571-9408/8/1/32"
+    },
+    {
+        "title": "The 15-minute city of mass public transportation in yogyakarta: case of trans jogja bus",
+        "authors": [
+            "Febrian Fitryanik Susanta",
+            "Rochmad Muryamto",
+            "Dany Puguh Laksono"
+        ],
+        "cited_by": "2",
+        "year": "2024",
+        "venue": "Eighth Geoinformation Science Symposium 2023: Geoinformation Science for Sustainable Planet",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:MXK_kJrjxJIC",
+        "publication_date": "2024/1/29",
+        "abstract": "The Trans Jogja Bus system is an essential urban transportation service in Yogyakarta and its surrounding areas. With numerous bus stops strategically located throughout the Yogyakarta Urban Area, it aims to provide convenient boarding and disembarkation points for passengers. To improve the commuting experience for passengers, it is crucial to ensure that the Trans Jogja shelters are easily accessible and equipped with a comprehensive range of amenities, covering all regions within the urban area. To evaluate the service level of Trans Jogja Bus stops, the service area from each bus stop is modeled as an interactive isochronous service area map. These maps depict the coverage area of each bus stop based on network analysis, considering travel time to the road network. Each bus stop is a single node with four distinct travel time values: 3, 6, 9, 12, and 15 minutes. By employing this interactive modeling …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Evaluasi Perubahan dan Kesesuaian Penggunaan Lahan Tahun 2019 Terhadap Rencana Tata Ruang Wilayah (RTRW) di Kabupaten Bekasi",
+        "authors": [
+            "Dhimas Aulia Rochman",
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "2",
+        "year": "2023",
+        "venue": "Journal of Geospatial Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:_kc_bZDykSQC",
+        "publication_date": "2023",
+        "abstract": "Pola penggunaan lahan di kawasan perkotaan yang umum terjadi adalah penyusutan dari sektor pertanian, yang beralih menjadi lahan terbangun. Hal serupa terjadi di Kabupaten Bekasi, dikutip dari data LAPAN (2017), bahwa telah terjadi penurunan lahan sawah sebesar 0.59% yang beriringan dengan pertambahan kawasan industri mencapai 0, 15% per tahun. Berbagai perubahan penggunaan lahan yang terjadi akan memberikan pengaruh terhadap struktur tata ruang wilayah secara keseluruhan. Jika hal tersebut terus-menerus dilakukan, dikhawatirkan akan terjadi perubahan yang tidak proporsional pada setiap klasifikasi penggunaan lahan. Kegiatan aplikatif ini dilaksanakan untuk mengetahui perubahan penggunaan lahan tahun 2014–2019 serta mengevaluasi kesesuaian penggunaan lahan tahun 2019 terhadap RTRW di wilayah Kabupaten Bekasi. Kegiatan aplikatif ini diawali dengan melakukan …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Kombinasi Survei Terestrial dan Satelit Navigasi untuk Pendefinisian Koordinat Titik Pemantauan Candi Prambanan",
+        "authors": [
+            "Rochmad Muryamto",
+            "Hidayat Panuntun",
+            "Hanif Ilmawan",
+            "Erlyna Noor Arrofiqoh",
+            "Afradon Aditya Setyawan",
+            "Muhammad Iqbal Taftazani"
+        ],
+        "cited_by": "1",
+        "year": "2024",
+        "venue": "Jurnal Spatial Wahana Komunikasi dan Informasi Geografi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:M3ejUd6NZC8C",
+        "publication_date": "2024/9/14",
+        "abstract": "Candi Prambanan dibangun di atas kondisi struktur tanah yang tidak stabil, yaitu pada lapisan tanah pasir dengan kepadatan sedang. Pada sisi sebelah barat terdapat sesar pada bentang alam Sungai Opak yang dapat mempengaruhi kestabilan Candi Prambanan. Pemantauan secara rutin dari aspek geometrik pada Candi Prambanan diperlukan karena Candi Prambanan berada di wilayah yang rawan gempa serta berada pada struktur tanah yang labil. Penelitian ini telah berhasil mendefinisikan koordinat X, Y, Z dan φ, λ, h Titik Pantau berdasarkan pengamatan GPS dengan pengolahan post-processing menggunakan perangkat lunak GAMIT/GLOBK (GNSS at MIT/Global Kalma Filter). Tinggi ortometrik (H) seluruh Titik Pantau telah didapatkan dari pengukuran beda tinggi dengan titik referensi TTG-852 (Titik Tinggi Geodesi 852) dan dihitung menggunakan metode least square adjustment. Posisi kala ke-1 Candi Prambanan didapatkan dengan melakukan pengukuran pengikatan ke muka dari Titik Pantau terhadap reflektor yang dipasang pada tubuh candi. Hasil pengukuran ini berupa posisi definitif dari Titik Pantau dan Titik Pengamatan pada tubuh Candi Prambanan dengan rata-rata simpangan baku pada koordinat X, Y, dan H berturut-turut adalah sebesar 1, 27 mm, 2, 04 mm, dan 2, 17 mm. Koordinat tersebut dapat digunakan sebagai acuan dalam pemantauan deformasi di tahun yang akan datang.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://journal.unj.ac.id/unj/index.php/spatial/article/download/43671/17959"
+    },
+    {
+        "title": "Penyediaan Data Spasial Bangunan di Sekolah Vokasi UGM dalam Sebuah Basisdata 3D",
+        "authors": [
+            "Rochmad Muryamto",
+            "Wahyu Marta Mutiarasari"
+        ],
+        "cited_by": "1",
+        "year": "2020",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:roLk4NBRz8UC",
+        "publication_date": "2020/6/1",
+        "abstract": "Spatial data supply activities can be carried out with various data inputs and produce various products. One product that stores spatially structured data is spatial database. Spatial database can support storage of height components (3D) of an object, for example a building. The use of 3D spatial database can be very broad and for various fields of application, one of which is the preservation of cultural heritage. This study aims to provide spatial data in the form of a 3D database for building, especially those that have become cultural heritage, within the UGM Vocational School (SV) environment.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.academia.edu/download/101648093/326774739.pdf"
+    },
+    {
+        "title": "Pembuatan Model 3D dengan Memanfaatkan Teknologi Drone Lidar Untuk Pemetaan Situs Cagar Budaya Candi Garuda",
+        "authors": [
+            "Erlyna Nour Arrofiqoh",
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "1",
+        "year": "2020",
+        "venue": "Yogyakarta: Angkasa Jurnal Ilmiah Bidang Teknologi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:3fE2CSJIrl8C",
+        "publication_date": "2020",
+        "abstract": "Garuda Temple is one of the temples located in the Prambanan Temple complex. Prambanan Temple is a Hindu temple in Indonesia which is listed as a world heritage site by UNESCO. The location of the temple is near the Opak fault zone so it is prone to damage when an earthquake occurs. To support temple preservation, regular monitoring and documentation of temple buildings is required. One method for monitoring and updating the condition of cultural heritage quickly and efficiently is by using unmanned aircraft or drones. As technology develops, the sensors used for observation become increasingly diverse. Drones can not only carry camera sensors but can also carry LiDAR sensors. This research tries to make observations using drone technology carrying camera sensors and LiDAR to obtain a 3D model of the Garuda Temple which is located in the Prambanan Temple cultural heritage area. The aim of this research activity is to create a 3D model with a combination of data originating from a combination of LiDAR sensors and camera sensors which are processed using the SfM (Structure from Motion) technique. The study results show that pointclouds from different sensors have different characteristics. Each pointcloud has advantages and disadvantages. The combination of pointcloud can improve the reconstruction results of the 3D model of Garuda Temple which has a unique character, namely tall, tapered architecture and lots of details.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Erlyna-Arrofiqoh-2/publication/375498510_Pembuatan_Model_3D_dengan_Memanfaatkan_Teknologi_Drone_Lidar_Untuk_Pemetaan_Situs_Cagar_Budaya_Candi_Garuda/links/660e4d0c390c214cfd35d15c/Pembuatan-Model-3D-dengan-Memanfaatkan-Teknologi-Drone-Lidar-Untuk-Pemetaan-Situs-Cagar-Budaya-Candi-Garuda.pdf"
+    },
+    {
+        "title": "Pembuatan Informasi Geospasial Sarana dan Prasarana Kelurahan Wates Kabupaten Kulon Progo pada Skala 1: 15.000",
+        "authors": [
+            "A FARIDA"
+        ],
+        "cited_by": "1",
+        "year": "2020",
+        "venue": "JURNAL PENGABDIAN DAN PENGEMBANGAN MASYARAKAT Учредители: Universitas Gadjah Mada",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:UebtZRa9Y70C",
+        "publication_date": "2020",
+        "abstract": "ABSTRAK Field Research Center (FRC) merupakan bagian dari program Teaching Industry Sekolah Vokasi Universitas Gadjah Mada. FRC dibangun bertujuan untuk mengembangkan hasil penelitian dan pengabdian agar menjadi sebuah produk yang dapat dimanfaatkan oleh masyarakat serta mendekatkan mahasiswa pada obyek materi pembelajaran agar menjadi lulusan yang siap bekerja. Rencana FRC akan dibangun di atas tanah seluas 6, 5 hektar di Kelurahan Wates, Kabupaten Kulon Progo. Disekitar lokasi pembangunan FRC, terdiri atas kawasan penyangga seluas 29 hektar. Kawasan penyangganya terdiri atas berbagai berbagai sarana dan prasarana, seperti sarana pendidikan, kesehatan, pertahanan dan keamanan, jalan, sungai, rel kereta api, dan lain sebagainya. Penelitian ini bertujuan untuk menyajikan informasi geospasial sarana dan prasarana yang berada disekitar lokasi FRC. Data …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.academia.edu/download/90066405/30119.pdf"
+    },
+    {
+        "title": "Evaluasi Daerah Layanan Rumah Sakit di Yogyakarta dengan Perangkat Lunak Open Source",
+        "authors": [
+            "Rochmad Muryamto",
+            "Dany Laksono"
+        ],
+        "cited_by": "1",
+        "year": "2015",
+        "venue": "Prosiding Seminar Nasional Teknologi Terapan SV UGM",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:5nxA0vEk-isC",
+        "publication_date": "2015",
+        "abstract": "Analisis mengenai kemudahan akses suatu populasi penduduk terhadap rumah sakit dapat dilakukan dengan memetakan daerah layanan (service area) tiap rumah sakit. Salah satu metode untuk menentukan daerah layanan adalah dengan menghitung keseluruhan waktu tempuh menuju penyedia layanan tersebut, yang dapat diwujudkan dalam bentuk peta isochrones. Penelitian ini dilakukan untuk mengevaluasi tingkat aksesibilitas rumah sakit pada suatu populasi penduduk dengan menggunakan perangkat lunak open source. Data jaringan jalan diperoleh dari pemetaan partisipatif menggunakan platform OpenStreetMap (OSM), sedangkan data populasi penduduk menggunakan estimasi WorldPop. Analisis travel time dilakukan dengan menggunakan pgRouting dan QGIS dengan menggunakan hitungan impedansi dari jarak tempuh tiap ruas jalan. Hasil analisis dalam bentuk peta isochrones yang …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Pembuatan Peta Dasar Kalurahan Kaliagung Menggunakan Foto Udara dari Wahana Terbang Nir-Awak: Creation of Kaliagung Village Base Map Utilizing Aerial Photographs from Unmanned …",
+        "authors": [
+            "Hanif Ilmawan",
+            "Rochmad Muryamto",
+            "Hidayat Panuntun",
+            "Muhammad Iqbal Taftazani",
+            "Erlyna Nour Arrofiqoh"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "Komatika: Jurnal Pengabdian Kepada Masyarakat",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:kNdYIx-mwKoC",
+        "publication_date": "2024/5/30",
+        "abstract": "Berdasarkan data yang dirilis Kementerian Dalam Negeri, Kalurahan Kaliagung masuk ke dalam kategori Desa Ektrem Miskin di Kulon Progo. Salah satu penyebabnya adalah kekayaan asli desa yang belum dikelola dengan baik. Dalam rangka mendukung pengelolaan kekayaan dan aset desa secara lebih integratif, maka diperlukan data dasar yang berkualitas. Salah satu data dasar yang dibutuhkan berupa peta dasar yang menggambarkan Kalurahan Kaliagung secara detail dan utuh. Peta dasar adalah salah satu dari Informasi Geospasial Dasar, yaitu penyajian lokasi geografis, dimensi atau ukuran, dan/atau karakteristik objek alam dan/atau buatan manusia di permukaan bumi pada skala dan sistem proyeksi tertentu yang berguna untuk alat bantu dalam pengambilan keputusan terkait ruang kebumian (Pasal 1 UU No. 4 tahun 2011). Pada pembuatan peta dasar Kalurahan Kaliagung, teknologi yang digunakan adalah pemotretan udara menggunakan wahana terbang nir-awak. Jenis wahana terbang yang digunakan adalah Vertical Take Off and Landing (VTOL). Pengukuran GCP dan ICP dilakukan dengan survei GNSS metode jaring.  Hasil dari kegiatan ini berupa peta dasar dengan skala 1:6000. Data yang disajikan berupa foto udara, jaringan jalan, fasilitas umum, serta batas wilayah Kalurahan Kaliagung. Hasil pengujian menunjukkan peta dasar Kalurahan Kaliagung berada pada kelas 1 untuk ketelitian horizontal dan vertikal. Dengan demikian, peta dasar yang dihasilkan telah memenuhi regulasi yang berlaku (Peraturan BIG No. 18 Tahun 2021) sehingga dapat digunakan untuk analisis lanjutan.",
+        "pdf_link": "https://ejournal.ikado.ac.id/index.php/komatika/article/download/792/320"
+    },
+    {
+        "title": "PEMANFAATAN TEKNOLOGI TERRESTRIAL LASER SCANNER DALAM UPAYA KONSERVASI BANGUNAN CAGAR BUDAYA",
+        "authors": [
+            "Cagar Budaya"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "Jurnal Pangripta Sembada",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:ULOm3_A8WrAC",
+        "publication_date": "2024",
+        "abstract": "Bangunan cagar budaya adalah bangunan yang memiliki nilai sejarah penting sehingga perlu dijaga keaslian arsitekturnya. Salah satu bangunan cagar budaya yang ada di Yogyakarta adalah Gedung Iso Reksohadiprodjo. Gedung tersebut merupakan bagian dari Kompleks Pantja Dharma yang kini digunakan oleh Sekolah Vokasi UGM sebagai fasilitas perkuliahan. Untuk menjaga keaslian atau konservasi bangunan perlu dilakukan pendokumentasian yang nantinya berguna apabila ingin dilakukan restorasi bangunan. Salah satu cara yang dapat dilakukan untuk mendokumentasikan gedung ini adalah dengan menggunakan alat Terrestrial Laser Scanner (TLS). Penggunaan TLS ini menghasilkan data point clouds dengan akurasi tinggi dengan dibuktikan dengan perhitungan ketelitian point clouds.Akuisisi data pada eksterior gedung menggunakan metode registrasi cloud to cloud dan diolah dengan perangkat lunak Autodesk Recap Pro. Ketelitian data point clouds diuji dengan membandingkan 30 sampel jarak yang diukur menggunakan alat distometer dan alat TLS, kemudian pengujian menggunakan RMSE. Selain itu, ketelitian posisi horizontal dan vertikal dianalisis menggunakan sembilan sampel untuk menghitung perbedaan koordinat antara point clouds dan koordinat lapangan. Hasil akhir dari penelitian ini berupa dokumentasi eksterior Gedung Iso Reksohadiprodjo dalam bentuk point clouds dengan ketelitian point clouds sebesar 0,003 m, ketelitian posisi horizontal sebesar 0,054 m, dan ketelitian posisi vertikal sebesar 0,131 m. Dengan akurasi tersebut, upaya restorasi atau konservasi dapat dilakukan berdasarkan model …",
+        "pdf_link": "https://www.researchgate.net/profile/Hanif-Ilmawan-2/publication/386426244_Pemanfaatan_Teknologi_Terrestrial_Laser_Scanner_Dalam_Upaya_Konservasi_Bangunan_Cagar_Budaya/links/67512d56790d154bf9c3a780/Pemanfaatan-Teknologi-Terrestrial-Laser-Scanner-Dalam-Upaya-Konservasi-Bangunan-Cagar-Budaya.pdf"
+    },
+    {
+        "title": "EVALUASI CARA PENGIKATAN KE TITIK TETAP PADA PENENTUAN POSISI DENGAN GNSS",
+        "authors": [
+            "Anindya Sricandra Prasidya",
+            "Muhamad Iqbal Taftazani",
+            "Wahyu Marta Mutiarasari",
+            "Annisa Farida",
+            "Ni Putu Praja Chintya Hayuningsih",
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "GEOMATIKA",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:LkGwnXOMwfcC",
+        "publication_date": "2019/11/29",
+        "abstract": "Pengikatan ke titik tetap dalam sebuah penentuan posisi dengan GNSS merupakan salah satu faktor yang berpengaruh pada hasil perataan jaring GNSS. Cara pengikatan ke titik tetap masih jarang dikaji, padahal hal ini sering terjadi. Jauhnya lokasi titik tetap dan pendeknya baseline yang disurvei membuat cara pengikatan secara langsung ke titik tetap menghasilkan geometri jaringan yang kurang ideal. Masalah ketelitian yang dihasilkan akibat kasus tersebut dikaji pada penelitian ini. Dua pendekatan cara pengikatan yang dipakai dalam studi ini yakni skema-1 dan skema-2. Skema-1 adalah pengikatan langsung dari dua titik tetap (KPG2 dan BTL2) ke titik uji (PM1, PM2, PM3, dan PM4), sedangkan skema-2 adalah cara pengikatan beranting dari titik KPG2 dan BTL2 ke titik perantara dekat lokasi (PABU) yang dipakai untuk mengikat titik-titik uji. Titik uji diamat selama 30 menit dan titik PABU diamati selama 3 jam menggunakan pengamatan GNSS diferensial statik. Berdasarkan analisis, diketahui bahwa dengan asumsi titik PABU fixed dan perambatan kesalahannya pada koordinat akhir tidak diperhitungkan, skema-2 memiliki ketelitian koordinat yang lebih tinggi (2, 5 mm sampai dengan 8, 3 mm) dibandingkan skema-1 (24, 9 mm sd 67, 9 mm). Nilai koordinat dari dua skema tersebut berbeda secara statistik (rentang kepercayaan= 95%) hanya pada komponen easting-nya sedangkan komponen northing dan height-nya tidak demikian. Ketelitian antara kedua skema pun berbeda secara statistik pada semua komponen koordinat. Dengan demikian, pada kasus ini, cara pengikatan beranting menghasilkan ketelitian koordinat yang lebih …",
+        "pdf_link": "https://pdfs.semanticscholar.org/b20c/896da1b4d0c91d0c1ef6e1d0daea355a4eda.pdf"
+    },
+    {
+        "title": "Evaluasi Cara Pengikatan Ke Titik Tetap Pada Penentuan Posisi Dengan GNSS",
+        "authors": [
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "GEOMATIKA",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:qxL8FJ1GzNcC",
+        "publication_date": "2019/1/1",
+        "abstract": "Pengikatan ke titik tetap dalam sebuah penentuan posisi dengan GNSS merupakan salah satu faktor yang berpengaruh pada hasil perataan jaring GNSS. Cara pengikatan ke titik tetap masih jarang dikaji, padahal hal ini sering terjadi. Jauhnya lokasi titik tetap dan pendeknya baseline yang disurvei membuat cara pengikatan secara langsung ke titik tetap menghasilkan geometri jaringan yang kurang ideal. Masalah ketelitian yang dihasilkan akibat kasus tersebut dikaji pada penelitian ini. Dua pendekatan cara pengikatan yang dipakai dalam studi ini yakni skema-1 dan skema-2. Skema-1 adalah pengikatan langsung dari dua titik tetap (KPG2 dan BTL2) ke titik uji (PM1, PM2, PM3, dan PM4), sedangkan skema-2 adalah cara pengikatan beranting dari titik KPG2 dan BTL2 ke titik perantara dekat lokasi (PABU) yang dipakai untuk mengikat titik-titik uji. Titik uji diamat selama 30 menit dan titik PABU diamati selama 3 jam menggunakan pengamatan GNSS diferensial statik. Berdasarkan analisis, diketahui bahwa...",
+        "pdf_link": "https://www.academia.edu/download/101648049/PDF.pdf"
+    },
+    {
+        "title": "PEMETAAN RISIKO DAN PENILAIAN KERUSAKAN AKIBAT BENCANA BANJIR DI KOTA MARTAPURA",
+        "authors": [
+            "M NOOR JAMALLUDDIN"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:WF5omc3nYNoC",
+        "publication_date": "2017",
+        "abstract": "Banjir yang melanda di Desa Tunggul Irang Ulu, Kecamatan Martapura, Kabupaten Banjar, Provinsi Kalimantan Selatan disebabkan oleh curah hujan yang sangat tinggi. Hal ini menyebabkan meluapnya aliran sungai Riam Kiri dan sungai Riam Kanan. Desa Tunggul Irang Ulu Kecamatan Martapura merupakan daerah terparah terkena banjir dengan ketinggian mencapai satu meter. Tidak hanya rumah warga yang tergenang banjir, akses jalan juga digenangi banjir sehingga menghambat lalulintas kendaraan. Kebutuhan informasi yang cepat terutama kondisi bangunan dan infrastruktur pasca bencana merupakan input pokok dalam penanganan yang harus dilakukan selanjutnya, yaitu rekonstruksi dan rehabilitasi. Lambatnya informasi yang diperoleh seringkali menyebabkan keterlambatan penanganan dan tidak meratanya distribusi bantuan. Kondisi yang semakin berlarut ini bahkan dapat berlanjut dengan polemik di masyarakat yang justru menjadi bencana kedua. Penelitian ini bertujuan untuk menilai kerusakan dan kehilangan yang dialami sektor perumahan dan prasarana publik (transportasi darat) yang terkena dampak banjir. Metode Damage and Loss Assessment (DaLA) digunakan untuk menilai tipe dan nilai kerusakan pada sektor perumahan dan prasarana publik (transportasi darat) yang terdampak banjir. Penelitian dilakukan pada tanggal 16 Mei tahun 2015, untuk pendataan disetiap rumah memerlukan waktu 10 menit, waktu total efektif kerja 7 jam, waktu total dilapangan 21 hari. Populasi dalam penelitian ini ialah seluruh wilayah Desa Tunggul Irang Ulu. Metode pengumpulan data yang digunakan ialah (1) wawancara …"
+    },
+    {
+        "title": "PEMBUATAN AS BUILT DRAWING DARI DATA MODEL PRIMITIF 3D LASER SCANNING STUDI KASUS KILANG UTILITIES REFINERY UNIT III PT, PERTAMINA BLOK PLAJU",
+        "authors": [
+            "DIYAS SYAIFUL RAHMAN"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:YsMSGLbcyi4C",
+        "publication_date": "2016",
+        "abstract": "As built drawing adalah produk dan dokumen pemeliharaan konstruksi pada semua instalasi proyek, tidak terkecuali untuk instalasi kilang minyak. Dokumen as built drawing secara tradisional disajikan dalam bentuk dokumen cetak. Seiring dengan perkembangan teknologi khususnya teknologi komputerisasi, dokumen as built drawing dapat disajikan dalam bentuk digital pada komputer. Dewasa ini, dokumen as built drawing selain disimpan dalam bentuk digital, juga disajikan dengan model 3D. Hal tersebut dapat diakomodasi oleh teknologi dalam bidang surveying yaitu 3D laser scanner. Data hasil pengukuran 3D laser scanning adalah point cloud yang merupakan data awal dalam pembuatan model 3D kilang minyak. Tujuan dari kegiatan ini adalah membuat dokumen as built drawing 3D dengan memadukan data perpipaan dari dokumen P&ID dan model primitif 3D Kilang Utilities Refinery Unit III PT. PERTAMINA BLOK PLAJU. As built drawing dalam kegiatan ini adalah model 3D kilang minyak yang telah dilengkapi dengan data atribut perpipaan. Model 3D yang digunakan adalah model 3D hasil dari pemodelan data pengukuran 3D laser scanner, sedangkan data atribut perpipaan diperoleh dari gambar P&ID. Pembuatan dokumen as built drawing dilakukan dengan cara mengintegrasikan antara dokumen model 3D kilang minyak dan data atribut perpipaan. Integrasi data dilakukan dengan cara penggambaran ulang objek-objek perpipaan yang ada pada kilang minyak. software Autodesk AutoCAD Plant 3D 2015 adalah software aplikasi yang digunakan untuk membuat dan menyajikan as-built drawing. As built drawing yang …"
+    },
+    {
+        "title": "Pembuatan Plugin Delimitasi Garis Batas Pengelolaan Laut Daerah dengan Menggunakan Metode Equdistant Line pada Perangkat Lunak QGIS",
+        "authors": [
+            "IVAN BUSTHOMI"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&citation_for_view=oShZECIAAAAJ:W7OEmFMy1HYC",
+        "publication_date": "2015",
+        "abstract": "Indonesia merupakan negara kepulauan yang terdiri dari 34 provinsi dengan total keseluruhan 514 kabupaten/kota. Pasal 27 Undang-Undang no 23 Tahun 2014 tentang pemerintahan daerah menyatakan bahwa setiap daerah provinsi diberi kewenangan untuk mengelola sumber daya alam laut di wilayahnya dimana setiap provinsi diberi kewenangan sejauh 12 mil dari garis pantainya. Jika terdapat dua provinsi yang berbatasan dan berjarak kurang dari 24 mil, maka garis batas wilayah pengelolaan laut antara kedua provinsi tersebut ditentukan dengan metode garis sama jarak/garis ekuidistan. Garis ekuidistan merupakan garis yang memiliki jarak yang sama pada kedua garis pangkal daerah yang berbatasan. Proses pembuatan garis ekuidistan dilakukan dengan bantuan perangkat lunak yang mendukung proses analisis spasial, salah satunya adalah QGIS. Akan tetapi belum QGIS belum fungsi yang secara spesifik dapat dilakukan untuk membantu pembuatan garis ekuidistan. Oleh karena itu, perlu dibangun sebuah fungsi tambahan pada QGIS berupa plugin yang mendukung otomatisasi analisis spasial guna membantu proses delimitasi garis batas pengelolaan laut daerah. Pelaksanaan pembuatan plugin meliputi berbagai tahapan yaitu diantaranya meliputi tahapan perancangan algoritma, penulisan kode plugin, serta pengujian plugin. Uji coba plugin dilaksanakan dengan menggunakan data batas administrasi Badan Pusat Statistik (BPS) sebagai data sampel garis pangkal. Daerah yang digunakan sebagai studi kasus pengujian adalah perbatasan antara Provinsi Riau dengan Kepulauan Riau, Sumatera Selatan dan …"
+    },
+    {
+        "title": "Desain Geoportal untuk Mendukung Penataan Ruang Kabupaten Sleman",
+        "authors": [
+            "KM Trias Aditya",
+            "Ir Rochmad Muryamto"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&cstart=20&pagesize=80&citation_for_view=oShZECIAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2015"
+    },
+    {
+        "title": "PEMBUATAN PETA SITUASI SKALA 1: 500 DUSUN SIDOMULYO DESA BELUK DAN BANYURIPAN KECAMATAN BAYAT KABUPATEN KLATEN PROPINSI JAWA TENGAH",
+        "authors": [
+            "FINATA MANDASARI"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&cstart=20&pagesize=80&citation_for_view=oShZECIAAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2014",
+        "abstract": "Praktek Kerja Lapangan (PKL) merupakan penerapan ilmu pengetahuan yang telah diperoleh selama perkuliahan dan salah satu mata kuliah wajib dalam program studi Diploma 3 Teknik Geomatika UGM yang menuntut mahasiswa aktif dalam perencanaan, pengukuran sampai dengan penyajian peta sesuai spesifikasi teknis yang telah ditentukan pada pekerjaan nyata, sehingga mahasiswa bisa memiliki kemampuan, keterampilan, pengalaman dan pengoperasian alat dalam pembuatan peta. Pembuatan peta situasi dalam praktek kerja lapangan ini dilaksanakan dengan melakukan pengukuran kerangka kontrol horisontal, kerangka kontrol vertikal, detil situasi, dan titik tinggi yang digambar secara digital menggunakan perangkat lunak surpac dan ArcGIS. Hasil peta situasi skala 1: 500 Dusun Sidomulyo, Desa Beluk dan Banyuripan, Kecamatan Bayat, Kabupaten Kalten, Propinsi Jawa Tengah dikatakan baik dan memenuhi syarat spesifikasi teknis. Hal ini ditunjukan dengan ketelitian linier KKH sebesar 1: 251.843, sedangkan spesifikasi teknis yang disyaratkan sebesar â‰¤ 1: 7.500. Kesalahan penutup beda tinggi rata-rata KKV sebesar-3 mm, sedangkan spesifikasi teknis yang disyaratkan sebesar â‰¤ 13, 7236 mm. Uji peta 100% memenuhi spesifikasi teknis yag disyaratkan. Kelengkapan detil dari pembuatan peta situasi ini kurang baik dikarenakan kurangnya pengambilan detil pada pematang sawah, maka dari itu sebaiknya pada saat pengukuran di lapangan dilaksanakan dengan sebaik baiknya agar menghasilkan peta situasi yang diinginkan.Practice of field work mapping is a science applications of mapping and one of an …"
+    },
+    {
+        "title": "Pembuatan Model Permukaan Digital Dan Orthoimage Digital Dari Sumber Citra Alos",
+        "authors": [
+            "Rochmad Muryamto",
+            "Ruli Andaru"
+        ],
+        "cited_by": "",
+        "year": "2010",
+        "venue": "Forum Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&cstart=20&pagesize=80&citation_for_view=oShZECIAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2010",
+        "abstract": ": Currently, orthophoto production in Indonesia has grown rapidly, but orthoimage production is still rarely performed. Ortho-satellite images have several advantages compared to conventional aerial photography (orthophoto) such as large coverage area, easier data acquisition, faster and cheaper. One kind of satellite images can be produced as orthoimage is ALOS (Advanced Land Observing Satellite) which has several advantages of recording a stereoscopic view of stereo image in the three-way recording I telescopes (backward, nadir, and forward) with the direction of satellite's on the along track. Combination stereo image can be used to generate Digital Elevation Model (DEM) and then to create orthoimage. Extraction of DEM from ALOS stereo image uses the principle of parallax elevation and BIB ratio.The purpose of this research is to create orthoimage using ALOS PRISM where DEM data input is derived …"
+    },
+    {
+        "title": "Pembuatan Dem Dari Sumber Data Citra Aster",
+        "authors": [
+            "Rochmad Muryamto Djurdjani"
+        ],
+        "cited_by": "",
+        "year": "2005",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&cstart=20&pagesize=80&citation_for_view=oShZECIAAAAJ:ufrVoPGSRksC",
+        "publication_date": "2005",
+        "abstract": "AM-1 (Terra) satellite that carries ASTER sensor having 15 m spatial resolution. It has capability to record the same area from different exposure station along satellite orbit, so that it can produce stereoscopic model and provide height information. This paper will evaluate the accuracy of height information provided by ASTER image. Parallax differences of conjugate points concept was implemented to determine height data. While conjugate points were determined using one of the area based image matching techniques called cross correlation approach. The computed height furthermore were compared to the observed height from 1: 25000 topographic map. A pair of ASTER images covering part of the Tuban area was used in this investigation. By using 150 sample points, it provides 8, 8 m RMS of the height differences."
+    },
+    {
+        "title": "Pemanfaatan Sistem Informasi Geografik untuk Penentuan Bank Tempat Pembayaran Pajak Bumi dan Bangunan Pelaksana Payment Online System.",
+        "authors": [
+            "Rochmad Muryamto Sardana",
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "",
+        "year": "2003",
+        "venue": "Forum Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&cstart=20&pagesize=80&citation_for_view=oShZECIAAAAJ:eQOLeE2rZwMC",
+        "publication_date": "2003",
+        "abstract": "The research aims to do the spatial analysis in selecting banks for paying land and building tax (Tp banps) which will be nominated as POS banlrs (Payment Online System) banks in Bandung city by applying GIS (Geographic Information Systems) technology. GIS spafial analysis was conducted using three coverages; administrative boundaries of Bandung city, land use, and distibution of TP banlcs, including their corresponding attribute data. verything technique and overlay operations using Arc/Info GIS software were conducted to select the priority of TP banks based on some determined criteria. Nineteen Tp banks were nominated as POS, eight of them were considered as the major priority where their locations are equally distributed in Bandung city. Keywords: tax, geographic information systems, spatial analysis"
+    },
+    {
+        "title": "VISUALISASI GEDUNG TJAHJONO ADI DALAM VIRTUAL REALITY MENGGUNAKAN DATA PENGUKURAN TERRESTRIAL LASER SCANNER",
+        "authors": [
+            "Rafi Maulana Raharjo",
+            "Hanif Ilmawan",
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&cstart=20&pagesize=80&citation_for_view=oShZECIAAAAJ:4TOpqqG69KYC",
+        "abstract": "Gedung Tjahjono Adi merupakan salah satu bangunan cagar budaya yang terletak di Kompleks Pantja Dharma. Gedung ini dikelola oleh Sekolah Vokasi Universitas Gadjah Mada (SV UGM) dan memiliki nilai sejarah yang penting, sehingga menjadi objek pelestarian bangunan cagar budaya. Pelestarian bangunan cagar budaya bertujuan untuk mengurangi risiko terjadinya kerusakan atau hilangnya objek bangunan. Beberapa faktor yang dapat menyebabkan kerusakan antara lain perubahan bentuk bangunan yang mengikuti zaman, usia bangunan yang sudah semakin tua, bencana alam yang tidak dapat diprediksi, pemanfaatan bangunan secara aktif, dan lain-lain. Karena hal itu, salah satu cara untuk melestarikan bangunan cagar budaya adalah dengan melakukan pendokumentasian objek bangunan secara digital. Pendokumentasian digital dapat dilakukan dengan membuat model 3D, yang kemudian divisualisasikan menggunakan teknologi Virtual Reality (VR). Teknologi VR memungkinkan interaksi dan eksplorasi bangunan secara mendalam dan dapat dimanfaatkan untuk pemeliharaan bangunan atau berguna sebagai media pendidikan. Penelitian ini bertujuan untuk membuat visualisasi VR dari model 3D Gedung Tjahjono Adi berdasarkan data pengukuran Terrestrial Laser Scanner (TLS). Hasil pengukuran TLS digunakan sebagai dasar dalam pembuatan model 3D dengan tingkat ketelitian yang mencapai fraksi milimeter. Model 3D dibuat mengikuti standar akurasi sesuai tingkat kedetailan Level of Detail (LoD) 4. Hasil data keluaran TLS berupa point cloud, yaitu kumpulan titik-titik yang mempresentasikan bentuk objek …",
+        "pdf_link": "https://www.researchgate.net/profile/Hanif-Ilmawan-2/publication/389437767_Visualisasi_Gedung_Tjahjono_Adi_dalam_Virtual_Reality_Menggunakan_Data_Pengukuran_Terrestrial_Laser_Scanner/links/67c25c7096e7fb48b9d39fc7/Visualisasi-Gedung-Tjahjono-Adi-dalam-Virtual-Reality-Menggunakan-Data-Pengukuran-Terrestrial-Laser-Scanner.pdf"
+    },
+    {
+        "title": "PEMANTAUAN TITIK KONTROL UNTUK MONITORING DEFORMASI CANDI PRAMBANAN BERBASIS TEKNOLOGI SATELIT NAVIGASI",
+        "authors": [
+            "Hidayat Panuntun",
+            "Rochmad Muryamto",
+            "Erlyna Nour Arrofiqoh",
+            "Hanif Ilmawan",
+            "Muhammad Iqbal Taftazani"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&cstart=20&pagesize=80&citation_for_view=oShZECIAAAAJ:KlAtU1dfN6UC",
+        "abstract": "Secara geologi, Candi Prambanan adalah bangunan bersejarah yang dibangun di atas tanah yang memiliki karakteristik relatif tidak stabil karena mempunyai lapisan tanah pasir dengan tingkat kepadatan yang sedang. Selain itu, candi ini juga terletak tidak jauh dari jalur Patahan Opak yang menjadi sumber gempa bumi di Yogyakarta tahun 2006. Karena hal tersebut, pemantauan deformasi secara berkala pada Candi Prambanan sangat diperlukan. Pada penelitian ini kami mengukur titik kontrol yang telah selesai dibangun pada tahun 2018. Pengukuran tersebut dimaksudkan untuk mengetahui berapa besar pergeseran titik kontrol yang dijadikan sebagai acuan untuk pengamatan target yang terpasang di tubuh Candi Prambanan. Karakteristik pengukuran titik kontrol disesuaikan dengan standar pengukuran untuk Titik Dasar Teknik orde 3. Pengukuran tersebut dilakukan menggunakan teknologi Satelit GNSS. Perangkat lunak ilmiah GAMIT/GLOBK digunakan untuk mengolah data pengamatan agar dapat menghasilkan koordinat titik dengan ketelitian yang tinggi. Dari hasil pengolahan menunjukkan bahwa titik kontrol pengamatan mengalami pergeseran sejauh maksimal 4.28 cm dengan arah 100 37’40.34”. Rata-rata pergeseran titik kontrol hasil pengukuran dengan GNSS adalah 3.3 cm dengan arah pergeseran menuju ke timur laut sampai dengan tenggara. Nilai pergeseran titik kontrol tersebut konsisten dengan nilai kecepatan tahunan titik kontrol stasiun CORS yang tersebar di Pulau Jawa. Hal tersebut mengindikasikan bahwa pola deformasi di area Candi Prambanan lebih didominasi oleh pergerakan lempeng tektonik blok …",
+        "pdf_link": "https://www.researchgate.net/profile/Hidayat-Panuntun/publication/382533582_Pemantauan_Titik_Kontrol_Untuk_Monitoring_Deformasi_Candi_Prambanan_Berbasis_Teknologi_Satelit_Navigasi/links/66a256bc75fcd863e5da8457/Pemantauan-Titik-Kontrol-Untuk-Monitoring-Deformasi-Candi-Prambanan-Berbasis-Teknologi-Satelit-Navigasi.pdf"
+    },
+    {
+        "title": "Penentuan Daerah Rawan Kebakaran dengan Sistem Informasi Geografik (Kasus Pooncarie Region, New South Wales, Australia)",
+        "authors": [
+            "Rochmad Muryamto"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oShZECIAAAAJ&cstart=20&pagesize=80&citation_for_view=oShZECIAAAAJ:IjCSPb-OGe4C",
+        "abstract": "The research was done to produce o map showing areas of a high bushfire risk and to create a statistic table shov'ing,. for each properfy, the totsl area with a high bushfire risk and proportion ofthe high bushfire risk area lo the total area ofthe property. The research v, as caruied out in Pooncarie region, south western New South lTales Australia, which is best described as an area of semiarid rangeland. GIS (Geographic Information Systems) spatiul analysis was conducted usingfour coverages: Iand system, roads, bores, and property, including their coruesponding attribute data. Bffiring technique and overlay operations for spatial analysis were done using Arcllnfo GIS sofrware based on some determined criteria, yielding a map showing areas of a high bushfire risk. Five properties had the highest proportion of their land being identified as with a high bushfire risk."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Impact of biophysical mechanisms on urban heat island associated with climate variation and urban morphology",
+        "authors": [
+            "Ressy Fitria",
+            "Daeun Kim",
+            "Jongjin Baik",
+            "Minha Choi"
+        ],
+        "cited_by": "77",
+        "year": "2019",
+        "venue": "Scientific Reports",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DzYo93AAAAAJ&citation_for_view=DzYo93AAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2019/12/20",
+        "abstract": "The rapid development of urban areas can potentially alter hydro-meteorological fluxes and lead to the Urban Heat Island (UHI) phenomenon. In this study, UHI intensity and its driving factors were estimated using the Community Land Model (CLM) in cities of Tokyo, Phoenix, Bandung, and Quito, with different landscapes and climates, as a step in risk assessment of urbanization phenomena. The UHI magnitude increased along with the ratio of the height to width (H/W) of urban canyons in cities with the same latitude, especially during the daytime, when Quito (Tokyo) had a higher UHI than Bandung (Phoenix). El Niño-Southern Oscillation (ENSO) events, such as El Niño and La Niña, contributed to UHI variability, during which the cities in the western (eastern) part of Pacific Ocean experienced a higher UHI during El Niño (La Niña). The UHI differences from total biophysical drivers between these events were …",
+        "total_citations": "Cited by 77",
+        "pdf_link": "https://www.nature.com/articles/s41598-019-55847-8"
+    },
+    {
+        "title": "Evaluation of evapotranspiration using energy-based and water balance hydrological models",
+        "authors": [
+            "Ressy Fitria",
+            "Michael Timothy",
+            "Roald Marck J Revellame"
+        ],
+        "cited_by": "2",
+        "year": "2024",
+        "venue": "Journal of Water and Climate Change",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DzYo93AAAAAJ&citation_for_view=DzYo93AAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2024/1/30",
+        "abstract": "The reliability of evapotranspiration (ET) models is crucial to comprehending land–atmosphere interactions and water balance dynamics in various available resources of the model. This study compared two different models based on energy and water balance models, a surface energy balance system (SEBS) and spatial processes in hydrology (SPHY), evaluated against ground observation data from flux towers for different land-cover characteristics (forest and savanna) in southeast Africa. We found that both models have good correlation with flux-tower data for both sites (ZM-Mon and ZM-Kru). The SEBS model showed a lower root-mean-square error (RMSE; 2.17 mm day−1) at the savanna site (ZM-Kru) than the SPHY model (2.27 mm day−1). However, at the forest site (ZM-Mon), the SEBS model showed a higher RMSE value (1.90 mm day−1) than the SPHY model (0.88 mm …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://iwaponline.com/jwcc/article/15/3/1142/100090"
+    }
+]

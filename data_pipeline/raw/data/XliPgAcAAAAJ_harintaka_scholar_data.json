@@ -1,0 +1,1105 @@
+[
+    {
+        "title": "Implementasi Metode Convolutional Neural Network Untuk Klasifikasi Tanaman Pada Citra Resolusi Tinggi",
+        "authors": [
+            "EN Arrofiqoh",
+            "H Harintaka"
+        ],
+        "cited_by": "179",
+        "year": "2018",
+        "venue": "Jurnal Ilmiah Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:aDl3D7KC1E4C",
+        "publication_date": "2018",
+        "abstract": "< jats: p> Citra resolusi tinggi dari teknologi UAV (Unmanned Aerial Vehicle) dapat memberikan hasil yang baik dalam ekstraksi informasi sehingga dapat digunakan untuk monitoring dan updating data suatu wilayah. Pengambilan informasi dari citra dengan interpretasi visual sangat bergantung pada interpreter. Kendala utama interpretasi secara manual adalah saat melakukan pengenalan objek secara visual, khususnya pada objek tanaman pertanian. Kesalahan hasil asumsi interpreter dapat terjadi ketika citra yang diekstraksi memiliki objek yang kompleks dan memiliki karakter fisik yang hampir mirip apabila dilihat dari foto udara yang hanya memiliki band RGB (Red, Green, dan Blue). Penelitian ini mencoba mengimplementasikan pendekatan klasifikasi semantik secara otomatis yang dapat membedakan jenis tanaman sebagai alternatif pengenalan objek berdasarkan metode deep learning menggunakan Convolutional Neural Network (CNN). Metode CNN merupakan salah satu metode deep learning yang mampu melakukan proses pembelajaran mandiri untuk pengenalan objek, ekstraksi objek dan klasifikasi serta dapat diterapkan pada citra resolusi tinggi yang memiliki model distribusi nonparametrik. Pada penelitian ini, diterapkan algoritma CNN untuk membedakan jenis tanaman dengan memberikan label semantik dari objek jenis tanaman. Penelitian menggunakan 5 kelas jenis tanaman, yaitu kelas tanaman padi, bawang merah, kelapa, pisang, dan cabai. Proses learning jaringan menghasilkan akurasi 100% terhadap data training. Pengujian terhadap data validasi menghasilkan akurasi 93% dan akurasi terhadap data tes …",
+        "total_citations": "Cited by 179",
+        "pdf_link": "https://scholar.archive.org/work/wjhpagxekfhgvihyldtsifu7ei/access/wayback/http://jurnal.big.go.id/index.php/GM/article/download/810/810"
+    },
+    {
+        "title": "Indonesian DEMNAS: DSM or DTM?",
+        "authors": [
+            "Atriyon Julzarika, Harintaka"
+        ],
+        "cited_by": "40",
+        "year": "2019",
+        "venue": "2019 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:ifOnle78iJkC",
+        "publication_date": "2019/8/26",
+        "abstract": "DEMNAS is a combination of multi DEM from TerraSAR-X, IFSAR, ALOS PALSAR, and mass point. It has a spatial resolution 8 m. The problem that arises now is whether the DEMNAS is in the form of DSM or DTM. This study aims to obtain information related to whether the DEMNAS is in the form of DSM or DTM. This research involved data from DSM LIDAR, DTM LIDAR, and DSM SRTM to see comparisons with DEMNAS in the South Kalimantan region. In addition, it also examines the comparison of DEMNAS with DSM IFSAR, DTM IFSAR, and DSM SRTM in the Central Java region. The way that is done is that all these DEMs are equated with height reference fields to EGM2008. The next process is to extract height points on the polygons created in each DEM used in this study. After that, it is done profiller in the form of making a height profile pattern for each DEM. The results obtained were in the form of known …",
+        "total_citations": "Cited by 40"
+    },
+    {
+        "title": "Identifikasi Genangan Banjir di Wilayah DKI Jakarta Menggunakan Citra Satelit Sentinel-1",
+        "authors": [
+            "Ana Mardhiyana Alawiyah",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "25",
+        "year": "2021",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:PuOEWVtPfzwC",
+        "publication_date": "2021/12",
+        "abstract": "Provinsi DKI Jakarta merupakan wilayah dengan karakteristik topografi yang berada pada kemiringan lereng relatif landai dan terletak pada dataran rendah. Hal ini menyebabkan wilayah Jakarta menjadi semakin rentan tergenang air dan banjir pada musim hujan. Pada awal tahun 2020, Jakarta mengalami banjir yang diakibatkan oleh hujan lebat yang turun sejak 31 Desember 2019 hingga 1 Januari 2020. Untuk keperluan antisipasi dan mitigasi bencana terkait banjir tersebut diperlukan ketersediaan data tentang luas genangan banjir dan letaknya secara cepat. Salah satu teknologi yang potensial untuk diterapkan adalah menggunakan citra satelit Sentinel-1. Berdasarkan kondisi tersebut, telah dilakukan kajian untuk mendeteksi daerah terdampak genangan banjir dari citra satelit Sentinel-1. Adapun teknik yang digunakan adalah metode change detection dan thresholding. Pada kajian ini digunakan citra …",
+        "total_citations": "Cited by 25"
+    },
+    {
+        "title": "Current land subsidence in Jakarta: a multi-track SBAS InSAR analysis during 2017–2022 using C-band SAR data",
+        "authors": [
+            "Harintaka Harintaka",
+            "Argo Galih Suhadha",
+            "Agung Syetiawan",
+            "Mohammad Ardha",
+            "Anisa Rarasati"
+        ],
+        "cited_by": "21",
+        "year": "2024",
+        "venue": "Geocarto International",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:hefNtdE4IMkC",
+        "publication_date": "2024/1/1",
+        "abstract": "In Jakarta, Indonesia, rapid urbanization and intensive groundwater extraction have led to significant land subsidence, posing challenges for sustainable urban management. This study utilized Interferometry Synthetic Aperture Radar (InSAR) integrated with multi-track data analysis to generate refined time-series and velocities of 2D displacement across Greater Jakarta. This study reveals notable variation in subsidence rates across different areas, with the most significant subsidence observed in Cikarang and the coastal regions of North Jakarta, which remains linear to this day. Notably, while the 2D approach improved accuracy by up to 53% at some locations, discrepancies at others indicated that simpler descending projections might sometimes yield better results. This underscores the necessity for a nuanced application of geodetic methods based on specific site conditions to effectively monitor and manage …",
+        "total_citations": "Cited by 21",
+        "pdf_link": "https://www.tandfonline.com/doi/pdf/10.1080/10106049.2024.2364726"
+    },
+    {
+        "title": "Integration of the latest digital terrain model (DTM) with Synthetic aperture radar (SAR) bathymetry",
+        "authors": [
+            "Atriyon Julzarika",
+            "Trias Aditya",
+            "S Subaryono",
+            "H Harintaka",
+            "Ratna Sari Dewi",
+            "Luki Subehi"
+        ],
+        "cited_by": "18",
+        "year": "2021",
+        "venue": "Journal of Degraded and Mining Lands Management",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:3lUAU8Oskd0C",
+        "publication_date": "2021",
+        "abstract": "Article history: Received 12 December 2020 Accepted 3 March 2021 Published 1 April 2021Topography and bathymetry integration is one of the essential things in providing height data. So far, the topography and bathymetry problems are the lack of height data availability, not up to date, and low vertical accuracy. The latest DTM is one of the topography data with up to date elevation with a spatial resolution of 5 m. Bathymetry extracted from SAR images. It is an alternative depth data for ocean bathymetry and inland water bathymetry. Topography and bathymetry integration is required to obtain comprehensive height data. This study aimed to integrate the latest DTM with SAR bathymetry. The method used in this integration was DEM integration. The method combined the latest DTM data with SAR bathymetry based on the correlation of the two data's standard deviation. The integration of the latest DTM with SAR bathymetry needs to consider differences in height reference fields. Two integration studies were conducted in this research-the latest DTM integration with ocean bathymetry for Rote Island. Then the integration of the latest DTM with inland water bathymetry in Lake Singkarak. The result of the integration is necessary to check the surface by generating longitudinal and cross-section profiles. Integrating the latest DTM and SAR bathymetry can be used for various mapping surveys on lands and waters.",
+        "total_citations": "Cited by 18",
+        "pdf_link": "https://www.researchgate.net/profile/Atriyon-Julzarika/publication/350562676_Integration_of_the_latest_Digital_Terrain_Model_DTM_with_Synthetic_Aperture_Radar_SAR_Bathymetry/links/606da576299bf13f5d600b6f/Integration-of-the-latest-Digital-Terrain-Model-DTM-with-Synthetic-Aperture-Radar-SAR-Bathymetry.pdf"
+    },
+    {
+        "title": "Multidimensional displacement analysis of Semeru Volcano, Indonesia following December 2021 eruption from multitrack InSAR observation",
+        "authors": [
+            "Argo Galih Suhadha",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "13",
+        "year": "2024",
+        "venue": "Earth Science Informatics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:w2UhwfzvF0QC",
+        "publication_date": "2024/4",
+        "abstract": "Mount Semeru, one of the world’s most active volcanoes, experiences frequent eruptions and at least one significant eruption annually. Traditional monitoring methods, constrained by the existing geodetic infrastructure, have been augmented by Interferometry Synthetic Aperture Radar (InSAR) technology. Previous InSAR applications in Indonesia have primarily relied on Line-of-Sight (LOS) displacement measurements, utilizing a single orbital geometry. This study breaks new applications by leveraging two orbital geometries of the Sentinel-1 satellite, advancing beyond conventional one-dimensional observations to generate comprehensive multidimensional displacement time series. This approach enables the precise capture of vertical, east-west, and north-south components of surface motion at Semeru volcano. Our findings underscore the critical role of multitrack InSAR data in providing a nuanced …",
+        "total_citations": "Cited by 13"
+    },
+    {
+        "title": "Analisis Kehandalan Ekstraksi Garis Tepi Bangunan dari Data Foto Udara Menggunakan Pendekatan Deep Learning Berbasis Mask R-CNN",
+        "authors": [
+            "Agri Kristal",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "10",
+        "year": "2022",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:TGkaJS32XoUC",
+        "publication_date": "2022/4/10",
+        "abstract": "Kebutuhan peta dasar skala besar khususnya skala 1: 5.000 terus meningkat dari waktu ke waktu. Pada umumnya ekstraksi fitur unsur Peta Rupa Bumi Indonesia (RBI) salah satunya adalah bangunan dilakukan dengan dijitasi atau stereoplotting unsur secara manual baik dari data citra satelit maupun data foto udara. Namun hal itu memiliki kelemahan yaitu membutuhkan waktu yang lama tergantung pada kepadatan dan jumlah bangunan pada area yang akan dipetakan. Di sisi lain Pemerintah Indonesia menjadikan percepatan penyelenggaraan Peta RBI skala 1: 5000 menjadi salah satu prioritas utama dalam kegiatan kebijakan satu peta. Deteksi dan ekstraksi garis tepi bangunan secara otomatis menggunakan teknologi computer vision dari citra optis dan data point cloud LiDAR telah populer beberapa tahun terakhir. Salah satu teknologi yang dikembangkan adalah dengan pendekatan deep learning …",
+        "total_citations": "Cited by 10",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/1748/1427"
+    },
+    {
+        "title": "PEMANFAATAN TEKNOLOGI UAV (UNMANNED AERIAL VEHICLE) UNTUK IDENTIFIKASI DAN KLASIFIKASI JENIS-JENIS KERUSAKAN JALAN",
+        "authors": [
+            "Iradaf Mandaya, Harintaka"
+        ],
+        "cited_by": "10",
+        "year": "2020",
+        "venue": "Rekayasa Sipil",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:WWeOtg8bX_EC",
+        "publication_date": "2020/11/4",
+        "abstract": "arti mimpi menyelamatkan kucing doraemon toy set chord kuambil gele sebatang 138mega judi 303 terpercaya viral video museum 2022 chord sholawat nariyah rtp zeus hari ini laptop slot usaha 188 slot_thailand 4d semua_togel hari ini glowin88bet pp couple berantem tripaloski cara masang_togel contoh teks recount text g8super slot bovada slots_ pola jackpot fafafa daftar slots_weet bonanza klasemen liga korea kode nomor taiwan data angka sydney 2021 tiket cgv central park anti rungkad demo maroon toto_slot next bumper lottery kerala kolkata fatafat goes babu kirin toto metune sidney rumah kebun sederhana permenhub emoji keren agama fofana dark knight rises slot slot_ram hp 14bs0xx moonshiners moolah slot_logo livery anime wwwskor88net rumus putaran mesin slot_aztec live draw mq3 planetslot_o webhook slot_filling 22 patti download mp3 alan walker not you live_togel hk get mega app download situs' nexus slot kepanjangan bin samator situs' judislot ular 2d sultan 89 mocca chord pangerantoto 3 jual hybrid sim slot_adapter grafik paito sgp bandit 88 slot_700 login wwwhitam slot_com www_togel spr slot_parkir motor prediksi skor liverpool vs swansea foto hewan lucu imut time bazar result today live lirik suwung vga slot_jumper acknowledgment mixue kendal logo terbaru keren booster jp slot gambar masjid gampang paito wisconsin kolkata fatafat gosht logo axis koi png gambar aesthetic orang x8 speeder ram 1gb surat ke 22 ayat 7 762022 kerala lottery result tiger 78 me chord gitar selamat tinggal skor stoke city buah slot_77 berapa slot_ram asus asus x450jb slot_777 deposit pulsa waveguide 16 16 slot_design …",
+        "total_citations": "Cited by 10",
+        "pdf_link": "https://rekayasasipil.ub.ac.id/index.php/rs/article/view/698/477"
+    },
+    {
+        "title": "Dynamics topography monitoring in peatland using the latest digital terrain model",
+        "authors": [
+            "Atriyon Julzarika",
+            "Trias Aditya",
+            "Subaryono Subaryono",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "9",
+        "year": "2022",
+        "venue": "Journal of Applied Engineering Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:J3LtWjKFLicC",
+        "publication_date": "2022/2/16",
+        "abstract": "The Central Kalimantan province in Indonesia has one of the country's largest peatlands. The Peatland has dynamic topographic conditions that cause land subsidence or uplift in water levels. Monitoring the topographic dynamics conditions of this Peatland requires an up-to-date DTM capable of presenting the latest conditions. Monitoring with the latest DTM is needed because there is currently no method suited to large-scale, cost-effective mapping. This study aims to monitor the dynamics of topography in Peatland using the latest DTM. The latest DTM is a combination of the DTM master and the latest displacement. The novelty of this research is in monitoring the dynamics of Peatland with the latest DTM every rainy and dry season. DTM master is DTM extracted from InSAR ALOS PALSAR-2. Displacement was obtained from DInSAR extraction from Sentinel-1. The research area is located in Pulang Pisau …",
+        "total_citations": "Cited by 9",
+        "pdf_link": "https://pdfs.semanticscholar.org/1050/0109ea1748d967b3edc13b07739c97c12992.pdf"
+    },
+    {
+        "title": "FREE GLOBAL DEM: CONVERTING DSM TO DTM AND ITS APPLICATIONS.",
+        "authors": [
+            "Atriyon Julzarika, Harintaka"
+        ],
+        "cited_by": "9",
+        "year": "2019",
+        "venue": "International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:W2uZP3ddy8sC",
+        "publication_date": "2019/10/1",
+        "abstract": "DTM is a digital model that visualizes height topography. DTM can be used for various survey mapping applications. DTM can be derived from DSM. Currently DSM is widely available but the availability of DTM is still rare, especially in Indonesia. In this study, DSM was obtained from a combination of DSM X SAR, SRTM, and TanDEM-X with the integration method. This DSM integration made height error correction and height reference field to the EGM 2008. This DSM integration has fulfilled the tolerance of vertical accuracy in 1.96σ (95%). This study aims to convert DSM to DTM and discuss some of the DTM applications. The study area of this study is Rote Islands (north and east side), especially in the Dead Sea Lake Area which includes Lake Oemasapoka to Oesu Island. DSM can be converted into DTM by considering several things, namely the canopy tilt angle to topography, the height of the vegetation approach, and the radius defined around the canopy. One way to get this parameter is to make contours on the vegetation in the DSM. After conversion of DSM to DTM, DTM is obtained at ground level. The DTM that has been produced needs to be done a height difference test and the making of longitudinal profile. This longitudinal profile will visualize the conditions of DSM and DTM so that the vegetation height will appear along the profile. The resulting DTM can be used for several applications such as topographic contours, watersheds, water levels, flow accumulation, slope, slope direction, and others.",
+        "total_citations": "Cited by 9",
+        "pdf_link": "https://isprs-archives.copernicus.org/articles/XLII-4-W16/319/2019/isprs-archives-XLII-4-W16-319-2019.pdf"
+    },
+    {
+        "title": "Implementation of convolutional neural network methods for plant classification in high-resolution imagery",
+        "authors": [
+            "Erlyna Nour Arrofiqoh, Harintaka"
+        ],
+        "cited_by": "9",
+        "year": "2018",
+        "venue": "Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:0sTkTiv_uMkC",
+        "publication_date": "2018",
+        "total_citations": "Cited by 9"
+    },
+    {
+        "title": "Improved deep learning segmentation of outdoor point clouds with different sampling strategies and using intensities",
+        "authors": [
+            "Harintaka Harintaka",
+            "Calvin Wijaya"
+        ],
+        "cited_by": "8",
+        "year": "2024",
+        "venue": "Open Geosciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:yJjnfzR0HrkC",
+        "publication_date": "2024/3/13",
+        "abstract": "The rapid growth of outdoor digital twin data sets and advancements in 3D data acquisition technology have sparked interest in improving segmentation performance using deep learning. This research aims to analyze and evaluate different sampling strategies and optimization techniques while exploring the intensity information of outdoor point cloud data. Two sampling strategies, random and stratified sampling, are employed to divide a limited data set. Additionally, the data set is divided into point cloud data with and without intensity. The PointNet++ model is used to segment the point cloud data into two classes, vegetation and structure. The results indicate that stratified sampling outperforms random sampling, yielding a considerable improvement in mean intersection over union scores of up to 10%. Interestingly, the inclusion of intensity information in the data set does not universally enhance …",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0611/html"
+    },
+    {
+        "title": "Pembuatan Model 3D Bangunan LoD3 Dengan Pemanfaatan Foto Udara dan Fotogrametri Terrestris",
+        "authors": [
+            "Muh Apriansyah",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "8",
+        "year": "2023",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:RXiHnyRawswC",
+        "publication_date": "2023/2/28",
+        "abstract": "Foto udara maupun fotogrametri terrestris yang merupakan teknologi dari fotogrametri dapat digunakan untuk pemodelan 3D. Untuk menampilkan sebuah informasi secara visual yang mengutamakan nilai estetika dan bentuk ojeknya. Fotogrametri telah lama digunakan untuk dokumentasi bangunan dan benda cagar budaya. Teknik ini memungkinkan untuk membuat model 3D dari foto 2D, dan dengan demikian sangat berguna dalam visualisasi detail arsitektur suatu bangunan atau gedung. Pada penelitian ini, dilakukan pemodelan bangunan 3D di wilayah Asrama Putri Ratnaninngsih Kinanti Universitas Gadjah Mada menggunakan metode kombinasi foto udara dan fotogrametri terrestris dengan memanfaatkan teknologi SfM (structure from motion). Point cloud diperoleh dari pengolahan foto udara dan fotogrametri terrestris. Kamera yang terpasang pada wahana udara yang digunakan untuk mengakuisisi …",
+        "total_citations": "Cited by 8"
+    },
+    {
+        "title": "The latest DTM using InSAR for dynamics detection of Semangko fault-Indonesia",
+        "authors": [
+            "Atriyon Julzarika",
+            "Trias Aditya",
+            "Subaryono Subaryono",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "8",
+        "year": "2021",
+        "venue": "Geodesy and Cartography",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:eH23hyXCXa4C",
+        "publication_date": "2021/11/9",
+        "abstract": "The latest Digital Terrain Model (DTM) is seen as an upgradable DTM that is fitted to the latest combination of DTM master and its displacement. The latest DTM can be used to overcome the problem of static DTM weaknesses in displaying the latest topographic changes. DTM masters are obtained from InSAR and Digital Surface Model (DSM) ALOS PALSAR conversions. Meanwhile, the displacement is obtained from Sentinel-1 images, which can be updated every 6–12 days or at least every month. ALOS PALSAR data were the images acquired in 2008 and 2017, while Sentinel-1 data used were images acquired in 2018 and 2020. This study aims to reveal the importance of an upgradable DTM so called latest DTM which is combination of DTM master and its displacement in order to show the latest condition of study area. The case study is the dynamics analyze of the Semangko fault specifically in the Sianok and Sumani segments situated in Indonesia. The vertical accuracy assessment was done to evaluate the DSM to DTM conversion with a tolerance of 1.96σ. The result obtained is the latest DTM. It is derived from the integration of the DTM master with displacement. The latest DTM can be used to detect the dynamics of Semangko fault. The study area has vertical deformation at a value of –50 cm to 30 cm. The Semangko fault area is dominated by –25 to 5 cm deformation. In general, this region has decreased. The decline in this region ranges from 7.5 cm to 10 cm per year. The latest DTM vertical accuracy is 2.158 m (95% confidence level) with a scale of 1: 10,000 to 1: 20,000.",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://journals.vilniustech.lt/index.php/GAC/article/download/12621/10725/"
+    },
+    {
+        "title": "Automatic point cloud segmentation using RANSAC and DBSCAN algorithm for indoor model",
+        "authors": [
+            "Harintaka Harintaka",
+            "Calvin Wijaya"
+        ],
+        "cited_by": "7",
+        "year": "2023",
+        "venue": "TELKOMNIKA (Telecommunication Computing Electronics and Control)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:M_lZXyI38BkC",
+        "publication_date": "2023/12/1",
+        "abstract": "Indoor modeling is a crucial aspect of architecture, engineering, and construction (AEC) projects. While terrestrial laser scanners (TLS) are the most popular tool for acquiring indoor geometry, processing point clouds from TLS scans with manual methods can be inefficient and error-prone. This study proposes a machine learning algorithm to automatically segment point clouds acquired by low-cost TLS. Random sample consensus (RANSAC), a simple yet effective algorithm for segmenting planar surfaces such as walls, ceilings, and floors, is used in the segmentation process. The resulting segmentation is then refined using density-based spatial clustering of application with noise (DBSCAN) to group nearby points that were not segmented correctly by RANSAC into the appropriate segment. The result is a segmented point cloud consisting of five indoor elements: wall, ceiling, floor, column, and interior. The algorithms were found to be effective for segmenting small and simple rooms. For larger or more complex rooms, segmentation can be performed by dividing the room into several parts and applying the algorithms to each partition. Overall, the study demonstrates the potential of machine learning algorithms for automating point cloud segmentation tasks in indoor modeling, especially for low-cost TLS scans.",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://telkomnika.uad.ac.id/index.php/TELKOMNIKA/article/download/25299/11777"
+    },
+    {
+        "title": "Pemodelan Bangunan 3D Menggunakan Footprint Bangunan Hasil Ekstraksi Mask R-CNN Dan Dense Point Cloud Dari Foto Udara UAV",
+        "authors": [
+            "Tata Bahtera Negara",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "7",
+        "year": "2021",
+        "venue": "Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:BAanoTsO0WEC",
+        "publication_date": "2021",
+        "abstract": "Bangunan merupakan salah satu objek penting yang secara spasial dibutuhkan dalam berbagai pekerjaan khususnya untuk perencanaan dan pembangunan kota. Bangunan dalam representasi 3D telah terbukti mampu menunjang kegiatan perencanaan dengan baik mengingat dunia nyata berada dalam sistem 3D. Salah satu metode yang paling sederhana untuk membuat model bangunan 3D dalam cakupan wilayah yang luas adalah dengan melakukan ekstrusi footprint bangunan. Data yang umum digunakan dalam metode ini adalah footprint bangunan hasil digitasi manual pada orthomosaic dan komponen elevasi berupa point cloud dari Light Detection and Ranging (LiDAR). Pekerjaan digitasi manual umumnya memakan waktu yang relatif lama dan sumber daya manusia yang cenderung tinggi apabila data yang diproses semakin besar, selain itu hasil digitasi juga tidak konsisten relatif kepada keterampilan operator. Disisi lain, penggunaan point cloud LiDAR menyebabkan metode ini kurang terjangkau dari sisi biaya. Dalam penelitian ini, dilakukan pemodelan bangunan 3D menggunakan footprint bangunan yang dihasilkan secara otomatis dengan teknik Mask Region-based Convolutional Neural Network (Mask R-CNN) dan dense point cloud yang diperoleh dari pengolahan foto udara di kawasan kampus pusat Universitas Riau yang diakuisisi menggunakan Unmanned Aerial Vehicle (UAV). Metode yang diterapkan memberikan hasil yang cukup baik. Model Mask R-CNN yang dilatih dalam 25 epoch pembelajaran menghasilkan akurasi pembelajaran senilai 96, 80% dan footprint bangunan yang dihasilkan memiliki nilai recall …",
+        "total_citations": "Cited by 7",
+        "pdf_link": "http://proceedings.undip.ac.id/index.php/isiundip2021/article/viewFile/621/360"
+    },
+    {
+        "title": "Analisis konversi ruang terbuka hijau menjadi penggunaan perumahan di Kecamatan Tembalang Kota Semarang",
+        "authors": [
+            "S Hartini, Harintaka",
+            "Istarno"
+        ],
+        "cited_by": "7",
+        "year": "2008",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:Ej9njvOgR2oC",
+        "publication_date": "2008",
+        "abstract": "The research shows RTH for year 2003 was 2,736.84 ha became 2,488.73 ha for year 2007, so RTH decreased 248.11 ha (9.07%). Conversion of RTH to housing area is 73.43 ha (29.59%), 165.44 ha or 66.68% for open space, 4.63 ha (1.87%) for others, and 4.61 ha (1.86%) still as RTH. Development of Tembalang Sub District is faster than compared sub districts (Banyumanik, Gunung Pati and Mijen), which indicated from highest attractiveness value (124.46), so until 2010, RTH’s conversion to housing areas will be no less than 29.58 ha.",
+        "total_citations": "Cited by 7"
+    },
+    {
+        "title": "Integration PS-InSAR and MODIS PWV Data to Monitor Land Subsidence in Semarang City 2015–2018",
+        "authors": [
+            "Reyhan Azeriansyah, Harintaka"
+        ],
+        "cited_by": "6",
+        "year": "2019",
+        "venue": "KnE Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:TesyEGJKHF4C",
+        "publication_date": "2019/12/26",
+        "abstract": "Land Subsidence is a slow on set disaster that can be found in coastal areas such as Semarang City. The cause is changing natural conditions and human activities. The observation method that is often done for this phenomenon is GNSS observation. The GNSS observations do not cover the entire area are the disadvantages of this method. Solution that can be used is to use a multi-temporal Interferometric Synthetic Aperture Radar (InSAR) method called Persistent Scatterer Interferometric Synthetic Aperture Radar (PS-InSAR). In its application, PS-InSAR has a problem in the form of tropospheric errors that cause signal interference on SAR sensors when making acquisitions that contained in every Synthetic Aperture Radar (SAR) image. MODIS with the NIR band provide Precipitable Water Vapor (PWV) to estimate water vapor levels in the atmosphere. This component can be used in the PS-InSAR in order to eliminate the tropospheric effect on each image so that errors can be minimized and optimize the work of the PS-InSAR method. Based on the value of PS-InSAR before and after tropospheric correction, it is known that the area of Semarang City experienced a rate of land subsidence and the rate of uplift. Land subsidence rate occurs along the northern region, northeast to the east of Semarang City. Uplift rate only occurs in the southeast region due to dumping excavation activities for development and Banjir Kanal Barat due to the river revitalization process. Overall, Semarang City has experienced a land subsidence from 0 to 6.753 cm/year.",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://knepublishing.com/index.php/KnE-Engineering/article/download/5826/11217"
+    },
+    {
+        "title": "Ekstraksi Fitur Bangunan Secara Cepat pada Foto UAV Menggunakan Metode Deep Residual Neural Network Berbasis FCN",
+        "authors": [
+            "Danang Setiaji",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "6",
+        "year": "2019",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:YPNY0knpFBYC",
+        "publication_date": "2019/7/7",
+        "abstract": "Dalam beberapa dekade terakhir, teknologi penginderaan jauh menjadi salah satu teknik yang paling bagus untuk akuisisi data pada area luas tanpa perlu melakukan survey langsung di lapangan dengan tingkat kedetailan yang tinggi. Dengan perubahan tutupan lahan yang semakin cepat dan dinamis diperlukan teknologi yang dapat menghasilkan data dengan tingkat kedetailan tinggi, murah dan dapat menghasilkan data dalam waktu yang cepat. Salah satu produk penginderaan jauh tersebut adalah Foto Udara dengan teknologi pesawat tanpa awak (UAV). Teknologi ini mampu menghasilkan output data spasial detail dengan biaya relatif murah, cepat dan terkini. Salah 1 unsur yang cepat berubah di wilayah perkotaan adalah pada pertambahan objek bangunan. Dalam pembuatan bangunan tersebut harus dilengkapi dengan syarat keterangan ijin mendirikan bangunan (IMB) dari instansi terkait. Ketentuan ijin ini tidak terlepas dari aturan RDTR dan PZ yang berlaku serta hanya boleh didirikan pada zonasi yang diijinkan. Dengan kebutuhan data informasi fitur bangunan yang cukup banyak dan mendesak, diperlukan metode ekstraksi yang cepat juga. Metode yang saat ini berkembang pesat adalah ekstraksi otomatis menggunakan teknologi deep learning. Metode yang digunakan adalah Fully Convolutional Network (FCN) dengan arsitektur Residual Neural network (ResNet). Dalam penelitian ini akurasi ekstraksi pada fitur bangunan dapat mencapai 95% dan dapat melakukan ekstraksi pada satu NLP skala 1: 5.000 dengan cepat. Metode ini dapat menghasilkan ekstraksi pada image seperti foto udara dengan cepat dan akurat.",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/4883/2902"
+    },
+    {
+        "title": "Assessment of low cost small format aerial photogrammetry for cadastral mapping (Case study in Klaten Regency, Central Java, Indonesia)",
+        "authors": [
+            "Harintaka, Subaryono",
+            "Adhi Susanto, Hartono"
+        ],
+        "cited_by": "6",
+        "year": "2009",
+        "venue": "7th FIG Regional Conference on Spatial Data Serving People: Land Governance and the Environment-Building the capacity. Hanoi, Vietnam",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&citation_for_view=XliPgAcAAAAJ:JH5k92_tO-AC",
+        "publication_date": "2009",
+        "abstract": "In region with rapid growing economic and population, such as Klaten Regency, Central Java, Indonesia, availability of cadastral infrastructure plays important role in land management. It is also useful to anticipate conflict due to parcel ownership and parcel usage in future. Commonly, in Indonesia, production of cadastral and parcel data utilizes terrestrial mapping or standard aerial photogrammetric mapping. Terrestrial mapping using Total Station has exellent accuracy, but it is expensive and time consuming. Standard aerial photogrammetric mapping is suitable for moderate area and has good accuracy, but it needs expensive equipment, for instance: aerial metric camera. For limited area coverage, about 1.000 hectare, Small Format Aerial Photogrammetry (SFAPm) has advantage in low cost equipment and its operational, efficient, and rapid photo acquisition. This technology is efficient since it utilizes amateur digital camera or non metric digital camera equipped on ultra light aeroplane. This non metric digital camera is widely available on market.This paper elaborates utilization of low cost SFAPm for cadastral mapping in Klaten Regency, Central Java, Indonesia. The study was carried out in 7 stages, ie developing Ground Control Points (GCP), aerial photography survey, interior orientation for each photo, aerial triangulation for entire block photos, performed orthophoto and mosicking, interpretation and delineation of land parcel, and finally evaluation.",
+        "total_citations": "Cited by 6",
+        "pdf_link": "http://www.fig.net/resources/proceedings/fig_proceedings/vietnam/papers/ts07d/ts07d_harintaka_etal_3586.pdf"
+    },
+    {
+        "title": "Integration of Cloud Score+ with Sentinel-2 Harmonized for land use and land cover classification using machine learning algorithms",
+        "authors": [
+            "Mohamad Rifai, Harintaka"
+        ],
+        "cited_by": "5",
+        "year": "2024",
+        "venue": "Geomatics International Conference",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:j5aT6aphRxQC",
+        "publication_date": "2024/12/1",
+        "abstract": "West Kalimantan, Indonesia, has exotic nature reserves, with Danau Sentarum National Park (Sentarum) as its icon. Considering this importance, observing the use of Land Use Land Cover (LULC) around the lake is very important, which can be done using a remote sensing approach. Being in the equatorial region often results in continuous cloud cover throughout the year, which results in inaccurate observations and analysis results. Almost all cloud cover filters are used, but the results are often less than satisfactory. This study shows how the Cloud Score+ (CS+) product with Sentinel-2 Harmonized (S2H) can monitor image clarity in Sentarum and process it using machine learning to produce reliable (LULC) maps. Finding reasonably eliminating clouds, and clear pixels, and cloud shadows from L2A (surface reflection) or L1C (top-of-atmosphere) photos are both possible with the help of CS+ output. Using the …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/1418/1/012039/pdf"
+    },
+    {
+        "title": "Analysis and Evaluation of PointNet for Indoor Office Point Cloud Semantic Segmentation",
+        "authors": [
+            "Calvin Wijaya, Harintaka"
+        ],
+        "cited_by": "5",
+        "year": "2023",
+        "venue": "International Journal on Advanced Science, Engineering and Information Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:WzTVkKNmPSkC",
+        "publication_date": "2023/12/31",
+        "abstract": "Indoor modeling is one of the primary sources of information in building management due to the increased use of BIM in the AEC industry. The indoor model can be acquired with several survey instruments, but TLS is the most popular resulting point cloud that can be processed into a 3D model. However, the process commonly still uses inefficient manual methods. Point cloud data have irregular, unordered, unstructured characteristics, making them more challenging to process. The deep learning algorithm can be a solution to solve the problem. PointNet is the first deep learning algorithm that directly accepts point cloud data as input. This study aims to analyze and evaluate the office indoor point cloud segmentation using PointNet. The office indoor point cloud data was acquired using TLS and then pre-processed for deep learning input. Transfer learning strategy is used as a weight initialization technique. The pre-trained model was trained with the S3DIS dataset and then fine-tuned to segment nine indoor classes in this study. The result shows PointNet achieves 85% overall accuracy and 66% average class IoU score to predict indoor classes using this study’s point cloud data. Geometry control shows that the predicted point cloud has an RMSE score of 1.8 cm, meaning the geometries of the segmented point cloud are accurate. Using the transfer learning method has increased the performance of the deep learning model. Further research is needed to evaluate the model thoroughly using more training and evaluation data and different transfer learning strategies.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Calvin_Wijaya2/publication/377222183_Analysis_and_Evaluation_of_PointNet_for_Indoor_Office_Point_Cloud_Semantic_Segmentation/links/659b7a496f6e450f19d4b5b5/Analysis-and-Evaluation-of-PointNet-for-Indoor-Office-Point-Cloud-Semantic-Segmentation.pdf"
+    },
+    {
+        "title": "Precise coseismic displacement related to the 2022 Pasaman earthquake using multi-geometry of Sentinel-1 InSAR",
+        "authors": [
+            "Argo Galih Suhadha",
+            "Oktadi Prayoga, Harintaka"
+        ],
+        "cited_by": "5",
+        "year": "2023",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:NtCmTCuxid4C",
+        "publication_date": "2023/12/11",
+        "abstract": "Interferometry Synthetic Aperture Radar (InSAR) is widely known for its ability to determine surface displacement with typical accuracy in the millimeter to centimeter range. When the true displacement vector proceeds from the satellite’s line-of-sight (LOS), its sensitivity falls, and InSAR deformation observations become challenging to interpret. We estimate 2.5D displacement from InSAR (Vertical and East-West direction) by combining LOS displacement observation from ascending and descending orbital geometries of Sentinel-1 datasets acquired during the 2022 Pasaman earthquakes. Vertical and west-east displacement data are decomposed and confirmed using continuous GNSS observation (GNSS CORS) data. The deconstructed displacement is being utilized to investigate surface velocity and direction changes around the Pasaman earthquake epicenter in 2022. InSAR LOS measurements yield varying …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0181385/18255107/030008_1_5.0181385.pdf"
+    },
+    {
+        "title": "Vertical accuracy evaluation of digital terrain model (Dtm) alos palsar-2 in rote dead sea area–Indonesia",
+        "authors": [
+            "Atriyon Julzarika",
+            "Trias Aditya",
+            "Subaryono Subaryono",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "5",
+        "year": "2021",
+        "venue": "Geodetski list",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:Y9VhQm-5nPIC",
+        "publication_date": "2021/3/25",
+        "abstract": "Vertical accuracy evaluation is essential to determine in order to know the quality of a DTM. This quality will affect the scale type and utilization of the DTM. The study data use DTM ALOS PALSAR-2. This study evaluates the vertical accuracy of the DTM ALOS PALSAR-2 with different height reference fields in the Rote Dead Sea Area, Indonesia. Each DTM is made with the EGM 1996, EGM 2008, and WGM 2012. The three DTMs extracted based on the height reference field will have different orthometric heights; therefore, an evaluation of the vertical accuracy is needed to determine the quality of the three DTMs. They compare with field measurements from GNSS-levelling. This test is carried out at lowland and highland, using 10 test points. For the lowland area, the RMSE (z) in height at DTM is 1.363 m for WGM 2012, 2.017 m for EGM 2008, and 1.934 m for EGM 1996. For the highlands area, the RMSE (z) in height at DTM is 1.185 m for WGM 2012, 1.201 m for EGM 2008, and 1.432 m for EGM 1996. The DTMWGM 2012 and DTM-EGM 1996 are recommended to use in this area because they have higher vertical accuracy. The vertical accuracy test in the Rote lowland corresponds to class 2 and class 3 on a scale of 1: 10,000. The vertical accuracy test results in the Rote highland correspond to class 1 and class 2 on a scale of 1: 10,000. The ALOS PALSAR-2 DTM vertical accuracy test results can be used for mapping scales of 1: 10,000–1: 25,000 in Rote.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Atriyon-Julzarika/publication/374417306_Vertical_Accuracy_Evaluation_of_Digital_Terrain_Model_DTM_ALOS_PALSAR-2_in_Rote_Dead_Sea_Area_-Indonesia/links/651cd5be3ab6cb4ec6b90713/Vertical-Accuracy-Evaluation-of-Digital-Terrain-Model-DTM-ALOS-PALSAR-2-in-Rote-Dead-Sea-Area-Indonesia.pdf"
+    },
+    {
+        "title": "EVALUASI HASIL INTEGRASI BERBAGAI KETELITIAN DATA MODEL ELEVASI DIGITAL",
+        "authors": [
+            "Fanny Zafira Mukti, Harintaka",
+            "Djurdjani"
+        ],
+        "cited_by": "5",
+        "year": "2018",
+        "venue": "Jurnal Ilmiah Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:9NZAP19TdFAC",
+        "publication_date": "2018/7/6",
+        "abstract": "Data DEM yang dapat diakses dan digunakan dengan gratis antara lain adalah Shuttle Radar Topography Mission (SRTM) dan Advanced Spaceborne Thermal Emission and Reflection Radiometer Global DEM (ASTER GDEM). Kedua data tersebut mencakup seluruh wilayah di Indonesia, namun ketelitian dan resolusinya rendah, serta masih mengandung kesalahan tinggi. Selain data DEM global, data DEM dapat diperoleh dari hasil perekaman sensor Radio Detection and Ranging (RADAR), Light Detection and Ranging (LIDAR), maupun hasil stereoplotting foto udara dan citra satelit. Masing-masing data tersebut memiliki karakteristik seperti terdapatnya pit dan spire, diskontinuitas pada daerah sambungan dan ketelitian data yang bervariasi. Keberagaman karakteristik pada masing-masing sumber data tersebut dapat menyebabkan inkonsistensi nilai ketinggian antar sumber data. Pada penelitian ini …",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "Evaluasi Penerapan Mini Bundle Block Adjustment pada Foto Udara Format Kecil",
+        "authors": [
+            "Harintaka, Subaryono",
+            "Maria Tanjung"
+        ],
+        "cited_by": "5",
+        "year": "2008",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:yeL6HyUMUGUC",
+        "publication_date": "2008",
+        "abstract": "Research shows, based on Root Mean Sqauare Error (RMSE) of GCP (0, 07 pixel for abscissa and 0, 09 for ordinate) and RMS of TP (0 pixel for abscissa and 0, 02 for ordinate), internal reliability of MBBA is very good. Very small RMSE can be caused by number of exterior orientation parameter (EOP) for 4 photos near equal with number of observation.",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "Pembuatan Model Prediksi Lahan Terbangun di Kabupaten Kulon Progo dengan Citra Satelit Penginderaan Jauh",
+        "authors": [
+            "Rifqi Alghifari Wibowo",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "4",
+        "year": "2023",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:uUvzmPk0f8oC",
+        "publication_date": "2023/9/8",
+        "abstract": "Perubahan tutupan lahan terbangun pada kota atau kabupaten menjadi suatu hal umum yang sering terjadi dan terus berkembang di kawasan yang cepat tumbuh. Perkembangan lahan terbangun tersebut dapat diprediksi dengan melakukan pembuatan model prediksi dengan menggunakan teknologi penginderaan jauh dan sistem informasi geografis. Pada kajian ini, dilakukan pemodelan prediksi tutupan lahan di wilayah Kabupaten Kulon Progo pada tahun 2023 dengan menggunakan metode Cellular Automata (CA). Model prediksi tersebut disusun dengan hasil klasifikasi tutupan lahan pada tahun 2017 dan 2020 dengan menggunakan algoritma Support Vector Machine (SVM) dan variabel spasial berupa jangkauan jalan terhadap lahan terbangun. Model prediksi lahan terbangun yang berhasil dimodelkan memiliki pola persebaran dimana kelas daerah bervegetasi banyak mendominasi di Kapanewon …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/1786/1462"
+    },
+    {
+        "title": "Utilization of sentinel satellite for vertical deformation monitoring in Semangko Fault - Indonesia",
+        "authors": [
+            "A Julzarika, Harintaka"
+        ],
+        "cited_by": "4",
+        "year": "2019",
+        "venue": "The 40th Asian Conference on Remote Sensing (ACRS 2019) October 14-18, 2019/Daejeon Convention Center (DCC), Daejeon",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:xyvS_IvSCKsC",
+        "publication_date": "2019",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "PEMBUATAN MODEL ELEVASI DIGITAL DARI STEREOPLOTTING INTERAKTIF FOTO UDARA FORMAT SEDANG DENGAN KAMERA DIGICAM",
+        "authors": [
+            "Sekar Pranadita",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "4",
+        "year": "2013",
+        "venue": "Jurnal Ilmiah Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:natZJ_-F0IUC",
+        "publication_date": "2013",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "Klasifikasi berorientasi obyek pada citra satelit QuickBird",
+        "authors": [
+            "Teguh Tri Erawanta",
+            "Aryono Prihandito, Harintaka"
+        ],
+        "cited_by": "4",
+        "year": "2009",
+        "venue": "Makalah Seminar Nasional",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:RMgMIBzvq-4C",
+        "publication_date": "2009",
+        "abstract": "QuickBird Satellite, which has been launced at 2001, has high spatial resolution. However, urban objects recognition using high spatial resolution imagery remains a challenge due to high diversity of spectral responses in urban areas. Information extraction using pixel based classification method found obstacle to the internal variability in urban objects. This research explores performance of two object oriented classifiers, ECHO (Extraction and Classification of Homogeneous Object) and region based classifier on QuickBird imagery. Image segmentation is a preliminary step in object-oriented image classification. Region growing and ECHO are applied to segment an image. After image objects are generated, Bhattacharya and Maximum Likelihood algorithm is utilized to classify them. Error matrix is computed to measure classification accuracy. Finally, geometric mean or gmean for each class is calculated to …",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "EVALUASI PEMBUATAN MOSAIK FOTO UDARA FORMAT KECIL TIDAK TERKONTROL MENGGUNAKAN PERANGKAT LUNAK DESAIN GRAFIS KOMERSIAL",
+        "authors": [
+            "Subaryono, Harintaka",
+            "Endras Kurniawan"
+        ],
+        "cited_by": "4",
+        "year": "2008",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:yTLRzDEmwhEC",
+        "publication_date": "2008",
+        "abstract": "Aerial photographs acquired using small format photogrammetric method generally do not have homogenous quality. These photos require specific treatments if they are to be used to generate mosaic. On the other hand, design graphic software is widely available. While this software does not specifically designed for mapping processes, it has the potential to be used for image processing including aerial photos.This research aims at evaluating uncontrolled mosaic generated using design graphic software. The evaluation including flight line construction, cutting photos and adjusting their contrasts, mosaicking process, partial and global photo enhancement. The results show that the mosaic generated using small format aerial photos and processed using design graphic software has a very good visual quality. It is generated in relatively fast and easy. However, the use of the mosaic for geometric extraction have to …",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "The application of mask R-CNN for building extraction",
+        "authors": [
+            "Danang Budi Susetyo, Harintaka",
+            "Aldino Rizaldy"
+        ],
+        "cited_by": "3",
+        "year": "2023",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:idthP5jqfYAC",
+        "publication_date": "2023/12/11",
+        "abstract": "The primary data used in large-scale topographic mapping is the airborne aerial photo, but the high-resolution satellite image is also used for acceleration. It makes the two data interesting to compare, including in processing using deep learning. This research compares the results of deep learning processing on the two data in extracting building objects. The method used is instance segmentation using Mask Region-based Convolutional Neural Network (Mask R-CNN). The training parameters follow the standard parameters in the Mask R-CNN program, such as batch size = 1, learning rate = 0.001, weight decay = 0.0001, and momentum = 0.9. We trained aerial photo and satellite image, then the prediction process is carried out on four test images. Next, the vectorization process generates building segments in shapefile format before we assess the accuracy using Intersection over Union (IoU), precision, recall …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0182754/18255271/030001_1_5.0182754.pdf"
+    },
+    {
+        "title": "Kajian keandalan true orthophoto untuk pemetaan skala besar 1: 5.000",
+        "authors": [
+            "Andita Putri Damayanti",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "3",
+        "year": "2021",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:Y0-TYkg6YM4C",
+        "publication_date": "2021/2/24",
+        "abstract": "Pembangunan kewilayahan yang merata di Indonesia masih terkendala dengan tidak tersedianya peta dasar skala besar sebagai bahan utama dalam penyusunan Rencana Detail Tata Ruang (RDTR). Data orthophoto dapat digunakan sebagai alternatif sumber data dalam penyediaan peta dasar skala besar. Penelitian ini bertujuan untuk mengkaji keandalan data true orthophoto hasil dense image matching dibandingkan dengan ground orthophoto bagi pembuatan unsur peta dasar skala besar di Indonesia. Area penelitian mengambil sampel wilayah urban, wilayah lahan terbuka dan wilayah bervegetasi. Tahap penelitian meliputi persiapan, pembentukan true orthophoto, dan analisis perbandingan antara unsur tutupan lahan pada true orthophoto dengan unsur tutupan lahan pada ground orthophoto. Berdasarkan hasil penelitian, true orthophoto memiliki kelemahan pada visualisasinya. Tingkat kecerahan …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Utilization of DSM and DTM for Spatial Information in Lake Border",
+        "authors": [
+            "Atriyon Julzarika, Harintaka"
+        ],
+        "cited_by": "3",
+        "year": "2020",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:rOcdG6UcVlcC",
+        "publication_date": "2020/7/1",
+        "abstract": "Lake is one part of inland waters and plays an important role in human life and the surrounding environment. Lakes need to be preserved, especially in the lake area and its border. One way to preserve the lake is to map the potential of spatial information in the lake and its surroundings. Digital Terrain Model (DTM) and Digital Surface Model (DSM) can be used to obtain spatial information in the lake border. DTM and DSM can be extracted from terrestrial and non-terrestrial mapping such as remote sensing satellites. The study area in this study is Lake Oeduli on Rote Island. This study aims to inform the potential utilization of DSM and DTM for the spatial border of lakes. The potential is in the form of determining the lakeside line, lake border area, and vegetation height. All of these potentials can be extracted from DSM and DTM. This DSM and DTM can also be dynamic and non-dynamic. The results of this study …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/535/1/012034/pdf"
+    },
+    {
+        "title": "Indonesian DEMNAS: DSM or DTM? AGERS 2019–2nd IEEE Asia-Pacific Conference on Geoscience, Electronics, and Remote Sensing Technology: Understanding and Forecasting the Dynamics …",
+        "authors": [
+            "A Julzarika",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "3",
+        "year": "2019",
+        "venue": "Proceeding. doi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:cRMvf6lLvU8C",
+        "publication_date": "2019",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Perbandingan ragam input model ketinggian untuk pembentukan true orthophoto di wilayah urban",
+        "authors": [
+            "Harintaka Harintaka",
+            "Eli Juniati"
+        ],
+        "cited_by": "3",
+        "year": "2018",
+        "venue": "Jurnal Ilmiah Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:KTwcwpFFj4wC",
+        "publication_date": "2018/11/29",
+        "abstract": "Sejak dikemukakan pendekatan produksi orthophoto secara digital pada tahun 1988, tahun 1991 USGS (United States Geological Survey) memproduksi orthophoto digital sebagai program nasional. Terminologi orthoimage atau orthophoto merupakan proses untuk mengeliminir perspektif image dan koreksi pergeseran relief yang disebabkan oleh kondisi terrain, untuk menghasilkan image atau foto pada proyeksi orthogonal atau membuat kondisi foto menjadi tegak. Dengan demikian orthophoto tersebut memiliki skala yang konsisten dan dapat digunakan untuk menghasilkan peta planimetris. Namun, di area urban dengan keberagaman ketinggian bangunan, produksi dengan metode orthophoto akan menyebabkan efek bangunan rebah dan menutupi detil objek lain seperti jalan dan fasilitas umum. Hal tersebut dapat diatasi dengan pembentukan true-orthophoto. Terminologi true-orthophoto akan …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Evaluasi Ketelitian Penentuan Kedalaman Perairan Dangkal Menggunakan Citra Satelit Pleiades",
+        "authors": [
+            "DS Hanityawan",
+            "A Basith, Harintaka"
+        ],
+        "cited_by": "3",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:vVJNg6_NJEsC",
+        "publication_date": "2017",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Uneven Land Subsidence Patterns Along Java's Northern Urban Corridor (Pantura Route) from 2.5 D SBAS InSAR Approach.",
+        "authors": [
+            "Afif Janur, Harintaka",
+            "ARGO GALIH SUHADHA"
+        ],
+        "cited_by": "2",
+        "year": "2025",
+        "venue": "Indonesian Journal on Geoscience",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:d4tt_xEv1X8C",
+        "publication_date": "2025/8/1",
+        "abstract": "Land subsidence is a phenomenon that occurs in many parts of the world, particularly in coastal plains and river delta areas, including the north coast of Java, commonly known as' pantura'. By utilizing satellite time series data, land subsidence along the north coast of Java was detected using The Small Baseline Subset (SBAS) method. Additionally, combining data from different Sentinel-1 orbit directions (ascending-descending) enables the production of a more accurate 2. 5D model. This research aims to calculate the rate of land subsidence on the north coast of Java from 2020 to 2023 using the 2, 5D model, and to compare the results with CORS processing results. Recent identification of land subsidence highlights that residential areas and rice fields are highly vulnerable to potential subsidence. The 2.5 D model in the up-down (UD) direction shows the highest land subsidence occurred in Demak Regency at …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Analysis of Water Quality Dynamics of Sentarum Lake, Indonesia, with Water Index Application and Water Parameter Algorithm Methods Using Google Earth Engine",
+        "authors": [
+            "Muhammad Rifai, Harintaka"
+        ],
+        "cited_by": "2",
+        "year": "2025",
+        "venue": "6th International Conference on Environmental Resources Management in Global Region",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:7VEv-pLvLSsC",
+        "publication_date": "2025/2/20",
+        "abstract": "Water quality is one of the main issues with lake degradation in Indonesia. Limited water quality data due to a lack of funding makes lake management in Indonesia difficult. The use of remote sensing technology has enormous potential as a source of data provision to obtain water quality information. We monitored Sentarum Lake in West Kalimantan, Indonesia, from 2019 to 2024 using open-access Sentinel-2 remote sensing data on the Google Earth Engine cloud computing platform. In this study, we combined Sentinel-2 Harmonized with the cloud score+ algorithm to produce cloud-free images of the study location. This paper used the Application Water Index and water parameter algorithms to analyze water quality. Using the Modified Normalized Difference Water Index (MNDWI), water area segmentation enhances open water features while efficiently suppressing and eliminating non-water area information. To …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/1443/1/012012/pdf"
+    },
+    {
+        "title": "Comparative Analysis of the Semantic Conditions of LoD3 3D Building Model Based on Aerial Photography and Terrestrial Photogrammetry",
+        "authors": [
+            "Muh Apriansyah",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "2",
+        "year": "2023",
+        "venue": "Journal of Applied Geospatial Information",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:v_tt_AnqfNMC",
+        "publication_date": "2023/10/26",
+        "abstract": "3D modeling of buildings is an important method in mapping and modeling the built environment. In this study, we analyzed the differences between the semantic state of actual buildings and 3D models of LoD3 buildings generated using aerial and terrestrial photogrammetric methods. We also evaluated the accuracy of the visual representation as well as the suitability of the building geometry and texture. Our method involves collecting aerial and terrestrial photographic data and processing it using SFM (structure from motion) technology. The photogrammetric data was then processed using image matching algorithms and 3D reconstruction techniques to generate 3D models of LoD3 buildings. The actual semantic state of the building was identified through field surveys and reference data collection. The 3D building model was successfully modeled from 1201 photos and 19 ground control points. The results of the evaluation of the geometry accuracy test, dimensions and semantic completeness of the 3D model, the use of aerial photographs and terrestrial photogrammetry in LoD3 3D modeling are assessed from the results of the automatic 3D modeling process using SfM (Structure from Motion) technology that produces 3D building models in Level of Detail (LoD) 3 with Root Mean Square Error values< 0.5 meters and has semantic completeness of the building in accordance with the original object based on the City Geography Markup Language (CityGML) standard. The facade formed from the modeling almost follows the original model such as doors, windows, hallways, etc.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://jurnal.polibatam.ac.id/index.php/JAGI/article/download/6634/2115"
+    },
+    {
+        "title": "Vegetation Height Estimation using Satellite Remote Sensing in Peat Land of Central Kalimantan",
+        "authors": [
+            "Atriyon Julzarika",
+            "Harintaka Harintaka",
+            "Tatik Kartika"
+        ],
+        "cited_by": "2",
+        "year": "2021",
+        "venue": "Journal of Environmental Analysis and Progress",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:xGWFX6Gbr9MC",
+        "publication_date": "2021/1/28",
+        "abstract": "Vegetation height is an important parameter in monitoring peatlands. Vegetation height can be estimated using remote sensing. Vegetation height can be estimated by utilizing DSM and DTM. The data that can be used are LiDAR, X-SAR, and SRTM C. In this study, LiDAR data is used for DSM2018 and DTM2018 extraction. This research aims to detect the vegetation height in Central Kalimantan peatlands using remote sensing technology. The research location is in Bakengbongkei, Kalampangan, Central Kalimantan. The integration of X-SAR and SRTM C is used for DSM2000 and DTM2000 extraction. DSM2000, DTM2000, DSM2018, and DTM2018 performed height error correction with tolerance of 1.96?(95%). Then do the geoid undulation correction to EGM2008. The results obtained are DSM and DTM with a similar height reference field. If it meets these conditions, it can be calculated the vegetation height …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Deteksi Area Bekas Kebakaran Hutan dan Lahan Menggunakan Citra Landsat 8 Tahun 2018–2020 (Studi Kasus: Pulau Rupat, Bengkalis)",
+        "authors": [
+            "Annisa Baroroh",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "2",
+        "year": "2020",
+        "venue": "Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:3A3nxV7CjKIC",
+        "publication_date": "2020/12/10",
+        "abstract": "Kebakaran hutan dan lahan (karhutla) telah menjadi sebuah fenomena tahunan pada musim kemarau di Indonesia, salah satunya Pulau Rupat yang berada di Provinsi Riau. Lokasi Pulau Rupat yang dekat dengan ekuator dan lahan yang bersifat gambut menjadi salah satu penyebab mudah terjadinya karhutla. Penelitian ini bertujuan untuk memetakan area bekas kebakaran hutan dan lahan di Pulau Rupat dari tahun 2018 hingga 2020 dengan memanfaatkan citra satelit Landsat 8 menggunakan metode semi otomatis. Pengolahan dengan metode semi otomatis dilakukan dengan cara interpretasi visual dan digital. Pengolahan data citra satelit Landsat 8 dilakukan secara visual dengan melakukan digitasi berdasarkan unsur interpretasi citra, sedangkan pengolahan data titik panas (hotspot) dilakukan secara digital dengan memanfaatkan fungsi point density untuk mendapatkan batasan area karhutla berdasarkan tingkat kerapatan hotspot. Hasil dari pengolahan kedua metode tersebut digunakan untuk mendeteksi area bekas karhutla yang lebih akurat. Hasil kajian menunjukkan luas area bekas karhutla tahun 2018, 2019, dan 2020 berturut-turut sebesar 178, 06 ha; 3.528, 98 ha; dan 2.117, 47 ha. Hasil deteksi area bekas karhutla dianalisis berdasarkan fungsi kawasan hutan termasuk ke dalam HP (hutan produksi tetap), HPK (hutan produksi konversi), HPT (hutan produksi terbatas), dan APL (area penggunaan lain), sedangkan berdasarkan penutup lahan termasuk ke dalam jenis kawasan hutan, hutan rimba, perkebunan/kebun, dan semak belukar/alang-alang.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "http://proceedings.undip.ac.id/index.php/isiundip2021/article/viewFile/609/350"
+    },
+    {
+        "title": "Comparison of the Latest DTM with DEM Pleiades in Monitoring the Dynamic Peatland",
+        "authors": [
+            "Atriyon Julzarika",
+            "Trias Aditya, Harintaka"
+        ],
+        "cited_by": "2",
+        "year": "2020",
+        "venue": "2020 3rd International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:I8rxH6phXEkC",
+        "publication_date": "2020/12/10",
+        "abstract": "DEM is needed for monitoring peatland dynamics. Currently, available free DEMs have low vertical accuracy and are not up to date. Commercial DEMs have high resolution but is expensive. DEM Pleiades is an example of a commercial DEM. One solution to overcome this problem is to use the latest DTM, which has the advantage of being up to date. This study aims to compare the vertical accuracy of the latest DTM with DEM Pleiades on peatlands. The study area is located on the peatlands of the “Palangkaraya-Pulang Pisau” border. This region has relatively flat topography. The latest DTM is extracted from a combination of InSAR ALOS PALSAR/PALSAR-2 and DInSAR Sentinel. The latest DTM is the integration of the DTM master with the latest displacement. The vertical accuracy of the latest DTM needs to be tested on the DEM Pleiades data with a spatial resolution of 0.5 m and field measurement data using …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Atriyon-Julzarika/publication/349170764_Comparison_of_the_Latest_DTM_with_DEM_Pleiades_in_Monitoring_the_Dynamic_Peatland/links/611d25b90c2bfa282a53349a/Comparison-of-the-Latest-DTM-with-DEM-Pleiades-in-Monitoring-the-Dynamic-Peatland.pdf"
+    },
+    {
+        "title": "KAJIAN TEKNIK STEREO PLOTTING PADA FOTO UDARA FORMAT KECIL UNTUK MENGHASILKAN DATA DTM",
+        "authors": [
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "2",
+        "year": "2020",
+        "venue": "Jurnal Ilmiah Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:In6cVmBjs0IC",
+        "publication_date": "2020/11/30",
+        "abstract": "Pada fotogrametri, untuk menghasilkan data Digital Terrain Model (DTM) dari foto udara dilakukan dengan cara stereo plotting. Ada dua cara stereo plotting, cara interaktif dan otomatis. Cara interaktif memerlukan waktu yang lama bagi operator untuk melihat dan mendeliniasi dalam ruang 3D untuk menghasilkan posisi tiga dimensi (3D) objek dalam sistem koordinat tanah. Cara otomatis adalah melakukan proses stereo matching dengan salah satunya menggunakan algoritma korelasi silang. Pada cara otomatis ini, setiap pasangan foto stereo diidentifikasi objek yang sama secara otomatis, kemudian dihitung koordinat 3D-nya menggunakan persamaan space intersection. Penelitian ini mengkaji penggunaan kedua teknik tersebut pada Foto Udara Format Kecil (FUFK) untuk menghasilkan data DTM dan dibandingkan hasilnya. Pada penelitian ini digunakan satu blok pemotretan udara yang terdiri dari lima …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Kajian Kehandalan Hasil Ekstraksi Bangunan Secara Otomatis Menggunakan Data Ortofoto dan LiDAR di Kota Pontianak",
+        "authors": [
+            "Handoko Dwi Julian, Harintaka"
+        ],
+        "cited_by": "2",
+        "year": "2019",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:H7nrzBkawXsC",
+        "publication_date": "2019/11/4",
+        "abstract": "Strategi dalam melakukan klasifikasi berbasis objek terutama diwilayah perkotaan dalam beberapa dekade ini dapat dilakukan dengan menggunakan berbagai metode dan melibatkan beberapa data selama proses klasifikasi berlangsung. Beberapa penelitian hampir sebagian besar hanya menggunakan data citra foto udara saja dalam melakukan ekstraksi objek bangunan namun ekstraksi objek bangunan terutama di wilayah perkotaan jika hanya memanfaatkan data ortofoto, dianggap belum optimal diimplementasikan pada klasifikasi berbasis objek. Kajian dalam melakukan ekstraksi bangunan tidak hanya dilakukan dengan memanfaatkan data foto udara namun juga dapat memanfaatkan data pada LiDAR seperti nilai ketinggian dan nilai intensitas pada LiDAR. Nilai ketinggian dan nilai intensitas LiDAR yang diekstraksi dari data point cloud dijadikan sebagai nilai ambang batas selama proses klasifikasi berlangsung. Ambang batas tiap kelas nilai intensitas LiDAR yang diekstrak dari point cloud juga diterapkan selama proses klasifikasi berlangsung. Klasifikasi ekstraksi objek bangunan menggunakan metode segmentasi algorithma segmentation multiresolution dimana citra foto udara terlebih dahulu dilakukan segmentasi yang selanjutnya dilakukan proses klasifikasi berbasis objek secara otomatis. Data point cloud LiDAR khususnya nilai intensitas LiDAR digunakan untuk memaksimalkan hasil klasifikasi selama proses klasifikasi berjalan sehingga menghasilkan hasil yang optimal. Berdasarkan dari penelitian, hasil ekstraksi bangunan secara otomatis yang dibandingkan dengan hasil deliniasi manual (onscreen digitizing …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/5146/3616"
+    },
+    {
+        "title": "Integration PS-InSAR and MODIS PWV data to monitor land subsidence in Semarang city 2015–2018. KnE Eng 2019: 66–76",
+        "authors": [
+            "R Azeriansyah",
+            "H Harintaka"
+        ],
+        "cited_by": "2",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:rqnDXT1GswoC",
+        "publication_date": "2019",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Pemodelan Virtual Bangunan Arkeologi Candi Kelir di Taman Wisata Candi Prambanan Menggunakan Kamera Amatir Digital,",
+        "authors": [
+            "Harintaka, Subaryono",
+            "Heri Octapianus"
+        ],
+        "cited_by": "2",
+        "year": "2008",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:0ngZmJvimKcC",
+        "publication_date": "2008",
+        "abstract": "The research shows 3D virtual model of Kelir Temple has very realistic vizualization, and average descrepancy between direct measurement using tape meter and measurement in 3D virtual model is 0.39 cm. The result indicate that utilizing amateur digital camera and CRP processing is suitable to construct a 3D virtual model of archeological Temple.",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Penyatuan Bidang-Bidang Tanah Melayang Menggunakan Citra Quickbird Untuk Pembuatan Peta Pendaftaran Tanah",
+        "authors": [
+            "Raden Agus Nur Yuwono, Harintaka",
+            "Aryono Prihandito"
+        ],
+        "cited_by": "2",
+        "year": "2008",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:R22Rs3tN8aoC",
+        "publication_date": "2008",
+        "abstract": "Research located in Sardonoharjo village in Sleman Regency and carried out in 5 steps. First, geometric correction of Quickbird image using TDT Orde 4 as ground control points. Second, identification of parcel location on Quickbird image and then overlaid on village map. Third, perform translation and rotation of plotted land parcel on Quickbird image. Fourth, development of parcel attribute database. Finally, composing cadastre map on TM-3o coordinate system. Result shows agricultural parcels can be clearly identified based on their geometric form, non-agricultural parcels is difficult to identified without clear location sketch on GU (Gambar Ukur), and residential parcels can be identified by their physical appearance, although the borders between parcels are not clearly visible. Identification of parcel location can be plotted on Quickbird image as real condition on field and legal aspect on its location status can …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Ekstraksi otomatis tapak bangunan (building footprint) pada ortofoto menggunakan Segment Anything Model (SAM)",
+        "authors": [
+            "Anisa Baroroh",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "1",
+        "year": "2025",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:8uzoZH4hB9AC",
+        "publication_date": "2025/6/19",
+        "abstract": "Kebutuhan peta dasar skala besar khususnya di Indonesia semakin meningkat seiring berkembangnya waktu. Salah satu fitur geospasial penting adalah bangunan. Penggunaan teknologi UAV mampu menghasilkan produk ortofoto resolusi tinggi yang dapat membantu pemetaan skala besar. Kumpulan data bangunan yang diturunkan dari data ortofoto dapat memberikan informasi untuk pemantauan dan perencanaan suatu daerah, khususnya di daerah yang tidak memiliki peta perencanaan rinci atau data kadaster. Pada umumnya, ekstraksi objek tapak bangunan dilakukan dengan digitasi manual. Namun, perkembangan terbaru menunjukkan teknologi otomatisasi dengan deep learning memiliki keunggulan lebih baik dari sisi kinerja yang lebih singkat. Teknik deep learning yang terbaru saat ini adalah SAM (Segment Anything Model). SAM merupakan pendekatan baru yang dikembangkan oleh Meta AI untuk segmentasi yang telah dilatih pada dataset sangat besar sehingga tidak memerlukan pelatihan ulang (Kirillov et al., 2023). Penelitian ini memanfaatkan SAM untuk ekstraksi tapak bangunan khususnya wilayah Indonesia. Karakteristik bangunan yang sangat bervariasi menjadi tantangan algoritma SAM dalam mengekstraksi tapak bangunan. Selain SAM, penggunaan metode regularisasi diterapkan untuk memperbaiki bentuk bangunan hasil segmentasi yang tidak teratur dan tegas. Hasil uji akurasi precision, recall, f1-score, dan IoU secara keseluruhan menunjukkan rata-rata nilainya diatas 87%. Hasil tersebut menunjukkan bahwa SAM mampu melakukan ekstraksi tapak bangunan dengan baik.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/25145/12823"
+    },
+    {
+        "title": "Investigating the Impact of Enhanced Images on 3D Reconstruction of non Lambertian Object Using Neural Radiance Fields",
+        "authors": [
+            "Riyas Syamsul Arif, Harintaka",
+            "Monica Maharani"
+        ],
+        "cited_by": "1",
+        "year": "2025",
+        "venue": "7th International Conference on Earth Science, Mineral and Energy (ICEMINE)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:q1zXlPLtbUIC",
+        "publication_date": "2025/4/24",
+        "abstract": "Technology and methods for performing 3D reconstruction are improving significantly. One of the reconstruction techniques currently developing today is Neural Field Radiance (NeRF) which emerges as a new paradigm in the development of photogrammetry for 3D reconstructions, especially in the field of close range photogrammetry. This research investigates the effect of 3D reconstruction results generated by image enhancement on non Lambertian objects. In this case, a non-Lambertian object is used because the object has nonuniform reflection properties, where the intensity of the reflected light depends on the angle of view and the angle of the light source, so that a more advanced method is needed to overcome this reflection characteristic. This research examined the effect of image enhanced on NeRF 3D reconstruction with five scenarios of enhanced image methods, namely: Brightness, CLAHE …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/1486/1/012024/pdf"
+    },
+    {
+        "title": "Penggunaan Generic Atmospheric Correction Online Service For InSAR (GACOS) Pada Pemantauan Penurunan Muka Tanah di Kota Semarang Metode Persistent Scatterer Interferometric …",
+        "authors": [
+            "Reyhan Azeriansyah",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "1",
+        "year": "2019",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:L24QuVWYgZ0C",
+        "publication_date": "2019/7/7",
+        "abstract": "Wilayah pesisir merupakan tempat yang potensial dalam bermukim dan memanfaatkan sumber daya alam. Kemudahan akses dan daerah yang berpotensi untuk dikelola sehingga sebagian besar permukiman padat penduduk berada di wilayah tersebut. Salah satu akibat dari aktivitas dapat dilihat pada wilayah pesisir seperti Kota Semarang yang mengalami penurunan muka tanah yang disebabkan berbagai faktor alam dan buatan manusia. Metode pengamatan yang sering dilakukan untuk fenomena ini adalah pengamatan GNSS. Interval jarak yang terlalu jauh antar stasiun menyebabkan beberapa area tidak tercakup dalam pengamatan penurunan muka tanah dengan pengamatan GNSS receiver. Salah satu solusi yang dapat digunakan adalah dengan memanfaatkan teknologi Interferometric Synthetic Aperture Radar (InSAR) secara multi-temporal yang disebut Persistent Scatterer Interferometric Synthetic Aperture Radar (PS-InSAR). Pada aplikasinya, PS-InSAR memiliki permasalahan berupa kesalahan troposfer yang menyebabkan percepatan atau pelambatan sinyal pada sensor SAR saat melakukan akuisisi yang terkandung pada tiap citra Synthetic Aperture Radar (SAR). Metode koreksi troposfer Generic Atmospheric Correction Online Service for InSAR (GACOS) yang digunakan pada metode PS-InSAR akan dapat mengeliminasi efek troposfer pada masing-masing citra sehingga kesalahan dapat diminimalkan dan mengoptimalkan kerja metode PS-InSAR. Berdasarkan hasil PS-InSAR sebelum dan sesudah terkoreksi menunjukkan bahwa wilayah di Kota Semarang yang mengalami penurunan muka tanah terbesar adalah …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/4651/2895"
+    },
+    {
+        "title": "Pengaruh sistem referensi tinggi Digital Elevation Model (MED) pada hasil ortorektifikasi citra satelit resolusi tinggi untuk mendukung pemetaan skala besar",
+        "authors": [
+            "Maharani Monica"
+        ],
+        "cited_by": "1",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:cBPnxVikjH8C",
+        "publication_date": "2019",
+        "abstract": "Badan Informasi Geospasial (BIG) sebagai instansi yang ditunjuk oleh pemerintah sebagai penanggung jawab penyediaan informasi geospasial dasar sesuai dengan UU Informasi Geospasial nomor 4 Tahun 2011 memanfaatkan Citra Setelit Resolusi Tinggi (CSRT) untuk keperluan pembuatan peta skala 1:5.000. Pemanfaatan CSRT untuk pembuatan peta memerlukan pengolahan data yang lebih rumit dan terkontrol jika dibandingkan dengan penggunaan citra satelit resolusi sedang dan rendah, karena memerlukan proses ortorektifikasi. Proses ortorektifikasi melibatkan CSRT, titik kontrol tanah (TKT) dan model elevasi digital (MED). Komponen ortorektifikasi khususnya MED sering kali memiliki sistem referensi tinggi yang berbeda dengan komponen lain. Hal tersebut melatarbelakangi perlunya dilakukan suatu analisis mengenai pengaruh sistem referensi tinggi terhadap hasil ortorektifikasi. Proses analisis dilakukan dengan membandingkan tiga hasil ortorektifikasi CSRT yang diverifikasi oleh independent check point (ICP) hasil pengukuran langsung di lapangan. Hasil ortorektifikasi pertama diperoleh dari data CSRT (sistem ketinggian ellipsoid), TKT (sistem ketinggian ellipsoid) dan MED (sistem ketinggian ellipsoid). Hasil ortorektifikasi kedua diperoleh dari data CSRT (sistem ketinggian ellipsoid), TKT (sistem ketinggian ellipsoid) dan MED (sistem ketinggian EGM2008). Hasil ortorektifikasi ketiga diperoleh dari data CSRT (sistem ketinggian ellipsoid), TKT (sistem ketinggian EGM2008), dan MED (sistem ketinggian EGM2008). Hasil perbandingan menunjukkan bahwa CSRT, MED dan TKT yang berada dalam satu sistem referensi …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "http://eprints.itenas.ac.id/552/1/Semnas%20-%20Monica%20Harintaka.pdf"
+    },
+    {
+        "title": "Pemanfaatan Citra Satelit Resolusi Tinggi, DGPS, dan SIG Untuk mendeteksi Kondisi Penggunaan Lahan Di Kota Yogyakarta",
+        "authors": [
+            "Subaryono, Harintaka",
+            "Bilal Ma'ruf"
+        ],
+        "cited_by": "1",
+        "year": "2006",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:Vno172sVVMwC",
+        "publication_date": "2006",
+        "abstract": ": The geomatics technology, especially remote sensing technology, has developed sensors capable of producing satellite images such as\" IKONOS\" images with very high spatial resolution (0.6–1m). However, the high spatial resolution has no high values when its geometric positions are not well corrected. The combination of the use of high spatial resolution image and the DGPS will be able to produce high quality information of objects in the earth surface in terms of both the content and its geometric positions. Information about land use with such quality is very useful in support of urban planning and management.This research used a high spatial resolution image\" IKONOS\" which was corrected using primary data obtained through the application of the DGPS (Differential Global Positioning System) in the City of Yogyakarta. The combination of both procedures (data processing of IKONOS and DGPS) lies …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Kajian Pemanfaatan Jaringan Saraf Tiruan Untuk Klasifikasi Jenis Tanaman Pertanian Pada Foto Udara Format Kecil",
+        "authors": [
+            "Harintaka",
+            "Imam Baskoro"
+        ],
+        "cited_by": "1",
+        "year": "2006",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:hCrLmN-GePgC",
+        "publication_date": "2006",
+        "abstract": ": Generally, conventional supervised parameter classification methods show low performance if applied to high spatial resolution image, such as Small Format Aerial Photography (SFAP). Supervised parameter classification methods just involved spectral color in process of classification and the pixels must have normal distribution. Application the methods for high spatial resolution image (SFAP), in which the pixels distribution are not normal distributed, causing improper result. For this reason, manual classification using visual interpretation shows better result rather than supervised parameter classification methods.Unfortunatelly, visual interpretation needs a lot of operator interactions and can cause inconsistency results, depand on local knowledge of each operator. So, this research studied to classy agricultural plantation using artificial neural network (ANN) from SFAP. Method of ANN that used in this research …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Evaluation of Google Earth Engine Embedding Dataset for Remote Sensing Image Classification",
+        "authors": [
+            "Calvin Wijaya, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2026",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:Nw_I7GeUguwC",
+        "publication_date": "2026/1/20",
+        "abstract": "Google Earth Engine (GEE) has emerged as one of the most powerful cloud-based platforms for processing and analyzing remote sensing imagery. By integrating vast Earth observation archives with scalable computational resources, it provides an accessible environment for researchers, practitioners, and decision-makers. In 2025, Google’s AlphaEarth Foundation introduced a novel embedding model trained on diverse Earth observation datasets available on the GEE server. This model, generated from annual time-series imagery and offered in an analysis-ready format, enables general-purpose applications such as classification, clustering, regression and change detection. Despite its potential, the performance and capabilities of this embedding model remain largely underexplored. This study evaluates the effectiveness of the embedding datasets in GEE for supervised classification method. Comparative experiments were conducted against widely used remote sensing imagery, including Sentinel-2 and Landsat 9 imagery, using multiple algorithms such as K-Neural Network (KNN), Support Vector Machine (SVM), Random Forest (RF), Classification and Regression Trees (CART), and Object-Based Image Analysis (OBIA). In addition, a case study was carried out to examine the use of embedding datasets for mangrove classification. Validation using overall accuracy demonstrates that embedding datasets achieve superior results compared to conventional imagery. Classification using the embedding dataset achieved an average overall accuracy of 94%, outperforming Landsat 9 (83.1%) and Sentinel-2 (82.5%). Moreover, the embedding …",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/8151/7749"
+    },
+    {
+        "title": "Assessment of 3D Videogrammetry Modeling using SfM-MVS and NeRF Algorithms to Support Interoperability Heritage BIM",
+        "authors": [
+            "Riyas Syamsul Arif, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2026",
+        "venue": "Studies in Digital Heritage",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:inmFHauC9wsC",
+        "publication_date": "2026",
+        "abstract": "The heritage building information model (H-BIM) is a digital representation of a historic building, which combines real-world representations with spatial data in the field of preservation of historic buildings and sites. In Indonesia, especially on the island of Java, many temple buildings are historical sites. To build the H-BIM, appropriate 3D modeling technology is required. In this study, videogrammetry techniques are used for temple data acquisition and 3D modeling using the Structure from Motion/Multi-View Stereo (SfM-MVS) and neural radiance field (NeRF) algorithms. To support interoperability, the resulting 3D model is stored in a boundary representation (B-Rep) data structure. As Hindu heritage temples in Indonesia have complex surface textures, the video-recorded data used in 3D modeling are processed with two scenarios of 70% and 95% overlap. The results of 3D modeling with 70% overlap exhibit superiority in terms of the detail of the temple surface objects and their completeness. The 3D model processed with the SfM-MVS algorithm shows advantages in terms of geometric accuracy and is suitable for large temple buildings. By contrast, the 3D model processed with the NeRF algorithm shows advantages in terms of the density of point clouds and better visualization and is suitable for small temple buildings. The use of the B-Rep data structure can describe object boundaries well and can be stored in multiple formats. In this study, the OBJ, KMZ, FBX, and CityGML formats were used, thus having the potential to support interoperability.",
+        "pdf_link": "https://scholarworks.iu.edu/journals/index.php/sdh/article/download/40876/44187"
+    },
+    {
+        "title": "Performance Analysis of Point Cloud Classification Techniques Using UAV LiDAR Data",
+        "authors": [
+            "Calvin Wijaya, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "The 2025 IEEE Asia-Pacific Geosciences, Electronics, and Remote Sensing Technology Conference (AGERS)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:G36d5HCDkJYC",
+        "publication_date": "2025/12/18"
+    },
+    {
+        "title": "Unveiling Climate-Driven Water Surface Dynamics in the Largest Tropical Lake in Borneo: A Machine Learning Approach Using Multi-Source Satellite Imagery",
+        "authors": [
+            "Mohamad Rifai, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Artificial Intelligence in Geosciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:nWoA1JPTheMC",
+        "publication_date": "2025/11/6",
+        "abstract": "Tropical lakes such as Lake Sentarum in Kalimantan, Indonesia, represent ecologically rich ecosystems with high biodiversity and constitute the largest lake on the island of Kalimantan. This lake serves as a sensitive indicator of climate change; however, its monitoring is often hindered by persistent cloud cover. This study evaluates the effectiveness of a Gradient Tree Boosting machine learning model integrated with multisource satellite data, including optical imagery, Sentinel 1 SAR, Sentinel 2, and high resolution NICFI data, in accurately mapping surface water dynamics. The Gradient Tree Boosting model was trained and validated using water and non water samples collected from annual imagery spanning 2019 to 2024, achieving validation accuracies ranging from 80 percent to 97 percent. Results demonstrate that Gradient Tree Boosting successfully integrates the strengths of each sensor, producing …",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S2666544125000620"
+    },
+    {
+        "title": "Analysis of Ground Filtering Techniques for UAV LiDAR Point Cloud Data in DTM Generation",
+        "authors": [
+            "Calvin Wijaya, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "The 3rd International Conference of Geoscience and Remote Sensing Technology (IC-GEOREST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:17ZO-CJnx_8C",
+        "publication_date": "2025/10/25"
+    },
+    {
+        "title": "Change Detection of Topographic Features using Iteratively Reweighted Multivariate Alteration Detection and Random Forest Classification for Partial Updating of Indonesian …",
+        "authors": [
+            "Endang Purwati, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "GEOID",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:hfzGNhXhx5MC",
+        "publication_date": "2025/10/6",
+        "abstract": "The current demand for geospatial information is increasingly urgent across various sectors, making the provision of base maps a top priority that is currently being accelerated. However, a major challenges faced today is the outdated nature of the Indonesian Topographic Map (Peta Rupabumi Indonesia/RBI), many of which were produced several years ago and are now considered obsolete. Updating the data is essential to ensure the validity of geospatial information in accordance with current conditions. At present, the detection of change in topographic feature is still largely conducted manually, thereby necessitating the exploration of methods to accelerate partial map updating processes. This study implements a change detection approach using Iteratively Reweighted Multivariate Alteration Detection (iMAD) method, in combination with Random Forest (RF) and Rule-based Classification. The iMAD technique is relatively insensitive to radiometric differences between acquisition times and simultaneously considers all spectral bands. Its iterative process improves accuracy, making it suitable for change detection in partial mas updates. Random Forest Classification supports the interpretation of iMAD results by providing information on changes in land cover types. The iMAD results indicate that the majority of detected changes fall under the ambiguous category (49, 18%), followed by unchanged pixels (24, 78%), significant changes (20, 91%), and agricultural changes (5, 13%). Overall accuracy of Random Forest Classification reached 90, 45% in 2019 and 93, 20% in 2023. The Kappa coefficient was 0, 8920 and 0, 8936 for 2019 and 2023 …",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/6364/7754"
+    },
+    {
+        "title": "Development of Three JS-based 3D Scene with Seamless Visualization of Gaussian Splatting and Transformation to Global Coordinates",
+        "authors": [
+            "Azfa Ahmad Dzulvikar, Harintaka",
+            "Ikhrom"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "GEOID",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:Oo1CbQkBAzEC",
+        "publication_date": "2025/10/5",
+        "abstract": "Existing scholarly literature on the Gaussian Splatting algorithm has predominantly concentrated on improving the rendering and reconstruction of three-dimensional objects, as well as exploring its applications in various academic disciplines, such as medicine, robotics, and mapping, while being limited to local coordinate systems. This study describes the development of a 3D scene modelled using the Gaussian Splatting algorithm, featuring accurate distance and position geometry based on three. js. The developed 3D scene was then evaluated with precise position and distance coordinates in the field and compared to the established SfM-MVS (Structure from Motion-Multi View Stereo) algorithm. The findings demonstrate that the proposed development successfully generated three. js-based 3D scenes with global coordinate compatibility, utilising the Gaussian Splatting algorithm, achieving the same level of position and distance accuracy as the SfM-MVS algorithm, with a 95% confidence level using a T-test. This research concludes that the developed approach is successful and can be further expanded for various scientific fields that require accurate position and distance information using the Gaussian Splatting Algorithm.",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/8775/7367"
+    },
+    {
+        "title": "Multi-Sensor LiDAR Integration and Interactive Web Visualization of 3D Point Cloud Data",
+        "authors": [
+            "Calvin Wijaya, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2025 (FIT ISI 2025)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:Tfl4UtY-dJUC",
+        "publication_date": "2025/10/4"
+    },
+    {
+        "title": "Analisis ketelitian horizontal dan vertikal data LiDAR menggunakan wahana Unmanned Aerial Vehicle (UAV) di area tambang",
+        "authors": [
+            "Arif Usman, Harintaka",
+            "Afradon Aditya Setyawan"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "Seminar Nasional Keinsinyuran",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:c1AJUTjuCtUC",
+        "publication_date": "2024/4/22"
+    },
+    {
+        "title": "Assessing Three-Dimensional Displacement in the Low Latitude Area from Multi-Geometry Sentinel-1 InSAR: Case Study Palu City",
+        "authors": [
+            "Argo Galih Suhadha, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "The 8th Asia-Pasific Conference on Synthetic Aperture Radar (APSAR 2023)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:g_UdREhPGEoC",
+        "publication_date": "2023/10/24"
+    },
+    {
+        "title": "Improving UAV Image Acquisition Efficiency and Orthophoto Positional Accuracy Without the Need for Ground Control Points for Cadastral Mapping",
+        "authors": [
+            "Ruli Andaru, Harintaka",
+            "Sidik Rahmat",
+            "Andi Pancarka, Rio"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "THE SOUTH EAST ASIA WORKSHOP ON GEODETIC DATA SCIENCES, GEOINFORMATICS AND LAND ADMINISTRATION (GEO-LAND-SEA) 2023",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:Kqc1aDSOPooC",
+        "publication_date": "2023/2/9"
+    },
+    {
+        "title": "ANALISIS PENURUNAN MUKA TANAH MENGGUNAKAN CITRA SENTINEL 1A DENGAN METODE DINSAR TAHUN 2019-2021 (STUDI KASUS: PEMBANGUNAN JALAN TOL SEMARANG DEMAK)",
+        "authors": [
+            "Yudo Prasetyo",
+            "Hana Sugiastu Firdaus",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2022",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:E7VqQtBCVmcC",
+        "publication_date": "2022/12/22",
+        "abstract": "Kabupaten Demak dan Kota Semarang adalah daerah yang berada di pesisir Pulau Jawa yang padat dan pusat ekonomi yang berkembang secara pesat. Pada wilayah ini sering terjadi bencana sistematik berupa banjir rob dan penurunan muka tanah. Pembangunan jalan tol berfungsi untuk memperlancar kegiatan ekonomi di wilayah tersebut. Pemantauan secara berkelanjutan diperlukan untuk mengetahui dampak yang timbul seiring berjalannya waktu akibat fenomena penurunan muka tanah. Metode DInSAR dimanfaatkan dalam penelitian ini untuk memantau fenomena tersebut karena merupakan sebuah metode quick assement yang murah, cepat, mencangkup area yang luas dan tepat secara akurasi.",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/16744/8846"
+    },
+    {
+        "title": "Procjena visinske točnosti digitalnog modela terena (DMT) ALOS PALSAR-2 u području Rote Dead Sea–Indonezija",
+        "authors": [
+            "Atriyon Julzarika",
+            "Trias Aditya",
+            "Subaryono Subaryono",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Geodetski list",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:g8uWPOAv7ggC",
+        "publication_date": "2021/3/25",
+        "abstract": "Procjenu visinske točnosti neophodno je obaviti kako bi se utvrdila kvaliteta DMT-a. Ta će kvaliteta utjecati na vrstu mjerila i korištenje DMT-a. U studiji se koriste podaci iz DMT-a ALOS PALSAR-2. Ova studija procjenjuje visinsku točnost DMT-a ALOS PALSAR-2 s različitim referentnim područjima visine u području Rote Dead Sea, Indonezija. Svaki DMT izrađen je uz pomoć EGM 1996, EGM 2008 i WGM 2012. Tri DMT-a, koja se temelje na referentnim područjima visine, imat će različite ortometrijske visine; zato je potrebna procjena visinske točnosti kako bi se odredila kvaliteta ta tri DMT-a. Oni se uspoređuju s terenskim mjerenjima dobivenima GNSS-niveliranjem. Ovo ispitivanje provodi se u nizinskim i brdskim područjima koristeći 10 testnih točaka. Za nizinsko područje, RMSE (z) u visini na DMT-u je 1,363 m za WGM 2012, 2,017 m za EGM 2008 i 1,934 m za EGM 1996. Za brdsko područje, RMSE (z) u visini na DMT-u je 1,185 m za WGM 2012, 1,201 m za EGM 2008 i 1,432 m za EGM 1996. DMT-WGM 2012 i DMT-EGM 1996 preporučuju se za korištenje u tom području jer imaju veću visinsku točnost. Ispitivanje visinske točnosti u nizinskom području otoka Rote odgovara klasi 2 i klasi 3 u mjerilu 1: 10 000. Ispitivanje visinske točnosti u brdskom području otoka Rote odgovara klasi 1 i klasi 2 u mjerilu 1: 10 000. Rezultati ispitivanja visinske točnosti DMT-a ALOS PALSAR-2 mogu se koristiti za mjerila kartiranja 1: 10 000–1: 25 000 na otoku Rote.",
+        "pdf_link": "https://hrcak.srce.hr/file/369907"
+    },
+    {
+        "title": "Vertical Accuracy Evaluation of Digital Terrain Model (DTM) ALOS PALSAR-2 in Rote Dead Sea Area–Indonesia; Procjena visinske točnosti digitalnog modela TERENA (DMT) ALOS PALSAR …",
+        "authors": [
+            "Atriyon Julzarika",
+            "Trias Aditya",
+            "Subaryono Subaryono",
+            "Harintaka Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:Vztgr1qGG8IC",
+        "publication_date": "2021"
+    },
+    {
+        "title": "Utilization of UAV (Unmanned Aerial Vehicle) Technology for Identification and Classification of Types of Road Damage",
+        "authors": [
+            "I Mandaya",
+            "H Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2020",
+        "venue": "Rekayasa Sipil",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:X5YyAB84Iw4C",
+        "publication_date": "2020"
+    },
+    {
+        "title": "Harintaka. Indonesian DEMNAS: DSM or DTM",
+        "authors": [
+            "A Julzarika"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "Proceedings of the 2019 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS), Jakarta, Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:CMvovTBb2okC",
+        "publication_date": "2019/8"
+    },
+    {
+        "title": "Pemetaan Tingkat Bahaya Erosi Menggunakan Metode RUSLE (Revised Universal Soil Loss Equation) dan SIG di Sub DAS Kali Progo Hulu",
+        "authors": [
+            "FD Rassarandi",
+            "PB Santosa, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Prosiding Simposium Infrastruktur Informasi Geospasial",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:XAp-VaTZjjwC",
+        "publication_date": "2018"
+    },
+    {
+        "title": "Analysis of object oriented classification on high resolution images",
+        "authors": [
+            "Nurhadi Bashit, Harintaka",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "2016 6th International Annual Engineering Seminar (InAES)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:7H_jS4BsgvYC",
+        "publication_date": "2016/8/1",
+        "abstract": "Classification is one step of image processing which aims to obtain information from remote sensing data. Object oriented classification is a classification algorithm which can be used to process a high resolution image because it uses the object elements as spectral, spatial, and texture. The purpose of this study is to examine the application of object oriented classification on two types of images which are categorized as high resolution images. The study uses two types high resolution image. They are SPOT 5 and QuickBird image covering Ngaglik district, Sleman, Yogyakarta. SPOT 5 was acquired on September 2, 2014 which has 2.5 meters spatial resolution and QuickBird was acquired in 2010 which has 0.6 meters spatial resolution. A field survey was conducted for identifying the classification scheme and testing the classification accuracy. Classification has been done through several stages, involving …",
+        "pdf_link": "https://www.researchgate.net/profile/Abdul-Basith-5/publication/312562414_Analysis_of_object_oriented_classification_on_high_resolution_images/links/59e53643458515250246f6af/Analysis-of-object-oriented-classification-on-high-resolution-images.pdf"
+    },
+    {
+        "title": "Identifikasi Permasalahan Batas Daerah di Lapangan dan Kontribusi Teknologi Geoinformasi untuk Membantu Penyelesaiannya",
+        "authors": [
+            "Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "Pertemuan Ilmiah dan FIT ISI 2011 - Semarang",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:tBlTYpvFGQIC",
+        "publication_date": "2011"
+    },
+    {
+        "title": "Kajian Fotogrametri Jarak Dekat Menggunakan Kamera DSLR Non-Metrik Untuk Hitungan Volume Material",
+        "authors": [
+            "Anung Anindito, Harintaka",
+            "Ruli Andaru"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "Simposium Nasional Geoinformasi II Fakultas Geografi UGM",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:PVqtIyvKoSUC",
+        "publication_date": "2011"
+    },
+    {
+        "title": "Pemanfaatan Citra Satelit ALOS AVNIR-2 Untuk Identifikasi Tanah Terlantar Hak Guna Usaha Untuk Perkebunan",
+        "authors": [
+            "Catur Widayanti, Harintaka",
+            "Diyono"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "Seminar Nasional Geospasial dalam Pembangunan Wilayah dan Daerah dan PIT MAPIN 2011 di UNDIP - Semarang",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:gV6rEsy15s0C",
+        "publication_date": "2011"
+    },
+    {
+        "title": "Pemodelan 3D Bangunan Arkeologi Besar Menggunakan Teknologi Terrestrial Laser Scanner",
+        "authors": [
+            "Ruli Andaru, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "Seminar Nasional Geospasial dalam Pembangunan Wilayah dan Daerah dan PIT MAPIN 2011 di UNDIP - Semarang",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:l6Q3WhenKVUC",
+        "publication_date": "2011"
+    },
+    {
+        "title": "Kajian Pemanfaatan Citra Satelit Resolusi Tinggi Untuk Mendukung Perencanaan Awal Jalan Raya",
+        "authors": [
+            "Harintaka",
+            "Ria Tahfazona"
+        ],
+        "cited_by": "",
+        "year": "2010",
+        "venue": "Prosiding Seminar Nasional FTSP ITN Malang - Malang",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:DQNrXyjhriIC",
+        "publication_date": "2010"
+    },
+    {
+        "title": "Permasalahan Ekstraksi Ketinggian Secara Otomatis Pada Foto Udara Format Kecil Pada Daerah Campuran",
+        "authors": [
+            "Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2010",
+        "venue": "Prosiding PIT Mapin 2010 - Bogor",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:EBV337fEn3EC",
+        "publication_date": "2010"
+    },
+    {
+        "title": "Kajian Penggunaan Citra Satelit Quickbird untuk Pemetaan Penggunaan Tanah di Kelurahan Kutoarjo, Kecamatan Kutoarjo, Kabupaten Purworejo",
+        "authors": [
+            "Sutrisno, Harintaka",
+            "Slamet Basuki"
+        ],
+        "cited_by": "",
+        "year": "2010",
+        "venue": "Pertemuan Ilmiah dan FIT ISI 2010 - Pekanbaru Riau",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:rLGzs9wiiwIC",
+        "publication_date": "2010"
+    },
+    {
+        "title": "Pemodelan Ketidakstabilan Kamera Dan Gerakan Pesawat Pada Saat Pemotretan Foto Udara Format Kecil",
+        "authors": [
+            "Harintaka, Subaryono",
+            "Adhi Susanto, Hartono"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "Seminar Nasional Revitalisasi Data dan Informasi Keruangan untuk Meningkatkan Efisiensi Pengelolaan Potensi Sumberdaya Daerah",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XliPgAcAAAAJ&cstart=20&pagesize=80&citation_for_view=XliPgAcAAAAJ:txeM2kYbVNMC",
+        "publication_date": "2009"
+    }
+]

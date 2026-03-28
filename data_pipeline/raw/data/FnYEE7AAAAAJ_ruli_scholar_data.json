@@ -1,0 +1,500 @@
+[
+    {
+        "title": "Utilizing UAV-based mapping in post disaster volcano eruption",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Ruli Andaru"
+        ],
+        "cited_by": "36",
+        "year": "2016",
+        "venue": "2016 6th International Annual Engineering Seminar (InAES)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2016/8/1",
+        "abstract": "This paper shows some practical experiences of utilizing UAV (Unmanned Aerial Vehicle)-Based mapping in post disaster for rapid assessment. Some cases are Merapi volcano eruption in year 2010 for seeing the cold lava flow impact and mapping the shelter area; and Kelud volcano eruption in year 2014 for seeing the impact and volumetric material calculation. This meet the need, because the Indonesia archipelago region is locate at Geologic features Pacific Ring of Fire belt. This led the region into a natural disaster-prone area of volcanic eruptions and earthquakes. For keeping practical reliabilities, the UAV-based mapping system was built up by a common instrumentations from hobby shop, such as the aeromodelling plane platform and digital pocket camera. The system should have some basic products capabilities such as Orthophoto Image, and Digital Elevation Model (DEM). For seeing the manmade …",
+        "total_citations": "Cited by 36",
+        "pdf_link": "https://www.researchgate.net/profile/Ruli-Andaru-2/publication/312562417_Utilizing_UAV-based_mapping_in_post_disaster_volcano_eruption/links/64351170ad9b6d17dc4d3c21/Utilizing-UAV-based-mapping-in-post-disaster-volcano-eruption.pdf"
+    },
+    {
+        "title": "The combination of terrestrial Lidar and UAV photogrammetry for interactive architectural heritage visualization using unity 3D game engine",
+        "authors": [
+            "R Andaru",
+            "BK Cahyono",
+            "G Riyadi",
+            "GR Ramadhan",
+            "S Tuntas"
+        ],
+        "cited_by": "28",
+        "year": "2019",
+        "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:UebtZRa9Y70C",
+        "publication_date": "2019/11/29",
+        "abstract": "The digital 3D documentation of architectural heritage using advanced 3D measurement technologies such as UAV photogrammetry and terrestrial LiDAR (TLS) becomes a potential and efficient method since it can produce 3D pointclouds in detail and high density of pointclouds levels. However, TLS is unable to scan the roof part of tall building, whereas UAV photogrammetry achieves high density of pointclouds at that area. In order to make a complete 3D pointclouds of heritage building, we merged and integrated the TLS and UAV pointclouds data by using Iterative Closest Point (ICP) algorithms into one reference system. In this study, we collected two architectural heritage building in Yogyakarta, Indonesia, i.e., \"Vredeburg Fort Museum (VFM)\" and \"Kotagede Great Mosque (KGM)\", the oldest mosque in Yogyakarta. For the data acquisition, we used Faro Focus X330 and GLS 2000 Laser Scanner. We produced three-dimensional point clouds from UAV imagery by using Structure from Motion and Multi View Stereo (SfM-MVS) technique through Photoscan software. In order to merging and integrating both of pointclouds data, Maptek I-Site Studio 6.1 with Educational License was used. Those data were successfully registered, and according to the registration report, we had observed 20.60 mm of RMS error. The 3D models and their textures in outdoor and indoor side were processed using Autodesk software. Modelling was carried out on the structure of building’s façade base on simple geometric primitive as planes, straight lines, circles, spheres and cylinder. For interactive visualization, a modern and widely accessible game engine …",
+        "total_citations": "Cited by 28",
+        "pdf_link": "https://isprs-archives.copernicus.org/articles/XLII-2-W17/39/2019/isprs-archives-XLII-2-W17-39-2019.pdf"
+    },
+    {
+        "title": "The use of UAV remote sensing for observing lava dome emplacement and areas of potential lahar hazards: An example from the 2017–2019 eruption crisis at Mount Agung in Bali",
+        "authors": [
+            "Ruli Andaru",
+            "Jiann-Yeou Rau",
+            "Devy Kamil Syahbana",
+            "Ardy Setya Prayoga",
+            "Heruningtyas Desi Purnamasari"
+        ],
+        "cited_by": "25",
+        "year": "2021",
+        "venue": "Journal of Volcanology and Geothermal Research",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:8k81kl-MbHgC",
+        "publication_date": "2021/7/1",
+        "abstract": "Mount Agung (the highest volcano in Bali, Indonesia) began to erupt on November 21, 2017, after having been dormant for 53 years. More than 100,000 people were evacuated within the hazard zone between September 2017 (when the highest volcanic alert was issued) and early 2018. The eruptions continued until June 2019, accompanied by at least 110 explosions. During the eruptive crisis, the observation of the lava dome's emplacement was essential for mitigating the potential hazard. Details of the lava dome growth, including the volumetric changes and effusion rates, provide valuable information about potential eruption scenarios and lahar depositions. In this paper, the essential role of multi-temporal unmanned aerial vehicle (UAV) images in the monitoring of Mt. Agung's lava dome, and in determining the areas of potential lahar hazards during the crisis between 2017 and 2019 is described. A fixed …",
+        "total_citations": "Cited by 25"
+    },
+    {
+        "title": "Lava dome changes detection at Agung mountain during high level of volcanic activity using UAV photogrammetry",
+        "authors": [
+            "Ruli Andaru",
+            "J-Y Rau"
+        ],
+        "cited_by": "14",
+        "year": "2019",
+        "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:ufrVoPGSRksC",
+        "publication_date": "2019/6/4",
+        "abstract": "Lava dome changes detection during increasingly high volcanic activity are essential for hazard assessment purposes. However, it is challenging to conduct direct field measurement due to safety reason. Here, we investigate the lava dome changes of Mount Agung in Indonesia during the highest level of volcanic activity. On 22 September 2017, the rumbling and seismic activity in this volcano started increasing to the highest level for a period of time. We afterwards collected image data at lava dome area by using UAV over this time period. To accomplish the goal of change detection, we assembled and developed a fixed-wing UAV platform, i.e. Buffalo FX-79 to acquire images of Mount Agung whose elevation is roughly 3,142 m above sea level. We acquired the UAV images on two dates, i.e. Oct 19 and Oct 21 of 2017. Due to an exclusion zone surround the volcano, we could only operate the UAV at 20 km distance from the crater. With these data set, we produced three-dimensional point clouds, high-resolution Digital Elevation Model and orthophoto by using Structure from Motion (SfM) and Multi View Stereo (SfM-MVS) technique with Photoscan Pro software. From orthophoto data, we found two fluid areas at the crater's surface in NE direction (4,375.9 sq-m) and SE direction (3,749.8 sq-m). We also detected a fumarole which emitted steam and gases in the eastern part that continued for several days. In order to reveal the changes in lava dome surface, we used DEM to create cross-section profile. After that, we applied cloud to cloud comparison (C2C) algorithm to calculate the difference of lava dome based on two data set of point …",
+        "total_citations": "Cited by 14",
+        "pdf_link": "https://isprs-archives.copernicus.org/articles/XLII-2-W13/173/2019/isprs-archives-XLII-2-W13-173-2019.pdf"
+    },
+    {
+        "title": "Pembuatan Peta dan Sistem Informasi Geospasial Lahan Pertanian di Kecamatan Sentolo, Kabupaten Kulonprogo, Yogyakarta",
+        "authors": [
+            "Rochmad Muryamto",
+            "Waljiyanto Waljiyanto",
+            "Untung Rahardjo",
+            "Gondang Riyadi",
+            "Ruli Andaru",
+            "Iqbal Taftazani",
+            "Wahyu Marta",
+            "Annisa Farida"
+        ],
+        "cited_by": "11",
+        "year": "2016",
+        "venue": "Jurnal Pengabdian Kepada Masyarakat (Indonesian Journal of Community Engagement)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2016",
+        "abstract": "Kabupaten Kulonprogo merupakan bagian dari wilayah Daerah Istimewa Yogyakarta yang memiliki luas lahan pertanian sebesar±10.700 hektar (Dinas Pertanian dan Kehutanan, 2014). Berdasarkan Perda DIY, Nomor 10, Tahun 2011, Pasal 9, Ayat 2, Butir (d) ditetapkan bahwa luas lahan pertanian pangan berkelanjutan di Kabupaten Kulonprogo hanya seluas 5.029 hektar. Peraturan Daerah Provinsi Daerah Istimewa Yogyakarta, Nomor 10, Tahun 2011 tentang Perlindungan Lahan Pertanian Pangan Berkelanjutan menyebutkan bahwa kegiatan mempertahankan ketahanan dan kedaulatan pangan serta pencegahan terjadinya alih fungsi lahan pertanian ke nonpertanian perlu dilakukan. Tujuan pengabdian masyarakat ini adalah untuk membuat sistem informasi geospasial lahan pertanian pada sebagian kecil area pertanian di Desa Sukoreno, Kecamatan Sentolo, Kabupaten Kulonprogo. Pada kegiatan pengabdian ini, luas daerah yang dipetakan adalah±10 hektar. Berdasarkan luas lahan pertanian yang dipetakan tersebut ditentukan metode yang akan digunakan dalam pengambilan data, yaitu metode pemotretan foto udara dengan pesawat tanpa awak atau Unmanned Aerial Vehicle (UAV). Dengan metode tersebut, seluruh area pertanian yang ada di Kabupaten Kulonprogo diharapkan dapat dipotret dengan cepat. Hasil dari pengabdian masyarakat ini adalah sistem informasi geospasial dan peta lahan pertanian yang dapat digunakan oleh Pemerintah Kabupaten Kulonprogo dalam mendukung kegiatan perlindungan lahan pertanian pangan berkelanjutan.",
+        "total_citations": "Cited by 11",
+        "pdf_link": "https://www.academia.edu/download/79455677/7997.pdf"
+    },
+    {
+        "title": "Determination of potential secondary lahar hazard areas based on pre-and post-eruption UAV DEMs: Automatic identification of initial lahar starting points and supplied lahar volume",
+        "authors": [
+            "Ruli Andaru",
+            "Jiann-Yeou Rau",
+            "Ardy Setya Prayoga"
+        ],
+        "cited_by": "9",
+        "year": "2022",
+        "venue": "International Journal of Applied Earth Observation and Geoinformation",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:ULOm3_A8WrAC",
+        "publication_date": "2022/12/1",
+        "abstract": "Secondary lahars, generated after volcanic eruptions, may pose significant threats to life and infrastructure. Secondary lahars typically develop from ash deposits and other volcanic debris that remobilize downstream via intense rainfall. The lahar inundation zone after eruptions must be predicted to minimize the impact. This prediction can be modeled based on digital elevation models (DEMs) and two parameters associated with lahar simulations: the lahar starting point (LSP), which indicates the potential locations at which a lahar flow may initiate, and supplied lahar volume (SLV), which is the lahar volume corresponding to each LSP. These parameters are typically determined by assumptions based on past lahar events, which may be unrealistic and often misinterpreted in the inundation prediction. To address this problem, this paper proposes an automated method to estimate the LSP and SLV based on pre-and …",
+        "total_citations": "Cited by 9",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1569843222002849"
+    },
+    {
+        "title": "Perbandingan Perhitungan Volume Stockpile Batu Bara Menggunakan Data Terrestrial Laser Scanner (TLS) dan Data Foto Udara Unmanned Aerial Vehicle (UAV)",
+        "authors": [
+            "Rachmadhiya Salsabila",
+            "U Rahadjo",
+            "R Andaru"
+        ],
+        "cited_by": "9",
+        "year": "2017",
+        "venue": "Jurnal. Yogyakarta: Program Studi Sarjana Teknik Geodesi. Departemen Teknik Geodesi Fakultas Teknik. Universitas Gadjah Mada",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:9ZlFYXVOiuMC",
+        "publication_date": "2017",
+        "total_citations": "Cited by 9"
+    },
+    {
+        "title": "Analisis Spasial Bencana Longsor Bukit Telogolele Kabupaten Banjarnegara Menggunakan Data Foto Udara UAV",
+        "authors": [
+            "Ruli Andaru",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "8",
+        "year": "2017",
+        "venue": "Jurnal Nasional Teknologi Terapan (JNTT)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:WF5omc3nYNoC",
+        "publication_date": "2017/11",
+        "abstract": "Spatial data is a very important role in emergency command and disaster management, before, during or post disasters. When a disaster occurs, the currently geospatial information is very needed: where the center of the disaster, the area affected, the volumetric of the landslide, what facilities are damaged, and determine the location of temporary shelters. This study examines and analyze the landslide in Banjarnegara 2014 before and after the landslide using Peta Rupa Bumi Indonesia (RBI) and the UAV Aerial Photos (Unmanned Aerial Vehicle). Data before the landslide obtained from RBI, while data after landslide obtained by performing aerial photography using fixed-wing UAV in December 2014 and August2015. These aerial photos processing with photogrammetry to produce digital orthophoto and DEM (Digital Elevation Model). Orthophoto and DEM data is used to perform geospatial analysis in both 2D and 3D. 3D analysis obtained from the extraction of DEM elevation map data values appearance of the earth (RBI) and the UAV Aerial Photo. Analysis was conducted on the four components: contouring, terrain profile/cross section, slope/gradient, and volumetric (cut and fill).",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://www.academia.edu/download/90066358/20356.pdf"
+    },
+    {
+        "title": "Multitemporal UAV photogrammetry for sandbank morphological change analysis: evaluations of camera calibration methods, co-registration strategies, and the reconstructed DSMs",
+        "authors": [
+            "Ruli Andaru",
+            "Jiann-Yeou Rau",
+            "Laurence Zsu-Hsin Chuang",
+            "Chia-Hung Jen"
+        ],
+        "cited_by": "6",
+        "year": "2022",
+        "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:Zph67rFs4hoC",
+        "publication_date": "2022/7/19",
+        "abstract": "Sandbank morphology is a longshore corridor with fast morphological changes. To analyze its changes, unmanned aerial vehicle (UAV) is the preferred effective and flexible data collection platform, which can collect very high resolution images. UAV campaigns along corridor areas require well-distributed ground control points (GCP) and accurate geotagged image positions to avoid misalignment errors of generated digital surface models (DSMs). However, a sandy terrain can make the measurement of GCPs difficult or even impossible. Furthermore, UAVs are often equipped with consumer-grade devices (onboard GNSS and nonmetric cameras), which, therefore, cannot provide accurate image positions and lead to geometric distortions of the image network due to inappropriate lens distortion corrections. This article proposes a strategy to calibrate the used camera and co-register multitemporal images without …",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://ieeexplore.ieee.org/iel7/4609443/9656571/09833257.pdf"
+    },
+    {
+        "title": "Pemodelan kondisi bangunan candi Borobudur pasca erupsi merapi dengan UAV-Based Fotogrametri",
+        "authors": [
+            "Ruli Andaru",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "6",
+        "year": "2012",
+        "venue": "Jurnal Dialog Penanggulangan Bencana",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:5nxA0vEk-isC",
+        "publication_date": "2012/10/15",
+        "abstract": "Borobudur Temple is one of the areas affected by volcanic ash from Merapi eruption. In some places, the thickness of the ash reached 5cm. Cleanup activities conducted by Borobudur Heritage Conservation Center (BKPB) to ensure the building of the temple clean from volcanic ash. Acidic volcanic ash would have a negative impact on the surface of the temple stones that cause brittleness, scrape the walls of the temple reliefs and statues detail. Ministries of education and culture estimate takes 2 to 3 years for the restoration and revitalization of post-eruption of the temple. For this purpose, BKPB requires monitoring and updating the current state of the surface of the temple regularly and periodically, to monitor surface condition of the temple. One method of monitoring and updating is using a low-cost aerial photography with a vehicle UAV (Unmanned Aerial Vehicle). Mapping with UAV technology has several …",
+        "total_citations": "Cited by 6"
+    },
+    {
+        "title": "Landslide deformation monitoring by three-camera imaging system",
+        "authors": [
+            "JY Rau",
+            "JP Jhan",
+            "R Andaru"
+        ],
+        "cited_by": "5",
+        "year": "2019",
+        "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:_FxGoFyzp5QC",
+        "publication_date": "2019/6/4",
+        "abstract": "Landslide deformation is a critical issue for WuWanZai as it will affect the road safety and cause transportation problem. Since the relief of this area is about 400 meters with an area of tens of hectares, we use an unmanned helicopter equipped with a three-camera imaging system to acquire high spatial resolution images in order to measure detail terrain variation. The unmanned helicopter can fly according to terrain slope to obtain 1–3 cm spatial resolution images. The acquired three-camera images are stitched into one perspective image in advance to construct a large format virtual image with a frame size of 34 mm by 78 mm and a FOV of 53° × 97°. Integrating ground control points that were measure by static GNSS continuous observation, we conduct aerial triangulation and dense point cloud generation by PhotoscanPro. We have acquired six dataset of UAV images since April 20, 2018. Then, we have conducted cloud-to-cloud distance calculation, DSM elevation difference calculation, ortho-image change analysis, photogrammetric points and GNSS stations displacement analysis, etc. In the end, from photogrammetric point displacement analysis, we have detected 1.6 meters displacement around the fourth curve of WuWanZai due to a heavy rainfall occurred at June 20. Based on the cloud-to-cloud distance analysis and DSM elevation difference results, we have observed more than 5 meters of height difference at the landslide area due to another heavy rainfall happened at Oct. 23–24. Experimental results demonstrate that by using the proposed UAV and three-camera imaging system can effectively detect landslide deformation …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://isprs-archives.copernicus.org/articles/XLII-2-W13/559/2019/isprs-archives-XLII-2-W13-559-2019.pdf"
+    },
+    {
+        "title": "Istarno; Djurdjani; Ramadhan, GR; Tuntas, S. The combination of terrestrial LiDAR and UAV photogrammetry for interactive architectural heritage visualization using unity 3D …",
+        "authors": [
+            "R Andaru",
+            "BK Cahyono",
+            "G Riyadi"
+        ],
+        "cited_by": "5",
+        "year": "2019",
+        "venue": "Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:dhFuZR0502QC",
+        "publication_date": "2019",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "Some technical notes on using UAV-based remote sensing for post disaster assessment",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Ruli Andaru"
+        ],
+        "cited_by": "5",
+        "year": "2017",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2017/7/25",
+        "abstract": "Indonesia is located in an area prone to disasters, which are various kinds of natural disasters happen. In disaster management, the geoinformation data are needed to be able to evaluate the impact area. The UAV (Unmanned Aerial Vehicle)-Based remote sensing technology is a good choice to produce a high spatial resolution of less than 15 cm, while the current resolution of the satellite imagery is still greater than 50 cm. This paper shows some technical notes that should be considered when using UAV-Based remote sensing system in post disaster for rapid assessment. Some cases are Aceh Earthquake in years 2013 for seeing infrastructure damages, Banjarnegara landslide in year 2014 for seeing the impact; and Kelud volcano eruption in year 2014 for seeing the impact and volumetric material calculation. The UAV-Based remote sensing system should be able to produce the Orthophoto image that can …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4987115/13748521/100009_1_online.pdf"
+    },
+    {
+        "title": "Leveraging machine learning and open accessed remote sensing data for precise rainfall forecasting",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Muhammad Hidayatul Ummah",
+            "Ruli Andaru",
+            "Neil Andika",
+            "Adjie Pamungkas",
+            "Hepi Hapsari Handayani",
+            "Paramita Atmodiwirjo",
+            "Rory Nathan"
+        ],
+        "cited_by": "3",
+        "year": "2025",
+        "venue": "Communications in Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:7PzlFSSx8tAC",
+        "publication_date": "2025/7/31",
+        "abstract": "Rainfall forecasts are essential for human activities enabling communities to anticipate any impacts. Rainfall events correlate with other natural and hydro-meteorological phenomena, which can be used in modeling and prediction. This study used daily CHIRPS for the Gajahwong watershed in Yogyakarta, Indonesia as the precipitation data. It also used Sea Surface Temperature, Land Surface Temperature (Day and Night), Minimum and Maximum Temperatures, Solar Radiation, Wind Speed (U and V components), Cloud Pressure (Top and Base), and Cloud Height (Top and Base) as the parameters. Further, data processing was performed by means of the Google Earth Engine (GEE) platform. Machine learning methods, including Support Vector Regression, Gradient Boosting Regression, Random Forest, and Deep Neural Networks, were applied. The correlation analysis revealed that only the Wind Speed V-component showed significant correlation with rainfall, other seven parameters showed moderate and four showed weak ones. Meanwhile, accuracy assessments indicated that Support Vector Regression had the most accurate predictions accompanied by Root Mean Square Error (RMSE), Mean Absolute Error (MAE), Mean Squared Error (MSE), R2, and Coefficient Correlation (CC) at 1.366, 0.947, 1.866, 0.948 and 0.982 respectively. This study demonstrated that utilizing openly accessible atmospheric datasets processed through the GEE could yield reliable rainfall predictions, facilitating informed decisions on a wide scale. The methodology is adaptable and can be reproduced for any comparable research or operational purposes.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://cst.kipmi.or.id/journal/article/download/1638/218"
+    },
+    {
+        "title": "Kombinasi Data Laser Scanning dan Fotogrametri Digital Untuk Pemodelan Candi Borobudur",
+        "authors": [
+            "R Andaru"
+        ],
+        "cited_by": "3",
+        "year": "2010",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2010",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Automatic DTM and Building Footprint Extraction from Imageries and Point Clouds in Indonesia’s Land Registration Drone Survey: A Roadmap Towards Reconstruction of LOD1 3D …",
+        "authors": [
+            "Ruli Andaru",
+            "Trias Aditya",
+            "Bambang Kun Cahyono",
+            "Purnama Budi SANTOSA"
+        ],
+        "cited_by": "2",
+        "year": "2024",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:4TOpqqG69KYC",
+        "publication_date": "2024",
+        "abstract": "Accurate and automatic Digital Terrain Model (DTM) and building footprint extraction from drone survey has become essential and challenging work for cadastre verification, modernization and updating. In the context of multipurpose cadastre, the integration of land parcels with other spatial information such as building footprint, terrain elevation, and 3D model, allows for detailed representation of land information. This facilitates spatial analysis and adjacency information within the real-world objects above the ground. In this paper, we introduce an approach for automatic DTM and building footprint extraction by implementing deep-learning methods (ie, YOLO v8 and CNN) using true-orthoimage UAV and point clouds. We first apply photogrammetric processing through SfM pipelines to produce 3D point clouds and true-orthophoto. To extract DTM, CNN deep learning is implemented to classify point clouds into ground and non-ground objects. The detection of building footprint, as an important spatial information in the cadastral intelligence, is performed by implementing YOLO v8 deep-learning using custom trained data. To ensure that users, irrespective of their technical skill levels, can easily navigate and utilize those two algorithms, we build a GUI for a desktop application using Python, namely Geo-Carta (Geospatial-Cadastre with Artificial Intelligence for Generating LOD 3D City Model). It consists of four features dealing with the detection of building footprint from orthophotos, ground extraction from point clouds, land parcel editing feature, and generation of LOD-1 3D building models. We tested the Geo-CARTA app for detecting building …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.gdmc.nl/3DCadastres/workshop2024/programme/3DLA2024_paper_D.pdf"
+    },
+    {
+        "title": "Post-eruption lava dome emplacement measured by UAV photogrammetry: An investigation one year after the 2017–2019 Mt. Agung eruptions",
+        "authors": [
+            "Ruli Andaru",
+            "J-Y Rau",
+            "Devy Kamil Syahbana",
+            "Heruningtyas Desi Purnamasari"
+        ],
+        "cited_by": "2",
+        "year": "2022",
+        "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:KlAtU1dfN6UC",
+        "publication_date": "2022/5/30",
+        "abstract": "We present an observation of morphological changes at Mt. Agung lava dome one year after the 2017–2019 eruption crisis using UAV-photogrammetry method. Five time-series UAV datasets involve the images collected during the crisis period and the newest data collection (July 16, 2020) were used to provide a detailed investigation of the changes in morphology inside the crater and land cover on the surrounding slopes. The digital surface models (DSMs) generated by structure-from-motion (SfM) with multi-view stereo (MVS) algorithm were used to quantify the dome growth, the surface emplacement, and the actual remaining deposited material eruption surrounding the summit. Analysis of the last two series orthoimages indicates that the crater surface's texture remarkably unchanged one year after the eruption crisis (the dome still presents rough surfaces that resemble small stones and sand). According to the DSMs difference, it is evident that there were no considerable surface displacements inside the dome. It implies that no significant magma pressure accumulation occurring the dome. However, we found a small-scale growth in the central dome, which has increased the dome height up to 2 m and inflate the dome with a volume of 45,950 m3. We have also observed a new lava lake (e.g., compound lava) with an area of 9,166 m2 in the southeast of the dome edge. This new lava lake uplifts the surface up to 29 m and translated to a 79,623 m3 additional volume. Meanwhile, the depression areas surrounding the central dome were observed with a depth between 0.5 and 4 m. The amount of material deposited on the volcano’s summit …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/517/2022/isprs-archives-XLIII-B2-2022-517-2022.pdf"
+    },
+    {
+        "title": "Kombinasi Data Laser Scanning dan Fotogrametri Digital untuk Pemodelan Tiga Dimensi Candi Borobudur",
+        "authors": [
+            "R Andaru"
+        ],
+        "cited_by": "2",
+        "year": "2010",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:kNdYIx-mwKoC",
+        "publication_date": "2010",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Design of Mixed Reality Applications for Visualizing Integrated 3D Land Information Services",
+        "authors": [
+            "Trias Aditya",
+            "Ruli Andaru",
+            "Purnama Budi Santosa",
+            "Calvin Wijaya",
+            "Ali Surojaya",
+            "Adrian Nugroho",
+            "Faisal Ashaari",
+            "Miranty N Sulistyawati",
+            "Annisa Nasywa",
+            "B Emor"
+        ],
+        "cited_by": "1",
+        "year": "2024",
+        "venue": "Proceedings of the 12th International FIG Workshop on LADM & 3D LA, Kuching, Malaysia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:_kc_bZDykSQC",
+        "publication_date": "2024/9",
+        "abstract": "Applications of mixed reality (MR), targeting users of augmented reality (AR) and virtual reality (VR), have become more popular because of their unique advantages. This paper presents both virtual reality and augmented reality applications that use 3D models from cadastral surveys and property-based data that follows the Land Administration Domain Model (LADM). Applications are designed to be able to present integrated 3D models and 2D land information for property professionals. This paper presents the procedures and challenges to process 3D point clouds data from various sensors ie, drones, visual GNSS, handheld SLAM and to implement visualization and interaction designs of 3D and 2D land related data for AR & VR apps. The pipeline—which includes data collecting utilizing a variety of sensors and AI algorithms for model development—for converting 3D cadastral data into integrated land information is presented in this study. One of critical challenges that this paper worked on has been the integration of user location and 3D property representation on the mobile app, used by land professionals in the field. The land information systems on the AR systems superimpose digital data on the real world. Using the same 3D model, we also investigate how various placement strategies for MR might be used to give 3D city models for land administration services. For the VR users, both land professionals and landowners, utilize the glasses to explore the same 3D models and their related 2D land information for inspection and analysis purposes. Determining, documenting, and sharing data about land ownership, value, and planning is …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.gdmc.nl/3DCadastres/workshop2024/programme/3DLA2024_paper_M.pdf"
+    },
+    {
+        "title": "Pembuatan Informasi Geospasial Sarana dan Prasarana Kelurahan Wates Kabupaten Kulon Progo pada Skala 1: 15.000",
+        "authors": [
+            "A FARIDA",
+            "Ruli Andaru"
+        ],
+        "cited_by": "1",
+        "year": "2020",
+        "venue": "JURNAL PENGABDIAN DAN PENGEMBANGAN MASYARAKAT Учредители: Universitas Gadjah Mada",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&citation_for_view=FnYEE7AAAAAJ:3fE2CSJIrl8C",
+        "publication_date": "2020",
+        "abstract": "ABSTRAK Field Research Center (FRC) merupakan bagian dari program Teaching Industry Sekolah Vokasi Universitas Gadjah Mada. FRC dibangun bertujuan untuk mengembangkan hasil penelitian dan pengabdian agar menjadi sebuah produk yang dapat dimanfaatkan oleh masyarakat serta mendekatkan mahasiswa pada obyek materi pembelajaran agar menjadi lulusan yang siap bekerja. Rencana FRC akan dibangun di atas tanah seluas 6, 5 hektar di Kelurahan Wates, Kabupaten Kulon Progo. Disekitar lokasi pembangunan FRC, terdiri atas kawasan penyangga seluas 29 hektar. Kawasan penyangganya terdiri atas berbagai berbagai sarana dan prasarana, seperti sarana pendidikan, kesehatan, pertahanan dan keamanan, jalan, sungai, rel kereta api, dan lain sebagainya. Penelitian ini bertujuan untuk menyajikan informasi geospasial sarana dan prasarana yang berada disekitar lokasi FRC. Data …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.academia.edu/download/90066405/30119.pdf"
+    },
+    {
+        "title": "Analisis Spasial Bencana Longsor Menggunakan Data Foto Udara UAV",
+        "authors": [
+            "Ruli Andaru",
+            "BS Purnama"
+        ],
+        "cited_by": "1",
+        "year": "2017",
+        "venue": "Jurnal Dialog Penanggulangan Bencana",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:0EnyYjriUFMC",
+        "publication_date": "2017/12/15",
+        "abstract": "Spatial data has a very important role in emergency command and disaster management, both before, during or post disasters. When a disaster occurs, the currently geospatial information is very needed; where the center of the disaster, the area affected, the volumetric of the landslide, what facilities are damaged, and determine the location of temporary shelters. This study examines and analyze the landslide in Banjarnegara 2014 before and after the landslide using Peta Rupa Bumi Indonesia (RBI) and the UAV aerial photos (Unmanned Aerial Vehicle). Data before the landslide obtained from RBI, while data after landslide obtained by performing aerial photography using fixed-wing UAV in December 2014 and August 2015. These aerial photos processing with photogrammetry to produce digital orthophoto and DEM (Digital Elevation Model). Orthophoto and DEM data is used to perform geospatial analysis in …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "CASCADE-3D: A GUI-Driven Framework for Automated 3D Building Model Reconstruction",
+        "authors": [
+            "Ruli Andaru",
+            "Bambang Kun Cahyono",
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Calvin Wijaya",
+            "Riyas Syamsul",
+            "Fairuz Akmal",
+            "Hyatma Adikara",
+            "Habib Muhammad",
+            "Fikri Kurniawan"
+        ],
+        "cited_by": "",
+        "year": "2026",
+        "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:ZeXyd9-uunAC",
+        "publication_date": "2026/2/19",
+        "abstract": "Generating fast and accurate geospatial data and three-dimensional (3D) properties is essential for supporting multipurpose land management services. This study presents the CAdastre and Spatial map adjustment with spatial Computation for Automatic builDing dEtection and 3D generation (CASCADE-3D), a graphical user interface (GUI) developed for the automated reconstruction of 3D models at Levels of Detail (LOD) 1 and 2. CASCADE-3D integrates advanced deep-learning frameworks—including the Segment Anything Model (SAM) AI and Dynamic Graph Convolutional Neural Network (DGCNN)—to perform building outline detection and point cloud classification, subsequently reconstructing 3D models using true orthoimage acquired from unmanned aerial vehicles and building height models (BHMs). Photogrammetric processing using Structure-from-Motion and Multi-View Stereo techniques is initially …",
+        "pdf_link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11400619.pdf"
+    },
+    {
+        "title": "Design of Mixed Reality Applications for Visualizing Integrated 3D Land Information Services",
+        "authors": [
+            "CALVIN WIJAYA",
+            "TRIAS ADITYA KURNIAWAN M",
+            "RULI ANDARU",
+            "PURNAMA BUDI SANTOSA"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "12th International FIG Workshop on Land Administration Domain Model & 3D Land Administration",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:qxL8FJ1GzNcC",
+        "publication_date": "2024/9/25"
+    },
+    {
+        "title": "Automatic DTM and Building Footprint Extraction from Imageries and Point Clouds in Indonesia’s Land Registration Drone Survey: A Roadmap Towards Reconstruction of LOD1 3D …",
+        "authors": [
+            "YULAIKHAH",
+            "Ruli Andaru",
+            "TRIAS ADITYA KURNIAWAN M",
+            "BAMBANG KUN CAHYONO",
+            "PURNAMA BUDI SANTOSA"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "12th International FIG Land Administration Domain Model & 3D Land Administration Workshop",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:M3ejUd6NZC8C",
+        "publication_date": "2024/9/24"
+    },
+    {
+        "title": "Pengukuran dan Pemetaan Berbasis Partisipasi Masyarakat untuk Pendaftaran Tanah Sistematik Lengkap",
+        "authors": [
+            "RULI ANDARU",
+            "TRIAS ADITYA KURNIAWAN M",
+            "NURROHMAT WIDJAJANTI",
+            "YULAIKHAH",
+            "PURNAMA BUDI SANTOSA"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "Buku referensi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:mVmsd5A6BfQC",
+        "publication_date": "2024/2/7"
+    },
+    {
+        "title": "UAV Based Photogrammetry for Cadastral Mapping: an Evaluation of Horizontal Positional Accuracy based on Camera Parameters and Imaging Configuration",
+        "authors": [
+            "Prasasti Nurmaning Ruli Andaru"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "The Annual Scientific Forum of Indonesian Surveyor Association (FIT ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:aqlVkmm33-oC",
+        "publication_date": "2023/10/29"
+    },
+    {
+        "title": "The Combination of Multi-Resolution Segmentation and Machine Learning for Building Footprint and Roof Structure Extraction",
+        "authors": [
+            "DIYONO",
+            "RULI ANDARU",
+            "BAMBANG KUN CAHYONO",
+            "YULAIKHAH",
+            "NURROHMAT WIDJAJANTI"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "International Conf: The Annual Scientific Forum of Indonesian Surveyor Association (FIT ISI) 2023",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:4DMP91E08xMC",
+        "publication_date": "2023/10/28"
+    },
+    {
+        "title": "Improving UAV Image Acquisition Efficiency and Orthophoto Positional Accuracy Without the Need for Ground Control Points for Cadastral Mapping",
+        "authors": [
+            "HARINTAKA",
+            "RULI ANDARU"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "THE SOUTH EAST ASIA WORKSHOP ON GEODETIC DATA SCIENCES, GEOINFORMATICS AND LAND ADMINISTRATION (GEO- LAND SEA)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:Wp0gIr-vW9MC",
+        "publication_date": "2023/2/9"
+    },
+    {
+        "title": "Observations and analysis of Beimen sandbank surface change using multi-temporal UAV datasets",
+        "authors": [
+            "Ruli Andaru",
+            "Jiann-Yeou Rau"
+        ],
+        "cited_by": "",
+        "year": "2020",
+        "venue": "40th Asian Conference on Remote Sensing: Progress of Remote Sensing Technology for Smart Future, ACRS 2019",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:hqOjcs7Dif8C",
+        "publication_date": "2020/1/1",
+        "abstract": "Ruli Andaru 12 & Jiann-Yeou Rau 1 1Department of Geomatics, National Cheng Kung University, Tainan City, Taiwan (ROC) 2Department of Geodetic Engineering, Gadjah Mada University, Indonesia Email: ruliandaru@ ugm. ac. id; jyrau@ geomatics. ncku. edu. tw",
+        "pdf_link": "https://www.researchgate.net/profile/Ruli-Andaru-2/publication/337856632_Observations_and_Analysis_of_Beimen_Sandbank_Surface_Change_Using_Multi-Temporal_UAV_Datasets/links/5def24b84585159aa4710b16/Observations-and-Analysis-of-Beimen-Sandbank-Surface-Change-Using-Multi-Temporal-UAV-Datasets.pdf"
+    },
+    {
+        "title": "Determination of Boiler Building Verticality in Power Plant Construction using Terrestrial Laser Scanner (TLS)",
+        "authors": [
+            "Mohamad Bagas Setiawan",
+            "Yulaikhah",
+            "Ruli Andaru"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:roLk4NBRz8UC",
+        "publication_date": "2019",
+        "abstract": "Nowadays, Indonesian government is focusing on build up infrastructures, especially power plant to fulfil electrical energy needs. One of the power plants that will be built up is Waai power plant which located on Waai Village, Maluku Province. Waai power plant had been postponed since 2014. In order to build this power plant, the advisability of the building needed to be checked from its verticality level. This level was determined by Terrestrial Laser Scanner (TLS). The TLS’s point clouds were registered using two methods, there are target to target and cloud to cloud methods. There are 65 beams on the power plant boiler building, but only 31 beams that used as the samples to assign the verticality of the boiler construction. The verticality level was set on the X-axis, Y-axis, and the resultant of the X and Y axis by using Pythagoras theorem after the bottom and top coordinates from each beam was determined. The Queensland Building and Construction Admission Standards and Tolerances Guide 2016 was used as tolerance of verticality level. The result of the verticality calculation presented on the X-axis consisted from-0ᵒ 1’26,678” to 0ᵒ 4’11,778” with the average was 0ᵒ 1’40,820” and major direction pointed the positive axis. On the Y-axis, the average was-0ᵒ 0’45,772” with-0ᵒ 3’33,345” as minimum and 0ᵒ 1’25,319” as the maximum and the major direction went to the negative axis. The verticality on the resultant of X and Y axis was from 0ᵒ 0’45,225” until 0ᵒ 4’15,674” with the average was 0ᵒ 2’27,057” and the direction was to the southeast. After the verticality number was compared with the tolerance, the verticality level was smaller …",
+        "pdf_link": "https://www.academia.edu/download/92358545/24769.pdf"
+    },
+    {
+        "title": "Pembuatan Model Permukaan Digital Dan Orthoimage Digital Dari Sumber Citra Alos",
+        "authors": [
+            "Rochmad Muryamto",
+            "Ruli Andaru"
+        ],
+        "cited_by": "",
+        "year": "2010",
+        "venue": "Forum Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2010",
+        "abstract": ": Currently, orthophoto production in Indonesia has grown rapidly, but orthoimage production is still rarely performed. Ortho-satellite images have several advantages compared to conventional aerial photography (orthophoto) such as large coverage area, easier data acquisition, faster and cheaper. One kind of satellite images can be produced as orthoimage is ALOS (Advanced Land Observing Satellite) which has several advantages of recording a stereoscopic view of stereo image in the three-way recording I telescopes (backward, nadir, and forward) with the direction of satellite's on the along track. Combination stereo image can be used to generate Digital Elevation Model (DEM) and then to create orthoimage. Extraction of DEM from ALOS stereo image uses the principle of parallax elevation and BIB ratio.The purpose of this research is to create orthoimage using ALOS PRISM where DEM data input is derived …"
+    },
+    {
+        "title": "Analisis Ketelitian Pergeseran Titik Pantau Terhadap Variasi Resolusi Foto Pada Teknik Fotogrametri Jarak Dekat",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Ruli Andaru",
+            "Nur Ikawati"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FnYEE7AAAAAJ&cstart=20&pagesize=80&citation_for_view=FnYEE7AAAAAJ:Se3iqnhoufwC",
+        "abstract": "Observation of displacement of any object can be done by geometrical analysis. One of the alternative technics in data acquisition in term of geometric analysis is by using close range photogrammetry method. Selection of photo resolution used for image capturing of moving objects is an important aspect, but this aspect rarely to be concerned. Further research about photo resolution used for image capturing is need to be performed. This research performed by following close-range photogrammetric method using DSLR non-metric digital cameras. Some procedures in this research included acquisition coordinates of GCPs data by total station (TS), camera callibrations, capturing image a cliff as deform object, photogrametric processing, and data analysis. Based on the result can be noted that a better resolution of the photograph produces more accurate in coordinat determination, therefore the displacement of the observed points can be acquired more accurately. Resolution of the photographs used in image capturing will be linear to the acuracy of observed point positioning. The average of RMSE for observed point coordinates in the resolution of 1936 x 1280 pixel is 22.346/9.008/11.085 mm respectively in directions of x, y, and z. The average of RMSE on 2816 x 1880 pixel are 19.139/8.952/12.790 mm, whereas by resolution of 3888x2592 pixel are 18.764/8.444/12.987 mm. In the other hand, photographs resolution will be linear to the observed point displacement. The average of RMSE of observed point displacements for each photo resolution are 3.694 mm on 1936 x 1280 pixel; 3.088 mm on 2816 x 1880 pixel and 2.630 mm on 3888 x …",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/347439452_Analisis_Ketelitian_Pergeseran_Titik_Pantau_Terhadap_Variasi_Resolusi_Foto_Pada_Teknik_Fotogrametri_Jarak_Dekat/links/5fdbaa99299bf140881b4552/Analisis-Ketelitian-Pergeseran-Titik-Pantau-Terhadap-Variasi-Resolusi-Foto-Pada-Teknik-Fotogrametri-Jarak-Dekat.pdf"
+    }
+]

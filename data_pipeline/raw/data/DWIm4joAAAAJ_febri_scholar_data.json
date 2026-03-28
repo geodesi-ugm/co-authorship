@@ -1,0 +1,285 @@
+[
+    {
+        "title": "Geovisual analytics of spatio-temporal earthquake data in Indonesia",
+        "authors": [
+            "Febrian Fitryanik Susanta",
+            "Cecep Pratama",
+            "Trias Aditya",
+            "Alian Fathira Khomaini",
+            "Hadi Wijaya Kusuma Abdillah"
+        ],
+        "cited_by": "20",
+        "year": "2019",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2019/12",
+        "abstract": "Indonesia is one of the nations located in the Ring of Fire. High geodynamic occurrences cause often occurring earthquake tectonics in Indonesia. The earthquakes are also caused by Indonesia position which is in the confluence of four main plates. Earthquake data in Indonesia has been accessible by the public. However, the map and graphical of historical earthquake data have not been available. This research aims to create a visualization dashboard of historical earthquake combining spatial and temporal data. The data used for this research was obtained from BMKG website. The data contain CORS stations and historical earthquake data in 2004 to 2019. In addition, seismic data attributes such as earthquake magnitude and depth. The data are processed using Ms Excel and ArcGIS Online Map then WebAppBuilder for ArcGIS is used to build a visualization dashboard. We have designed and implemented a visualization dashboard, VizEQ, which present a map, time-series animation and graphical widgets of historical earthquake data. Dashboard interfaces support visual analytics method to create the relationship between variables. In this paper, we present the visual analytics techniques to build visual queries as users explore the data.",
+        "total_citations": "Cited by 20",
+        "pdf_link": "https://www.academia.edu/download/98931847/26581.pdf"
+    },
+    {
+        "title": "Visualization of 3D survey data for strata titles",
+        "authors": [
+            "Trias Aditya",
+            "Dany Laksono",
+            "Febrian F Susanta",
+            "I Istarno",
+            "D Diyono",
+            "Didik Ariyanto"
+        ],
+        "cited_by": "19",
+        "year": "2020",
+        "venue": "ISPRS International Journal of Geo-Information",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2020/5/7",
+        "abstract": "Major cities and urban areas are beginning to develop and use 3D properties and public facilities. Consequently, 3D cadastral surveys are increasingly being employed for strata unit ownership registration as a part of land administration services. At present, most national land information systems do not support 2D and 3D cadastral visualizations. A field survey or validation survey is required to determine the geometry of 3D spatial units for property registration. However, the results of 3D surveys and mapping are not stored in the land information system. This work aims to integrate 2D and 3D geospatial data of property units collected from cadastral surveys with their corresponding legal data. It reviews the workflow for the use of 3D survey data for first-titling of 3D properties in Indonesia. A scenario of use and a prototype were developed based on existing practices and the possibility of extending Indonesia’s Land Administration Domain Model (LADM) to represent 3D units. Data submitted to the prototype as 3D geometries was survey data from 3D cadastral surveys or validation surveys utilizing terrestrial survey methods. The prototype used PostGIS and Cesium Ion to store 3D geometries of data from six 3D surveys. Registrars in local land offices could use the prototype to undertake strata unit registration that establishes a relationship among geospatial features and their survey documents and legal documents. Cesium JS was used as a 3D browser, customized as a web application, to manage and visualize 3D survey data to support strata title registration. The results demonstrate that the first titling of 3D cadaster objects could be conducted …",
+        "total_citations": "Cited by 19",
+        "pdf_link": "https://www.mdpi.com/2220-9964/9/5/310"
+    },
+    {
+        "title": "Coseismic displacement accumulation between 1996 and 2019 using A global empirical law on Indonesia continuously operating reference station (InaCORS)",
+        "authors": [
+            "Cecep Pratama",
+            "Febrian Fitryanik Susanta",
+            "Ridho Ilahi",
+            "Alian Fathira Khomaini",
+            "Hadi Wijaya Kusuma Abdillah"
+        ],
+        "cited_by": "12",
+        "year": "2019",
+        "venue": "JGISE J Geospatial Inf Sci Eng",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:qjMakFHDy7sC",
+        "publication_date": "2019",
+        "abstract": "Indonesia archipelago is one of the most populated country with active and complex tectonic zone in the world. Plate boundaries were assembled by four major plate which made the region not only vulnerable to earth-hazard but also prone to semi-dynamic reference frame. However, influence of transient deformation such as coseismic displacement due to large amount of small to intermediate earthquakes (< Mw 6) on the geodetic networks is remain poorly understood. Geospatial Information Agency occupied permanent and continuous GPS networks since 1996 but rapidly increase in 2010. Based on simulated empirical law of coseismic crustal deformation, we estimate the cumulative displacement due to coseismic step on Indonesia Continuous Operating Reference Stations (InaCORS). We utilize the position of the observation network and earthquake hypocentral with estimated moment magnitude. Our result suggesting small to intermediate earthquakes are indispensable for estimating secular motion and potentially contribute the cumulative offset associated with the transient postseismic deformation.",
+        "total_citations": "Cited by 12",
+        "pdf_link": "https://www.academia.edu/download/99454801/26646.pdf"
+    },
+    {
+        "title": "A usability evaluation of a 3D map display for pedestrian navigation",
+        "authors": [
+            "Trias Aditya",
+            "Dany Laksono",
+            "Heri Sutanta",
+            "Nur Izzahudin",
+            "Febrian Susanta"
+        ],
+        "cited_by": "9",
+        "year": "2018",
+        "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2018/9/12",
+        "abstract": "This paper is focused to address the map display usability for finding given POI addresses in a popular urban city area. LOD 1 of 3D representations of city buildings are presented into a 2.5D map for pedestrian navigation test. This 3D map display is evaluated against familiar 2D map system on the test participants’ smartphones. 16 participants were involved in the field test. The typical walking model of a searching task that is focused only to look for a certain address of building is chosen as the way finding model during the field test. Three kinds of navigation processes i.e. self-orientation, spatial knowledge acquisition and navigation decision for searching task were evaluated for each test participant. Usability measures of 3D map-based display over 2D-map based display for pedestrian navigation were collected from test participants’ mobile devices. In addition to that, activities of test participants in terms of acceleration and orientation information are used to support analysis of pattern and trends of test participants. As the testing app is also intended to support smart city application, its ability to provide user report on complaints was also assessed. Most participants agreed with the statements in the questionnaire that were organized into three sections, i.e. addressing participants’ interaction, participants’ responses in navigation processes and crowdsensing. The results suggest that 3D map-based pedestrian navigation is more usable to be used to look for a certain address of building in central tourist area of urban city.",
+        "total_citations": "Cited by 9",
+        "pdf_link": "https://isprs-archives.copernicus.org/articles/XLII-4-W10/3/2018/isprs-archives-XLII-4-W10-3-2018.pdf"
+    },
+    {
+        "title": "Visualisasi Pemodelan Hasil Analisis Jaringan Angkutan Umum Di Kabupaten Kulon Progo",
+        "authors": [
+            "Febrian Fitryanik Susanta",
+            "Trias Aditya"
+        ],
+        "cited_by": "7",
+        "year": "2020",
+        "venue": "Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:W7OEmFMy1HYC",
+        "publication_date": "2020/5/29",
+        "abstract": "Pembangunan Bandar Udara New Yogyakarta International Airport (NYIA) di Kabupaten Kulon Progo berdampak pada berubahnya trayek jaringan angkutan umum yang telah ada. Perlu adanya perencanaan trayek baru yang sesuai dengan permintaan penumpang. Multimoda transportasi perlu direncanakan untuk pembangunan transportasi yang berkelanjutan. Oleh karena itu, penelitian ini bertujuan untuk memodelkan trayek angkutan umum di Kabupaten Kulon Progo serta memvisualisasikannya dengan metode analisis visual. Pemodelan trayek angkutan umum diolah menggunakan metode analisis jaringan spasial (SpNA). Hasilnya divisualisasikan dalam tampilan grafik dan peta menggunakan metode analisis visual yang memanfaatkan Operations Dashboard for ArcGIS. Visualisasi pemodelan jaringan transportasi angkutan umum ini bersifat visual interaktif untuk memudahkan pengambil kebijakan dalam menyusun rencana penentuan jaringan trayek. Berdasarkan hasil pemodelan ini, ada tujuh rencana lokasi pembangunan pemberhentian baru. Selain itu, terdapat sebelas pemodelan trayek lintasan yang menghubungkan lokasi-lokasi pemberhentian. Terminal dapat melayani seluruh wilayah di Kabupaten Kulon Progo dalam rentang waktu 50 menit.",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://www.researchgate.net/profile/Febrian-Susanta/publication/341778186_VISUALISASI_PEMODELAN_HASIL_ANALISIS_JARINGAN_ANGKUTAN_UMUM_DI_KABUPATEN_KULON_PROGO_Visualization_of_Modeling_Results_Regarding_Public_Transport_Network_Analysis_in_Kulon_Progo_Regency/links/5ed3b09392851c9c5e6c39b3/VISUALISASI-PEMODELAN-HASIL-ANALISIS-JARINGAN-ANGKUTAN-UMUM-DI-KABUPATEN-KULON-PROGO-Visualization-of-Modeling-Results-Regarding-Public-Transport-Network-Analysis-in-Kulon-Progo-Regency.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9"
+    },
+    {
+        "title": "3D modelling, validation and visualization of 3D parcels in first registration for 3D cadastre-Indonesia case",
+        "authors": [
+            "Trias Aditya",
+            "Dany P Laksono",
+            "Dedi Atunggal",
+            "Febrian F Susanta",
+            "Nurrohmat Widjajanti",
+            "Mohammad B Setiawan",
+            "Nurhidayat AGAM",
+            "T Wibisono"
+        ],
+        "cited_by": "4",
+        "year": "2021",
+        "venue": "7th International FIG Workshop on 3D Cadastres, New York, USA",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:Se3iqnhoufwC",
+        "publication_date": "2021/10/11",
+        "abstract": "Developments of legal, institutional and technical aspects in realizing property registration of 3D parcels situated above and below 2D parcels are still evolving in many countries. 3D cadastres have to deal with various institutional/legal gaps and challenging information integration regarding the Rights-Restrictions-Responsibilities (3R) of 2D parcels. This paper aims to present a proof of concept implementing 3D cadastre of a new regulation of land registration in Indonesia (Government Regulation Number 18/2021 on Rights to Manage, Land Rights, Strata Title and Land Registration). This study presents the modelling and validation of 3D cadastral objects for realizing the first registration using the new regulation on 3D cadastre. The study encompasses 2D & 3D data integration, 3D modelling, field validation and visualization of 3D units. The 2D parcels were extracted from the land registration map, collected from the Central Jakarta and the South Jakarta land offices. The 3D constructions to be registered were obtained from PT. MRT in the form of as-built drawings of floor plans and selected cross-sections. The 3D models were created by reconstructing 2D floor plans and cross-sections using Autodesk Revit to create an IFC file of 3D units from geometries of floors, walls and ceilings. Surveyors validated 3D representations of 3D units of two MRT terminals. Field validation includes determining the legal spaces against the 3D constructions and validating floor areas and volumes of 3D units. After field validation is done and agreed upon by stakeholders, 3D models were converted into CityGML to create representations of legal spaces of 3D …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://gdmc.nl/3Dcadastres/literature/3Dcad_2021_14.pdf"
+    },
+    {
+        "title": "PENGABDIAN KEPADA MASYARAKAT MELALUI KEGIATAN DONASI TERHADAP KORBAN BENCANA BANJIR DAN LONGSOR DI KABUPATEN PEKALONGAN",
+        "authors": [
+            "Arditya Prayogi",
+            "Pratomo Cahyo Kurniawan",
+            "Anugrah Fitria Berliannanda",
+            "Riki Nasrullah",
+            "Singgih Setiawan",
+            "Imam Prayogo Pujiono",
+            "M Adin Setyawan",
+            "Moh Syaifuddin",
+            "Febrian Fitryanik Susanta"
+        ],
+        "cited_by": "3",
+        "year": "2025",
+        "venue": "Jurnal Pengabdian Masyarakat",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:5nxA0vEk-isC",
+        "publication_date": "2025",
+        "abstract": "Bencana banjir dan tanah longsor yang melanda Kabupaten Pekalongan pada Januari 2025 mengakibatkan dampak yang signifikan, baik secara material maupun psikologis. Diperlukan aksi nyata untuk membantu pemulihan kondisi korban. Kegiatan pengabdian masyarakat ini bertujuan untuk memberikan bantuan kepada penyintas bencana melalui penggalangan dan distribusi donasi, serta meningkatkan kepedulian sosial terhadap masyarakat terdampak. Metode yang digunakan dalam kegiatan ini mencakup perencanaan penggalangan dana, asesmen kebutuhan korban, pembelian barang yang sesuai dengan kondisi darurat, distribusi bantuan, serta evaluasi efektivitas kegiatan. Bantuan yang diberikan berupa kebutuhan pokok seperti makanan, pakaian, perlengkapan mandi, dan obat-obatan. Hasil kegiatan ini menunjukkan bahwa distribusi bantuan berjalan efektif berkat koordinasi yang baik antara tim pengabdian, relawan, dan pemerintah setempat. Kegiatan membantu meringankan beban korban serta mendorong partisipasi aktif masyarakat dalam aksi sosial. Evaluasi menunjukkan bahwa pendekatan berbasis komunitas dapat meningkatkan efisiensi distribusi bantuan serta memperkuat solidaritas dalam penanganan bencana.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.researchgate.net/profile/Arditya-Prayogi/publication/394537999_PENGABDIAN_KEPADA_MASYARAKAT_MELALUI_KEGIATAN_DONASI_TERHADAP_KORBAN_BENCANA_BANJIR_DAN_LONGSOR_DI_KABUPATEN_PEKALONGAN/links/68a3c9c2d9261f6f51ad139d/PENGABDIAN-KEPADA-MASYARAKAT-MELALUI-KEGIATAN-DONASI-TERHADAP-KORBAN-BENCANA-BANJIR-DAN-LONGSOR-DI-KABUPATEN-PEKALONGAN.pdf"
+    },
+    {
+        "title": "The 15-minute city of mass public transportation in yogyakarta: case of trans jogja bus",
+        "authors": [
+            "Febrian Fitryanik Susanta",
+            "Rochmad Muryamto",
+            "Dany Puguh Laksono"
+        ],
+        "cited_by": "2",
+        "year": "2024",
+        "venue": "Eighth Geoinformation Science Symposium 2023: Geoinformation Science for Sustainable Planet",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:hqOjcs7Dif8C",
+        "publication_date": "2024/1/29",
+        "abstract": "The Trans Jogja Bus system is an essential urban transportation service in Yogyakarta and its surrounding areas. With numerous bus stops strategically located throughout the Yogyakarta Urban Area, it aims to provide convenient boarding and disembarkation points for passengers. To improve the commuting experience for passengers, it is crucial to ensure that the Trans Jogja shelters are easily accessible and equipped with a comprehensive range of amenities, covering all regions within the urban area. To evaluate the service level of Trans Jogja Bus stops, the service area from each bus stop is modeled as an interactive isochronous service area map. These maps depict the coverage area of each bus stop based on network analysis, considering travel time to the road network. Each bus stop is a single node with four distinct travel time values: 3, 6, 9, 12, and 15 minutes. By employing this interactive modeling …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "The Evolution of Geospatial Aspects in the Law on the Establishment of New Regions (Autonomy) Pre and Post Broad Autonomy in Indonesia",
+        "authors": [
+            "Farouki Dinda Rassarandi",
+            "Helik Susilo",
+            "Khairul Fajri Kariyono",
+            "Febrian Fitryanik Susanta"
+        ],
+        "cited_by": "1",
+        "year": "2019",
+        "venue": "GEOSPATIAL INFORMATION",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2019",
+        "abstract": "Expansion or establishment of new regions (Provinces, Regencies/Cities) is a consequence of the politics of decentralization implemented in Indonesia. The development of decentralization in Indonesia underwent fundamental changes after the reformation in 1998. Inception of UU No 22 tahun 1999 concerning regional government has given a new color to the administration of government in Indonesia or what is called broad autonomy. Restructuring regional governments that provide discretion in the form of broader authority in running their government in accordance with regional needs has created many implications for the region, one of which is stretching and the spirit of the region to bloom. In determining the boundaries of forming new regions, the geospatial aspect is an important and strategic aspect. Problems related to geospatial aspects such as maps of regional boundaries, area size, etc are issues that need to be clearly defined and calculated in the new (autonomous) regional (determination. But in fact the law on the formation or establishment of regions in the period 1950-1999 on the geospatial aspect did not become an important part so that it caused problems later which could potentially trigger social conflicts such as regional boundary disputes. Postreformation, the development of the role of the geospatial aspects has evolved a little more advanced, such as the existence of regional boundary maps in the appendix to the law on the formation or expansion of new regions, such as UU No 7 tahun 2002, UU No 2 tahun 2003, and others. However, there is still something that must be evaluated regarding the map in the attachment …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Helik-Susilo/publication/334304772_The_Evolution_of_Geospatial_Aspects_in_the_Law_on_the_Establishment_of_New_Regions_Autonomy_Pre_and_Post_Broad_Autonomy_in_Indonesia/links/5e81b1c6a6fdcc139c13e67f/The-Evolution-of-Geospatial-Aspects-in-the-Law-on-the-Establishment-of-New-Regions-Autonomy-Pre-and-Post-Broad-Autonomy-in-Indonesia.pdf"
+    },
+    {
+        "title": "Visualisasi Permintaan Penumpang Angkutan Umum Hasil Analisis Analytical Hierarchy Process (AHP) di Kabupaten  Kulon Progo",
+        "authors": [
+            "FF Susanta",
+            "T Aditya"
+        ],
+        "cited_by": "1",
+        "year": "2018",
+        "venue": "Simposium Infrastruktur Informasi Geospasial 2018",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2018/5/14",
+        "abstract": "Analysis of public transport demand is useful for planning trajectories in a region. One method which can be used to model it is through Analytical Hierarchy Process (AHP). However, the results will be better if supported by the use of good visualization. This paper identifies the suitable visualization method to model the analysis result for passenger demand. Parameters which affecting the passengers demand involve multiple sectors and this is a fundamental reason for using AHP methods. Selection of parameters depends on the available data and region characteristics. This research begins with literature reviews from related sources, field observation, parameter identification, parameter hierarchy creation, discussion and expert judgment then presentation and visualization of the results. The result from AHP method is weight value given on each parameter, for the main criteria consist of social with 69.08%, economic with 16.03% and environmental with 14.88%. Furthermore, it is visualized in raster format. Visualization processing using Geographic Information System (GIS) approach by ArcMap and ArcScene software. Then it is aggregated at sub-district level and gave main criterion index with a bar graph. In addition, it also visualized in 3D view by making attribute values of passenger demand, population density, topography surface and density of public facilities as their z values. This method is used to facilitate the visualization of information both geospatial and non-geospatial so it will user-friendly. By using this method, users can see the correlation between the passenger demand distribution and other aspects of transport planning support …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Febrian-Susanta/publication/340272093_Visualisasi_Permintaan_Penumpang_Angkutan_Umum_Hasil_Analisis_Analytical_Hierarchy_Process_AHP_di_Kabupaten_Kulon_Progo/links/5e819fee92851caef4aca8f6/Visualisasi-Permintaan-Penumpang-Angkutan-Umum-Hasil-Analisis-Analytical-Hierarchy-Process-AHP-di-Kabupaten-Kulon-Progo.pdf"
+    },
+    {
+        "title": "GeoShapley-based interpretation of older adult pedestrian fatal vs injury crash frequency in dense urban environments",
+        "authors": [
+            "I Gede Brawiswa Putra",
+            "Pei-Fen Kuo",
+            "Febrian Fitryanik Susanta",
+            "Bimo Harya Tedjo",
+            "Dominique Lord"
+        ],
+        "cited_by": "",
+        "year": "2026",
+        "venue": "Accident Analysis & Prevention",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:KlAtU1dfN6UC",
+        "publication_date": "2026/6/1",
+        "abstract": "As the world’s population ages, ensuring the safety of older adult pedestrians has become an urgent priority in transportation planning. However, most existing studies rely on global models that overlook spatial heterogeneity and fail to capture nonlinear, location-specific interactions between the environmental factors and crash outcomes. Moreover, subjective perceptions (e.g., how safe or walkable an area feels) may influence pedestrian behavior and crash exposure but are underexplored in traffic safety research.This study addresses these gaps by integrating subjective perception indicators extracted from Street View Images (SVI) with machine learning models to examine the severity of older adult pedestrian crashes at intersections in Taipei City. Three modeling frameworks are evaluated and compared: global Negative Binomial Regression (NBR), Geographically Weighted Negative Binomial Regression …"
+    },
+    {
+        "title": "Identifying environmental factors related to motorcyclist crash rates: variable selection using spatial Random Forest with network distance and barriers",
+        "authors": [
+            "Bimo Harya Tedjo",
+            "Pei-Fen Kuo",
+            "Febrian Fitryanik Susanta",
+            "I Gede Brawiswa Putra"
+        ],
+        "cited_by": "",
+        "year": "2026",
+        "venue": "Accident Analysis & Prevention",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:3fE2CSJIrl8C",
+        "publication_date": "2026/3/1",
+        "abstract": "Motorcycle crashes remain a major global safety concern, particularly in many Asian countries where motorcycles are the primary mode of transportation. While previous studies have identified factors associated with motorcycle crashes using traditional variable selection methods, they often overlook spatial patterns and contextual constraints (such as motorcycles being prohibited from freeways), leading to lower model accuracy. To address this limitation, we introduce a novel variable selection framework, designated as Spatial Random Forest with Network Distance and Barriers (spatialRF–NDBAR), which incorporates network distance and road barrier constraints to improve spatial variable selection. The study focuses on the Central Business District of Taipei City, where motorcycle access to certain roads is explicitly prohibited by road barriers. We utilize motorcycle crash data from 2016 to 2020, combined with …"
+    },
+    {
+        "title": "Utilizing High-Definition Maps and Simulation Software to Enhance Autonomous Vehicle Safety",
+        "authors": [
+            "Yi-Ting Li",
+            "Pei-Fen Kuo",
+            "Kai-Wei Chiang",
+            "Brawiswa Putra",
+            "Febrian Fitryanik Susanta"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:MXK_kJrjxJIC",
+        "publication_date": "2025/7/29",
+        "abstract": "The safety of autonomous vehicles (AVs) remains a major challenge, particularly within specific Operational Design Domains (ODDs). While physical testing lacks scalability, computer simulations effectively evaluate AV safety. However, most studies rely on virtual maps generated by simulation software, neglecting real-world complexities and focusing on single intersections rather than broader road networks. To fill the gap, this study lie in the development of a novel simulation workflow combining CARLA and VISSIM simulation softwares using High-definition (HD) maps while reducing data collection efforts and enabling the seamless integration of simulation results. Additionally, this study validates the effectiveness of emergency braking indicators within the AV simulation, confirming their applicability in assessing AV safety performance. The study area conducted near Tainan-City High-Speed Railway Station, Taiwan, analyzes emergency braking events across a network of three intersections and four road segments to identify high-risk zones. HD maps of the study area data were integrated into the CARLA to generate realistic traffic scenarios, while VISSIM modeled traffic flow and signal phases. The results indicate that emergency braking hotspots are concentrated at intersections, turns, and sharp curves near safety islands. This finding suggests that AVs make slower decisions than human drivers due to complex perception and computational models. Additionally, it highlights the importance of HD maps and traffic flow analysis in AV simulations and provides recommendations for improving AV safety, including simplifying road layouts …",
+        "pdf_link": "https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/929/2025/isprs-archives-XLVIII-G-2025-929-2025.pdf"
+    },
+    {
+        "title": "Pemodelan Variabel Gempa Bumi sebagai Sarana Edukasi untuk Mitigasi Bencana di Indonesia",
+        "authors": [
+            "FF Susanta",
+            "C Pratama",
+            "T Aditya",
+            "AF Khomaini",
+            "HWK Abdillah"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2019",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2019/11/28"
+    },
+    {
+        "title": "Visual analytics for railway network in Java Island",
+        "authors": [
+            "Febrian Fitryanik Susanta"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "Sixth Geoinformation Science Symposium",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2019/11/21",
+        "abstract": "Train is one of mass transportation that contains spatial and attribute data. Based on one of the development services of the 2030 national railway, the innovation of Indonesian Ministry of Transportation is focused on the ease of uses, namely the public, academics, and policy-makers to access data and information through web-based maps (WebGIS). At present, railways data in Indonesia have been publicly accessible. But general visualization of railways data, which is clear and easily understood by the public have not available. Therefore, this research aims to visualize the results of railways data which interactively combining spatial data and attribute data. The data used for this research was obtained from the Indonesian Ministry of Transportation. Visualization of the data requires a search for patterns, relationships and trends. The data variables used in this research include railways status, station status, station …",
+        "pdf_link": "https://www.spiedigitallibrary.org/proceedings/Download?fullDOI=10.1117/12.2548481"
+    },
+    {
+        "title": "Interpretable Machine Learning for Crash Severity Analysis of Food Delivery Motorcyclists",
+        "authors": [
+            "I Gede Brawiswa Putra",
+            "Febrian Fitryanik Susanta",
+            "Bimo Harya Tedjo",
+            "Pei-Fen Kuo"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:kNdYIx-mwKoC",
+        "abstract": "The COVID-19 pandemic has significantly increased the demand for online food delivery services. This surge has intensified competition among platforms and placed greater pressure on delivery riders to prioritize speed over safety. As a result, crash incidents involving food delivery motorcycles have nearly doubled compared to those used for routine commuting. While previous studies have focused on general motorcycle crashes, few have examined the specific factors influencing crash severity among delivery riders. Additionally, most existing research relies on traditional spatial models, which may fail to capture nonlinear relationships and spatial heterogeneity. Another challenge is the imbalance in severity data, with serious and fatal crashes underrepresented, limiting the reliability of standard statistical analysis.To address these gaps, this study applies GeoShapley, an explainable machine learning (XAI) framework that captures both spatial and non-spatial effects. GeoShapley treats geographic location as an interactive predictor, allowing for interpretable, location-specific insights. We also apply the Synthetic Minority Oversampling Technique (SMOTE) to improve class balance and reduce model bias.",
+        "pdf_link": "https://acrs-aars.org/proceeding/ACRS2025/fp_abs-225.pdf"
+    },
+    {
+        "title": "PEMBUATAN SISTEM INFORMASI KONDISI JALAN PADA RUAS JALAN DI KABUPATEN INDRAGIRI HULU",
+        "authors": [
+            "Dita Dwi Aryani",
+            "Dedi Atunggal SP",
+            "Febrian Fitryanik Susanta"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DWIm4joAAAAJ&citation_for_view=DWIm4joAAAAJ:ufrVoPGSRksC",
+        "abstract": "Provinsi Riau memiliki tingkat pertumbuhan penduduk dan kenaikan jumlah kendaraan yang cukup tinggi. Menurut Dinas PUPR Provinsi Riau, panjang jalan Provinsi di Riau mencapai 2.799 km, dengan 30 persennya dalam kondisi rusak berat. Salah satu kabupaten yang terdampak adalah Indragiri Hulu. Kerusakan jalan mengakibatkan terhambatnya akses jalan, kemacetan dan kecelakaan lalu lintas. Oleh karena itu, dibutuhkan sistem informasi yang menyajikan informasi kondisi jalan secara lengkap dan efisien, dengan menampilkan persebaran area ruas-ruas jalan dalam kondisi rusak. Sistem informasi berbasis web dibuat menggunakan data sekunder yang diperoleh dari PT Geo Indo Asia (Geohub), berupa data hasil akuisisi dengan MMS, batas administrasi kecamatan, dan data atribut daftar ruas jalan. Video hasil akuisisi dilakukan digitasi menggunakan perangkat lunak Imajview. Melakukan analisis, manajemen data SIG, dan visualisasi pada perangkat lunak QGIS, dan ditampilkan menjadi web menggunakan Plugin QGIS2web. Pembuatan tampilan web memanfaatkan Visual Studio Code sebagai media pembuatan script dengan bahasa pemrograman PHP, Javascript, dan HTML. Hasil web kemudian dilakukan evaluasi pengguna dengan instrumen pengujian USE Questionnare. Web terdiri dari halaman depan dan halaman utama, yang menyajikan menu serta widget dalam mengidentifikasi kondisi jalan, diantaranya berupa peta online interaktif dilengkapi pop up informasi kondisi jalan, terdapat dashboard jenis dan jumlah kerusakan jalan, serta tabel segmen jalan tiap 100 m. Berdasarkan hasil evaluasi pengguna, diperoleh …",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/351006420_PEMBUATAN_SISTEM_INFORMASI_KONDISI_JALAN_PADA_RUAS_JALAN_DI_KABUPATEN_INDRAGIRI_HULU_Developing_Information_System_of_Road_Condition_on_Road_Segment_in_Indragiri_Hulu_Regency/links/607ef671881fa114b4167218/PEMBUATAN-SISTEM-INFORMASI-KONDISI-JALAN-PADA-RUAS-JALAN-DI-KABUPATEN-INDRAGIRI-HULU-Developing-Information-System-of-Road-Condition-on-Road-Segment-in-Indragiri-Hulu-Regency.pdf"
+    }
+]

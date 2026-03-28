@@ -1,0 +1,973 @@
+[
+    {
+        "title": "Validation and collaborative mapping to accelerate quality assurance of land registration",
+        "authors": [
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Yulaikhah Yulaikhah",
+            "Nurrohmat Widjajanti",
+            "Dedi Atunggal",
+            "Miranty Sulistyawati"
+        ],
+        "cited_by": "52",
+        "year": "2021",
+        "venue": "Land Use Policy",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:2P1L_qKh6hAC",
+        "publication_date": "2021/10/1",
+        "abstract": "Incomplete digitalisation of land-titling documentation and sporadic first-titling in the past pose considerable challenges to delivering complete and good quality land information. In Indonesia, for the past three years, a new land policy has been implemented as part of a project to completely and systematically register land titles. This new policy has increased the production of land titles by seven to nine times. However, the approach remains focused on increasing quantity rather than improving quality. As the number of unmapped land titles is still high, insecurity of land certificates resulting from the current national project is imminent. Social challenges to land-titling activities include poor participation of landowners while technical problems could include incomplete validation. This paper presents the results of a study that employed collaborative mapping to validate land titles and evaluated corresponding quality …",
+        "total_citations": "Cited by 52",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S0264837721004129"
+    },
+    {
+        "title": "Participatory land administration in Indonesia: Quality and usability assessment",
+        "authors": [
+            "Trias Aditya",
+            "Eva Maria-Unger",
+            "Christelle vd Berg",
+            "Rohan Bennett",
+            "Paul Saers",
+            "Han Lukman Syahid",
+            "Doni Erwan",
+            "Tjeerd Wits",
+            "Nurrohmat Widjajanti",
+            "Purnama Budi Santosa",
+            "Dedi Atunggal",
+            "Imam Hanafi",
+            "Dewi Sutejo"
+        ],
+        "cited_by": "44",
+        "year": "2020",
+        "venue": "Land",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:8AbLer7MMksC",
+        "publication_date": "2020/3/9",
+        "abstract": "This paper presents the results from a quality and usability analysis of participatory land registration (PaLaR) in Indonesia’s rural areas, focusing on data quality, cost, and time. PaLaR was designed as a systematic community-centered land titling project collecting requisite spatial and legal data. PaLaR was piloted in two communities situated in Tanggamus and Grobogan districts in Indonesia. The research compared spatial data accuracy between two approaches, PaLaR and the normal systematic land registration approach (PTSL) with respect to point accuracy and polygon area. Supplementary observations and interviews were undertaken in order to evaluate the effectiveness of the spatial and legal data collection, as well as logical consistency of the data collected by the community committee, using a mobile application. Although the two pilots showed a lower spatial accuracy than the normal method (PTSL), PaLaR better suited local circumstances and still delivered complete spatial and legal data in a more effective means. The accuracy and efficiency of spatial data collection could be improved through the use of more accurate GNSS antennas and a seamless connection to the national land databases. The PaLaR method is dependent on, amongst other aspects, inclusive and flexible community awareness programs, as well as the committed participation of the community and local offices.",
+        "total_citations": "Cited by 44",
+        "pdf_link": "https://www.mdpi.com/2073-445X/9/3/79"
+    },
+    {
+        "title": "Present-day crustal deformation revealed active tectonics in Yogyakarta, Indonesia inferred from GPS observations",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "T Aris Sunantyo",
+            "Leni Sophia Heliani",
+            "Bilal Ma'ruf",
+            "Dedi Atunggal",
+            "Dwi Lestari",
+            "Hilmiyati Ulinnuha",
+            "Arinda Pinasti",
+            "Riska Fajrul Ummi"
+        ],
+        "cited_by": "30",
+        "year": "2020",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:kNdYIx-mwKoC",
+        "publication_date": "2020/3/1",
+        "abstract": "We investigated the active crustal structure in Yogyakarta, Indonesia, using new and denser Global Positioning System (GPS) data. Deformation rate estimated from five years (2013–2018) of observations on 22 campaign might record broad deformation after the 2006 Mw7.8 Java tsunami earthquake and postseismic transient due to the 2006 Mw6.3 Yogyakarta earthquake. We conducted a decomposition method to obtain a short wavelength feature by removing those postseismic deformations from the observation data. The short wavelength pattern revealed active tectonics indicating a combination of E–W dip-slip motion and N–S left-lateral structure. A large maximum shear strain rate (>0.1 microstrain/yr) was estimated along the Opak fault while a large dilatation rate (<-0.1 microstrain/yr) was estimated around the Bantul Graben. The analysis result indicates important implications for crustal dynamics and …",
+        "total_citations": "Cited by 30",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984720300148"
+    },
+    {
+        "title": "Developing Android Application for Precise Geotagging Using RTK GPS Module",
+        "authors": [
+            "Dedi Atunggal",
+            "Nuaim Hamad Ausi",
+            "Catur Aries Rohkmana"
+        ],
+        "cited_by": "16",
+        "year": "2018",
+        "venue": "2018 4th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:hC7cP41nSMkC",
+        "publication_date": "2018/8/7",
+        "abstract": "The use of cameras on smartphones with the addition of photo position information on photo metadata or often called geotagging extends over time. This is because in survey jobs that require extensive documentation of photographs, photo positioning information allows surveyors to recognize the location of photo objects in the survey and ease the process of data management. Currently, smartphones are equipped with positioning features using GPS and or Assisted-GPS (A-GPS) which can provide sufficient positioning for geotagging photos. However, in the execution of certain surveys there is a need for more precise positioning than the standard GPS/A-GPS positioning features of the smartphone. One way to improve geotagging position accuracy is to use an external RTK GPS module integrated with a smartphone. This paper discusses the making of Android-based smartphone applications for geotagging using an external RTK GPS module. In this paper also discussed the advantages and disadvantages of the applications that have been made, as well as the opportunities and limitations of the use of such applications.",
+        "total_citations": "Cited by 16",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/329494950_Developing_Android_Application_for_Precise_Geotagging_Using_RTK_GPS_Module/links/60dc8e3892851ca9449b22d2/Developing-Android-Application-for-Precise-Geotagging-Using-RTK-GPS-Module.pdf"
+    },
+    {
+        "title": "Analisis Hasil Penetapan Batas Desa Di Kabupaten Gunungkidul Provinsi Daerah Istimewa Yogyakarta",
+        "authors": [
+            "Heri Sutanta",
+            "Imasti Dhani Pratiwi",
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono",
+            "Diyono Diyono"
+        ],
+        "cited_by": "14",
+        "year": "2020",
+        "venue": "Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:4TOpqqG69KYC",
+        "publication_date": "2020/11/30",
+        "abstract": "Batas administrasi desa memiliki peran yang sangat penting dalam berbagai kegiatan pemerintahan. Batas desa di Kabupaten Gunungkidul didelineasi ulang pada tahun 2018 melalui kegiatan yang difasilitasi oleh Dinas Pertanahan dan Tata Ruang Provinsi Daerah Istimewa Yogyakarta. Acuan utama untuk membuat Peta Kerja Batas adalah Peta Desa Lama skala 1: 5.000 yang dibuat antara tahun 1932-1938. Batas desa pada Peta Desa Lama tersebut diinterpretasi dan didigitasi di Citra Tegak Resolusi Tinggi dari Badan Informasi Geospasial. Penelitian ini menganalisis perbedaan batas dalam hal karaksteristik segmen batas, pergeseran segmen batas, dan perubahan luas wilayah. Terdapat perubahan karakteristik segmen batas yang berupa titik temu, segmen berbatasan dan segmen tidak berbatasan. Pergeseran posisi segmen batas yang terjadi sampai 1.773 m pada Peta RBI, dan 997 m pada hasil …",
+        "total_citations": "Cited by 14"
+    },
+    {
+        "title": "Evaluation on the performance of single and dual frequency low cost GPS module observation using geodetic antenna",
+        "authors": [
+            "Dedi Atunggal",
+            "Catur Aries Rokhmana",
+            "TA Sunantyo",
+            "B Ma'ruf"
+        ],
+        "cited_by": "13",
+        "year": "2018",
+        "venue": "Communication in Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:roLk4NBRz8UC",
+        "publication_date": "2018/6/14",
+        "abstract": "GPS modules have been used for various applications in recent years. Its early development came in parallel with the advancement of Unmanned Aerial Vehicle (UAV) technology. Nowadays, it is also used in in geographic information system (GIS) data acquisition/census, mapping surveys, structure stability monitoring systems and many other applications. GPS modules generally have several positioning features, including standard positioning service (SPS), static positioning, precise point positioning (PPP), post processing kinematic (PPK) and real time kinematic (RTK) GPS. GPS modules in general are only equipped with a microstrip-type antenna or better known as patch antenna. Results from related research show that GPS module with this type of antenna has sub meter accuracy when used for PPK or RTK GPS method. The use of geodetic antennas is very potential to increase GPS position accuracy by up to centimeter level. This paper discusses the evaluation of GPS module measurements with geodetic type antennas for precise positioning using RTK GPS. This paper is focused on the resolution of GPS cycle ambiguity that is often expressed by the term fixing ratio and the accuracy of measurement results obtained. To provide a comprehensive description of the performance of GPS module, in this research two types of GPS module were used; single and dual frequency. Both types of GPS modules were used to conduct simultaneous observation on an open and obstructed observation location.",
+        "total_citations": "Cited by 13",
+        "pdf_link": "https://cst.kipmi.or.id/article/download/78/40"
+    },
+    {
+        "title": "Analisis tingkat ketersediaan dan cakupan dari continuously operating reference station (CORS) di Pulau Jawa",
+        "authors": [
+            "Novie Chiuman",
+            "Dedi Atunggal",
+            "Nurrohmat Widjajanti"
+        ],
+        "cited_by": "10",
+        "year": "2021",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:70eg2SAEIzsC",
+        "publication_date": "2021",
+        "abstract": "Ketersediaan layanan dan cakupan Continuously Operating Reference Station (CORS) sangat penting untuk kegiatan yang membutuhkan ketelitian level sentimeter atau lebih baik. Penelitian ini menganalisis ketersediaan layanan CORS Indonesia berdasar data web scraping server InaCORS pada Desember 2018. Cakupan CORS diestimasi dengan asumsi performansi Real Time Kinematic (RTK) single base hingga radius 30 kilometer dan untuk RTK network base hingga 50 kilometer dari masing-masing stasiun yang kemudian dipadukan dengan data cakupan jaringan komunikasi selular Telkomsel, Indosat dan 3 dari opensignal. com. Hasil web scraping menunjukkan terdapat 51 stasiun CORS dengan ketersediaan layanan di atas 80%, empat dengan ketersediaan layanan di bawah 80%, dua dengan ketersediaan layanan di bawah 50%, dan 14 yang tidak memiliki ketersediaan layanan. Cakupan CORS untuk metode RTK single base dan network base masing-masing adalah 72,942% dan 98,299%. Luas cakupan CORS terbesar diperoleh provider Telkomsel baik untuk metode RTK single base maupun network base yaitu masing-masing sebesar 34,622% dan 45,180%. Cakupan riil dari estimasi tersebut mungkin lebih besar karena hasil uji lapangan membuktikan bahwa tingkat ketepatan data dari OpenSignal hanya sebesar 69,444% dan masih banyak area tanpa data sinyal. Hasil analisis tingkat duplikasi cakupan CORS menunjukkan bahwa luas duplikasi cakupan CORS untuk metode RTK single base dan network base masing-masing sebesar 37,076% dan 82,382% dari luas total cakupan CORS. Hasil dari penelitian juga …",
+        "total_citations": "Cited by 10",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/352835817_Analisis_Tingkat_Ketersediaan_dan_Cakupan_dari_Continuously_Operating_Reference_Station_CORS_di_Pulau_Jawa_Availability_and_Coverage_Analysis_of_Continuously_Operating_Reference_Station_CORS_in_Java_I/links/60dc8a59299bf1ea9ed27692/Analisis-Tingkat-Ketersediaan-dan-Cakupan-dari-Continuously-Operating-Reference-Station-CORS-di-Pulau-Jawa-Availability-and-Coverage-Analysis-of-Continuously-Operating-Reference-Station-CORS-in-Java-I.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9"
+    },
+    {
+        "title": "Studi Awal Penggunaan Modul GPS Murah untuk Pengukuran RTK NTRIP",
+        "authors": [
+            "Dedi Atunggal",
+            "Abdul Basith",
+            "Catur Aries Rokhmana",
+            "Dasita Meygan Pratiwi"
+        ],
+        "cited_by": "7",
+        "year": "2015",
+        "venue": "FIT ISI 2015",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:4JMBOYKVnBMC",
+        "publication_date": "2015/11/19",
+        "abstract": "Nowadays, the industry of low-cost GPS board and module is growing. At first these devices are used for positioning of mobile vehicles and unmanned vehicle (unmanned vehicle) eg the Unmanned Survey Vessel (USV) or Unmanned Aerial Vehicle (UAV). These devices have the specifications and features that allow the application of accurate positioning using various methods such as; static postprocessing, kinematic post-processing and real-time kinematic GPS. This paper discussed the use of low-cost GPS module for real-time kinematic GPS using RTK correction data from Continuously Operating Reference Station (CORS), better known by the term Networked Transported RTCM via Internet Protocol (NTRIP).",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/320558668_Studi_Awal_Penggunaan_Modul_GPS_Murah_untuk_Pengukuran_RTK_NTRIP/links/59edb6bba6fdccef8b0ddfde/Studi-Awal-Penggunaan-Modul-GPS-Murah-untuk-Pengukuran-RTK-NTRIP.pdf"
+    },
+    {
+        "title": "The Role of Positioning Infrastructure and Mapping Surveys in 3D Cadastre Implementation for Mass Rapid Transport Infrastructures–Indonesia Case",
+        "authors": [
+            "Dedi Atunggal",
+            "Nurrohmat Widjajanti",
+            "Trias Aditya",
+            "Agus Wahyudi"
+        ],
+        "cited_by": "5",
+        "year": "2021",
+        "venue": "7th International FIG Workshop on 3D Cadastres",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:pqnbT2bcN3wC",
+        "publication_date": "2021/10/11",
+        "abstract": "In response to recent increases in the utilization of 3D spaces situated below and above land surfaces, both users and registrar increasingly demanding a reliable positioning infrastructure for a cadastre. This paper discusses some challenges and requirements for establishing a reliable positioning infrastructure to support 3D cadastre implementation in Indonesia. Since three decades ago, ground survey marks (TDT) have been conventionally used for parcel mapping and only have 2D coordinates. TDT can be used for 3D cadastre implementation by assigning the TDT height to the national height datum. Surveyors can define the TDT height by referring to the orthometric height pillars (TTG) or the Indonesian national geoid (InaGeoid). These two references are sub-elements of the 2013 Indonesia Geospatial Reference System (SRGI 2013), which since 2013 has been used as a reference for various geospatial data nationally. 2D parcel mapping practices in Indonesia are still referring to the previous reference system used by Indonesia, namely the 1995 National Geodetic Datum (DGN95). This condition makes an integrated 3D survey to support first registration and right transfers for 3D Cadastre is challenging. At the same time, a 3D validation survey for 3D cadastre aiming to validate X, Y and Z coordinates of 3D parcels to be registered needs to be done efficiently and accurately. This paper discusses challenges regarding coordinates shift, inconsistencies between 2D and 3D parcels, missing height references and lack of coordinate redefinition of GPS coordinate services. This paper will examine the 3D cadastral validation survey results …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://gdmc.nl/3Dcadastres/literature/3Dcad_2021_17.pdf"
+    },
+    {
+        "title": "3D modelling, validation and visualization of 3D parcels in first registration for 3D cadastre-Indonesia case",
+        "authors": [
+            "Trias Aditya",
+            "Dany P Laksono",
+            "Dedi Atunggal",
+            "Febrian F Susanta",
+            "Nurrohmat Widjajanti",
+            "Mohammad B Setiawan",
+            "Nurhidayat AGAM",
+            "T Wibisono"
+        ],
+        "cited_by": "4",
+        "year": "2021",
+        "venue": "7th International FIG Workshop on 3D Cadastres, New York, USA",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:g5m5HwL7SMYC",
+        "publication_date": "2021/10/11",
+        "abstract": "Developments of legal, institutional and technical aspects in realizing property registration of 3D parcels situated above and below 2D parcels are still evolving in many countries. 3D cadastres have to deal with various institutional/legal gaps and challenging information integration regarding the Rights-Restrictions-Responsibilities (3R) of 2D parcels. This paper aims to present a proof of concept implementing 3D cadastre of a new regulation of land registration in Indonesia (Government Regulation Number 18/2021 on Rights to Manage, Land Rights, Strata Title and Land Registration). This study presents the modelling and validation of 3D cadastral objects for realizing the first registration using the new regulation on 3D cadastre. The study encompasses 2D & 3D data integration, 3D modelling, field validation and visualization of 3D units. The 2D parcels were extracted from the land registration map, collected from the Central Jakarta and the South Jakarta land offices. The 3D constructions to be registered were obtained from PT. MRT in the form of as-built drawings of floor plans and selected cross-sections. The 3D models were created by reconstructing 2D floor plans and cross-sections using Autodesk Revit to create an IFC file of 3D units from geometries of floors, walls and ceilings. Surveyors validated 3D representations of 3D units of two MRT terminals. Field validation includes determining the legal spaces against the 3D constructions and validating floor areas and volumes of 3D units. After field validation is done and agreed upon by stakeholders, 3D models were converted into CityGML to create representations of legal spaces of 3D …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://gdmc.nl/3Dcadastres/literature/3Dcad_2021_14.pdf"
+    },
+    {
+        "title": "Quality assessment of DTM generated from RTK GPS data on area with various sky views",
+        "authors": [
+            "Abdul Nasir Matori",
+            "Dedi Atunggal",
+            "BK Cahyono"
+        ],
+        "cited_by": "4",
+        "year": "2008",
+        "venue": "Proceedings of the 21st International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS 2008)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:RYcK_YlVTxYC",
+        "publication_date": "2008/9/19",
+        "abstract": "Most of civil engineering projects are in large scale applications which need high-resolution DTM. The use of DTM in civil engineering projects has always been assessed from technical and financial point of view, particularly on the data collection stage where greatest time and cost are recognized. Real Time Kinematic GPS (RTK GPS), techniques provides an easy, quick, and efficient alternative for DTM data collection tool. The paper is focused on the experiment aiming to derive a high-resolution DTM by RTK GPS and to assess the quality of the generated DTM, by comparing with Total Station (TS) survey. The assessment also includes an overview on the productivity and efficiency of the technique. Quality measure of the DTM is performed by volumetric accuracy analysis and height error analysis. Experimental result shows that RTK GPS technique can provide a sufficient accuracy to be employed as data …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://www.academia.edu/download/71652033/Quality_Assessment_of_DTM_Generated_from20211006-10952-yw6g8w.pdf"
+    },
+    {
+        "title": "Digital Terrain Modeling by Real Time Kinematic GPS",
+        "authors": [
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono",
+            "Abdul Nasir Matori"
+        ],
+        "cited_by": "4",
+        "year": "2007",
+        "venue": "Map Asia 2007",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:mB3voiENLucC",
+        "publication_date": "2007",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "Evaluasi Kesiapan Pemasangan Sistem Pemantauan Pintar Menggunakan TS Robotik di Candi Borobudur",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma’ruf",
+            "Yudi Suhartono",
+            "Joni Setiawan"
+        ],
+        "cited_by": "3",
+        "year": "2019",
+        "venue": "Conference: SIIG",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:CHSYGLWDkRkC",
+        "publication_date": "2019",
+        "abstract": "Candi Borobudur telah menjadi obyek penelitian yang menarik bagi banyak ilmuwan selama bertahun tahun. Situs ini ditemukan pada tahun 1814 dan pertama kali dipugar oleh Belanda pada tahun 1907 hingga 1911. Semenjak itu Candi Borobudur telah mengalami beberapa pemugaran dan pemeliharaan. Sejak pemugaran oleh United Nations Educational, Scientific and Cultural Organization (UNESCO) yang berlangsung selama 2 tahap mulai dari 1973-1983, banyak ahli telah meneliti Candi Borobudur dari berbagai aspek. Penelitian terkait sistem pemantauan stabilitas atau deformasi Candi Borobudur sudah mulai dilakukan dengan mengkombinasikan Global Positioning System (GPS), sipat datar teliti dan Total Station (TS) mulai tahun 2000. Sistem pemantauan candi yang telah dilaksanakan sejak tahun 2000 menggunakan pendekatan analisis epok tahunan untuk data GPS dan per beberapa bulan sekali untuk pengukuran sipat datar teliti dan TS. Sistem pemantauan tersebut difokuskan untuk mendapatkan gambaran deformasi, terutamanya pergeseran tubuh candi secara umum pada komponen horisontal dan vertikal. Seriring dengan perkembangan teknologi penentuan posisi dan pemantauan deformasi, pemantauan deformasi candi dapat dilaksanakan dengan mengkombinasikan sensor laser scanner, TS robotik dan GPS yang dapat memberikan pendekatan yang lebih realistis dan mendetail terhadap bagian-bagian candi yang mengalami deformasi. Makalah ini membahas tentang evaluasi kesiapan pemasangan sistem pemantauan pintar menggunakan TS robotik di Candi Borobudur, meliputi kegiatan survei …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/350310678_Evaluasi_Kesiapan_Pemasangan_Sistem_Pemantauan_Pintar_Menggunakan_TS_Robotik_di_Candi_Borobudur/links/605954b1a6fdccbfeafc94ea/Evaluasi-Kesiapan-Pemasangan-Sistem-Pemantauan-Pintar-Menggunakan-TS-Robotik-di-Candi-Borobudur.pdf"
+    },
+    {
+        "title": "Suitability level analysis of Google Map’s travel time and traffic density classification",
+        "authors": [
+            "Laksita Amelia Paramesti",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "3",
+        "year": "2019",
+        "venue": "JGISE J Geospat Inf Sci Eng",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:3fE2CSJIrl8C",
+        "publication_date": "2019",
+        "abstract": "Traffic congestion is one of the problems that occur in big cities, therefore people need traffic information to determine traffic conditions. One of the many applications that provide traffic information is Google Maps. From the information generated, there is an unsuitability between google maps' traffic update and travel time with the actual condition. This study aims to analyze the suitability level of traffic density classification and google maps travel time. Based on the speed range by Google, the level of suitability can be determined, while the google maps travel time is done by statistical tests. The statistical test used is a statistical test of two parameters using t-table with a 95% confidence level. The results of this study indicate that the level of suitability of the traffic classification only reaches 35%. While the information on google maps travel time does not have a significant difference in actual time.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://scholar.archive.org/work/poqyrevy2zgfld3syjme6s32x4/access/wayback/https://jurnal.ugm.ac.id/jgise/article/download/51134/26645"
+    },
+    {
+        "title": "Pembuatan Sistem Pemantauan Pergerakan Titik Hasil Penentuan Posisi Metode NTRIP RTK Mengunakan Komunikasi Data Berbasis TCP-IP",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma'ruf",
+            "Aditya Yan"
+        ],
+        "cited_by": "3",
+        "year": "2010",
+        "venue": "Seminar Nasional GNSS-CORS 2010",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:HDshCWvjkbEC",
+        "publication_date": "2010/7/17",
+        "abstract": "Measurements by using RTK GNSS CORS technologies can be used to define position as well as to monitor the movement of a point located on a specific locations (known as rover station) from a control station (monitor station) which is located far from the point being monitored. Such GNSS data format that supports remote monitoring system is NMEA (National Marine Electronics Association). One of the problem on developing remote monitoring system is how to design the NMEA data communication from the rover station to the monitor station and how to observe the rover station’s movement on the monitor station. This paper focuses on the development of a monitoring system by using NMEA data communications through VPN (Virtual Private Network). The development of real-time remote monitoring system covers a very broad job. This study focuses on data communications instrumentation and visual observation of the rover position of the monitoring system.",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Landslide detection on slope area by using close-range photogrammetric data",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Abdul Nasir Matori",
+            "Dedi Atunggal",
+            "Abdul Basith"
+        ],
+        "cited_by": "3",
+        "year": "2009",
+        "venue": "Prosiding Seminar Nasional Revitalisasi Data dan Sains Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2009",
+        "abstract": "Slope area is one of the important areas that need to be monitored for safety and maintenance purposes. Monitoring of the slope area can be performed easily by using a Digital Elevation Model (DEM). Landslide and mass-movement on the slope area can be detected by calculation of DEMs derived from two difference epoch data. In this study the DEMs were derived by using close-range photogrammetric method from stereo photographs captured on two different times (13/05/2007 and 07/04/2008). This method is preferred due to its reasonably cost and its suitability for measuring inaccessible and risky areas. Restitution of stereo model is performed by involving Ground Control Points (GCP) to yield some camera parameters, positions and orientations of each photo. Having these parameters, positions of all sampling points on stereo photos can be transformed into ground coordinate system. Terrain data sampling points in this research were performed by regular sampling methods. To measure the quality of this technique in DEM generation, resulted DEMs were compared with a set of correct data measured by reflector-less Total Station (TS). The result yield DEMs with accuracy in elevation interpolation is in centimeters level, and accuracy in volume estimation is less than 0.5%. The result shows that in period of one year there were significant terrain changes on ground surface. It was indicated by distribution of gain and loss areas on the slope, and extremely changes in longitudinal-section and cross-section profiling.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.academia.edu/download/71652084/LANDSLIDE_DETECTION_ON_SLOPE_AREA_BY_USI20211006-6632-10y6d93.pdf"
+    },
+    {
+        "title": "Borobudur temple wall stability monitoring using robotic total station during the COVID-19 pandemic",
+        "authors": [
+            "Kresna Hadhinata",
+            "Dedi Atunggal",
+            "Catur Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2023",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:1sJd4Hv_s6UC",
+        "publication_date": "2023/2/14",
+        "abstract": "Borobudur Temple is a cultural heritage used as a tourist spot. Tourist activities on top of the temple give additional burdens to the temple continuously besides external factors from nature such as wind, temperature changes, weathering, moss growth, and others also contribute to the physical changes of Borobudur Temple. These combined factors can affect the Borobudur Temple wall stability, so it is necessary to monitor the temple wall stability using a robotic total station. This paper discusses the evaluation of Borobudur Temple wall stability by monitoring the points located above the balustrades during the COVID-19 pandemic situation. Tourists are prohibited from entering the temple buildings during the COVID-19 pandemic, so there is no influence of human activities for research related to the temple wall stability. Monitoring in this condition can be used as a comparison with monitoring during the peak season …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0114138/16683475/050003_1_online.pdf"
+    },
+    {
+        "title": "Pendefinisian Jaring Kontrol Sistem Cerdas Candi Borobudur ke dalam Datum SRGI 2013",
+        "authors": [
+            "Nerissa Mutiara Christy",
+            "Bilal Ma’ruf",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "2",
+        "year": "2022",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:abG-DnoFyZgC",
+        "publication_date": "2022",
+        "abstract": "Candi Borobudur merupakan candi Buddha terbesar di dunia dan diakui sebagai salah satu warisan budaya yang dilindungi oleh",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://pdfs.semanticscholar.org/62e1/d508cd79978c2a2cafb9be19889d85aee313.pdf"
+    },
+    {
+        "title": "Tipologi alamat di perkotaan dan perdesaan Indonesia dalam proses standardisasi pengalamatan.",
+        "authors": [
+            "Heri Sutanta",
+            "Ni Putu Praja Chintya",
+            "Dedi Atunggal",
+            "Diyono Diyono",
+            "M Fakhruddin Mustofa",
+            "Suprajaka Siswosudarma"
+        ],
+        "cited_by": "2",
+        "year": "2022",
+        "venue": "Majalah Geografi Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:f2IySw72cVMC",
+        "publication_date": "2022",
+        "abstract": "Alamat merupakan salah satu komponen wajib pada identitas penduduk dan dokumen legal-formal lain yang digunakan dalam berbagai kepentingan serta kegiatan sehari-hari. Dalam dunia nyata terdapat variasi penulisan alamat. Variasi penulisan alamat ini memiliki elemen yang terkait aspek lokalitas wilayah maupun yang terkait dengan ketiadaan standar pengalamatan. Variasi penulisan alamat diinventarisasi melalui survei lapangan dan survei secara daring. Survei dilakukan di wilayah perdesaan dan perkotaan untuk dapat memotret berbagai tipe penulisan alamat. Tipologi penulisan alamat tersebut kemudian diklasifikasikan berdasar dua model. Berdasarkan fungsinya, ada alamat yang digunakan untuk kepentingan legal-formal dan alamat yang digunakan untuk penunjuk atau penanda lokasi. Berdasarkan karakteristik wilayahnya terdapat tipologi alamat perdesaan dan alamat perkotaan. Di model …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Evaluasi Hasil Penentuan Tinggi Titik Dasar Teknik Menggunakan Model Geoid SRGI 2013 Studi Kasus: Daerah Istimewa Yogyakarta",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma’ruf",
+            "Nurrohmat Widjajanti"
+        ],
+        "cited_by": "2",
+        "year": "2021",
+        "venue": "Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&citation_for_view=jlJ_M_MAAAAJ:3s1wT3WcHBgC",
+        "publication_date": "2021/12/10",
+        "abstract": "Koordinat Titik Dasar Teknik (TDT) yang dikelola Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) hingga saat ini masih mengacu pada elipsoid World Geodetic System 1984 (WGS84) atau tereferensi ke Datum Geodetik Nasional 1995 (DGN95) yang direalisasikan menggunakan International Terrestrial Reference Frame 1991 (ITRF91) epok 1992.0. Penelitian tentang evaluasi pembaharuan koordinat TDT hingga saat ini masih sangat jarang dilakukan, terutamanya terkait pengikatan ke Sistem Referensi Geospasial Indonesia 2013 (SRGI 2013). Analisis tentang penentuan tinggi TDT mengacu SRGI 2013 bahkan belum pernah dilakukan sebelumnya. Penelitian ini bertujuan untuk mengkaji potensi dan mengidentifikasi permasalahan terkait pemanfaatan model geoid SRGI 2013 (InaGeoid) untuk pendefinisian tinggi TDT. Penelitian dilakukan dengan menggunakan sampel TDT dan titik JKVN yang ada di Provinsi Daerah Istimewa Yogyakarta. Penentuan koordinat 3D titik-titik sampel dilakukan dengan menggunakan metode Real Time Kinematic Network Transported RTCM via InternetProtocol (RTK NTRIP) menggunakan layanan InaCORS. Koordinat sampel TDT dari hasil pengukuran Global Navigation Satellite System (GNSS) setara Orde 2 digunakan sebagai pembanding. Nilai tinggi elipsoid hasil pengamatan RTK NTRIP dan jaring statik GNSS Orde 2 dikonversi menjadi tinggi orthometrik menggunakan layanan online InaGeoid. Pengukuran beda tinggi jaring tertutup dilakukan dengan menggunakan sipat datar digital secara pergi-pulang terhadap 2 pasang sampel TDT (Loop-1 dan Loop-2). Analisis …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "http://proceedings.undip.ac.id/index.php/isiundip2021/article/viewFile/616/415"
+    },
+    {
+        "title": "Evaluation on the performance of NTRIP RTK positioning using multi-frequency low-cost GPS module in areas with different telecommunication signal strength",
+        "authors": [
+            "Novie Chiuman",
+            "Dedi Atunggal",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2019",
+        "venue": "2019 5th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:_kc_bZDykSQC",
+        "publication_date": "2019/7/30",
+        "abstract": "GPS modules are often utilized for various applications, such as positioning of Unmanned Aerial Vehicles (UAVs), mobile mapping system, navigation, precision agriculture, and Geographic Information System (GIS). In recent years, affordable GPS modules targeted for Real-Time Kinematic (RTK) positioning have reached the mass market with price ranging from 25 to 3,500 USD. These modules come with several choices: single frequency, multi-frequency, and multi-satellite. This paper discusses the evaluation on the performance of multi-frequency low-cost GPS module with parameters such as baseline and telecommunication signal taken into consideration. Telecommunication signal data from three providers, Telkomsel, Indosat, and 3, are obtained from OpenSignal. This paper focuses on the accuracy of the positions obtained. The multi-frequency GPS module was used to obtain positions in open sky …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Aplikasi RTK GPS menggunakan receiver OEM GPS untuk penentuan posisi lajur perum USV dalam survei batimetri",
+        "authors": [
+            "Dedi Atunggal",
+            "Abdul Basith",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2016",
+        "venue": "InAES 2016",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:UebtZRa9Y70C",
+        "publication_date": "2016/8/1",
+        "abstract": "MetodeProsedur penelitian meliputi langkah-langkah persiapan, pelaksanaan dan penyelesaian seperti tersaji pada diagram alir penelitian (Gambar 2). Penelitian ini dimulai dengan persiapan yang meliputi studi literatur terkait desain sistem RTK yang dipasang pada USV serta persiapan alat dan bahan. Peralatan yang digunakan dalam peneiltian ini adalah sebagai berikut: a) Satu unit alat Echo Sounder GARMIN",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/326508169_Aplikasi_RTK_GPS_menggunakan_receiver_OEM_GPS_untuk_penentuan_posisi_lajur_perum_USV_dalam_survei_batimetri/links/6050b407299bf173674aa92b/Aplikasi-RTK-GPS-menggunakan-receiver-OEM-GPS-untuk-penentuan-posisi-lajur-perum-USV-dalam-survei-batimetri.pdf"
+    },
+    {
+        "title": "Development of Land Geospatial Information for Supporting One Map Policy in Rural Areas: Pilot Project",
+        "authors": [
+            "T Aditya",
+            "PB Santosa",
+            "D Atunggal",
+            "U Rahardjo",
+            "Djurdjani Yulaikhah"
+        ],
+        "cited_by": "2",
+        "year": "2015",
+        "venue": "Cooperation Unit of Faculty of Engineering (LKFT) UGM in Cooperation with Ministry of Agrarian & Spatial Planning/National Land Agency of Indonesia (BPN)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:dshw04ExmUIC",
+        "publication_date": "2015",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Derivation 3D Model of Instable Open Slope Area from 2D Photographs Using Commercial Pocket Camera",
+        "authors": [
+            "BK Cahyono",
+            "AN Matori",
+            "DA Atunggal",
+            "A Basith"
+        ],
+        "cited_by": "2",
+        "year": "2008",
+        "venue": "International Conference of Concrete and Building Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:LPZeul_q3PIC",
+        "publication_date": "2008",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Generating 3D model of instable open slope area from 2D photographs using commercial pocket camera",
+        "authors": [
+            "BK Cahyono",
+            "AN Matori",
+            "D Atunggal",
+            "A Basith"
+        ],
+        "cited_by": "2",
+        "year": "2008",
+        "venue": "Proc. Int. Conf. Construct. Build. Technol.(ICCBT)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:YOwf2qJgpHMC",
+        "publication_date": "2008",
+        "abstract": "Instable slope is one of the important areas that need to be measured and monitored for safety and maintenance purposes. Monitoring and measurement of the areas would be significant if the location is closed to a housing area residential or infrastructure. The method used in this study is a close-range photogrammetry technique by using a commercial pocket camera for generating three dimensional (3D) model of the object. In order to determine the accuracy of this method, the generated model is compared to the data obtained from measurement by using a reflector-less total station. Camera calibration is accomplished before the survey execution. This is intended to remove radial and tangential lens distortions. Restitution stereo model is performed by involving Ground Control Points (GCP) to yield positions and orientation of each photo. Having these parameters, positions of every feature on stereo photos can be transformed into ground coordinate system. The 3D Digital Elevation Model (DEM) is interpolated by using Triangular Irregular Network (TIN) interpolation method. The comparison between the DEM generated by this method and the DEM from total station shows that the Root Mean Square Error (RMSE) for height is 0.067638 meter (6.764 cm) and RMSE for volume comparison is 7.041 m3 (0.228%). It means that the method is capable of yielding accurate DEM.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/347516515_Generating_3D_Model_of_Instable_Open_Slope_Area_from_2D_Photographs_using_Commercial_Pocket_Camera/links/5fe02ed5299bf140882f902d/Generating-3D-Model-of-Instable-Open-Slope-Area-from-2D-Photographs-using-Commercial-Pocket-Camera.pdf"
+    },
+    {
+        "title": "Harmonisation of Geospatial Data in the Process Evaluation of Land Utilisation Suitability Based on Cadastral Land Parcel",
+        "authors": [
+            "H Sutanta",
+            "MH Ummah",
+            "N Widjajanti",
+            "D Atunggal"
+        ],
+        "cited_by": "1",
+        "year": "2025",
+        "venue": "International Journal of Geoinformatics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:D_sINldO8mEC",
+        "publication_date": "2025/4/29",
+        "abstract": "One of the fundamental components of Indonesia's Land Administration System (LAS) that still needs to be harmonised is the problem of ideal map geometry, namely spatial units of cadastral land parcels. The LAS has four key functions: land tenure, land value, land use, and land development. This study addresses the harmonisation of Geospatial Data (GD) for land development administration involving spatial planning. This spatial element is crucial in sustainable spatial planning for dynamic regional development. This study harmonises GD to synchronise the spatial planning map based on the cadastral map. We harmonises geometrical aspects of spatial planning maps and cadastral maps using Unmanned Aerial Vehicle (UAV) imagery and field survey as the base map. The analysis reveals that more than 25% of land parcels intersect with multiple spatial zoning maps. To address this, the study uses a hierarchical logic method to unify each cadastral land-parcel's spatial planning. Using cadastral land-parcel-based spatial zoning, the suitability of land utilisation in the study area is dominated by the limitedly and conditionally class, covering an area of 1,023,584 m 2 (40.72%). There is significant difference in area calculation of spatial utilisation suitability when using the original spatial map and cadastral land parcel, with a confidence level of 95%. This discrepancy arises from the different of map framework between zoning and cadastral maps. High-quality cadastral land parcel maps are essential to enhance the quality of spatial zoning maps and support sustainable LAS. The findings of this study underscore the importance of GD …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://ijg.journals.publicknowledgeproject.org/index.php/journal/article/download/4071/2139"
+    },
+    {
+        "title": "Evaluating 3-D positioning infrastructure quality and utilization: The potential improvement with multi-GNSS methods",
+        "authors": [
+            "Dedi Atunggal",
+            "Nurrohmat Widjajanti",
+            "Trias Aditya"
+        ],
+        "cited_by": "1",
+        "year": "2024",
+        "venue": "Communications in Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:vRqMK49ujn8C",
+        "publication_date": "2024/7/16",
+        "abstract": "This article evaluates the quality of the national 3-D positioning infrastructure using multi-criteria decision making (MCDM) to simulate the potential application of multi-GNSS method. The MCDM evaluation used coverage and availability of Indonesia Continuous Operating Reference System (INACORS) services, distribution of survey pillars, and accuracy of height determination using the Indonesian Geoid Model (INAGEOID). The term multi-GNSS method refers to the utilization of PPP method as a complement to the conventional differential GNSS method for the production of mapping control points. The results of this evaluation were complemented by a questionnaire analysis on the utilization of positioning infrastructure by respondents from various professional backgrounds. The MCDM evaluation results showed that Java had nearly 100% good or excellent 3-D positioning infrastructure quality. Other regions in Indonesia still had significant areas of average, fair, or even poor quality. The questionnaire results showed that many users have faced some problems in areas with fair or poor infrastructure quality. The application of multi-GNSS method can contribute to reduce up to half of the area with fair and poor positioning infrastructure quality.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://cst.kipmi.or.id/journal/article/download/1403/170"
+    },
+    {
+        "title": "Konsep Aupb Untuk Keamanan Data Dalam Standardisasi Dan Sistem Geocoding Alamat Perkotaan Dan Perdesaan Indonesia",
+        "authors": [
+            "Dyah Ayu Widowati",
+            "Heri Sutanta",
+            "Diyono Diyono",
+            "Dedi Atunggal",
+            "Dany Laksono",
+            "Sumaryono Sumaryono",
+            "Fakhruddin Mustofa"
+        ],
+        "cited_by": "1",
+        "year": "2023",
+        "venue": "Refleksi Hukum: Jurnal Ilmu Hukum",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:XiSMed-E-HIC",
+        "publication_date": "2023/9/25",
+        "abstract": "This article aims to formulate the embodiment of the AUPB concept in the standardization and geocoding system of Indonesian urban and rural addresses. Furthermore, it analyses the synchronization of data security principles in standardization and geocoding systems for urban and rural addresses in Indonesia. Conceptually, the process of address standardization and geocoding in the context of AUPB is closely related to the orderly administration of government, accountability of government agencies and/or officials, and implementation of statutory provisions. Overall, the element of AUPB that plays the most role in the standardization process and the address geocoding system is the principle of legal certainty. The principle of openness is attached to data security, and both are synchronized in implementing standardization and geocoding systems for urban and rural addresses in Indonesia. Even though all columns in the address database are stored in Elasticsearch, only specific columns can be accessed by general users through the Geocoding System website. Hence, the addresses presented are general data and do not contain personal data.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://ejournal.uksw.edu/refleksihukum/article/download/8154/2535"
+    },
+    {
+        "title": "Optimasi Geometri Jaring GNSS dan RTS untuk Pemantauan Deformasi Kontinu Saluran Induk Kalibawang di Jembatan Talang Bowong, Kabupaten Kulon Progo",
+        "authors": [
+            "Ghea Ayunda Siami",
+            "Bilal Ma’ruf",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "1",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:4OULZ7Gr8RgC",
+        "publication_date": "2021",
+        "abstract": "Kegiatan rehabilitasi dan pemeliharaan di Jembatan Talang Bowong membutuhkan pemantauan gerakan massa tanah secara realtime dan kontinu. Penelitian ini berusaha mendesain jaring kontrol pemantauan gerakan massa tanah secara geometrik dengan data simulasi yang diturunkan dari data orthophoto sebagai langkah awal untuk pembangunan jaring kontrol pemantauan. Data simulasi yang didapatkan berupa koordinat distribusi titik kontrol kemudian diturunkan menjadi vektor baseline. Nilai ketelitian pada penelitian ini didapatkan dari alat yang digunakan pada saat pemantauan berlangsung yaitu GNSS Leica seri GM30 dan RTS Leica seri TS16 1”. Jaring kontrol pemantauan didesain berdasarkan integrasi antara GNSS dan RTS. Pembuatan desain jaring kontrol GNSS dilakukan dengan membentuk jaring dengan baseline yang sederhana hingga kompleks. Sedangkan, pembuatan desain jaring kontrol RTS dilakukan berdasarkan variasi jarak antar titik prisma target. Nilai matriks varian-kovarian pengamatan dari estimasi hitung kuadrat terkecil digunakan untuk pemilihan desain geometri jaring terbaik berdasarkan hasil perhitungan kriteria presisi yang terdiri atas kriteria A-Optimality, D-Optimality, E-Optimality, S-Optimality, dan I-Optimality. Nilai matriks kofaktor residu digunakan untuk pemilihan desain geometri jaring terbaik berdasarkan kriteria kehandalan yang terdiri atas aspek redundansi individu, kehandalan dalam, dan kehandalan luar. Hasil penelitian menunjukkan bahwa desain jaring GNSS yang paling optimal yaitu jaring DG04. Hal ini ditunjukkan dari nilai kriteria presisi dan kehandalan luar paling kecil serta nilai …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/357368507_Optimasi_Geometri_Jaring_GNSS_dan_RTS_untuk_Pemantauan_Deformasi_Kontinu_Saluran_Induk_Kalibawang_di_Jembatan_Talang_Bowong_Kabupaten_Kulon_Progo_Geometric_Optimization_of_GNSS_and_RTS_Network_for_Con/links/61caef3cb8305f7c4b0746a3/Optimasi-Geometri-Jaring-GNSS-dan-RTS-untuk-Pemantauan-Deformasi-Kontinu-Saluran-Induk-Kalibawang-di-Jembatan-Talang-Bowong-Kabupaten-Kulon-Progo-Geometric-Optimization-of-GNSS-and-RTS-Network-for-Co.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9"
+    },
+    {
+        "title": "SIMULASI PENERAPAN SISTEM ESTIMATED TIME OF ARRIVAL (ETA) PADA MODA TRANSPORTASI KERETA API MENGGUNAKAN DATA MODUL GPS",
+        "authors": [
+            "RAFI AULIA RAHMAN",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "1",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:rO6llkc54NcC",
+        "publication_date": "2017",
+        "abstract": "Transportasi kereta api merupakan salah satu transportasi darat yang paling diminati oleh masyarakat karena faktor keamanan, kenyamanan, dan sistem penjadwalan yang jelas. Kemajuan transportasi kereta api juga harus diimbangi dengan kemajuan teknologi, salah satunya adalah teknologi GPS. Pemanfaatan data GPS dapat digunakan untuk penentuan prediksi estimasi waktu kedatangan kereta di setiap stasiun pemberhentian. Penentuan prediksi estimasi waktu kedatangan kereta tersebut dikenal dengan Sistem Estimated Time of Arrival (ETA). Pada kegiatan ini dilakukan simulasi Sistem ETA memanfaatkan data dari modul GPS. Adanya sistem informasi waktu berbasis ETA dapat digunakan sebagai informasi prediksi estimasi waktu kedatangan kereta di setiap stasiun dan di gerbong kereta secara akurat. Pendefinisian koordinat stasiun pemberhentian dan jaringan rel menggunakan data shapefile yang diasumsikan sebagai data acuan. Simulasi dilakukan pada setiap interval tiga data pengamatan untuk dihitung nilai dari kecepatan sesaat dan jarak tempuh yang dihitung dengan map matching dan tanpa map matching. Proses map matching memanfaatkan fungsi pada PostGIS untuk menghitung estimasi jarak tempuh ke stasiun pemberhentian. Hasil perbedaan jarak tersebut dapat dibandingkan dan dianalisis pengaruhnya terhadap hitungan ETA. Proses map matching juga dapat dilakukan analisis statistik perbedaan koordinat GPS dengan koordinat rute. Hasil hitungan ETA yang didapat dibandingkan dengan hasil hitungan OTP dan dihitung nilai rerata kecepatan kereta pada masing-masing segmen. Proses hitungan ETA …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Real time kinematic-GNSS methods for monitoring subsidence of offshore platform",
+        "authors": [
+            "Khin Cho Myint",
+            "AN Matori",
+            "Adel Gohari",
+            "D Atunggal"
+        ],
+        "cited_by": "1",
+        "year": "2016",
+        "venue": "Engineering Challenges for Sustainable Future-Proceedings of the 3rd International Conference on Civil, offshore and Environmental Engineering, ICCOEE",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:sSrBHYA8nusC",
+        "publication_date": "2016/12/1",
+        "abstract": "Reservoir compaction or shallow gas phenomena may cause offshore platforms to experience subsidence and deformation which could affect their structural integrity. Excessive subsidence may also cause loss of production as well as loss of live. However, the physical location of many offshore platforms which are typically hundreds of kilometers offshore poses a challenge to measure the subsidence rate accurately and in real-time. Over the years GNSS in the form of GPS has been used to determine such subsidence rate with great accuracy (cm level). The present GPS technology would not provide the monitoring in real-time mode. Present RTK GPS however has very serious limitation to be utilized in offshore due to its short range (approximately 50 km baselines) capabilities; typical offshore platforms are 150 km from shore. This paper therefore develops a new or improve RTK algorithm for longer range to be …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Kajian Penggunaan GPS Modul pada Penentuan Posisi Exposure dalam Misi UAV",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "1",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:YFjsv_pBGBYC",
+        "publication_date": "2016",
+        "abstract": "Aplikasi UAV (Unmanned Aerial Vehicle) sebagai wahana pemotretan udara, baik untuk surveillance maupun survei pemetaan semakin banyak diterapkan. Pada umumnya system penentuan posisi pada wahana UAV cukup menggunakan GPS type navigasi dalam bentuk GPS modul yang dibawa dalam sistem avionik UAV. Dilain pihak, dalam pemrosesan foto secara fotogrametri diperlukan nilai pendekatan parameter orientasi luar posisi titik eksposur kamera. Saat ini tersedia sejumlah tipe GPS modul yang mampu merekam data fasa GPS, sehingga memungkinkan untuk melakukan penentuan posisi GPS kinematic dengan akurasi sub-meter. Makalah ini membahas tentang penggunaan GPS modul untuk penentuan posisi titik eksposur kamera dalam misi UAV. Kajian dilakukan untuk membandingkan hasil akurasi penentuan posisi mode absolut positioning, dan kinematic dengan post processing. Hasil perbandingan menunjukkan pada penentuan posisi mode absolut atau GPS navigasi stabil di akurasi< 10m, sedangkan mode GPS kinematik stabil di akurasi sub-meter untuk komponen posisi Horizontal. Dimasa mendatang keberadaan sejumlah stasiun CORS sebagai Base-point akan sangat membantu berjalannya sistem GPS modul untuk penentuan posisi eksposur.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/332012445_Kajian_Penggunaan_GPS_Modul_pada_Penentuan_Posisi_Exposure_dalam_Misi_UAV/links/5c9af83a299bf1116949a520/Kajian-Penggunaan-GPS-Modul-pada-Penentuan-Posisi-Exposure-dalam-Misi-UAV.pdf"
+    },
+    {
+        "title": "LEAST-SQUARES ADJUSTMENT IN DETERMINING ZERO ERROR (Zo) OF REFLECTOR-LESS TOTAL STATION FOR VARIOUS MATERIAL TARGETS",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono",
+            "Asri Zahid",
+            "A Basith"
+        ],
+        "cited_by": "1",
+        "year": "2009",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:ULOm3_A8WrAC",
+        "publication_date": "2009/11/17",
+        "abstract": ": Application of continuous reflector-less Total Station (TS) measurements is widely used for deformation inspection of inacessible man-made structure, such as; bridge, dam, highway, open mines, and high rise tower. This method is also extensively employed in natural disaster monitoring for land slides and steep slope subsidences. This instrument allows the surveyor to measure 3D coordinates of point remotely from the object without requiring the use ofprism reflector. It also permits the recording of the data in a digital format to be downloaded to computer afterward or transmitted to a central processing site. There are numerous sources of error inherent to TS equipment. Three distinct systematic errors, which may occur in TS are zero error, scale error and cyclic error. Zero error. which is a constant systematic-error, is the focus of this current investigation. In this work, zero error is determined by using a least …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Sistem Perekomendasi Penentuan Posisi 3D untuk Infrastruktur Penentuan Posisi Indonesia",
+        "authors": [
+            "DEDI ATUNGGAL SP"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:V3AGJWp-ZtQC",
+        "publication_date": "2025",
+        "abstract": "Penentuan posisi teliti di Indonesia bersumber dari infrastruktur penentuan posisi berupa Indonesia Continously Operating Reference Station (INACORS), Jaring Kontrol Horizontal Nasional (JKHN), Jaring Kontrol Vertikal Nasional (JKVN), dan model geoid nasional (INAGEOID). Namun demikian, hingga saat ini distribusi INACORS, JKHN, dan JKVN di Indonesia belum merata, sedangkan verifikasi INAGEOID belum dilakukan pada beberapa wilayah timur Indonesia. Evaluasi kualitas infrastruktur SRGI tersebut belum pernah dilakukan secara komprehensif. Disparitas infrastruktur penentuan posisi tersebut memiliki konsekuensi pada kebutuhan ekstensifikasi/densifikasi titik kontrol untuk area yang jauh dari infrastruktur. Metode PPP memiliki potensi untuk mengkomplemen metode GNSS diferensial dalam penentuan posisi mengacu ke SRGI 2013, karena penentuan posisinya tidak perlu mengacu infrastruktur terdekat. Secara teoritis dan empirik, metode PPP mengacu langsung ke International Reference Frame (ITRF) yang kompatibel ke sistem referensi nasional. Namun demikian, informasi ketelitian dan kompatibilitas koordinat hasil PPP terhadap SRGI 2013 belum diketahui. Agar koordinat 3D hasil metode PPP dapat dipadukan dengan GNSS diferensial dalam satu sistem referensi SRGI 2013, hal tersebut perlu dirumuskan dalam sebuah rancangan perekomendasi. Penelitian ini bertujuan merancang perekomendasi dan mengimplementasikannya dalam sistem perekomendasi yang dapat mendiseminasikan perpaduan metode PPP dan GNSS diferensial dengan mempertimbangkan kualitas infrastruktur sesuai lokasi pengguna.Data …",
+        "pdf_link": "https://etd.repository.ugm.ac.id/penelitian/detail/252781"
+    },
+    {
+        "title": "Geodesy and Geodynamics",
+        "authors": [
+            "Leni Sophia Heliani",
+            "Bilal Ma'ruf",
+            "Dedi Atunggal",
+            "Dwi Lestari",
+            "Hilmiyati Ulinnuha",
+            "Arinda Pinasti",
+            "Riska Fajrul Ummi"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:q3oQSFYPqjQC",
+        "publication_date": "2024/3/19",
+        "abstract": "The Mentawai Forearc Sliver (MFS) is characterized by oblique deformation formed as slip partitioned between normal and parallel trench plate convergence. The surge of great earthquakes from 2004 to 2012 along the adjacent Sunda trench left a large unbroken segment known as the Mentawai Seismic Gap. Here, we adopted continuous Global Navigation Satellite System (GNSS) observation data to identify the present regional crustal deformation using geodetic strain rates. The principal strain rate, dilatation rate, and maximum shear strain rate are about 0.13 microstrain/yr, 0.2 microstrain/yr, and 0.1 microstrain/yr, respectively, with the range of its uncertainties between 0.01 and 0.04 microstrain/yr. The dilatation and maximum shear strain rates reveal the spatial coverage of strike-slip duplex and backthrust tectonics along the Mentawai Forearc Sliver. Đ 2024 Editorial office of Geodesy and Geodynamics. Publishing services by Elsevier BV on behalf of KeAi Communications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons. org/licenses/by-nc-nd/4.0/).",
+        "pdf_link": "https://www.sciopen.com/local/article_pdf/10.1016/j.geog.2024.04.003.pdf"
+    },
+    {
+        "title": "Analisis Rute Navigasi Google Maps berdasarkan Klasifikasi Kepadatan Lalu Lintas dan Waktu Tempuh (Studi Kasus: Rute Lokasi Wisata di Daerah Istimewa Yogyakarta)",
+        "authors": [
+            "DIVARA BONIFASIA SUTOPO",
+            "Dedi Atunggal SP"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:kRWSkSYxWN8C",
+        "publication_date": "2024",
+        "abstract": "Klasifikasi kepadatan lalu lintas dan estimasi waktu tempuh merupakan informasi yang diperlukan dalam penentuan rute perjalanan. Google Maps menyediakan fitur navigasi yang dapat memberikan informasi klasifikasi kepadatan lalu lintas dan estimasi waktu tempuh. Klasifikasi kepadatan lalu lintas yang diberikan Google Maps dibagi menjadi empat kategori yaitu lancar, sedang, pelan, dan sangat pelan. Google Maps juga memberikan estimasi waktu tempuh yang disesuaikan dengan jarak tempuh dan kondisi lalu lintas selama perjalanan. Akan tetapi, penelitian sebelumnya menunjukkan adanya ketidaksesuaian antara kondisi lalu kepadatan lalu lintas Google Maps dengan kondisi di lapangan pada kasus validasi di perempatan jalan Kota Jogja. Selain itu juga terdapat ketidaksesuaian antara estimasi waktu tempuh yang diberikan Google Maps dengan waktu tempuh sebenarnya, dapat lebih cepat ataupun lebih lambat.Penelitian ini menggunakan alat receiver E-GNSS multi frequency untuk memperoleh nilai koordinat yang diubah menjadi kecepatan untuk analisis klasifikasi kepadatan lalu lintas. Klasifikasi ini menjadi hal yang penting kaarena tingkat kesesuaian dipengaruhi oleh penggolongan kepadatan lalu lintas berdasarkan kecepatan yang didapat. Penelitian ini juga melakukan perbandingkan waktu tempuh yang diberikan oleh Google Maps dengan waktu tempuh sebenarnya (realtime). Analisis waktu tempuh dilakukan dengan validasi lapangan dan analisis terhadap hasil selisih waktu tempuh Google Maps dengan waktu tempuh realtime. Selain itu, dilakukan analisis kondisi jalan sepanjang rute Google Maps untuk …",
+        "pdf_link": "https://etd.repository.ugm.ac.id/penelitian/detail/246249"
+    },
+    {
+        "title": "PERENCANAAN DESAIN GEOMETRIK JALAN YANG MEMADUKAN JALUR PEJALAN KAKI DAN PESEPEDA (STUDI KASUS: JALAN SUMBU KEBANGSAAN SISI BARAT, IBU KOTA NEGARA NUSANTARA)",
+        "authors": [
+            "GREGORIUS PRAGNYA DIPTA BASKARA",
+            "Dedi Atunggal SP"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:mvPsJ3kp5DgC",
+        "publication_date": "2024",
+        "abstract": "Jalan Sumbu Kebangsaan Sisi Barat merupakan salah satu contoh kebutuhan infrastruktur jalan di Kawasan Ibu Kota Nusantara yang menghubungkan Istana Presiden dengan Istana Wakil Presiden. Ketersediaan infrastruktur jalan akan memfasilitasi setiap pergerakan manusia, mulai dari pengendara kendaraan bermotor, pesepeda maupun pejalan kaki. Oleh karena itu, diperlukan sebuah desain perencanaan jalan yang memadukan tiga aspek penting yakni geometri jalan, fasilitas pejalan kaki, dan fasilitas pesepeda agar dapat menjamin kenyamanan dan keamanan seluruh pengguna jalan.Perencanaan desain dilakukan dengan memadukan desain geometrik jalan, jalur pejalan kaki, dan jalur pesepeda menggunakan perangkat lunak Civil 3D dengan mengacu pada pedoman perencanaan teknis yang dikeluarkan oleh Direktorat Jenderal Bina Marga. Proses pembuatan desain melibatkan data dasar point cloud LiDar area proyek yang diolah menjadi DTM dan peta tata guna lahan KIPP IKN yang dapat diakses melalui laman https://petalikn. web. id/map/sebagai rujukan dalam penentuan trase jalan. Selanjutnya dilakukan pembuatan desain geometri jalan meliputi alinemen horizontal, alinemen vertikal dan tipikal potongan melintang serta penentuan kriteria desain fasilitas pejalan kaki dan fasilitas pesepeda. Desain yang telah dibuat kemudian dipadukan pada tahapan pembuatan tipikal potongan melintang lalu dilakukan visualisasi model 3D menggunakan perangkat lunak Revit. Hasil perpaduan desain kemudian dievaluasi dengan membandingkan hasil perhitungan pada desain dengan ketentuan pada pedoman teknis yang …",
+        "pdf_link": "https://etd.repository.ugm.ac.id/penelitian/detail/250068"
+    },
+    {
+        "title": "Developing Address Model and Geocoding Framework for Urban Area in Indonesia",
+        "authors": [
+            "Heri Sutanta",
+            "Ni Putu Praja Chintya",
+            "Dany Laksono",
+            "Dedi Atunggal",
+            "Diyono Diyono"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "PROCEEDING OF SOUTH EAST ASIA WORKSHOP ON GEODETIC DATA SCIENCES, GEOINFORMATICS AND LAND ADMINISTRATION (GEO-LAND-SEA) 2023",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:OU6Ihb5iCvQC",
+        "publication_date": "2023/2/18"
+    },
+    {
+        "title": "ANALISIS PERBANDINGAN MODEL 3D RUANGAN DI STASIUN MRT BLOK M JAKARTA DARI DATA TERESTRIAL LASER SCANNER DAN AS-BUILT DRAWING",
+        "authors": [
+            "Abdul Hafish",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "",
+        "year": "2022",
+        "venue": "Semnas Geomatika 2021",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:cFHS6HbyZ2cC",
+        "publication_date": "2022"
+    },
+    {
+        "title": "ANALISIS HASIL PENENTUAN KOORDINAT TITIK DASAR TEKNIK MENGACU SRGI 2013 DAN BUKU TUGU BPN",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma’ruf",
+            "Nurrohmat Widjajanti"
+        ],
+        "cited_by": "",
+        "year": "2022",
+        "venue": "Semnas Geomatika 2021",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:dfsIfKJdRG4C",
+        "publication_date": "2022"
+    },
+    {
+        "title": "PEMBUATAN SISTEM INFORMASI KONDISI JALAN PADA RUAS JALAN DI KABUPATEN INDRAGIRI HULU",
+        "authors": [
+            "Dita Dwi Aryani",
+            "Dedi Atunggal",
+            "Febrian Fitryanik Susanta"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Seminar Nasional Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:RGFaLdJalmkC",
+        "publication_date": "2021/4/14"
+    },
+    {
+        "title": "ANALISIS PERBANDINGAN MODEL 3D RUANGAN DI STASIUN MRT JAKARTA DARI DATA TERESTRIAL LASER SCANNER DAN AS-BUILT DRAWING (Studi Kasus: Stasiun MRT Bundaran Hotel Indonesia dan …",
+        "authors": [
+            "ABDUL HAFISH",
+            "Dedi Atunggal SP"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:xtRiw3GOFMkC",
+        "publication_date": "2021",
+        "abstract": "Moda Raya Terpadu (MRT) Jakarta merupakan salah satu sarana transportasi yang ada di Jakarta. Pembuatan MRT telah selesai sejak tahun 2019. Dibutuhkan arsip dan inventarisasi pada bangunan stasiun MRT. Salah satu bentuk arsip dan inventarisasi adalah model 3D dari stasiun. Model 3D dapat dibuat dari As-Built Drawings (ABD) dan dari Terestrial Laser Scanner (TLS). Sebelumnya telah dilakukan pembuatan ABD oleh pihak kontraktor dan akuisi data TLS oleh pihak swasta pada Stasiun MRT Bundaran HI dan Stasiun MRT Blok M. Penelitian ini bertujuan untuk mengetahui perbedaan signifikansi antara model 3D Stasiun MRT Bundaran HI dan Stasiun MRT Blok M. Kegiatan dimulai dengan pengukuran kerangka kontrol pada masing-masing stasiun oleh tim peneliti Teknik Geodesi FT UGM. Setelah itu dilakukan pengecekan kelengkapan data dari ABD dan TLS dan dilanjutkan pemodelan 3D dari data ABD dan data TLS. Pemodelan 3D menggunakan perangkat lunak Autodesk Revit. Proses pembuatan model 3D dimulai dari pengaturan level, pembuatan dinding, atap, lantai, dan plafon. Kemudian dilakukan georeferensi pada model 3D Stasiun MRT Blok M dengan mengacu pada kerangka kontrol. Dari hasil model 3D yang telah dibuat dilakukan uji beda signifikansi dengan uji Z. Uji dilakukan pada dimensi jarak, luas, posisi 3D, serta volumetric error untuk perbandingan volume. Hasil dari penelitian ini menunjukkan kelengkapan data ABD pada Stasiun MRT bundaran HI tidak lengkap dan membutuhkan data tinggi level dari instrumen pengukuran lain. Pada ABD Stasiun MRT Blok M lengkap. Hasil pemodelan 3D …"
+    },
+    {
+        "title": "Penentuan Posisi Titik-Titik Pemantauan Banjir Di Desa Segoroyoso, Kecamatan Pleret, Kabupaten Bantul, Provinsi DIY",
+        "authors": [
+            "Hilmiyati Ulinnuha",
+            "Aris Sunantyo",
+            "Bilal Ma'ruf",
+            "Parseno Parseno",
+            "Nurrohmat Widjajanti",
+            "Leni Sophia Heliani",
+            "Dwi Lestari",
+            "Dedi Atunggal",
+            "Cecep Pratama"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Jurnal Pengabdian dan Pengembangan Masyarakat",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:b0M2c_1WBrUC",
+        "publication_date": "2021",
+        "abstract": "Desa Segoroyoso merupakan wilayah yang rawan terhadap adanya bencana alam seperti gempa bumi, banjir, dan tanah longsor. Bencana alam yang sering dialami di Desa Segoroyoso adalah banjir Sungai Opak yang berdampak menggenangi pemukiman warga di Dusun Karanggayam dan Dusun Dahromo I. Sering terjadinya banjir di Desa Segoroyoso membutuhkan penanganan dan mitigasi bencana. Sebagai langkah awal mitigasi banjir, diperlukan titik pantau berupa tanda di lapangan yang mudah diidentifikasi oleh warga tentang elevasi air yang mulai menggenang. Oleh karena itu kegiatan ini bertujuan untuk menentukan posisi horizontal dan vertikal titik pemantauan banjir di Desa Segoroyoso. Titik pemantauan banjir ini diharapkan akan menjadi panduan para warga tentang kemungkinan terjadinya banjir. Posisi horizontal titik pemantau banjir ini akan diukur menggunakan instrumen Global Navigation Satelite System (GNSS) dan posisi vertikal didapatkan melalui pengukuran sipat datar. Hasil dari kegiatan ini adalah koordinat horizontal titik pantau dalam SRGI 2013 serta tinggi orthometriknya.",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/364320977_PENENTUAN_POSISI_TITIK_-TITIK_PEMANTAUAN_BANJIR_DI_DESA_SEGOROYOSO_KECAMATAN_PLERET_KABUPATEN_BANTUL_PROVINSI_DIY/links/6347c7a72752e45ef6b3b0e9/PENENTUAN-POSISI-TITIK-TITIK-PEMANTAUAN-BANJIR-DI-DESA-SEGOROYOSO-KECAMATAN-PLERET-KABUPATEN-BANTUL-PROVINSI-DIY.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9"
+    },
+    {
+        "title": "PEMBUATAN PETA SITUASI SKALA 1: 500 DI DUSUNDEGAN l DAN DEGAN ll DESA BANJARARUM KECAMATAN KALIBAWANG KABUPATEN KULON PROGO PROVINSI DI YOGYAKARTA",
+        "authors": [
+            "M HAFIDZ FAHREZA",
+            "Dedi Atunggal SP"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:K3LRdlH-MEoC",
+        "publication_date": "2019"
+    },
+    {
+        "title": "KOMPARASI KEPRESISIAN HASIL PENGUKURAN MODUL GPS ORIGINAL EQUIPMENT MANUFACTURER (OEM) MENGGUNAKAN ANTENA QUADRIFILAR HELIX DAN ANTENA MICROSTRIP",
+        "authors": [
+            "Tegar Pualam Syuhada",
+            "T Aris Sunantyo",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:vV6vV6tmYwMC",
+        "publication_date": "2018",
+        "abstract": "Mapping is a major user of GNSS technology, one of which is positioning with Global Positioning System (GPS). The last few years the OEM GPS module package with cheap price is available on the market. The demand for GNSS technology in mapping is very high and creates a tight market competition, so GNSS technology mapping equipment with low price but with reliable accuracy becomes an important requirement today. To improve the accuracy of the measurement results GPS module can be done by modifying the antenna. One of the alternative cheap antenna is quadrifilar helix antenna. The method used in this research is relative measurement called Post-Processing Kinematic (PPK). Evaluation of antenna performance is done by analyzing signal to Noise Ration (SNR) value and precision. Measurement using OEM GPS module with quadrifilar and microstrip Helix antenna at N0005 station with minimum multipath and obstruction. Measurement at N0005 station used as a rover and measured simultaneously with GMU station used as a base. The measurement results are processed using RTKLIB software. The precision of measurement results is evidenced by the standard deviation value for quadrifilar helix antenna is±0, 2921 m while of the coordinates generated by microstrip antenna is±0, 4425 m. Significance comparison of the precision of measurement results using quadrifilar helix antenna and microstrip antenna with postprocessing kinematic measurement method (PPK) was different significantly. The level of precision coordinate antenna quadrifilar helix is higher±0, 1504 m than precision coordinate of microstrip antenna …",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/350654728_KOMPARASI_KEPRESISIAN_HASIL_PENGUKURAN_MODUL_GPS_ORIGINAL_EQUIPMENT_MANUFACTURER_OEM_MENGGUNAKAN_ANTENA_QUADRIFILAR_HELIX_DAN_ANTENA_MICROSTRIP/links/606c3229299bf13f5d5e3674/KOMPARASI-KEPRESISIAN-HASIL-PENGUKURAN-MODUL-GPS-ORIGINAL-EQUIPMENT-MANUFACTURER-OEM-MENGGUNAKAN-ANTENA-QUADRIFILAR-HELIX-DAN-ANTENA-MICROSTRIP.pdf"
+    },
+    {
+        "title": "Evaluasi Penggunaan Data Satelit Beidou untuk Meningkatkan Kecepatan dan Ketelitian pada Penentuan Posisi Metode RTK",
+        "authors": [
+            "Satria Kusuma",
+            "Bilal Ma’ruf",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "CGISE 2018",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:MXK_kJrjxJIC",
+        "publication_date": "2018"
+    },
+    {
+        "title": "Pemetaan Dan Pembuatan Peta Situasi Metode Terestris Skala 1: 500 Dusun Degan Ii Desa Banjararum Kecamatan Kalibawang Kabupaten Kulon Progo Provinsi DI Yogyakarta",
+        "authors": [
+            "YUSUF HARY SAPUTRO",
+            "Dedi Atunggal SP"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:bFI3QPDXJZMC",
+        "publication_date": "2017"
+    },
+    {
+        "title": "Aplikasi GPS Tipe Pemetaan BAP Precision S852P untuk Pengukuran dan Pemetaan Bidang Tanah pada Daerah dengan Obstruksi Bervariasi",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma’ruf"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:maZDTaKrznsC",
+        "publication_date": "2017",
+        "abstract": "Pengukuran dan pemetaan bidang tanah secara konvensional dilaksanakan dengan pengukuran secara teristris menggunakan pita ukur dan Total Station (TS). Seiring dengan berkembangnya teknologi survei pemetaan, pengukuran dan pemetaan bidang mulai dilaksanakan juga dengan menggunakan metode ekstra terestris menggunakan Global Positioning System (GPS). Pengukuran dengan GPS low-cost potensial diterapkan untuk mendukung kegiatan peningkatan angka pemetaan bidang per tahun yang di BPN sevara umum targetnya cenderung naik dari tahun ke tahun. Alat yang digunakan dalam penelitian ini adalah GPS low-cost tipe pemetaan merk BAP Precision S852P. Hasil dari penelitian ini diharapkan dapat memberikan gambaran penggunaan receiver GPS tipe pemetaan dalam pengukuran dan pemetaan bidang dan ketelitian yang dihasilkan dari metode pengukuran tersebut. Pengukuran bidang dilakukan secara statik diferensial. Evaluasi hasil penelitian dilakukan dengan menganalisis hasil pengukuran dengan GPS low-cost ini terhadap hasil pengukuran metode RTK menggunaan GPS tipe geodetik. Receiver GPS BAP Precision S852P tergolong sebagai receiver low-cost namun daya tahan baterainya saat digunakan untuk pengukuran terhitung baik dengan durasi pengukuran secara kontinyu selama kurang lebih 6 jam pada pengukuran metode statik diferensial. Inisialisasi relatif lambat, padahal pada penelitian yang dilakukan oleh Atunggal dkk (2015) modul GPS yang sama dapat berinisialisasi dengan relatif lebih cepat (kurang dari 1 menit) dengan menggunakan aplikasi RTKLib. GPS tipe pemetaan BAP …",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/350446926_Aplikasi_GPS_Tipe_Pemetaan_BAP_Precision_S852P_untuk_Pengukuran_dan_Pemetaan_Bidang_Tanah_pada_Daerah_dengan_Obstruksi_Bervariasi/links/6061525e92851cd8ce744ff8/Aplikasi-GPS-Tipe-Pemetaan-BAP-Precision-S852P-untuk-Pengukuran-dan-Pemetaan-Bidang-Tanah-pada-Daerah-dengan-Obstruksi-Bervariasi.pdf"
+    },
+    {
+        "title": "ANALISIS HASIL PENGUKURAN POSISI HORIZONTAL KAPAL USV AROSSEL (Autonomous Remotely Operated Surface Vessel) MENGACU STANDAR IHO UNTUK PEMETAAN BATIMETRI SKALA BESAR",
+        "authors": [
+            "ST Abdul Basith",
+            "SP Dedi Atunggal"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2016"
+    },
+    {
+        "title": "SURVEI JALUR TRANSMISI 70 KV DARI KECAMATAN GIRI MULYA SAMPAI KECAMATAN KETAHUN, KABUPATEN BENGKULU UTARA, PROVINSI BENGKULU",
+        "authors": [
+            "MUHAMMAD ASHAR",
+            "Dedi Atunggal SP"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:tS2w5q8j5-wC",
+        "publication_date": "2014"
+    },
+    {
+        "title": "Optimasi Jaring Kontrol Geodinamik dengan Menggunakan GPS di Kawasan Sesar Opak",
+        "authors": [
+            "D Atunggal",
+            "D Fahrurazi"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "Yogyakarta",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:SP6oXDckpogC",
+        "publication_date": "2013"
+    },
+    {
+        "title": "Modeling Deformation at Sunda Strait Base On GPS Observation of Year 2006-2011",
+        "authors": [
+            "Fajriyanto Fajriyanto",
+            "Irwan Meilano",
+            "Parluhutan Manurung",
+            "Eko Rahmadi"
+        ],
+        "cited_by": "",
+        "year": "2012",
+        "venue": "The 1 st Conference on Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:1qzjygNMrQYC",
+        "publication_date": "2012/11/21",
+        "abstract": "The Sunda Strait is the meeting of two tectonic plates, the Eurasian plate and Indo-Australian plate. Sunda Strait has a fairly high seismic activity. This is shown by several earthquakes that have occurred in the Sunda Strait. The high seismic activity was caused by the presence of active faults and subduction zones in the Sunda Strait. Based on the fairly high seismic activity in the Sunda Strait is necessary to do research on the velocity, strain rate, slip rate, and modeling of subduction that occurred in the Sunda Strait. In this study CGPS observations contained in the Sunda Strait and parts of Java Barat performed in 2009 to 2011, using data that is managed by BIG (Bakosurtanal). Based on the results of GPS data processing, the observation point in the western part of the Sunda Strait has velocity in the direction of the North West with a value ranging from 2.21 to 3.16 shift in cm / year and the eastern part of the Sunda Strait between 2.09 to 3.24 shift cm / year to the Northeast. Based on the pattern of strain, the West tends to have an extension of the Sunda Strait, as well as for the eastern Sunda Strait. While the northern part of the Sunda Strait compressed. This shows the activity and the Sumatran Subduction Fault in the area. Of the estimated shear rate, Sumatra fault segments Semangko Fault has a value of slip rate of 25 mm / year. Modeling of subduction (coupling) is conducted in this study were divided into 4 (four) areas, with a coupling value varying rate. The smallest rms value indicates that the model was approaching from the CGPS observations, so as to provide information related to the seismic activity that occurred in the Sunda Strait.",
+        "pdf_link": "http://repository.lppm.unila.ac.id/49664/1/1.%20Prosiding-CGISE-1st%20-Fajriyanto%20dkk.pdf"
+    },
+    {
+        "title": "Analisis Persebaran Sedimentasi Waduk Berdasarkan Data Multi Epoch Hasil Pengukuran Bathymetry yang Terikat Pada Stasiun GNSS-CORS",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "",
+        "year": "2012",
+        "venue": "Konferensi Teknik dan Sains Informasi Geospasial ke-1 (The 1st Conference on Geospatial Information Science and Engineering)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:ZeXyd9-uunAC",
+        "publication_date": "2012"
+    },
+    {
+        "title": "Pemanfaatan Prototip ROV (Remotely Operated Vehicle) dan Aplikasi Antarmuka untuk Visualisasi Jalur Perum dalam Survei Batimetri",
+        "authors": [
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:TFP_iSt0sucC",
+        "publication_date": "2011",
+        "abstract": "Boat/ship has been conventionally used as a vehicle for bathymetry survey using echosounder. One of the main factors that influence the effectiveness of the implementation of bathymetry survey using a boat/ship is in the flexibility of doing the survey along and across the predefined survey lanes. In the narrow waters (small dam sluice gates, settling pond area of open pit and so on), this activities are always constrained. This study aims to build ROV prototype that can be used as an alternative vehicle for bathymetric surveys in narrow waters. ROV planned to be used in this study is a mini boat controlled using a remote control. By using a smaller vehicle it is expected that the survey will be more flexible. This study also aimed to produce an application interface that can be used by surveyors to control ROV during the survei execution along and across the predefined survey lane. The interface is planned to provide visual guidance to the operator during the survey excution. Based on the result of the work it can be concluded that the ROV can be used for bathymetric measurements with the spacing between survey lanes of below 7, 5m. The time needed to make the shift between lanes is below 30 seconds. ROV still requires further development due to the slow movement during the survey. Application interfaces generated in this study is called VisualLine with 1.01 Mb size and can run on Windows operating systems. This application can display the position of the ROV, survey lanes and the distance between the ROV position to the closest survey lane. In general, the application runs fine due to the the absence of rogram error during the simulations …",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/350105631_Pemanfaatan_Prototip_ROV_Remotely_Operated_Vehicle_dan_Aplikasi_Antarmuka_untuk_Visualisasi_Jalur_Perum_dalam_Survei_Batimetri/links/60518ddda6fdccbfeae6243a/Pemanfaatan-Prototip-ROV-Remotely-Operated-Vehicle-dan-Aplikasi-Antarmuka-untuk-Visualisasi-Jalur-Perum-dalam-Survei-Batimetri.pdf"
+    },
+    {
+        "title": "ATR/BPN.",
+        "authors": [
+            "T Aditya",
+            "PB Santosa",
+            "U Rahardja",
+            "Riyadi Istarno",
+            "Y Yulaikhah",
+            "N Widjajanti",
+            "D Atunggal",
+            "M Sulistyawati",
+            "N Apriyana",
+            "Studi Banding Mengenai Tata Ruang",
+            "Pertanahan di Inggris In",
+            "T Arianto",
+            "Keterbukaan Informasi Publik Data Spasial Bidang",
+            "C Batini",
+            "C Cappiello",
+            "C Francalanci",
+            "A Maurino"
+        ],
+        "cited_by": "",
+        "year": "2010",
+        "venue": "Universitas",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:738O_yMBCRsC",
+        "publication_date": "2010/11/10"
+    },
+    {
+        "title": "Kalibrasi Alat DGPS dengan Metode Uji Panjang Baseline",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono",
+            "Asri Zahid",
+            "A Basith"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:RHpTSmoSYBkC",
+        "publication_date": "2009/11/17"
+    },
+    {
+        "title": "CHARACTERIZING ACCURACY OF DEM DERIVED FROM CLOSE-RANGE PHOTOGRAMMETRIC",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Abdul Nasir Matori",
+            "Dedi Atunggal",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "Prosiding Seminar Nasional Revitalisasi Data dan Sains-Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:R3hNpaxXUhUC",
+        "publication_date": "2009"
+    },
+    {
+        "title": "Status of GNSS CORS GMU1 at Geodetic Department Faculty of Engineering, Gadjah Mada University",
+        "authors": [
+            "T Aris Sunantyo",
+            "Bilal Ma'ruf",
+            "Dedi Atunggal",
+            "Adityo Nugroho"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "Documentation Teknik Geodesi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2009",
+        "abstract": "GNSS CORS have been growing to be widely applicable in Indonesia. Several government institutions and private companies have installed GNSS CORS at their offices. The GNSS CORS GMU1 is one of several GNSS CORS in Indonesia which is operated by Geodetic Department, Faculty of Engineering, Gadjah Mada University since June 27, 2009. The GMU1 is the main dedication and a kind support from geodetic department, faculty of engineering, Gadjah Mada University alumni. The first launching of GNSS CORS GMU1 is supposed to celebrate 50th anniversary of Geodetic Department, faculty of engineering, Gadjah Mada University. The purpose of GNSS CORS GMU1 is to design for multi purposes including academic research (for staff and students), official and public services. Several users now are waiting for the services of GMU1. The first problem of services for all of user is concerning with the performance of GMU1 station. That is why the evaluation of GMU1 performance will have to be carried out before operated for many users. In order to evaluate the performance of GMU1, several activities have been done including definition of station, RTK and NRIP test of rover, and post processing method. The definition of station of the GNSS CORS data processing (10 days observation) was carried out by GAMIT 10.35 version. The paper will be discussed mainly about status of GNSS CORS GMU 1 and preliminary testing. Key words: GNSS CORS, GMU1, RTK, and NRIP"
+    },
+    {
+        "title": "Differential Precise Positioning by using Low Cost GPS",
+        "authors": [
+            "Dedi Atunggal",
+            "Nurrohmat Widjajanti",
+            "Bambang Kun Cahyono",
+            "Abdul Nasir Matori"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "ISG 2008",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:Zph67rFs4hoC",
+        "publication_date": "2008/10/13"
+    },
+    {
+        "title": "Developing GUI-Based Software to Generate RINEX File from Several GPS Receivers: A Review on its Technical Programming and Cost Efficiency Impact",
+        "authors": [
+            "Dedi Atunggal",
+            "I Made Andi Arsana"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "Map Asia 2008",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:5nxA0vEk-isC",
+        "publication_date": "2008"
+    },
+    {
+        "title": "Estimating the Quality of Digital Terrain Model Generated from RTK GPS Data on Terrain with Various Sky of Views",
+        "authors": [
+            "Dedi Atunggal SP",
+            "BK Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "ICCBT 2008",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:LkGwnXOMwfcC",
+        "publication_date": "2008"
+    },
+    {
+        "title": "Digital Terrain Modeling by Using Real Time Kinematic GPS Data",
+        "authors": [
+            "Dedi Atunggal SP"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jlJ_M_MAAAAJ&cstart=20&pagesize=80&citation_for_view=jlJ_M_MAAAAJ:_FxGoFyzp5QC",
+        "publication_date": "2008",
+        "abstract": "Total tation(TS) survey is one of the most familiar and accurate technique used for high resolution DTM data collection. However ,some factors such as intervisibility ,prism targeting and unfriendly weather condition are frequently slowing down the speed of survey which mostly leads to cost inflation. Real Time Kinematics GPS(RTK GPS) offers an alternative where less surveyor needed for the survey ,no intervisibilty is required,and survey execution is weather independent. The materials presented in this work are based on the experiment to demonstrate the application of RTK GPS compared to TS survey."
+    }
+]

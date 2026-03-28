@@ -1,0 +1,979 @@
+[
+    {
+        "title": "Validation and collaborative mapping to accelerate quality assurance of land registration",
+        "authors": [
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Yulaikhah Yulaikhah",
+            "Nurrohmat Widjajanti",
+            "Dedi Atunggal",
+            "Miranty Sulistyawati"
+        ],
+        "cited_by": "52",
+        "year": "2021",
+        "venue": "Land Use Policy",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:R3hNpaxXUhUC",
+        "publication_date": "2021/10/1",
+        "abstract": "Incomplete digitalisation of land-titling documentation and sporadic first-titling in the past pose considerable challenges to delivering complete and good quality land information. In Indonesia, for the past three years, a new land policy has been implemented as part of a project to completely and systematically register land titles. This new policy has increased the production of land titles by seven to nine times. However, the approach remains focused on increasing quantity rather than improving quality. As the number of unmapped land titles is still high, insecurity of land certificates resulting from the current national project is imminent. Social challenges to land-titling activities include poor participation of landowners while technical problems could include incomplete validation. This paper presents the results of a study that employed collaborative mapping to validate land titles and evaluated corresponding quality …",
+        "total_citations": "Cited by 52",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S0264837721004129"
+    },
+    {
+        "title": "Participatory land administration in Indonesia: Quality and usability assessment",
+        "authors": [
+            "Trias Aditya",
+            "Eva Maria-Unger",
+            "Christelle vd Berg",
+            "Rohan Bennett",
+            "Paul Saers",
+            "Han Lukman Syahid",
+            "Doni Erwan",
+            "Tjeerd Wits",
+            "Nurrohmat Widjajanti",
+            "Purnama Budi Santosa",
+            "Dedi Atunggal",
+            "Imam Hanafi",
+            "Dewi Sutejo"
+        ],
+        "cited_by": "44",
+        "year": "2020",
+        "venue": "Land",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:3fE2CSJIrl8C",
+        "publication_date": "2020/3/9",
+        "abstract": "This paper presents the results from a quality and usability analysis of participatory land registration (PaLaR) in Indonesia’s rural areas, focusing on data quality, cost, and time. PaLaR was designed as a systematic community-centered land titling project collecting requisite spatial and legal data. PaLaR was piloted in two communities situated in Tanggamus and Grobogan districts in Indonesia. The research compared spatial data accuracy between two approaches, PaLaR and the normal systematic land registration approach (PTSL) with respect to point accuracy and polygon area. Supplementary observations and interviews were undertaken in order to evaluate the effectiveness of the spatial and legal data collection, as well as logical consistency of the data collected by the community committee, using a mobile application. Although the two pilots showed a lower spatial accuracy than the normal method (PTSL), PaLaR better suited local circumstances and still delivered complete spatial and legal data in a more effective means. The accuracy and efficiency of spatial data collection could be improved through the use of more accurate GNSS antennas and a seamless connection to the national land databases. The PaLaR method is dependent on, amongst other aspects, inclusive and flexible community awareness programs, as well as the committed participation of the community and local offices.",
+        "total_citations": "Cited by 44",
+        "pdf_link": "https://www.mdpi.com/2073-445X/9/3/79"
+    },
+    {
+        "title": "Dissemination of tidal flood risk map using online map in Semarang",
+        "authors": [
+            "Arief Laila Nugraha",
+            "Purnama Budi Santosa",
+            "Trias Aditya"
+        ],
+        "cited_by": "34",
+        "year": "2015",
+        "venue": "Procedia Environmental Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2015/1/1",
+        "abstract": "Semarang is one of the largest cities in Java Island that is very prone to tidal flood. In order to reduce the tidal flood risk, disaster managers and city planners need a well-planned natural disaster risk management method based on disaster risk map of the city area. Risk mapping alone is not enough; an efficient system to disseminate the result of risk mapping for general public is also needed. This work intends to solve a problem of arrangement and presentation of tidal flood risk mapping. In order to develop the disaster risk map, the validation and prediction of the tidal flood were done to produce a hazard map on the tidal flood. Subsequently, the maps of vulnerability and capacity of the study area were produced based upon VCA (Vulnerability Capacity Analysis) by using fuzzy logic and weighted method approaches. As a comparison to that, the calculation of tidal flood risk was also done by adopted to the …",
+        "total_citations": "Cited by 34",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1878029615000110/pdf?md5=75f89ac2a8a99d8063770c64c890d1ee&pid=1-s2.0-S1878029615000110-main.pdf&_valck=1"
+    },
+    {
+        "title": "Pemetaan Risiko Bencana Banjir Rob Kota Semarang",
+        "authors": [
+            "LN Arief",
+            "Purnama Budi Santosa",
+            "T Aditya"
+        ],
+        "cited_by": "18",
+        "year": "2012",
+        "venue": "The 1st Conference on Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:9ZlFYXVOiuMC",
+        "publication_date": "2012",
+        "total_citations": "Cited by 18"
+    },
+    {
+        "title": "Evaluation of Satellite Image Correction Methods Caused by Differential Terrain Illumination",
+        "authors": [
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "16",
+        "year": "2016",
+        "venue": "Forum Geografi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2016/8/3",
+        "abstract": "The problem due to differential terrain illumination on satellite imagery is experienced by most of areas which are on mountainous terrain. This may cause variations in reflectance of similar ground features which lead to a misclassification of land cover classes due to different topographic positions. This phenomenon most commonly occurred in the areas which are located on southern and northern hemisphere because of the low sun inclination. This problem has been a major interest for researchers to be solved prior to the land cover classification process. For satellite images which experience this kind of problem, topographic correction need to be applied in order to reduce the illumination effects prior to land cover classification process. Â This research is aimed at conducting topographic correction of multi spectral SPOT satellite data as well as evaluating the three topographic correction methods. They are Cosine which is based on Lambertian reflectance assumption, as well as Minnaert correction and C correction methods which are based on non-Lambertian reflectance assumption. The data used in this study are two scenes of SPOT images of forested mountainous area of Miyazaki Prefecture, Kyushu, Japan. Â Research steps had been conducted in this study including geometric correction, sample data collection for calculating Minnaert constants and C constants at location which represents the whole study area, topographic correction for two scenes SPOT images, and results analysis. The results show that Cosine method did not show good performance for the study area which is topographically dominated by rugged terrain. Whereas …",
+        "total_citations": "Cited by 16",
+        "pdf_link": "https://journals.ums.ac.id/fg/article/download/1768/1531"
+    },
+    {
+        "title": "Estimation of RUSLE EI30 based on 10 min interval rainfall data and GIS-based development of rainfall erosivity maps for Hitotsuse basin in Kyushu Japan",
+        "authors": [
+            "Purnama B Santosa",
+            "Yasuhiro Mitani",
+            "Hiro Ikemi"
+        ],
+        "cited_by": "16",
+        "year": "2010",
+        "venue": "2010 18th international conference on geoinformatics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2010/6/18",
+        "abstract": "Land erosion is regarded as one of the most important phenomenon causes land degradation. In revised universal soil loss equation (RUSLE) erosion model, rainfall erosivity factor (R) is one of the important parameters. Ideally, the calculation of EI30 (R factor) uses breakpoint rainfall intensity data which is calculated manually from graphical charts that are generated by continuously recording rain gauges. However, due to limited availability of breakpoint rainfall data, many simple methods for estimating EI30 have been developed by using yearly, monthly and daily rainfall data. In this research, due to limited data availability, pluviograph data at 10 minute interval from eight stations in Hitotsuse basin were used to compute EI30 (R factor) for RUSLE. The approach used in this research is based on storm rainfall and duration data from 1990 to 2009. This method is based on the calculation of rainfall energy per unit …",
+        "total_citations": "Cited by 16"
+    },
+    {
+        "title": "Analisis geospasial perubahan penggunaan lahan dan kesesuaiannya terhadap RTRW Kabupaten Purworejo Tahun 2011-2031",
+        "authors": [
+            "Virgiawan Aji Saputra",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "15",
+        "year": "2020",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:Wp0gIr-vW9MC",
+        "publication_date": "2020",
+        "abstract": "Kabupaten Purworejo terletak pada jalur lintas selatan di wilayah Jawa Tengah yang menghubungkan Yogyakarta dengan kota-kota lain di wilayah selatan Jawa Tengah seperti Kutoarjo, Kebumen, Purwokerto, serta kota-kota lainnya. Letak Kabupaten Purworejo yang strategis ini berdampak pada dinamika sosial, ekonomi, dan kependudukan, khususnya pertumbuhan wilayah. Berdasarkan fenomena tersebut, penelitian ini bertujuan untuk mengetahui perubahan penggunaan lahan yang terjadi di Kabupaten Purworejo, serta kesesuaiannya dengan Rencana Tata Ruang Wilayah (RTRW) tahun 2011-2031. Metode yang digunakan adalah pendekatan analisis geospasial untuk melakukan analisis spasial-temporal perubahan spasial penggunaan lahan dari tahun 2008 dan 2013. Hasil analisis perubahan spasial ini kemudian dikorelasiakan dengan peta RTRW Kabupaten Purworejo tahun 2011-2031 untuk mengetahui tingkat kesesuaian pengunaan lahan di Kabupaten Purworejo terhadap RTRW. Hasil penelitian menunjukkan bahwa dalam waktu 5 tahun dari tahun 2008 sampai dengan 2013 terjadi perubahan penggunaan lahan sebesar 0, 1%. Perubahan luas penggunaan lahan terbesar terjadi di Kecamatan Grabag dengan persentase 0, 71%, sedangkan Kecamatan Ngobol, Bener, Gebang, dan Loano bisa dikatakan tidak mengalami perubahan penggunaan lahan. Ditinjau dari kesesuaian penggunaan lahan terhadap RTRW, maka dapat diperoleh informasi bahwa tingkat kesesuaian penggunaan lahan pada tahun 2013 adalah sekitar 62, 21%. Kecamatan Kutoarjo dengan persentase 93, 34% merupakan kecamatan dengan …",
+        "total_citations": "Cited by 15",
+        "pdf_link": "https://scholar.archive.org/work/tf4tmu4vqvgezeyzajez6ugzse/access/wayback/https://jurnal.ugm.ac.id/jgise/article/download/60931/29834"
+    },
+    {
+        "title": "Spatial analysis of Kulon Progo District development from 2007-2030 with cellular automata markov model",
+        "authors": [
+            "Ajeng Kartika Nugraheni Syafitri",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "13",
+        "year": "2019",
+        "venue": "KnE Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:8k81kl-MbHgC",
+        "publication_date": "2019/12/26",
+        "abstract": "The construction of a new airport in Kulon Progo District as an embodiment of improving transportation infrastructure will have an effect on changes in spatial planning and land use. These changes can cause several impacts, so planning is needed as a preventive measure. Forms of planning are very diverse, ranging from the simplest to very complex. One of the alternatives is to make a simulation through a model approach with the Cellular Automata (CA) method, while the pattern of the direction of physical development of residential areas with the Global Moran’s Index. The research location focuses on three sub-districts in Kulon Progo District, which are the closest sub-districts to the airport construction sites, namely Kokap, Temon, and Wates Sub-districts. The main data used in this research are multi-temporal land use data, namely in 2007, 2012, and 2017. The data from the years of 2007 and 2012 are projected to become in the year 2017 and compared with the original data of 2017 to determine the level of suitability, resulting suitability of 91.53%. The final results of this research show predictions of the development of Kulon Progo District in 2030. In the span of 23 years, from 2007 to 2030, the allocation of residential land increased by 7.98% leaning west and south side. Results from the Global Moran’s Index show that the pattern of development in the Kulon Progo Regency area is random.",
+        "total_citations": "Cited by 13",
+        "pdf_link": "https://knepublishing.com/index.php/KnE-Engineering/article/download/5864/11254"
+    },
+    {
+        "title": "Evaluasi Penggunaan Lahan Mengacu pada Indeks Potensi Lahan dan Kesesuaiannya Terhadap Rencana Tata Ruang Wilayah di Kabupaten Wonosobo",
+        "authors": [
+            "Tiara Ana Ndofah",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "10",
+        "year": "2023",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:ZHo1McVdvXMC",
+        "publication_date": "2023",
+        "abstract": "Seiring pertumbuhan penduduk, kebutuhan akan lahan untuk berbagai keperluan semakin meningkat, misalnya untuk permukinan, perdagangan, industry, jasa. Hal ini mengakibatkan perubahan penggunaan lahan yang pada beberapa daerah mengorbankan lahan pertanian. Indeks Potensi Lahan (IPL) menunjukkan nilai potensi sebuah lahan dilihat dari ciri fisik lahan tersebut. IPL sering digunakan dalam evaluasi lahan berdasarkan potensinya. Penelitian ini bertujuan untuk mengevaluasi penggunaan lahan berdasarkan IPL dan kesesuaiannya terhadap RTRW Kabupaten Wonosobo. Penyusunan IPL dilakukan dengan metode Multi Criteria Analysis (MCA). Parameter IPL yang digunakan adalah kemiringan lereng, jenis tanah, batuan induk, produktivitas akuifer, dan kerawanan bencana (banjir, banjir bandang, dan tanah longsor). Peta kemiringan lereng disusun dari SRTM 30 m dan SRTM 90 m. Adapun …",
+        "total_citations": "Cited by 10"
+    },
+    {
+        "title": "Estimating Land Value Change Post Land Consolidation of Gadingsari Village, Bantul Regency, Special Region of Yogyakarta, Indonesia",
+        "authors": [
+            "Agatha Astrisele",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "10",
+        "year": "2019",
+        "venue": "JGISE - Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:mVmsd5A6BfQC",
+        "publication_date": "2019",
+        "abstract": "Land is a resource with limited availability, but has an ever-increasing demand. Land Consolidation is a realignment activity which can be an alternative in planning a regional development. Land Consolidation in Gadingsari Village is a Bantul Regency government program implemented in 2017 located in Nanggulan, Patihan and Wonoroto Villages involving 200 land parcels, with 172 participants for land consolidation and 111,467 m2 of land. Land Consolidation produces land that has good accessibility and regularity of land parcels so it may triggers an increase in land value. An increase in land value can be estimated by modeling the land value before and after land consolidation. One method that is often used in the modeling of land values is the multiple variabel linear regression method. The method used in this study involves the price of land as the dependent variabel and the independent variabel, namely:(1) Road Class;(2) Distance of land parcels to the Economic Center;(3) Distance of land parcels to the Village Government;(4) Distance between land parcels to the tourist site;(5) Distance of land parcels to Health Facilities;(6) Area;(7) Distance of parcels to Main roads;(8) Distance between land parcels of land to the beach; and (9) Land Use. The model formed is then used to calculate the estimated value of land prices before and after the implementation of land consolidation. The estimated value of land produced by the land value model prior to land consolidation ranges from Rp. 11,000 to Rp. 370,000. While the estimated land value for the land value model after land consolidation ranges from Rp. 21,000 to Rp. 605,000.",
+        "total_citations": "Cited by 10",
+        "pdf_link": "https://pdfs.semanticscholar.org/bad8/1530c4316caf20762f0139fede2846b9afab.pdf"
+    },
+    {
+        "title": "Analisis Geospasial Perubahan Ruang Terbuka Hijau Wilayah Kota Purwokerta dari Tahun 2013 sampai 2020",
+        "authors": [
+            "Nindita Shita Devi",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "9",
+        "year": "2022",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:TFP_iSt0sucC",
+        "publication_date": "2022",
+        "abstract": "Sebagai ibukota Kabupaten Banyumas, pertumbungan dan perkembangan Kota Purwokerto cukup pesat dalam beberapa dekade terakhir. Pengalihan fungsi lahan menjadi permukiman dan bangunan untuk fungsi lain menjadi salah satu akibat dari adanya pembangunan di Kota Purwokerto. Pertambahan jumlah penduduk di Kota Purwokerto juga mengakibatkan pengalihan fungsi lahan menjadi permukiman semakin tinggi. Hal ini menyebabkan terjadinya penurunan ketersediaan Ruang Terbuka Hijau (RTH) di Kota Purwokerto. Oleh karena itu, penelitian ini bermaksud untuk menganalisis ketersediaan dan kecukupan RTH di Kota Purwokerto. Untuk itu, pemetaan dan pengklasifikasian RTH dilakukan menggunakan teknologi penginderaan jauh dengan data citra satelit SPOT 6, metode Object Based Image Analysis (OBIA) serta interpretasi visual. Pengukuran luas RTH dan analisis spasial dilakukan menggunakan Sistem Informasi Geografis (SIG). Analisis ketersediaan dan kecukupan RTH terhadap jumlah penduduk dan kebutuhan oksigen mengacu pada UU No. 26 Tahun 2007 dan Permen PU No. 05/PRT/M/08. Analisis ini dilakukan untuk tahun 2013, 2019, dan 2020. Perhitungan kebutuhan oksigen dihitung menggunakan Metode Gerakis. Pemetaan dan perhitungan luas RTH dilakukan dengan perangkat lunak eCognition Developer dan SIG. Perhitungan luas kebutuhan RTH terhadap jumlah penduduk dan kebutuhan oksigen dilakukan dengan perangkat lunak SPSS Statistics 26. Hasil penelitian menunjukkan bahwa luas ketersediaan RTH di Kota Purwokerto sudah memenuhi standar luas kebutuhan RTH terhadap jumlah …",
+        "total_citations": "Cited by 9",
+        "pdf_link": "https://pdfs.semanticscholar.org/1b57/0e4646694cb4a950ffd433d34b8d8991d15c.pdf"
+    },
+    {
+        "title": "Analisis Spasial Bencana Longsor Bukit Telogolele Kabupaten Banjarnegara Menggunakan Data Foto Udara UAV",
+        "authors": [
+            "Ruli Andaru",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "8",
+        "year": "2017",
+        "venue": "Jurnal Nasional Teknologi Terapan (JNTT)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:W7OEmFMy1HYC",
+        "publication_date": "2017/11",
+        "abstract": "Spatial data is a very important role in emergency command and disaster management, before, during or post disasters. When a disaster occurs, the currently geospatial information is very needed: where the center of the disaster, the area affected, the volumetric of the landslide, what facilities are damaged, and determine the location of temporary shelters. This study examines and analyze the landslide in Banjarnegara 2014 before and after the landslide using Peta Rupa Bumi Indonesia (RBI) and the UAV Aerial Photos (Unmanned Aerial Vehicle). Data before the landslide obtained from RBI, while data after landslide obtained by performing aerial photography using fixed-wing UAV in December 2014 and August2015. These aerial photos processing with photogrammetry to produce digital orthophoto and DEM (Digital Elevation Model). Orthophoto and DEM data is used to perform geospatial analysis in both 2D and 3D. 3D analysis obtained from the extraction of DEM elevation map data values appearance of the earth (RBI) and the UAV Aerial Photo. Analysis was conducted on the four components: contouring, terrain profile/cross section, slope/gradient, and volumetric (cut and fill).",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://www.academia.edu/download/90066358/20356.pdf"
+    },
+    {
+        "title": "Network analysis to determine the optimal route for firefighters in Makassar City",
+        "authors": [
+            "Bimo Aji Widyantoro",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "7",
+        "year": "2021",
+        "venue": "IOP conference series: Earth and environmental science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:4JMBOYKVnBMC",
+        "publication_date": "2021/12",
+        "abstract": "Makassar city experiences many residential fire disasters during the last years. One of the causes of fires is difficult to overcome due to the firefighters’ late response. The number of fires occurred due to the ineffectiveness of the fire fighting road, obstructed by traffic conditions, in its operation. Developing a geospatial route analysis can help firefighters quickly find the best route to a fire point to overcome this problem. Geospatial route analysis is currently a key role in emergency responses for urban fire disasters. A routing system can provide network analysis that allows users to navigate between source and destination points. In this case, the system can help firefighters to arrive as quickly as possible. On complicated road networks, some impedance factors would slow down drivers on a particular road. This study aims to provide firefighters from the base stations to residential fire disaster locations. The method …",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/936/1/012005/pdf"
+    },
+    {
+        "title": "Visualisasi Data Statistik Kabupaten Banyumas Menggunakan Peta Interaktif",
+        "authors": [
+            "Hanif Ilmawan",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "7",
+        "year": "2021",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:dhFuZR0502QC",
+        "publication_date": "2021/2/24",
+        "abstract": "Penyajian data statistik mengalami perkembangan seiring dengan kemajuan teknologi. Data statistik tidak hanya disajikan dalam bentuk tabel dan grafik saja, tetapi juga divisualisasikan menggunakan peta. Bahkan saat ini juga digunakan peta interaktif berbasis online untuk lebih memudahkan pengguna dalam mengakses dan mengeksplorasi data yang ada. Hal ini merupakan salah satu bentuk pelaksanaan dari Pasal 20 UU No. 16 Tahun 1997 yang mengatur bahwa penyelenggara kegiatan statistik wajib memberikan kesempatan yang sama kepada masyarakat untuk mengetahui dan memperoleh manfaat dari data statistik yang tersedia. Salah satu perangkat lunak yang dapat dimanfaatkan untuk melakukan visualisasi data statistik adalah StatPlanet Plus. Perangkat lunak ini bersifat free (versi offline dan non komersial). StatPlanet Plus mampu menghasilkan peta interaktif dengan menggunakan bahasa …",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://pdfs.semanticscholar.org/64da/ed6772db6d8b5b3d24c37cd5679463d34275.pdf"
+    },
+    {
+        "title": "I-SRI, an SDI Readiness Index for Local Government in Indonesia",
+        "authors": [
+            "Heri Sutanta",
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Diyono",
+            "Dany Puguh Laksono",
+            "Annisa Farida"
+        ],
+        "cited_by": "7",
+        "year": "2014",
+        "venue": "Paper presented at FIG Congress, Kuala Lumpur",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:QIV2ME_5wuYC",
+        "publication_date": "2014/6",
+        "abstract": "I-SRI, an SDI Readiness Index for Local Government in Indonesia Outline Page 1 I-SRI, an SDI \nReadiness Index for Local Government in Indonesia Heri Sutanta, Trias Aditya, Purnama Budi, \nDiyono, Dany Laksono, Annisa Farida Research Centre for Spatial Data Infrastructure \nDevelopment (Pusat Pengembangan Infrastruktur Data Spasial) Universitas Gadjah Mada XXV \nInternational Federation of Surveyors Congress, Kuala Lumpur, Malaysia, 16 – 21 June 2014 \nIntroduction SDI Development in Indonesia SDI Readiness Index for Local Government Results \nKey findings and Future Works Outline XXV International Federation of Surveyors Congress, \nKuala Lumpur, Malaysia, 16 – 21 June 2014 Page 2 SDI has been developed for around \ntwenty years Success stories varies from countries and from different level of governments \nSDI Readiness Index (SRI) can facilitate mapping of progress as well as impediments in …",
+        "total_citations": "Cited by 7",
+        "pdf_link": "http://w.fig.net/resources/proceedings/fig_proceedings/fig2014/ppt/ts04h/TS04H_sutanta_aditya_et_al_7298_ppt.pdf"
+    },
+    {
+        "title": "Analisis geospasial perubahan penggunaan lahan dan kesesuaiannya terhadap RTRW Kabupaten Purworejo Tahun 2011-2031. JGISE: Journal of Geospatial Information Science and …",
+        "authors": [
+            "VA Saputra",
+            "PB Santosa"
+        ],
+        "cited_by": "6",
+        "year": "2020",
+        "venue": "Analisis geospasial perubahan penggunaan lahan dan kesesuaiannya terhadap RTRW Kabupaten Purworejo Tahun 2011-2031. JGISE: Journal of Geospatial Information Science and Engineering, 3 (2), 152VA Saputra, PB Santosa - 2020Cited by 6 Related articles",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:D03iK_w7-QYC",
+        "publication_date": "2020",
+        "total_citations": "Cited by 6"
+    },
+    {
+        "title": "Cybersecurity Risk-Management to Maintain Integrity Land Data Transactions: Application to Indonesian and French Land Administration Systems",
+        "authors": [
+            "PF Blin",
+            "T Aditya",
+            "C Claramunt",
+            "Y Kermarrec",
+            "PB Santosa"
+        ],
+        "cited_by": "5",
+        "year": "2022",
+        "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:bEWYMUwI8FkC",
+        "publication_date": "2022/12/2",
+        "abstract": "This paper introduces a series of principles for cyber risk management applied to Land Administration Systems. The aim is to maintain the integrity of cadastral data and land transactions while maintaining vulnerability awareness and risk treatment. The methodology combines BPMN 2.0, EBIOS Risk Manager and Obérisk in compliance with ISO standards. The approach is comparatively applied to Indonesian and French cadastres as a proof-of-concept to foster reproducibility and scalability and provide further opportunities for application to other international Land Administrations Systems.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://isprs-archives.copernicus.org/articles/XLVIII-4-W3-2022/29/2022/isprs-archives-XLVIII-4-W3-2022-29-2022.pdf"
+    },
+    {
+        "title": "Evaluasi Pemanfaatan Citra Tegak Satelit Resolusi Tinggi untuk Percepatan Pembuatan Peta Blok Pajak Bumi dan Bangunan (PBB-P2) secara Partisipatif di Desa Triharjo, Kabupaten …",
+        "authors": [
+            "Fauzia Aristalindra",
+            "Purnama Budi Santosa",
+            "Diyono Diyono",
+            "Subaryono Subaryono"
+        ],
+        "cited_by": "5",
+        "year": "2020",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:_kc_bZDykSQC",
+        "publication_date": "2020",
+        "abstract": "The recent advances of remote sensing technology development can support government needs including cadastral related purposes. One of the purposes is to supply geospatial data especially land parcel maps for land and tax value inventory. This research tries to evaluate the utilization of Quickbird Satellite image for updating land and building (PBB-P2) block maps in Bantul Regency, Yogyakarta Province of Indonesia. The image was recorded in 2014 with resolution of 0.6 meter and has been ortho-rectified. Evaluation is conducted by analyzing the utilization of the image as the base map for deriving land parcel maps according to the Decree of Tax Director General number: KEP-533/PJ/2000. The process was firstly done by digitizing land parcel boundaries on Quickbird image to produce block maps. The process was done by the community through participatory mapping. The resulting block maps then were …",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "Analisis Spasial Penggunaan Lahan dan Kesesuaian Terhadap Rencana Tata Ruang Wilayah di Kecamatan Kejajar, Kabupaten Wonosobo",
+        "authors": [
+            "Yunita Kartika Sari",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "4",
+        "year": "2022",
+        "venue": "Majalah Ilimaih Globe",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:isC4tDSrTZIC",
+        "publication_date": "2022",
+        "abstract": "Pertumbuhan penduduk yang tinggi di Indonesia berakibat pada kebutuhan ruang yang memicu terjadinya perubahan lahan untuk memenuhi kebutuhan lahan untuk berbagai macam peruntukan. Hal ini juga terjadi di Kabupaten Wonosobo, khususnya Kecamatan Kejajar, dimana perubahan penggunaan lahan diindikasikan terjadi untuk memenuhi kebutuhan lahan untuk perkebunan sayur. Perubahan lahan yang terjadi diindikasikan menyebabkan ketidaksesuaian penggunaan lahan terhadap Rencana Tata Ruang Wilayah (RTRW). Kesesuaian penggunaan lahan wilayah Kabupaten Wonosobo mengacu pada Peraturan Daerah Kabupaten Wonosobo No. 2 Tahun 2011 tentang Rencana Tata Ruang Wilayah (RTRW) Kabupaten Wonosobo Tahun 2011-2031. Penelitian ini bertujuan untuk menganalisis perubahan penggunaan lahan tahun 2015 dan 2018 dan kesesuaian penggunaan lahan tahun 2018 terhadap RTRW di wilayah Kecamatan Kejajar, Kabupaten Wonosobo. Klasifikasi penggunaan lahan dilakukan menggunakan pendekatan interpretasi visual pada data citra satelit SPOT-7 tahun 2015 dan SPOT-6 tahun 2018. Analisis spasial temporal berbasis SIG dilakukan untuk mengidentifikasi perubahan penggunaan lahan tahun 2015 dan 2018. Sedangkan spatial overlay analysis dilakukan untuk mengevaluasi kesesuaian penggunaan lahan tahun 2018 terhadap RTRW. Berdasarkan analisis perubahan penggunaan lahan secara keseluruhan, luas perubahan penggunaan lahan adalah 241,413 ha dengan persentase sebesar 3, 27%. Setiap desa memiliki perubahan penggunaan lahan yang bervariasi dan tidak terlalu signifikan …",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "Evaluasi Kualitas Data Spasial dalam Kegiatan Pemutakhiran Data PBB-P2 di Kabupaten Pacitan",
+        "authors": [
+            "Yoga Kencana Nugraha",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "4",
+        "year": "2020",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&citation_for_view=7IR6W1IAAAAJ:4DMP91E08xMC",
+        "publication_date": "2020/7/6",
+        "abstract": "Dengan dukungan perkembangan teknologi serta ketersedian data spasial yang semakin mudah diperoleh telah menyebabkan pemanfaatan data spasial meningkat sangat cepat untuk berbagai keperluan. Salah satunya dimanfaatkan oleh instansi daerah untuk menjalankan administrasi Pajak Bumi dan Bangunan Perkotaan dan Pedesaan (PBB-P2). Penelitian ini bertujuan untuk mengevaluasi dan mengukur tingkat kualitas data spasial PBB-P2 yang dihasilkan dengan cara mengidentifikasi objek pajak menggunakan citra satelit tegak resolusi tinggi (CSRT-Ortho) yang diperoleh dari Ina-SDI Geoportal. Tahapan evaluasi kualitas data spasial PBB-P2 dilakukan berdasarkan standar toleransi perbedaan luas yang disusun oleh Direktorat Jenderal Pajak, serta uji tingkat kualitas data spasial yang dibuat oleh Badan Informasi Geospasial (BIG) dengan menggunakan metode polygon near distance, polygon area, dan polygon circularity ratio. Secara umum uji tingkat kualitas data spasial dilakukan dengan membandingkan sampel objek pajak hasil kegiatan pemutakhiran data spasial PBB-P2 tahun 2019 terhadap bidang tanah dalam peta pendaftaran tanah BPN sebagai objek referensi. Teknik sampling yang digunakan adalah purposive sampling dengan jumlah sampel uji sebanyak 293 objek pajak yang dihitung berdasarkan rumus slovin. Dari hasil uji akurasi posisi dan kualitas geometri diperoleh nilai rata-rata sebesar 3,687 m dan 0,050. Sedangkan uji kualitas luas menghasilkan nilai rata-rata sebesar 67,789 m 2 dengan persentase objek pajak yang masuk dalam toleransi perbedaan luas adalah sebesar 68, 26%. Secara keseluruhan …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/7760/4427"
+    },
+    {
+        "title": "Spatial autocorrelation analysis of tuberculosis cases (2016-2018) in Kebumen",
+        "authors": [
+            "Kurniawan Adi Pradana",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "4",
+        "year": "2019",
+        "venue": "KnE Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:MXK_kJrjxJIC",
+        "publication_date": "2019/12/26",
+        "abstract": "Tuberculosis (TB) is one of the tenth highest causes of death in Indonesia and even worldwide. Tuberculosis is an infectious disease caused by an infection of Mycobacterium tuberculosis bacterium. Kebumen is one of the districts with high tuberculosis cases and tends to increase every year. Based on the high case number, it is necessary to start research that examines patterns of spread. Spatial analysis is a very useful tool to evaluate the spreading pattern of the tuberculosis disease according to its geographical location. The study aimed to spatially analyze tuberculosis spread pattern from 2016 to 2018 using the spatial autocorrelation method through Moran Index and Local Indicator of Spatial Association (LISA). The study showed that the spatial autocorrelation in the spreading patterns of tuberculosis occurred in Kebumen and had a clustered pattern because of Moran Index is positive. The results of the LISA analysis in the High-High quadrant showed that the high tuberculosis cases correlated with areas that also had high tuberculosis cases. Sixteen villages were included in the High-High quadrant.",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://knepublishing.com/index.php/KnE-Engineering/article/download/5841/11232"
+    },
+    {
+        "title": "The Implementation of LADM Versioned-object Class for Representing Spatio-Temporal of Cadastre 4D Objects",
+        "authors": [
+            "Miranty N Sulistyawati",
+            "Trias Aditya",
+            "Purnama B Santosa"
+        ],
+        "cited_by": "4",
+        "year": "2018",
+        "venue": "BHUMI: Jurnal Agraria dan Pertanahan",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:LkGwnXOMwfcC",
+        "publication_date": "2018",
+        "abstract": "Spatial representations and ownerships of 3D properties change over time. Changes are recorded as historical data of transactions, adding the dimension of 3D spatial data into 4D data, known as Cadastre 4D. Spatial representations of 3D properties are prone to disputes when the shape and dimensions representing ownership changes do not match with the reality. This paper focuses in assessing visualizations of 4D cadastre objects applying VersionedObject class stated in the International Standard of Land Administration Domain Model (ISO 19152: 2012). Based on the analysis on the current strata title ownership registration implemented in Indonesia’s land Information System (known as KKP), a model of 4D spatial data that f its to the administration system in Indonesia was developed. Visualization of 4D cadastre objects applied in this research is suited to VersionedObject class LADM and presented on the …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://jurnalbhumi.stpn.ac.id/index.php/JB/article/download/281/257"
+    },
+    {
+        "title": "Analisis Kriteria Jamak dan AHP untuk Evaluasi Kesesuaian Lokasi Pengembangan Kawasan Industri di Kabupaten Wonogiri",
+        "authors": [
+            "F Salsabila",
+            "PB Santosa"
+        ],
+        "cited_by": "3",
+        "year": "2024",
+        "venue": "JGISE: JOURNAL OF GEOSPATIAL INFORMATION SCIENCE AND ENGINEERING Учредители: Universitas Gadjah Mada",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:u_35RYKgDlwC",
+        "publication_date": "2024",
+        "abstract": "Kabupaten Wonogiri merupakan kabupaten yang menempati urutan kelima sebagai kabupaten/kota terluas di Provinsi Jawa Tengah dengan area seluas kurang lebih 1800 km². Namun, pertumbuhan industri di wilayah ini belum begitu pesat sehingga perlu adanya pengembangan kawasan industri yang memenuhi standar dan arahan tata ruang wilayah. Penelitian ini dilakukan untuk menentukan lokasi yang sesuai untuk pengembangan kawasan industri kemudian mengevaluasi kesesuaiannya terhadap Rencana Tata Ruang Wilayah (RTRW). Metode yang digunakan adalah analisis spasial berbasis Sistem Informasi Geografis (SIG) serta pengambilan keputusan dengan metode Analytical Hierarchy Process (AHP). Kriteria penentuan lokasi yang digunakan dalam penelitian ini mengacu pada ketentuan dalam Peraturan Perindustrian Nomor 40/M-IND/PER/6/2016 tentang Pedoman Teknis Pembangunan …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Perancangan dan Evaluasi Aplikasi Peringatan Rawan Kecelakaan Lalu Lintas berbasis Android",
+        "authors": [
+            "Yeni Ikawati",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "3",
+        "year": "2023",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:lSLTfruPkqcC",
+        "publication_date": "2023",
+        "abstract": "Data kecelakaan dan pelanggaran lalu lintas di Daerah Istimewa Yogyakarta tahun 2016 sampai dengan tahun 2019 yang diperoleh dari Aplikasi Bappeda Dataku, menunjukkan trend yang meningkat setiap tahunnya. Untuk menekan angka kecelakaan lalu lintas, diperlukan upaya peningkatan keselamatan lalu lintas. Penelitian ini mencoba merancang sebuah aplikasi berbasis Android yang dapat dimanfaatkan oleh para pengendara lalu lintas. Aplikasi ini dirancang untuk memberikan peringatan kepada pengendara saat melintasi jalan yang memiliki riwayat kecelakaan tinggi agar pengendara dapat lebih berhati-hati. Data yang digunakan adalah data riwayat kecelakaan tahun 2019 dan 2020 yang meliputi jumlah kecelakaan dan lokasi kecelakaan khususnya di Daerah Istimewa Yogyakarta. Pengolahan data dilakukan untuk menentukan titik yang akan dijadikan sebagai titik rawan kecelakaan. Kriteria …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Influence of Spatial Abilities on Spatial Data Quality in Participatory Mapping",
+        "authors": [
+            "Yoga Kencana Nugraha",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "3",
+        "year": "2022",
+        "venue": "The Indonesian Journal of Geography",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:iH-uZ7U-co4C",
+        "publication_date": "2022/8/1",
+        "abstract": "Participatory mapping (PM) method has become an alternative in spatial data collection activities for various mapping activities, including updating data on Rural & Urban Land and Building Tax (PBB-P2). From several experiences in PM application, various quality results have been found. Differences in the levels of spatial abilities of PM actors are assumed to affect the quality levels of PM results. Therefore, this study aimed to determine the effects of spatial abilities on the quality of spatial data generated in PM activities. It consisted of several stages of preparing instruments for measuring spatial abilities, collecting spatial data through PM, and correlation analysis. The instrument used to measure the levels of spatial abilities of 28 subvillage chiefs was the Purdue Spatial Visualization Test. The quality of PBB-P2 spatial data in 28 subvillages was randomly selected and assessed in terms of position, area, and …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Drought Hazard Modelling of Klaten Regency Central Java Using AHP and TOPSIS Method",
+        "authors": [
+            "Meiga Nugrahani",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "3",
+        "year": "2021",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:j3f4tGmQtD8C",
+        "publication_date": "2021/12",
+        "abstract": "According to information of areas at high risk of drought provided by Central Java disaster risk assessment in 2016 - 2020, Klaten Regency is in the top ten at high risk of drought in Central Java. Drought is an annual disaster in this region, which usually occurs during the dry season. The impact of the drought has caused some areas to experience a lack of clean water. For the purpose of disaster mitigation in anticipating and minimizing drought disasters losses, it is necessary to analyze the level of drought with a decision-making system by comparing two methods, namely the AHP with TOPSIS. Both methods are decision-making methods that are composed of various criteria to obtain an alternative sequence of choices. Both the AHP and TOPSIS methods produces weight values and a positive ideal solution value, respectively. These are used as input data in the mapping of drought vulnerability analysis with …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/936/1/012043/pdf"
+    },
+    {
+        "title": "Progo Watershed Deliniation and River Network Analysis Using SRTM DEM and Contour DEM Hypsography of RBI 1: 25000",
+        "authors": [
+            "Bungaran Roy Satria Tambunan",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "3",
+        "year": "2018",
+        "venue": "2018 4th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:UebtZRa9Y70C",
+        "publication_date": "2018/8/7",
+        "abstract": "Watershed is a combination of waters and land areas where the boundary is topography of water separator. Watershed can be imagined as a sloping from upstream to downstream where rainwater that falls on topographic boundary will flow into river. The end of drainage system is a single outlet that boils down to larger body of water such as river, lake, or sea. Watershed can be formed based on the topography of a region. Topographic data is processed to Digital Elevation Model (DEM). DEM development can be utilized for the purposes of watershed characteristics analysis. DEM can be used for determination of watershed boundary and established river network. The characteristics of the watershed will affect hydrological behavior such as evapotranspiration, infiltration, and river flow. The result of the research shows the area of DAS based on SRTM DEM data is 218257.640 hectare, while based on RBI DEM …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Pemetaan Tingkat Bahaya Erosi Menggunakan Metode RUSLE (Revised Universal Soil Loss Equation) dan SIG di Sub DAS Kali Progo Hulu",
+        "authors": [
+            "Farouki Dinda Rassarandi",
+            "Purnama Budi Santosa, Harintaka"
+        ],
+        "cited_by": "3",
+        "year": "2018",
+        "venue": "Prosiding Simposium Infrastruktur Informasi Geospasial 2018",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:blknAaTinKkC",
+        "publication_date": "2018",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Development of Spatio-Temporal Database Prototype For Management of 4-Dimensional Cadastre Object In Indonesia",
+        "authors": [
+            "Miranty Noor Sulistyawati",
+            "Trias Aditya",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "3",
+        "year": "2018",
+        "venue": "Journal of Geospatial Information Science and Engineering (JGISE)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:roLk4NBRz8UC",
+        "publication_date": "2018",
+        "abstract": "The dynamics of the Indonesian population has increased causing the need for cadastral objects to increase. 2D and 3D cadastral objects change over time. Cadastral objects have spatial and juridical data changes every day. These changes can be caused by the transfer of rights, changes of rights, split and merging cadastral objects. Changes are recorded and stored as a history of cadastral objects (4-dimensional cadastre). Historical data on cadastral objects can be categorized as one of the big data in the cadastre sector, based on the frequency of recording data. The data can be used to track changes in cadastral objects so that they can avoid disputes. Spatial data in this case is very vulnerable data to cause disputes if the shape, position and size do not match the conditions in the field, and need special attention in integrating with the juridical data. This paper aims to identify methods for storing spatial data of 4D cadastral objects that are suitable for Indonesia. The importance of storing cadastral objects and their history causes researchers and cadastre experts in the world to formulate international standards in managing spatial and juridical data along with a history of cadastral objects (4D cadastre). LADM is an international standard conceptual model (ISO 19152) which can show the legacy of a cadastral object expressed in RRR (Rights, Restriction and Responsibility). In LADM, there is a VersionedObject class that represents various versions or a history of spatial units, object registration, owner and administration. Several studies conducted by researchers in the world were compared in this paper to find methods for applying LADM …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.academia.edu/download/113159646/23685.pdf"
+    },
+    {
+        "title": "The spatial suitability evaluation of networked minimarket locations according to Bupati Bantul Regulation No. 35/2013",
+        "authors": [
+            "Yuri Gama Rivandi",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "3",
+        "year": "2018",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:ufrVoPGSRksC",
+        "publication_date": "2018",
+        "abstract": "The Regulation of Bupati Bantul Number 35/2013 regulates the establishment of networked minimarket (mini market berjejaring) in Bantul Regency. This study was conducted to assess the suitability between the regulation with the real condition by emphasizing the spatial aspects after 5 years of the implementation of the regulation. This study concerns with the criteria in the regulation about the distance of the mini markets from the traditional markets and the class of the road. The data for cunducting the spatial analysis include road vector data, administrative boundaries, locations of traditional market and networked minimarket, attribute data for networked minimarket, and satellite images of Bantul Regency. The data then was analyzed using proximity and network analysis to know suitability of networked minimarket locations with the regulation. Proximity analysis was done using buffer operation, meanwhile network analysis was done using operation of OD Cost Matrix. Result obtained from the proximity analysis of the overall parameters show that there is only one minimarket in accordance with the regulation. In the other hand,, if the network analysis is included, then the number of minimarkets that comply with the regulation increase to three minimarkets. To conclude, most of the locations of the netwoked minimarkets in Bantul do not comply with the Bupati Bantul Regulation Number 35/2013.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://pdfs.semanticscholar.org/d40d/716c874c560884ddaf71920309f6f7567d3d.pdf"
+    },
+    {
+        "title": "The use of Location Based Instagram Data for Tourism Potential Analysis in Kabupaten Gunung Kidul",
+        "authors": [
+            "Muhammad Irham Akbar Hasri",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "3",
+        "year": "2018",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:WF5omc3nYNoC",
+        "publication_date": "2018",
+        "abstract": "Gunungkidul Regency is one of five regencies in Yogyakarta Province which is rich of natural tourism destination objects. Each tourism object has its own potential and characteristic that distinguishes one with other tourism objects. However, the tourism potency have not been exposed to public properly, and the local government has not sufficiently use the data of visitors as the basis for planning and development of tourism objects in Gunungkidul Regency. This research tries to evaluate the use of BIG DATA, especially social media data, to analyze the tourism potency based on the public opinions and visits. For this purpose, Instagram data was utilized as the main data for the analysis. The data was collected between December 18, 2017 to February 3, 2018 using Instagram API. The data then was pre-processed to clear or filter the duplication data, to filter the data based on selective location or study area namely Gunungkidul Regency, as well as to filter the data which match with the topic of the research namely “tourism”. Some analysis then were conducted, namely spatial analysis, statistical analysis, and caption analysis. The spatial and statistical analysis were aimed to find spatial pattern of tourists visits at several locations in the form of spatial density of each tourism destinations with respect to temporal aspect. Analysis of captions is done by filtering Instagram data by using some keywords that can indicate tourism potency. Data was visualized using Carto Builder. Results show that some effort is needed to utilize the Instagram data for this purpose. The data is efficient and effective to be used to visualize spatial-temporal pattern of visitors …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://pdfs.semanticscholar.org/8877/930dd3af0157a6a044de0001b848ee7a2ba8.pdf"
+    },
+    {
+        "title": "Pemuktahiran dan Uji Kualitas Data Geospasial Pajak Bumi dan Bangunan Munggunakan Peta Pendaftaran Tanah",
+        "authors": [
+            "Dita Ardya Gharini",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "3",
+        "year": "2017",
+        "venue": "FORUM ILMIAH TAHUNAN IKATAN SURVEYOR INDONESIA 2017",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:YFjsv_pBGBYC",
+        "publication_date": "2017",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Automatic DTM and Building Footprint Extraction from Imageries and Point Clouds in Indonesia’s Land Registration Drone Survey: A Roadmap Towards Reconstruction of LOD1 3D …",
+        "authors": [
+            "Ruli Andaru",
+            "Trias Aditya",
+            "Bambang Kun Cahyono",
+            "Purnama Budi SANTOSA"
+        ],
+        "cited_by": "2",
+        "year": "2024",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:4OULZ7Gr8RgC",
+        "publication_date": "2024",
+        "abstract": "Accurate and automatic Digital Terrain Model (DTM) and building footprint extraction from drone survey has become essential and challenging work for cadastre verification, modernization and updating. In the context of multipurpose cadastre, the integration of land parcels with other spatial information such as building footprint, terrain elevation, and 3D model, allows for detailed representation of land information. This facilitates spatial analysis and adjacency information within the real-world objects above the ground. In this paper, we introduce an approach for automatic DTM and building footprint extraction by implementing deep-learning methods (ie, YOLO v8 and CNN) using true-orthoimage UAV and point clouds. We first apply photogrammetric processing through SfM pipelines to produce 3D point clouds and true-orthophoto. To extract DTM, CNN deep learning is implemented to classify point clouds into ground and non-ground objects. The detection of building footprint, as an important spatial information in the cadastral intelligence, is performed by implementing YOLO v8 deep-learning using custom trained data. To ensure that users, irrespective of their technical skill levels, can easily navigate and utilize those two algorithms, we build a GUI for a desktop application using Python, namely Geo-Carta (Geospatial-Cadastre with Artificial Intelligence for Generating LOD 3D City Model). It consists of four features dealing with the detection of building footprint from orthophotos, ground extraction from point clouds, land parcel editing feature, and generation of LOD-1 3D building models. We tested the Geo-CARTA app for detecting building …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.gdmc.nl/3DCadastres/workshop2024/programme/3DLA2024_paper_D.pdf"
+    },
+    {
+        "title": "A Methodological Approach towards Cyber Risk Management in Land Administrations Systems",
+        "authors": [
+            "Pierre-François Blin",
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Christophe Claramunt"
+        ],
+        "cited_by": "2",
+        "year": "2023",
+        "venue": "Land",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:3s1wT3WcHBgC",
+        "publication_date": "2023/12/21",
+        "abstract": "Cybersecurity risk management in land administration systems is crucial for maintaining the integrity of spatial cadastral data, which faces increasing threats owing to the digital transformation of LAS. This research validates the findings of this preliminary step in the form of a cyber risk management methodology that combines BPMN 2.0 with model business processes implemented by a compliance-based approach using EBIOS Risk Manager. A practical case of land parcel subdivision in Indonesia is analysed to serve as a proof of concept for our proposed methodology. Vulnerabilities are identified and are characterised by a concentration of manual tasks and the absence of systematic controls, resulting in significant risks to data integrity. These findings underscore the urgent need for a proactive approach to strengthen the cyber resilience of LAS. This study attempts to develop a fit-for-purpose reference methodology for cyber risk management specifically tailored to LAS to identify and treat vulnerabilities, threats, risks, and impacts.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.mdpi.com/2073-445x/13/1/19"
+    },
+    {
+        "title": "Desain sistem informasi bencana kota semarang untuk pengelolaan data bencana",
+        "authors": [
+            "Theresia Niken Kurnianingsih",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "2",
+        "year": "2019",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:0EnyYjriUFMC",
+        "publication_date": "2019/11/4",
+        "abstract": "Kota Semarang memiliki kondisi topografi yang bervariasi seperti dataran rendah, dataran tinggi, daerah perbukitan dan garis pantai yang dapat berpotensi terhadap berbagai bencana alam yang menimbulkan kerugian. Bencana yang sering terjadi di Kota Semarang, yaitu bencana banjir rob, tanah longsor, banjir, dan kekeringan perlunya sistem informasi bencana untuk mengelola data bencana dengan baik di dalam basisdata. Sistem informasi yang terintegrasi menyajikan peta bencanaterdiri dari bencanabanjir rob, tanah longsor, banjir, kekeringan, dan multi bencana yang berbasis website, sehingga masyarakat bisa mengakses informasi kebencanaan dengan mudah.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/4921/3611"
+    },
+    {
+        "title": "Penatakelolaan dan Berbagi Data dan Informasi Geospasial Komunitas dengan Openstreetmap dan JOSM Editor",
+        "authors": [
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "2",
+        "year": "2012",
+        "venue": "Konferensi Teknik dan Sains Informasi Geospasial ke-1",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:RYcK_YlVTxYC",
+        "publication_date": "2012",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "River flow prediction and floodplain mapping using Artificial Neural Networks and GIS",
+        "authors": [
+            "PB Santosa"
+        ],
+        "cited_by": "2",
+        "year": "2006",
+        "venue": "International Symposium & Exhibition on Geoinformation 2006, Malaysia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:eQOLeE2rZwMC",
+        "publication_date": "2006",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "THE ROLE OF GIS FOR FLOOD DISASTER MANAGEMENT",
+        "authors": [
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "2",
+        "year": "2006",
+        "venue": "Pertemuan Ilmiah Tahunan ke-3 Teknik Geomatika ITS",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2006",
+        "abstract": "Since the Aceh tsunami event on 26 Desember 2004 and the earthquake that struck Yogyakarta and Central Java on 27 May 2006, disaster management term has become more popular. Many seminars and conferences had been conducted to discuss disaster management issues form different perspective of knowledge. This paper, of course, will also present the disaster management issue in a more specific area that is flood disaster management and the role of Geographic Information Systems (GIS) for this application. This paper illustrates on how significant role of GIS for managing flood disaster at different phases of disaster management cycle. Case study location, the Mitchell catchment, which is located in Gippsland, Victoria State, Australia, was chosen in this study because of the potential flood event that still exists in the area every year. Finally, practical perspective on how GIS is used in the floodplain mapping tasks as well as some recommendation for improving GIS functionalities in flood disaster management are presented at the end of this paper.",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Flood Vulnerability Using Multi-Criteria Analysis in West Jakarta",
+        "authors": [
+            "Muhamad Ikhsan",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "1",
+        "year": "2025",
+        "venue": "Journal of Applied Geospatial Information",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:yD5IFk8b50cC",
+        "publication_date": "2025/12/26",
+        "abstract": "The Special Capital Region of Jakarta, located on the north coast of Java Island, is a low-lying sedimentary area crossed by 13 rivers, making it highly vulnerable to flooding from river overflows and sea level rise intensified by climate change. Flooding has been a persistent issue since the Dutch colonial era, driven by rapid urban growth, inadequate development management, the emergence of slums, and poor water resource management. Major floods occurred in 2002 and 2007, and annual floods continued until 2020. Several key factors contribute to flooding, including slope, rainfall, and land cover, while in West Jakarta the problem is further exacerbated by land subsidence and sea level rise. To address this, a flood vulnerability analysis was carried out using a GIS-based multi-criteria analysis approach. Unlike the BNPB reference, which considers only slope, rainfall, and land cover, this study incorporated six parameters: land cover, rainfall, drainage density, slope, land subsidence, and sea level rise. Each parameter was weighted based on its contribution to flooding risk, and spatial data were processed through overlay and reclassification to produce a flood vulnerability map. The results categorize West Jakarta into four classes: Not Vulnerable, Slightly Vulnerable, Vulnerable, and Highly Vulnerable. The majority of the area falls into Not Vulnerable (39.62%) and Slightly Vulnerable (36.30%), while only Kembangan District is dominated by the Highly Vulnerable category. Validation was conducted by comparing the vulnerability map with historical flood data from 2016 to 2023. The comparison shows a strong positive correlation between …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://jurnal.polibatam.ac.id/index.php/JAGI/article/download/11735/3329"
+    },
+    {
+        "title": "Design of Mixed Reality Applications for Visualizing Integrated 3D Land Information Services",
+        "authors": [
+            "Trias Aditya",
+            "Ruli Andaru",
+            "Purnama Budi Santosa",
+            "Calvin Wijaya",
+            "Ali Surojaya",
+            "Adrian Nugroho",
+            "Faisal Ashaari",
+            "Miranty N Sulistyawati",
+            "Annisa Nasywa",
+            "B Emor"
+        ],
+        "cited_by": "1",
+        "year": "2024",
+        "venue": "Proceedings of the 12th International FIG Workshop on LADM & 3D LA, Kuching, Malaysia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:fPk4N6BV_jEC",
+        "publication_date": "2024/9",
+        "abstract": "Applications of mixed reality (MR), targeting users of augmented reality (AR) and virtual reality (VR), have become more popular because of their unique advantages. This paper presents both virtual reality and augmented reality applications that use 3D models from cadastral surveys and property-based data that follows the Land Administration Domain Model (LADM). Applications are designed to be able to present integrated 3D models and 2D land information for property professionals. This paper presents the procedures and challenges to process 3D point clouds data from various sensors ie, drones, visual GNSS, handheld SLAM and to implement visualization and interaction designs of 3D and 2D land related data for AR & VR apps. The pipeline—which includes data collecting utilizing a variety of sensors and AI algorithms for model development—for converting 3D cadastral data into integrated land information is presented in this study. One of critical challenges that this paper worked on has been the integration of user location and 3D property representation on the mobile app, used by land professionals in the field. The land information systems on the AR systems superimpose digital data on the real world. Using the same 3D model, we also investigate how various placement strategies for MR might be used to give 3D city models for land administration services. For the VR users, both land professionals and landowners, utilize the glasses to explore the same 3D models and their related 2D land information for inspection and analysis purposes. Determining, documenting, and sharing data about land ownership, value, and planning is …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.gdmc.nl/3DCadastres/workshop2024/programme/3DLA2024_paper_M.pdf"
+    },
+    {
+        "title": "Evaluasi Pergerakan Titik Kontrol Pemantauan Waduk Sermo Untuk Mendukung Mitigasi Multidisaster",
+        "authors": [
+            "Hilmiyati Ulinnuha",
+            "Nurrohmat Widjajanti",
+            "Yulaikhah Yulaikhah",
+            "Purnama Budi Santosa",
+            "Suci Tresna Novianti"
+        ],
+        "cited_by": "1",
+        "year": "2021",
+        "venue": "Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:RHpTSmoSYBkC",
+        "publication_date": "2021/12/10",
+        "abstract": "Yogyakarta merupakan daerah dengan tingkat resiko bencana yang tinggi, termasuk daerah Kabupaten Kulon Progo. Dengan topografi yang cenderung berbukit, menjadikan daerah Kulon Progo merupakan area dengan kerawanan tanah longsor. Selain itu, di Kulon Progo juga terdapat Waduk Sermo sebagai sumber irigasi dan air bersih. Waduk ini terletak disekitar area sesar normal, sehingga Waduk Sermo memiliki resiko multidisaster yaitu seismik dan tanah longsor. Oleh karena itu, diperlukan pemantauan secara berkala untuk mengurangi dampak resiko multidisaster tersebut. Penelitian ini bertujuan untuk mengevaluasi pergerakan titik kontrol pemantauan Waduk Sermo untuk mitigasi atau pengurangan resiko multidisaster di area Waduk Sermo. Data yang digunakan dalam penelitian ini adalah data pengamatan GPS pada tahun 2015 sampai dengan 2020 pada lima titik kontrol pemantauan di sekitar Waduk Sermo, yaitu MAK1, MAK2, MAK3, MAK4, dan MAK5. Pengolahan data GPS tersebut dilakukan dengan menggunakan perangkat lunak GAMIT/GLOBK. Selanjutnya dilakukan evaluasi hasil pengolahan GAMIT/GLOBK, dan perhitungan untuk mendapatkan posisi dan arah pergerakan masing-masing titik kontrol pemantauan. Berdasarkan hasil pengolahan data, didapatkan bahwa pergerakan horizontal titik kontrol pemantauan Waduk Sermo berkisar antara 0,006 m/tahun sampai dengan 0,016 m/tahun kearah Timur Laut. Sedangkan pergerakan vertikal berkisar antara 0,006 m/tahun sampai dengan 0,033 m/tahun dengan arah pergerakan keatas permukaan tanah kecuali untuk titik MAK3 yang bergerak kebawah. Pergerakan …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://proceedings.undip.ac.id/index.php/isiundip2021/article/download/634/379"
+    },
+    {
+        "title": "Analisis Spasial Bencana Longsor Menggunakan Data Foto Udara UAV",
+        "authors": [
+            "Ruli Andaru",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "1",
+        "year": "2017",
+        "venue": "Jurnal Dialog dan Penanggulangan Bencana",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:hFOr9nPyWt4C",
+        "publication_date": "2017/12/15",
+        "abstract": "Spatial data has a very important role in emergency command and disaster management, both before, during or post disasters. When a disaster occurs, the currently geospatial information is very needed; where the center of the disaster, the area affected, the volumetric of the landslide, what facilities are damaged, and determine the location of temporary shelters. This study examines and analyze the landslide in Banjarnegara 2014 before and after the landslide using Peta Rupa Bumi Indonesia (RBI) and the UAV aerial photos (Unmanned Aerial Vehicle). Data before the landslide obtained from RBI, while data after landslide obtained by performing aerial photography using fixed-wing UAV in December 2014 and August 2015. These aerial photos processing with photogrammetry to produce digital orthophoto and DEM (Digital Elevation Model). Orthophoto and DEM data is used to perform geospatial analysis in …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Geospatial Analysis and Turbidity Measurement for Monitoring Suspended Solid of Hitotsuse Dam in Miyazaki Prefecture, Kyushu, Japan",
+        "authors": [
+            "Purnama Budi Santosa",
+            "Yasuhiro Mitani"
+        ],
+        "cited_by": "1",
+        "year": "2016",
+        "venue": "Indonesian Journal of Spatial and Regional Analysis",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2016/2/10",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "The use of Artificial Neural Networks and GIS for flood modeling",
+        "authors": [
+            "Purnama B Santosa"
+        ],
+        "cited_by": "1",
+        "year": "2005",
+        "venue": "Proc. of the International Map Asia Conference 2005",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2005",
+        "abstract": "This research deals with flood prediction modeling using Artificial Neural Networks (ANNs) and Geographic Information Systems (GIS). The problem that needs to be solved relates to the need of completing data insufficiency, and also the necessity to evaluate the GIS-based hydraulic flood modeling process.",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "CASCADE-3D: A GUI-Driven Framework for Automated 3D Building Model Reconstruction",
+        "authors": [
+            "Ruli Andaru",
+            "Bambang Kun Cahyono",
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Calvin Wijaya",
+            "Riyas Syamsul",
+            "Fairuz Akmal",
+            "Hyatma Adikara",
+            "Habib Muhammad",
+            "Fikri Kurniawan"
+        ],
+        "cited_by": "",
+        "year": "2026",
+        "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:pyW8ca7W8N0C",
+        "publication_date": "2026/2/19",
+        "abstract": "Generating fast and accurate geospatial data and three-dimensional (3D) properties is essential for supporting multipurpose land management services. This study presents the CAdastre and Spatial map adjustment with spatial Computation for Automatic builDing dEtection and 3D generation (CASCADE-3D), a graphical user interface (GUI) developed for the automated reconstruction of 3D models at Levels of Detail (LOD) 1 and 2. CASCADE-3D integrates advanced deep-learning frameworks—including the Segment Anything Model (SAM) AI and Dynamic Graph Convolutional Neural Network (DGCNN)—to perform building outline detection and point cloud classification, subsequently reconstructing 3D models using true orthoimage acquired from unmanned aerial vehicles and building height models (BHMs). Photogrammetric processing using Structure-from-Motion and Multi-View Stereo techniques is initially …",
+        "pdf_link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11400619.pdf"
+    },
+    {
+        "title": "Exploring Cyber Threat Intelligence into Land Administration Systems for Enhanced Cyber Resilience",
+        "authors": [
+            "Pierre-François Blin",
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Christophe Claramunt"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Journal of Geographic Information System",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:dfsIfKJdRG4C",
+        "publication_date": "2025",
+        "abstract": "Exploring Cyber Threat Intelligence into Land Administration Systems for Enhanced Cyber \nResilience - ADS Now on home page ads icon ads Enable full ADS view ADS Exploring \nCyber Threat Intelligence into Land Administration Systems for Enhanced Cyber Resilience \nBlin, Pierre-François ; Aditya, Trias ; Santosa, Purnama Budi ; Claramunt, Christophe \nAbstract Publication: Journal of Geographic Information System Pub Date: 2025 DOI: \n10.4236/jgis.2025.171003 Bibcode: 2025JGIS...17...45B No Sources Found © The SAO \nAstrophysics Data System adshelp[at]cfa.harvard.edu The ADS is operated by the \nSmithsonian Astrophysical Observatory under NASA Cooperative Agreement \n80NSSC21M0056 Smithsonian logo Harvard Center for Astrophysics logo NASA logo *The \nmaterial contained in this document is based upon work supported by a National \nAeronautics and Space Administration (NASA) grant or …"
+    },
+    {
+        "title": "Development of Block Adjustment Application for The Spatial Data Quality Improvement Purpose of Registered Land Parcel",
+        "authors": [
+            "Yulaikhah",
+            "Trias Aditya",
+            "Purnama Budi Santosa",
+            "Nurrohmat Widjajanti",
+            "Miranty Noor Sulistyawati",
+            "Tika Widya Sari",
+            "Ahmad Nur Aly",
+            "Sandy Setyanegara",
+            "Annisa Nur Afifah"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "SOUTH EAST ASIA WORKSHOP ON GEODETIC DATA SCIENCES, GEOINFORMATICS AND LAND ADMINISTRATION (GEO-LAND-SEA) 2023",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:k_IJM867U9cC",
+        "publication_date": "2023"
+    },
+    {
+        "title": "DESAIN KONFIGURASI JARING GPS UNTUK PEMANTAUAN DEFORMASI SESAR SERMO:(GPS Network Configuration Design for Deformation Monitoring of Sermo Fault)",
+        "authors": [
+            "Subagyo Pramumijoyo",
+            "Nurrohmat Widjajanti",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:vV6vV6tmYwMC",
+        "publication_date": "2021/5/31",
+        "abstract": "Jaring pemantauan deformasi Sesar Sermo telah dibangun menyebar sepanjang jalur sesar sebanyak 15 titik. Namun demikian, pada saat pengukuran lapangan dengan menggunakan GPS secara simultan masih terdapat kendala dalam hal ketersediaan alat GPS. Penyediaan alat dalam jumlah banyak tidak mudah untuk dilakukan serta membutuhkan biaya yang besar. Oleh karena itu diperlukan pembuatan desain jaring pemantauan deformasi yang efisien namun tetap sensitif terhadap deformasi yang terjadi. Berdasarkan permasalahan tersebut, maka penelitian ini bertujuan untuk untuk mendesain konfigurasi jaring pemantauan deformasi Sesar Sermo yang optimum berdasarkan kriteria sensitivitas jaringan. Desain jaringan dilakukan terhadap dua jaring yang berbeda, yaitu jaring GPS makro yang terdiri atas 5 titik, dan jaring GPS makro dan mikro yang terdiri atas 15 titik. Jaring didesain untuk dapat …"
+    },
+    {
+        "title": "DESAIN KONFIGURASI JARING GPS UNTUK PEMANTAUAN DEFORMASI SESAR SERMO",
+        "authors": [
+            "Yulaikhah Yulaikhah",
+            "Subagyo Pramumijoyo",
+            "Nurrohmat Widjajanti",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "GEOMATIKA",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:-f6ydRqryjwC",
+        "publication_date": "2021/5/31"
+    },
+    {
+        "title": "Pemodelan Banjir dan Visualisasi Genangan Banjir untuk Mitigasi Bencana di Kali Kasin Kelurahan Bareng Kota Malang",
+        "authors": [
+            "Zafira Nur Pratiwi",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:f2IySw72cVMC",
+        "publication_date": "2021"
+    },
+    {
+        "title": "Proses Bisnis dan Perancangan Aplikasi Mobile GIS Berbasis Android untuk Updating Data Pajak Bumi dan Bangunan",
+        "authors": [
+            "Putra",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Prosiding Simposium Infrastruktur Informasi Geospasial 2018",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:NMxIlDl6LWMC",
+        "publication_date": "2018"
+    },
+    {
+        "title": "Deliniasi Dan Analis Pola Spasial Hidrologic Response Units (HRU) PADA DAS Progo Berdasarkan Multitemporal Penggunaan Lahan",
+        "authors": [
+            "Bungaran Roy Satria Tambunan",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Prosiding Simposium Infrastruktur Informasi Geospasial 2018",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:JV2RwH3_ST0C",
+        "publication_date": "2018"
+    },
+    {
+        "title": "Analisis Tingkat Kerawanan Kemiskinan di Kota Banda Aceh dengan Metode Analytical Hierachy Process (AHP)",
+        "authors": [
+            "Freddy Sapta Wirandha",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Prosiding Konferensi Teknik dan Sains Informasi Geospasial ke-4",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:M3NEmzRMIkIC",
+        "publication_date": "2018"
+    },
+    {
+        "title": "Analisis Sensitifitas Jaring GPS untuk Keperluan Pemantauan Deformasi",
+        "authors": [
+            "Yulaikhah",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Forum Ilmiah Tahunan-Ikatan Surveyor Indonesia 2018",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:maZDTaKrznsC",
+        "publication_date": "2018"
+    },
+    {
+        "title": "Penggunaan Nilai Faktor C dari Berbagai Indeks Vegetasi: Studi dan Tahapan Evaluasinya dalam Pemodelan Erosi Berbasis RUSLE",
+        "authors": [
+            "Farouki Dinda Rassarandi",
+            "Purnama Budi Santosa",
+            "Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "Forum Ilmiah Tahunan - Ikatan Surveyor Indonesia 2017",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:BqipwSGYUEgC",
+        "publication_date": "2017"
+    },
+    {
+        "title": "Evaluasi Kesiapan SDM dan Teknologi Informasi Pada Pelayanan Pajak Bumi Dan Bangunan",
+        "authors": [
+            "Ridho Furqan Purnama Budi Santosa, Subaryono",
+            "Diyono"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "Seminar Nasional CGISE dan FIT ISI 2016",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:Se3iqnhoufwC",
+        "publication_date": "2016/10/27"
+    },
+    {
+        "title": "Geospatial Analysis and Turbidity Measurement for Monitoring Suspended Solid of Hitotsuse Dam in Miyazaki Prefecture, Kyushu, Japan",
+        "authors": [
+            "Yasuhiro Mitani",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "Forum Geografi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:a0OBvERweLwC",
+        "publication_date": "2016/2/10",
+        "abstract": "< jats: p> The existence of suspended solids at Hitotsuse dam, Miyazaki Prefecture, Kyushu, Japan, has been the main concern of Kyushu Electric Power Company. These have been carried by rivers flowing into the dam. In a long term, it is worried that this phenomenon will potentially cause the environmental degradation, especially around the dam, where the Kyushu Electric Power Plant is located. Therefore, necessary measures are required to protect the dam from environmental degradation, which in return is to assure its long term power plant operational. Preliminary studies found that the suspended solid, which was generated upstreams and was carried out into the dam by rivers, causes the turbid water resident. Therefore, evaluation on the potential sources of the existence of the suspended solids needs to be carried out. In this research, analysis was conducted to understand the spatial distribution and the quantity of the suspended solid. For this purpose, by focusing attention on the upper river basin of reservoir, several factors which are possible to cause turbid water are extracted and analyzed quantitatively by using GIS. To understand the characteristic of the river turbidity, river flows and river turbidity are measured at several selected stations. Then mechanical factors causing turbid water are identified after analyzing relationship between efflux characteristics and possible factors of suspended solids. The results show that spatial information extraction could be done efficiently by applying spatial analysis method. Furthermore, by applying multiple regression analysis, it was found that landslide scars, artificial forests, drainage area, and …"
+    },
+    {
+        "title": "Analisis Tutupan Lahan Kota Jayapura Tahun 2014 dengan Memanfaatkan Citra Wordview 2 dan Landsat 8 LDCM",
+        "authors": [
+            "Eko Indrianto",
+            "Purnama Budi Santosa",
+            "Heri Sutanta"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2015",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:GnPB-g6toBAC",
+        "publication_date": "2015"
+    },
+    {
+        "title": "Pilot project pembangunan geospasial pertanahan untuk menunjang one map policy (rural),",
+        "authors": [
+            "T Aditya",
+            "PB Santosa",
+            "U Rahardja",
+            "Riyadi Istarno"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "Laporan akhir pilot project pembangunan geospasial pertanahan untuk menunjang one map policy (rural), Departemen Teknik Geodesi Universitas Gadjah Mada, Yogyakarta bekerjasama dengan Kementerian ATR/BPN",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:hC7cP41nSMkC",
+        "publication_date": "2015"
+    },
+    {
+        "title": "Pembuatan Sistem Informasi Perumahan Kecamatan Mlati Menggunakan Sistem Operasi Android",
+        "authors": [
+            "Yoga Bayu Aji Pradana",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "Konferensi Teknik dan Sains Informasi Geospasial ke-2",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:ns9cj8rnVeAC",
+        "publication_date": "2014"
+    },
+    {
+        "title": "Pembuatan SIstem Informasi Persebaran Stasiun Pasang Surut Laut di Indonesia berbasis Web",
+        "authors": [
+            "Siti Rahmi Pratiwi",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "Konferensi Teknik dan Sains Informasi Geospasial ke-2",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:O3NaXMp0MMsC",
+        "publication_date": "2014"
+    },
+    {
+        "title": "Penyajian Informasi Benda Cagar Budaya di D.I. Yogyakarta dengan GIS Cloud",
+        "authors": [
+            "Khusnul Fathoni",
+            "Purnama Budi Santosa"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "Seminar Nasional Dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2013",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:NaGl4SEjCO4C",
+        "publication_date": "2013"
+    },
+    {
+        "title": "Analisis kriteria majemuk untuk pemilihan lokasi pengembangan perumahan di wilayah Sleman",
+        "authors": [
+            "Purnama Budi Santosa",
+            "Leni Sophia Heliani"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "Seminar Nasional Dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2013",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:RGFaLdJalmkC",
+        "publication_date": "2013"
+    },
+    {
+        "title": "Migrasi metadata spasial nasional dari SNI 7335:2008 ke metadata nasional berbasis ISO 19115",
+        "authors": [
+            "Trias Aditya",
+            "Agung Indrajit",
+            "Antonius B Wijanarko",
+            "Purnama Budi Santosa",
+            "Tandang Y Putra"
+        ],
+        "cited_by": "",
+        "year": "2012",
+        "venue": "Konferensi Teknik dan Sains Informasi Geospasial ke-1",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:J_g5lzvAfSwC",
+        "publication_date": "2012"
+    },
+    {
+        "title": "Image fusion methods for land cover classification and its potential for slope failure detection on a mountainous terrain",
+        "authors": [
+            "Purnama B Santosa",
+            "Yasuhiro Mitani",
+            "Tetsuro Esaki",
+            "Hiro Ikemi"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "30th Asian Conference on Remote Sensing 2009, ACRS 2009",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2009",
+        "abstract": "Purnama B. SANTOSA (1)(2), Yasuhiro MITANI (1), Tetsuro ESAKI (1), Hiro IKEMI (1) 1) Dept. of Civil & Structural Engineering, Kyushu University, Fukuoka, 819-0395, Japan 2) Dept. of Geodesy & Geomatic Engineering, Gadjah Mada University, Indonesia (purnamabs@ doc. kyushu-u. ac. jp or purnamabs@ gadjahmada. edu)",
+        "pdf_link": "https://www.researchgate.net/profile/Tetsuro-Esaki/publication/267299380_IMAGE_FUSION_METHODS_FOR_LAND_COVER_CLASSIFICATION_AND_ITS_POTENTIAL_FOR_SLOPE_FAILURE_DETECTION_ON_A_MOUNTAINOUS_TERRAIN/links/54bdabfc0cf218d4a16a2ce0/IMAGE-FUSION-METHODS-FOR-LAND-COVER-CLASSIFICATION-AND-ITS-POTENTIAL-FOR-SLOPE-FAILURE-DETECTION-ON-A-MOUNTAINOUS-TERRAIN.pdf"
+    },
+    {
+        "title": "Collaborative Geospatial Infrastructure: A Coordinative Approach in Disaster Management",
+        "authors": [
+            "Purnama Budi Santosa",
+            "Made Andi Arsana",
+            "Leni Sophia Heliani",
+            "Subaryono",
+            "Trias Aditya"
+        ],
+        "cited_by": "",
+        "year": "2006",
+        "venue": "9th PUDSEA Network Conference, 20-21 November 2006, Yogyakarta.",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7IR6W1IAAAAJ&cstart=20&pagesize=80&citation_for_view=7IR6W1IAAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2006"
+    }
+]

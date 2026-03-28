@@ -1,0 +1,818 @@
+[
+    {
+        "title": "Study of regional monsoonal effects on landslide hazard zonation in Cameron Highlands, Malaysia",
+        "authors": [
+            "Abd Nasir Matori",
+            "Abdul Basith",
+            "Indra Sati Hamonangan Harahap"
+        ],
+        "cited_by": "57",
+        "year": "2012",
+        "venue": "Arabian Journal of Geosciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2012/9",
+        "abstract": "In general, landslides in Malaysia mostly occurred during northeast and southwest periods, two monsoonal systems that bring heavy rain. As the consequence, most landslide occurrences were induced by rainfall. This paper reports the effect of monsoonal-related geospatial data in landslide hazard modeling in Cameron Highlands, Malaysia, using Geographic Information System (GIS). Land surface temperature (LST) data was selected as the monsoonal rainfall footprints on the land surface. Four LST maps were derived from Landsat 7 thermal band acquired at peaks of dry and rainy seasons in 2001. The landslide factors chosen from topography map were slope, slope aspect, curvature, elevation, land use, proximity to road, and river/lake; while from geology map were lithology and proximity to lineament. Landslide characteristics were extracted by crossing between the landslide sites of Cameron Highlands and …",
+        "total_citations": "Cited by 57",
+        "pdf_link": "https://www.researchgate.net/profile/Abd-Matori/publication/225750527_Study_of_regional_monsoonal_effects_on_landslide_hazard_zonation_in_Cameron_Highlands_Malaysia/links/0912f50a0921d07478000000/Study-of-regional-monsoonal-effects-on-landslide-hazard-zonation-in-Cameron-Highlands-Malaysia.pdf"
+    },
+    {
+        "title": "Utilisation of Sentinel-1 SAR imagery for oil spill mapping: a case study of Balikpapan Bay oil spill",
+        "authors": [
+            "Ratna Prastyani",
+            "Abdul Basith"
+        ],
+        "cited_by": "47",
+        "year": "2018",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:MXK_kJrjxJIC",
+        "publication_date": "2018",
+        "abstract": "Oil spill is a great threat for marine ecosystem. Oil discharge has become a public concern in all over the world with the increase of marine traffics. Indonesian government has declared state of emergency over oil spill which devastated Balikpapan bay in March 2018. The deadly oil spill impacts marine ecosystem as well as the communities. This study aims to map the oil spill over Balikpapan bay by utilising SAR imagery of Sentinel-1. Automatic and semiautomatic approaches are presented in this study to detect the oil spill. Oil spill is automatically detected using Oil Spill Detection toolbox of Sentinel Application Platform (SNAP). Furthermore, semi-automatic method is also demonstrated by utilising pre and post-oil spill SAR imageries. Our experiment shows that semiautomatic method has better performance than automatic detection by SNAP. Nevertheless, both approaches are useful to map oil spill in term of time and cost effectiveness.",
+        "total_citations": "Cited by 47",
+        "pdf_link": "https://www.academia.edu/download/94529844/22145.pdf"
+    },
+    {
+        "title": "Uji performa citra Worldview 3 dan Sentinel 2A untuk pemetaan kedalaman laut dangkal (studi kasus di Kepulauan Karimunjawa, Jawa Tengah)",
+        "authors": [
+            "Luhur Moekti Prayogo",
+            "Abdul Basith"
+        ],
+        "cited_by": "17",
+        "year": "2020",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:QIV2ME_5wuYC",
+        "publication_date": "2020/11/25",
+        "abstract": "Satellite-Derived Bathymetry (SDB) merupakan salah satu teknik dalam penginderaan jauh untuk penyediaan data kedalaman perairan dangkal menggunakan citra satelit. Pada citra, kisaran panjang gelombang 450 hingga 580 nm memiliki kemampuan menembus perairan dengan cukup baik dibandingkan dengan panjang gelombang yang lain. Penelitian ini bertujuan untuk mengetahui pengaruh resolusi spasial dalam estimasi kedalaman khususnya dengan algoritma Stumpf menggunakan panjang gelombang tampak. Studi ini dilakukan menggunakan citra Worldview 3 dan Sentinel 2A di Kepulauan Karimunjawa, Jawa Tengah. Hasil dari penelitian ini menunjukkan bahwa model kedalaman terbaik pada citra Worldview 3 dan Sentinel 2A yaitu dengan nilai y= 0, 8847x+ 0, 2204 dan R2 sebesar 0, 7135 dan y= 0,858 x+ 0, 3123 dan R2 sebesar 0, 6974. Panjang gelombang tampak dengan band ratio Hijau-Biru pada citra Worldview 3 dan Sentinel 2A menghasilkan kedalaman terbaik pada rentang kedalaman 0-5 m yang ditunjukkan dengan nilai RMSE sebesar 1,526 dan 1,558 m. Dari penelitian ini, dapat disimpulkan bahwa citra satelit resolusi tinggi menghasilkan nilai RMSE yang cenderung lebih kecil dibandingkan dengan citra resolusi sedang. Kata Kunci: SDB, Stumpf, Band Ratio, Pemetaan, Karimunjawa",
+        "total_citations": "Cited by 17",
+        "pdf_link": "https://www.academia.edu/download/65028852/59572_192766_1_PB.pdf"
+    },
+    {
+        "title": "Deteksi tumpahan minyak di Selat Makassar dengan penginderaan jauh sensor aktif dan pasif",
+        "authors": [
+            "Ratna Prastyani",
+            "Abdul Basith"
+        ],
+        "cited_by": "15",
+        "year": "2019",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2019/7/7",
+        "abstract": "Berada pada posisi yang strategis, perairan Indonesia dikenal dengan lalu lintas laut yang cukup padat dimana hal ini membawa keuntungan sekaligus ancaman. Tingginya lalu lintas laut di beberapa perairan Indonesia membuka peluang besar terhadap terjadinya pencemaran laut berupa tumpahan minyak. Tumpahan minyak tersebut bisa berupa tragedi tumpahan minyak yang bersumber dari oil platforms maupun tumpahan minyak dari sisa operasi rutin kapal. Tulisan ilmiah ini membahas penggunaan satelit penginderaan jauh (inderaja) sensor aktif dan data pendukung dari inderaja sensor pasif untuk melakukan deteksi tumpahan minyak khususnya di selatan Selat Makassar. Kondisi Selat Makassar yang sangat dinamis membawa tantangan tersendiri dalam proses pendeteksian tumpahan minyak. Pendeteksian minyak dilakukan pada citra radar Sentinel-1. Pada citra Sentinel-1, ditemukan banyak objek yang menyerupai tumpahan minyak (disebut sebagai look-alike) akibat dimanika laut di Selat Makassar. Variabel oceanografi dari satelit MODIS digunakan untuk mendukung analisis terkait keberadaan dan sumber look-alike. Hasil penelitian ini menunjukkan sinergitas data inderaja sensor aktif dan pasif dalam mendeteksi dan menganalisis tumpahan minyak. Citra radar sebagai data utama terbukti efektif mendeteksi tumpahan minyak terutama di wilayah tropis. Sementara itu juga terdapat urgensi data pendukung lain seperti kecepatan angin, suhu permukaan laut dan konsentrasi klorofil-A untuk membedakan objek tumpahan minyak dan look-alike pada citra radar.",
+        "total_citations": "Cited by 15",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/viewFile/4864/2899"
+    },
+    {
+        "title": "Evaluating ACOMP, FLAASH and QUAC on Worldview-3 for satellite derived bathymetry (SDB) in shallow water",
+        "authors": [
+            "Abdul Basith",
+            "Ratna Prastyani"
+        ],
+        "cited_by": "13",
+        "year": "2020",
+        "venue": "Geodesy and Cartography",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:4TOpqqG69KYC",
+        "publication_date": "2020/10/29",
+        "abstract": "Bathymetry map is instrumental for monitoring marine ecosystem and supporting marine transportation. Optical satellite imagery has been widely utilised as an alternative method to derive bathymetry map in shallow water. Nonetheless, interactions between electromagnetic energy and Earth’s atmosphere causing the atmosphere effects pose a significant challenge in satellite-derived bathymetry (SDB) application. In this study, Worldview-3 imagery was used to obtain bathymetry map in shallow water. Three atmospheric correction models (ACOMP, FLAASH and QUAC) were employed to eliminate atmospheric effects on Worldview-3 imagery. Three simple band ratios involving coastal blue, blue, green and yellow band were used to test the performance of atmospheric correction models. ACOMP combined with blue and green band ratio efficaciously provided the best performance where it explained 77% of model values. Bathymetry map obtained from Worldview-3 was also validated using bathymetry data acquired from bathymetric survey over the study area. The estimated depths shared aggregable results with measured depths (depth < 20 m) with accuracy of 2.07 m. This study shows that robust atmospheric correction combined with suitable simple band combinations offered bathymetry map retrieval with relatively high accuracy.",
+        "total_citations": "Cited by 13",
+        "pdf_link": "https://journals.vilniustech.lt/index.php/GAC/article/download/11426/10186"
+    },
+    {
+        "title": "Landslide susceptibility modelling under environmental changes: A case study of Cameron Highlands, Malaysia",
+        "authors": [
+            "ABDUL BASITH",
+            "ABDUL BASITH"
+        ],
+        "cited_by": "10",
+        "year": "2012",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2012/6/5",
+        "abstract": "Modeling landslide susceptibility usually does not include multi temporal factors, e.g. rainfall, especially for medium scale. Landslide occurrences in Cameron Highlands, in particular, and in Peninsular Malaysia, in general, tend to increase during the peak times of monsoonal rainfall.  Due to the lack of high spatial resolution of rainfall data, Normalized Different Vegetation Index (NDVI), soil wetness, and LST (Land Surface Temperature) were selected as replacement of multi temporal rainfall data. This research investigated their roles in landslide susceptibility modeling.  In doing so, four Landsat 7 Enhanced Multi Temporal Plus (ETM+) images acquired during two peak times of rainy and dry seasons were used to derive multi temporal NDVI, soil wetness, and LST. Topographic, geology, and soil maps were used to derive ‘static’ factors namely slope, slope aspect, curvature, elevation, road network, river/lake, lithology, soil geology lineament maps. Landslide map was used to derive weighting system based on spatial relationship between landslide occurrences and landslide factor using bivariate statistical method. A non-statistical weighting system was also used for comparison purpose. Different scenarios of data processing were applied to allow evaluation on the roles of multi temporal factors in landslide susceptibility modeling in terms of the accuracy of the landslide susceptibility maps (LSMs), the appropriate weighting system of the models, the applicability of the model, the ability to confirm the relation between landslide occurrences and rainfall.  The results show that the average accuracy of LSMs produced by the developed models with …",
+        "total_citations": "Cited by 10",
+        "pdf_link": "https://utpedia.utp.edu.my/id/eprint/3042/1/Final_Dissertation-Abdul_Basith-G1040204-Sept_2011-Landslide_Susceptibility_Modelling_under_Environmental_Changes.pdf"
+    },
+    {
+        "title": "APPLICATION OF LAND USE CHANGES DETECTION FOR IDENTIFICATION OF LANDSLIDE RISK AREAS IN PULAU PENANG USING A DECADE OF LANDSAT 7 ETM+ IMAGES",
+        "authors": [
+            "Abdul Basith",
+            "Abdul Nasir Matori",
+            "Indra Sati Hamonangan Harahap",
+            "Jasmi Ab Talib"
+        ],
+        "cited_by": "9",
+        "year": "2010",
+        "venue": "MRSS 6th INTERNATIONAL REMOTE SENSING & GIS CONFERENCE AND EXHIBITION",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:z_wVstp3MssC",
+        "publication_date": "2010/4/28",
+        "total_citations": "Cited by 9"
+    },
+    {
+        "title": "Evaluation of landslide causative factors towards efficient landslide susceptibility modelling in the Cameron Highlands, Malaysia",
+        "authors": [
+            "AN Matori",
+            "A Basith"
+        ],
+        "cited_by": "8",
+        "year": "2012",
+        "venue": "WIT Transactions on Engineering Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2012/5/29",
+        "abstract": "Landslide is complex interactions involving various terrain parameters and caused by various causative factors, even though each of them may not be equally significant to the occurrences of landslide. Hence to produce an efficient landslide susceptibility map (LSM) it is crucial to decide whether to include all the causative factors or otherwise. This paper presents evaluation of the relative role of landslide causative factors from which an efficient landslide susceptibility model could be constructed. Ten factors are used in this study namely lithology, geology lineament, soil, road network, river/drainage, land use land cover, slope, slope aspect, curvature, and elevation. Several scenarios were used in which causative factors are used in the modeling of LSM. A number of final LSMs are produced as the result of applying the above different scenarios. From the assessment of the accuracy of the LSM produced, it could be concluded that involvement of all factors does not guarantee of producing accurate LSM. On the other hand, using only six significant factors which are soil type, distance from road (hence cut slope), proximity to river and lake and elevation produces more accurate LSM.",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://www.witpress.com/Secure/elibrary/papers/DEB12/DEB12018FU1.pdf"
+    },
+    {
+        "title": "Benthic habitat classification using multiscale GEOBIA on orthophoto images of Karimunjawa waters",
+        "authors": [
+            "Yahya Dwikarsa",
+            "Abdul Basith"
+        ],
+        "cited_by": "7",
+        "year": "2021",
+        "venue": "Communications in Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:1qzjygNMrQYC",
+        "publication_date": "2021/7/27",
+        "abstract": "The scale value is an important part of the segmentation stage which is part of Object-Based Image Analysis (OBIA). Selection of scale value can determine the size of the object which affects the results of classification accuracy. In addition to setting the scale value (multiscale), selection of machine learning algorithm applied to classify shallow water benthic habitat objects can also determine the success of the classification. Combination of setting scale values and classification algorithms are aimed to get optimal results by examining classification accuracies. This study uses orthophoto images processed from Unmanned Aerial Vehicle (UAV) mission intended to capture benthic habitat in Karimunjawa waters. The classification algorithms used are Support Vector Machine (SVM), Bayes, and K-Nearest Neighbors (KNN). The results of the classification of combination are then tested for accuracy based on the sample and Training Test Area (TTA) masks. The result shows that SVM algorithm with scale of 300 produces the best level of accuracy. While the lowest accuracy is achieved by using SVM algorithm with scale of 100. The result shows that the optimal scale settings in segmenting objects sequentially are 300, 200, and 100",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://cst.kipmi.or.id/journal/article/download/332/87"
+    },
+    {
+        "title": "Aerosol optical depth (AOD) retrieval for atmospheric correction in Landsat-8 imagery using second simulation of a satellite signal in the solar spectrum-vector (6SV)",
+        "authors": [
+            "Abdul Basith",
+            "Muhammad Ulin Nuha",
+            "Ratna Prastyani",
+            "Gathot Winarso"
+        ],
+        "cited_by": "6",
+        "year": "2019",
+        "venue": "Communications in Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:qxL8FJ1GzNcC",
+        "publication_date": "2019/12/30",
+        "abstract": "Atmospheric correction has been challenging task in digital image processing. It requires several atmospheric parameters in order to obtain accurate surface reflectance of objects within the image scene. One of the most crucial parameters required for accurate atmospheric correction is aerosol optical depth (AOD). AOD can be obtained by in-situ measurement or estimated from remote sensing observation. In this experiment, atmospheric correction was performed using second simulation of a satellite signal in the solar spectrum-vector (6SV) algorithm on Landsat-8 imagery in which AOD parameter was retrieved from surface reflectance inversion involving daily-global surface reflectance product of moderate resolution imaging spectroradiometer (MODIS). Furthermore, AOD retrieved from surface reflectance inversion was also validated using ground-based sun photometer observation data from aerosol robotic network (AERONET) station in Bandung, Indonesia. Our experiment shows the consistency between AOD from surface reflectance inversion and AOD from ground-based observation. Finally, 6SV was performed on Landsat-8 imagery to obtain the surface reflectance. We further compared surface reflectance of 6SV atmospheric correction and surface reflectance of Landsat-8 Level 2 product. The atmospherically corrected image also shared agreeable result with Landsat 8 Level-2 product.",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://cst.kipmi.or.id/journal/article/download/122/62"
+    },
+    {
+        "title": "The effect of sunglint correction for estimating water depth using rationing, thresholding, and mean value algorithms",
+        "authors": [
+            "Luhur Moekti Prayogo",
+            "Abdul Basith"
+        ],
+        "cited_by": "5",
+        "year": "2021",
+        "venue": "Rekayasa",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:mB3voiENLucC",
+        "publication_date": "2021/3/19",
+        "abstract": "Satellite-Derived Bathymetry (SDB) is an alternative for obtaining shallow water depth data. The existence of images with various resolutions, the availability of a complete image band can develop the extraction results. This method is based on the principle of the satellite's visible band to estimate water depth. The mapping of shallow water depth is dependent on water conditions, both its brightness and surface. When the sensor senses a water object, the reflected reflection comes from the surface, and some sensors cannot penetrate the water object. The sun's position and the sensor's point of view when sensing it results in interference from the water surface (Sunglint). The sunglint effect on the image can be reduced by performing RGB band correction with NIR Infrared. This study aims to demonstrate the effect of Sunglint's correction on three SDB approaches, namely Thresholding, Rationing, and Mean Value on Worldview 3 imagery in Karimunjawa Islands, Central Java. This study's results indicate that the Sunglint correction on Worldview 3 imagery affects the depth extraction results. The best results are shown by Sunglint's correction using the Thresholding approach (B2-B7), which produces the best correlation with R2 of 0.7364 and (B7-B2) with R2= 0.7351. Contrastingly, the lowest correlation was generated using the Mean Value ((B2+ B7)/2) approach without Sunglint's correction with R2= 0.4015. So this research proves that the Worldview 3 image with Sunglint correction can provide bathymetry data, especially in shallow waters.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://journal.trunojoyo.ac.id/rekayasa/article/download/8698/5435"
+    },
+    {
+        "title": "Kontribusi Konstanta Pasang Surut Perairan Dangkal Terhadap Pasang Surut di Sekitar Pulau Jawa",
+        "authors": [
+            "A Basith",
+            "Y Prakoso"
+        ],
+        "cited_by": "5",
+        "year": "2015",
+        "venue": "Prosiding Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:cFHS6HbyZ2cC",
+        "publication_date": "2015/11",
+        "abstract": "Penelitian ini dimaksudkan untuk menyelidiki kontribusi komponen pasut perairan dangkal dalam membentuk data pasut. Untuk itu diambil data pasut di perairan Utara Pulau Jawa (Kolinamil, Semarang dan Surabaya) yang mewakili perairan dangkal dan data pasut di perairan Selatan yang mewakili perairan dalam (Pangandaran, Cilacap, Prigi, dan Sadeng) selama 1 tahun. Analisis harmonik dilakukan untuk seluruh data pasut sehingga dihasilkan komponen-komponen pasut. Data prediksi pasut dibentuk dari 3 kelompok data, 1) prediksi dengan 7 komponen pasut utama saja yaitu M2, S2, O1, K1, P1, K2, N2, 2) prediksi dengan 7 komponen pasut utama ditambah selurh komponen perairan dangkal, dan 3) prediksi dengan 7 komponen pasut ditambah dengan komponen perairan dangkal yang signifikan. Hasil percobaan menunjukkan bahwa jumlah komponen pasut perairan dangkal di perairan Utara Pulau …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Abdul-Basith-5/publication/307958187_KONTRIBUSI_KONSTANTA_PASANG_SURUT_PERAIRAN_DANGKAL_TERHADAP_PASANG_SURUT_DI_SEKITAR_PULAU_JAWA/links/57d33fbe08ae0c0081e273f7/KONTRIBUSI-KONSTANTA-PASANG-SURUT-PERAIRAN-DANGKAL-TERHADAP-PASANG-SURUT-DI-SEKITAR-PULAU-JAWA.pdf"
+    },
+    {
+        "title": "Studi Awal Penggunaan Modul GPS Murah untuk Pengukuran RTK NTRIP",
+        "authors": [
+            "Dedi Atunggal",
+            "Abdul Basith",
+            "Catur Aries Rokhmana",
+            "Dasita Meygan Pratiwi"
+        ],
+        "cited_by": "5",
+        "year": "2015",
+        "venue": "Seminar Nasional FIT ISI",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:YsMSGLbcyi4C",
+        "publication_date": "2015",
+        "abstract": "Nowadays, the industry of low-cost GPS board and module is growing. At first these devices are used for positioning of mobile vehicles and unmanned vehicle (unmanned vehicle) eg the Unmanned Survey Vessel (USV) or Unmanned Aerial Vehicle (UAV). These devices have the specifications and features that allow the application of accurate positioning using various methods such as; static postprocessing, kinematic post-processing and real-time kinematic GPS. This paper discussed the use of low-cost GPS module for real-time kinematic GPS using RTK correction data from Continuously Operating Reference Station (CORS), better known by the term Networked Transported RTCM via Internet Protocol (NTRIP).",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/320558668_Studi_Awal_Penggunaan_Modul_GPS_Murah_untuk_Pengukuran_RTK_NTRIP/links/59edb6bba6fdccef8b0ddfde/Studi-Awal-Penggunaan-Modul-GPS-Murah-untuk-Pengukuran-RTK-NTRIP.pdf"
+    },
+    {
+        "title": "Pemodelan Spasial Landaan Tsunami Menggunakan Variasi Lokasi Sumber dan Magnitud Gempa Studi Kasus Kota Padang",
+        "authors": [
+            "A Basith",
+            "W Kongko",
+            "N Oktaviani"
+        ],
+        "cited_by": "5",
+        "year": "2012",
+        "venue": "Conference on Geospatial Science and Engineering. Yogyakarta",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:Zph67rFs4hoC",
+        "publication_date": "2012",
+        "abstract": "Tsunami is one of major catastrophe in Indonesia causing damage of infrastructures, loss of lives, and damaging environment. Spatial modeling of areas prone to landslide run-up is importance to conduct in order to reduce tsunami impact. Using tsunami numerical model such areas can be predicted. The impact of tsunami is influenced by some factors such as locations and magnitudes of tsunami source, eg earthquake. This paper presents preliminary study of modeling tsunami run-up in Padang City, Sumatera Barat. Four scenarios of tsunami run-up modeling were run using different locations and magnitudes of tsunami source. The results show that the closer the location of the source, the farther the tsunami run-up. In addition, tsunami run-up reaches onshore areas farther when the magnitude of the source is higher.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Nadya-Oktaviani/publication/282243481_Pemodelan_Spasial_Landaan_Tsunami_Menggunakan_Variasi_Lokasi_Sumber_dan_Magnitud_Gempa_Studi_Kasus_Kota_Padang/links/5608ed0008aea25fce3b8922/Pemodelan-Spasial-Landaan-Tsunami-Menggunakan-Variasi-Lokasi-Sumber-dan-Magnitud-Gempa-Studi-Kasus-Kota-Padang.pdf"
+    },
+    {
+        "title": "Detecting Oil spill on Sentinel-1 imagery based on texture analysis and instantaneous wind speed estimation",
+        "authors": [
+            "Ratna Prastyani",
+            "Abdul Basith"
+        ],
+        "cited_by": "4",
+        "year": "2019",
+        "venue": "2019 5th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:dhFuZR0502QC",
+        "publication_date": "2019/7/30",
+        "abstract": "Illegal oil discharge from ship routine operations frequently exposes marine ecosystem in serious danger. Oil pollution at sea has been increasingly reported as the marine traffic also increases. Therefore, there is a pressing need for oil spill detection at sea to reduce the oil pollution. Synthetic Aperture Radar (SAR) imagery has been widely used for oil spill detection. Nevertheless, oil spill detection on SAR image is limited to wind speed. Thus, ocean wind is highly required. This paper presents the utilisation of Sentinel-1 SAR imagery to detect oil spill at sea and to retrieve instantaneous ocean wind information. Oil spill detection is carried out using image texture analysis and Support Vector Machine (SVM) classification. Moreover, instantaneous ocean wind field is estimated based on Fast Fourier Transform (FFT) and CMOD5 geophysical model. This study shows satisfactory result of oil spill detection and …",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "Perbandingan Metode Roberts’ Filter, Segmentasi dan Band Ratio Pada Citra Landsat 8 untuk Analisis Garis Pantai",
+        "authors": [
+            "Luhur Moekti Prayogo",
+            "Abdul Basith"
+        ],
+        "cited_by": "3",
+        "year": "2021",
+        "venue": "Rekayasa",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:tkaPQYYpVKoC",
+        "publication_date": "2021/12/28",
+        "abstract": "Computerization has an essential role in the field of remote sensing. Various methods for automatic coastline analysis continue to develop. This study aims to determine the performance of three methods, namely Roberts' Filter, Segmentation, and Band Ratio on Landsat 8 imagery, in producing land edges that are directly adjacent to the sea area (coastline). This study shows that the non-fusion image, the resulting edge, is less sharp than the fused image in the Roberts' filter method. The use of a 2x2 matrix on the Roberts' filter, the range of values from 0.52 to 0.56 in the segmentation method, and the Green Band Ratio-Near-Infrared produce various accuracy. The best method is produced by Band Ratio, where the edge detection results are close to the image's actual conditions. Meanwhile, unsatisfactory results are produced by the segmentation method.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://journal.trunojoyo.ac.id/rekayasa/article/viewFile/10300/6270"
+    },
+    {
+        "title": "Shallow Water Depth Mapping Using Single Band and Band Ratio on High-Resolution Imagery",
+        "authors": [
+            "Luhur Moekti Prayogo",
+            "Abdul Basith"
+        ],
+        "cited_by": "3",
+        "year": "2020",
+        "venue": "Seminar Nasional Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:e5wmG9Sq2KIC",
+        "publication_date": "2020",
+        "abstract": "One of the availabilities of remote sensing satellite imagery can be used as a provider of shallow sea depth information using the Satellite-Derived Bathymetry (SDB) technique. This technique's main problem is the variation in the bottom cover of waters such as coral reefs and seagrass, which distorts the spectral values. The use of band ratios can normalize variations in bottom water cover. This study compares the single band algorithm's accuracy with the band ratio depth data obtained by field survey around the port of Karimunjawa Islands, Central Java. The image used in this study is high-resolution imagery, Worldview 3. Preprocessing includes Sunglint correction to reduce the effect of sunglint in the waters and correction of depth data so that the data are free from tides' influence. The bands used are red, green, blue, and Near-Infrared, which results in 10 combinations. This study indicates that the band ratio method produces a smaller RMSE value than the single band. The blue/green ratio makes the best depth values with an RMSE of 1.669 meters at a depth of 0-5 meters. In comparison, single-band use shows that the best estimation result is with an RMSE of 2.373 meters in the green band. This study shows that the band ratio method produces better depth estimates than the single band method.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.researchgate.net/profile/Luhur-Prayogo/publication/350855639_Shallow_Water_Depth_Mapping_Using_Single_Band_and_Band_Ratio_on_High-Resolution_Imagery/links/6076a7ee4585151ce1834a47/Shallow-Water-Depth-Mapping-Using-Single-Band-and-Band-Ratio-on-High-Resolution-Imagery.pdf"
+    },
+    {
+        "title": "Trends and seasonal to annual sea level variations of North Java Sea derived from tide gauges data",
+        "authors": [
+            "Isna Uswatun Khasanah",
+            "Leni Sophia Heliani",
+            "Abdul Basith"
+        ],
+        "cited_by": "3",
+        "year": "2016",
+        "venue": "Proceedings of the First International Conference on Technology Innovations Society, Padang, West Sumatra, Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:W7OEmFMy1HYC",
+        "publication_date": "2016/7/22",
+        "abstract": "Abstract Information of Sea level variations is very important not only for a scientific purpose also for daily and practical purposes. That information is used as a basis of management and development coastal areas, in order to improve the social walfare and disaster mitigation. The information of sea level variations of Indonesia waters is still limited, especially local sea level variations such as of the Java Island Sea, the largest population island in Indonesia. In this study, sea level variation in the seas around Java Island especially, North Java Sea was investigated based on tide gauge data from four tidal stations, namely Pondok Dayung, Semarang, Jepara and Surabaya tidal stations. The period of data was started from 1995 until 2014. The tide gauge data was corrected in the preliminary step by global test to eliminated outlier data, then shifting and scaling corrections. Identification of sea level variations was carried out using the moving average and linear trend method to detect the pattern and trends of seasonal and annual sea level variations. The results show that mean sea level rise (SLR) from 1995 to 2014 years at North Java Sea is-0, 13 mm/year. The seasonal sea level variation affected by the monsoons, where sea level rise occurs at East Monsoon and West Monsoon. Then the annual sea level variation was affected by the ENSO phenomenon, where sea level down significant because of El-Nino phenomenon.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.academia.edu/download/86646438/d289b65833d9b9b1d049abde87066af3c727.pdf"
+    },
+    {
+        "title": "Pemetaan Pelabuhan Perikanan Pantai Sadeng Kabupaten Gunungkidul Menggunakan Uav",
+        "authors": [
+            "Abdul Basith",
+            "Catur Aries Rokhmana",
+            "Christine Noegroho Kartini",
+            "Horas Togatorop2Fitrawan",
+            "Dwi Putra Ananta Pradanakusuma",
+            "Trias Sugeng Prayoga",
+            "U Yudhono Prakoso & Leksono"
+        ],
+        "cited_by": "3",
+        "year": "2015",
+        "venue": "Prosiding Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:9ZlFYXVOiuMC",
+        "publication_date": "2015/11",
+        "abstract": "Pelabuhan Perikanan Pantai (PPP) Sadeng terletak di teluk Sadeng, Desa Songbayu Sadeng, Kecamatan Girisubo, Kabupaten Gunungkidul. Sisi lain yang menarik adalah koridor utama akses ke PPP Sadeng dikatakan sebagai alur purba Bengawan Solo. Dengan lokasinya yang menghadap pantai Selatan, pelabuhan ini pun terancam dengan tsunami. Penyediaan data spasial sangat berguna baik untuk pengembangan pelabuhan ini maupun untuk kajian mitigasi bencana tsunami. Penelitian ini mengguanakan wahana USV (Unmanned Surface Vessel) untuk mengkoleksi citra foto Sadeng. Sebanyak 8 titik GCP diukur untuk digunakan dalam pemrosesan foto. Cakupan daerah pengukuran meliputi dari mulut ke arah Timur dan Barat masing-masing sejauh 2, 5 km; dari kolam pelabuhan ke Utara sejauh 2 kilometer. Luas daerah pemotretan±1200 ha. Citra foto yang berhasil diperoleh sebanyak 2536 foto dari …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.researchgate.net/profile/Abdul-Basith-5/publication/307958160_PEMETAAN_PELABUHAN_PERIKANAN_PANTAI_SADENG_KABUPATEN_GUNUNGKIDUL_MENGGUNAKAN_UAV/links/57d33e1b08ae601b39a429a0/PEMETAAN-PELABUHAN-PERIKANAN-PANTAI-SADENG-KABUPATEN-GUNUNGKIDUL-MENGGUNAKAN-UAV.pdf"
+    },
+    {
+        "title": "Past landslide at Post Slim: evaluation of its causative factors using geospatial and remote sensing data",
+        "authors": [
+            "Abdul Basith",
+            "Abdul Nasir Matori",
+            "Indra Sati Hamonangan Harahap"
+        ],
+        "cited_by": "3",
+        "year": "2010",
+        "venue": "International Conference on Sustainable Building and Infrastructure (ICSBI2010), Kuala Lumpur, Malaysia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&citation_for_view=weadN_wAAAAJ:KlAtU1dfN6UC",
+        "publication_date": "2010/6/15",
+        "abstract": "Geology type was reported as the most influencing landslide contributing factor causing a big massive landslide at Pos Selim. This paper evaluates why the big landslide occurred there rather than somewhere else along the Pos Selim-Kampung Raja highway from geospatial and remote sensing data point of view. Slope conditions along the highway during clearing and cutting slope works in 2000, before the massive landslide occurred, were evaluated. The evaluation was based on slope, slope aspect, curvature, land use, geology, and land surface temperature. Land use and land surface temperature were derived from Landsat TM and Landsat 7 ETM+ images that were acquired in 1997 and 2000 respectively. GIS analysis was performed by applying the weighted overlay method. The weight values assigned to landslide contributing factors was derived from slope at Pos Selim landside as the training area. GIS analysis was carried out in two ways, 1) by activating and de-activating geology layer to know its influence, 2) stepwise inclusion of landslide contributing factors to identify the main influencing factors. As the result, this study cannot explain why the landslide occurred at the recent big landslide site. However, it resulted in landslide hazard map that covers Pos Selim landslide site. LST was found as another important landslide contributory factor due to its effect in increasing the coverage of hazard zone. GIS analysis has found another potential landslide area that was confirmed its location by field survey data.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.researchgate.net/profile/Abdul-Basith-5/publication/336083780_Past_Landslide_at_Pos_Selim_Evaluation_of_Its_Causative_Factors_Using_Geospatial_and_Remote_Sensing_Data/links/5d8d77f1a6fdcc25549e7c8b/Past-Landslide-at-Pos-Selim-Evaluation-of-Its-Causative-Factors-Using-Geospatial-and-Remote-Sensing-Data.pdf"
+    },
+    {
+        "title": "Landslide Detection on Slope Area by Using Close-Range Photogrammetric Data",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Abdul Nasir Matori",
+            "A BASITH",
+            "D ATUNGGAL"
+        ],
+        "cited_by": "3",
+        "year": "2009",
+        "venue": "Prosiding Seminar Nasional Revitalisasi Data dan, Sains-Teknik, Prosiding Seminar/Lokakarya/Konferensi, http://lib. ugm. ac. id/digitasi/index. php",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:Wp0gIr-vW9MC",
+        "publication_date": "2009",
+        "abstract": "Slope area is one of the important areas that need to be monitored for safety and maintenance purposes. Monitoring of the slope area can be performed easily by using a Digital Elevation Model (DEM). Landslide and mass-movement on the slope area can be detected by calculation of DEMs derived from two difference epoch data. In this study the DEMs were derived by using close-range photogrammetric method from stereo photographs captured on two different times (13/05/2007 and 07/04/2008). This method is preferred due to its reasonably cost and its suitability for measuring inaccessible and risky areas. Restitution of stereo model is performed by involving Ground Control Points (GCP) to yield some camera parameters, positions and orientations of each photo. Having these parameters, positions of all sampling points on stereo photos can be transformed into ground coordinate system. Terrain data sampling points in this research were performed by regular sampling methods. To measure the quality of this technique in DEM generation, resulted DEMs were compared with a set of correct data measured by reflector-less Total Station (TS). The result yield DEMs with accuracy in elevation interpolation is in centimeters level, and accuracy in volume estimation is less than 0.5%. The result shows that in period of one year there were significant terrain changes on ground surface. It was indicated by distribution of gain and loss areas on the slope, and extremely changes in longitudinal-section and cross-section profiling.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.academia.edu/download/71652084/LANDSLIDE_DETECTION_ON_SLOPE_AREA_BY_USI20211006-6632-10y6d93.pdf"
+    },
+    {
+        "title": "SAR Bathymetry Review and Its Possibility Implementation in Indonesia",
+        "authors": [
+            "Wening Aisyah Fauziana Koman",
+            "Abdul Basith",
+            "Atriyon Julzarika"
+        ],
+        "cited_by": "2",
+        "year": "2023",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:9Nmd_mFXekcC",
+        "publication_date": "2023",
+        "abstract": "Indonesia needs bathymetry information for diverse applications as a maritime country. There are various methods of determining the water depth for bathymetry. The advancement of satellite imagery data has led to the increasing use of remote sensing data for depth measurements. With satellite imaging, wide area coverage can be achieved in a relatively short time, making depth data acquisition more cost-effective. SAR (Synthetic Aperture Radar) imagery is an active remote sensing technology developed to estimate depth data known as the SAR Bathymetry method. This method is still not widely applied, especially in Indonesia, even though it has considerable potential with cloud-free imageries, where it becomes a severe problem in tropical countries when using optical imagery. Therefore, this paper will discuss algorithms and techniques for depth data estimation using SAR Bathymetry and their possible implementation in Indonesia. The optimum depth, SAR image recommendation, and conditions required to apply this method will also be discussed.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Abdul-Basith-5/publication/376857383_SAR_Bathymetry_Review_and_Its_Possibility_Implementation_in_Indonesia/links/658d199c2468df72d3dd72c7/SAR-Bathymetry-Review-and-Its-Possibility-Implementation-in-Indonesia.pdf"
+    },
+    {
+        "title": "Uji Kualitas Data Pengukuran Batimetri Singlebeam Echosounder Berdasarkan SNI-7647 Tahun 2010 (Studi Kasus Survei Batimetri Menggunakan Hi-Target HD 370 di Laguna Pantai Glagah …",
+        "authors": [
+            "Sarono Sarono",
+            "Abdul Basith"
+        ],
+        "cited_by": "2",
+        "year": "2022",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:UHK10RUVsp4C",
+        "publication_date": "2022",
+        "abstract": "Survei batimetri merupakan kegiatan penting dalam kajian hidrografi untuk mengetahui kedalaman suatu perairan. Metode pengukuran batimetri menggunakan prinsip hidroakustik yaitu memanfaatkan cepat rambat gelombang suara di dalam air. Instrumen untuk melakukan survei batimetri dikategorikan menjadi singlebeam echosounder dan multibeam echosounder. Seiring dengan perkembangan teknologi, semakin beragam pula jenis dan merk dari instrumen untuk melakukan survei dibidang hidrografi. Beberapa instrumen untuk pengukuran kedalaman perairan dengan prinsip hidroakustik telah banyak beredar di kalangan akademisi hingga profesional. Salah satu instrumen adalah Hi-Target HD 370 yang merupakan alat dengan kategori singlebeam echosounder. Penelitian ini bertujuan untuk melakukan uji analisis kualitas data dari survei batimetri menggunakan singlebeam echosounder Hi-Target HD 370 dengan standar SNI (Standar Nasional Indonesia) yaitu SNI 7646: 2010 tentang Survei hidrografi menggunakan singlebeam echosounder. Pengujian pengambilan data batimetri dilakukan di Laguna Pantai Glagah, Kolonprogo, Yogyakarta. Hasil dari pengukuran menunjukan kedalaman di lokasi kajian maksimal adalah 2,446 meter. Analisis uji kualitas data batimetri yang dilakukan diperoleh nilai dari standar deviasi instrumen ini adalah 0,008 hingga 0,283 meter dengan komposisi 90% sampel memenuhi standar pengukuran singlebeam echosounder orde khusus. Berdasarkan hasil uji kelayakan yang dilakukan instrumen Hi-Target HD 370 layak untuk digunakan dalam batimetri orde khusus.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://pdfs.semanticscholar.org/b543/fcb49f977bbcf85ac55014ad882939935ef4.pdf"
+    },
+    {
+        "title": "Analisis Kandungan Total Suspended Solid (Tss) Menggunakan Citra Satelit Worldview 3 Diperairan Karimunjawa",
+        "authors": [
+            "Aditya Hafidh Baktiar",
+            "Abdul Basith"
+        ],
+        "cited_by": "2",
+        "year": "2020",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2020/12/1",
+        "abstract": "Salah satu biota laut yang berada di perairan Karimunjawa dan sering menjadi daya tarik wisatawan yaitu terumbu karang merupakan spesies yang berperan penting dalam menjaga dan menyeimbangkan ekosistem laut. Dimana keberadaan spesies ini merupakan tempat tinggal makhluk hidup laut lainnya dan dapat berfugsi untuk mencegah abrasi pantai. Keberadaan terumbu karang serta biota laut lainnya mempunyai hubungan erat dengan sedimentasi dan suspensi padatan yang berada disekelilingnya. Dengan adanya suspense padatan yang tinggi dapat menyebabkan penurunan terhadap keanekaragaman terumbu karang dan biota laut lainnya.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/9210/4971"
+    },
+    {
+        "title": "Model validation and error estimation of tsunami runup using high resolution data in Sadeng Port, Gunungkidul, Yogyakarta",
+        "authors": [
+            "Abdul Basith",
+            "Yudhono Prakoso",
+            "Widjo Kongko"
+        ],
+        "cited_by": "2",
+        "year": "2017",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:ZeXyd9-uunAC",
+        "publication_date": "2017/7/25",
+        "abstract": "A tsunami model using high resolution geometric data is indispensable in efforts to tsunami mitigation, especially in tsunami prone areas. It is one of the factors that affect the accuracy results of numerical modeling of tsunami. Sadeng Port is a new infrastructure in the Southern Coast of Java which could potentially hit by massive tsunami from seismic gap. This paper discusses validation and error estimation of tsunami model created using high resolution geometric data in Sadeng Port. Tsunami model validation uses the height wave of Tsunami Pangandaran 2006 recorded by Tide Gauge of Sadeng. Tsunami model will be used to accommodate the tsunami numerical modeling involves the parameters of earthquake-tsunami which is derived from the seismic gap. The validation results using t-test (student) shows that the height of the tsunami modeling results and observation in Tide Gauge of Sadeng are …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4987106/13748498/090007_1_online.pdf"
+    },
+    {
+        "title": "Aplikasi RTK GPS menggunakan Receiver OEM GPS untuk Penentuan Posisi Lajur Perum USV dalam Survei Batimetri",
+        "authors": [
+            "Dedi Atunggal",
+            "Abdul Basith",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2016",
+        "venue": "AES",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2016",
+        "abstract": "MetodeProsedur penelitian meliputi langkah-langkah persiapan, pelaksanaan dan penyelesaian seperti tersaji pada diagram alir penelitian (Gambar 2). Penelitian ini dimulai dengan persiapan yang meliputi studi literatur terkait desain sistem RTK yang dipasang pada USV serta persiapan alat dan bahan. Peralatan yang digunakan dalam peneiltian ini adalah sebagai berikut: a) Satu unit alat Echo Sounder GARMIN",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/326508169_Aplikasi_RTK_GPS_menggunakan_receiver_OEM_GPS_untuk_penentuan_posisi_lajur_perum_USV_dalam_survei_batimetri/links/6050b407299bf173674aa92b/Aplikasi-RTK-GPS-menggunakan-receiver-OEM-GPS-untuk-penentuan-posisi-lajur-perum-USV-dalam-survei-batimetri.pdf"
+    },
+    {
+        "title": "Generating 3D model of instable open slope area from 2D photographs using commercial pocket camera",
+        "authors": [
+            "BK Cahyono",
+            "AN Matori",
+            "D Atunggal",
+            "A Basith"
+        ],
+        "cited_by": "2",
+        "year": "2008",
+        "venue": "Proc. Int. Conf. Construct. Build. Technol.(ICCBT)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:ufrVoPGSRksC",
+        "publication_date": "2008",
+        "abstract": "Instable slope is one of the important areas that need to be measured and monitored for safety and maintenance purposes. Monitoring and measurement of the areas would be significant if the location is closed to a housing area residential or infrastructure. The method used in this study is a close-range photogrammetry technique by using a commercial pocket camera for generating three dimensional (3D) model of the object. In order to determine the accuracy of this method, the generated model is compared to the data obtained from measurement by using a reflector-less total station. Camera calibration is accomplished before the survey execution. This is intended to remove radial and tangential lens distortions. Restitution stereo model is performed by involving Ground Control Points (GCP) to yield positions and orientation of each photo. Having these parameters, positions of every feature on stereo photos can be transformed into ground coordinate system. The 3D Digital Elevation Model (DEM) is interpolated by using Triangular Irregular Network (TIN) interpolation method. The comparison between the DEM generated by this method and the DEM from total station shows that the Root Mean Square Error (RMSE) for height is 0.067638 meter (6.764 cm) and RMSE for volume comparison is 7.041 m3 (0.228%). It means that the method is capable of yielding accurate DEM.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/347516515_Generating_3D_Model_of_Instable_Open_Slope_Area_from_2D_Photographs_using_Commercial_Pocket_Camera/links/5fe02ed5299bf140882f902d/Generating-3D-Model-of-Instable-Open-Slope-Area-from-2D-Photographs-using-Commercial-Pocket-Camera.pdf"
+    },
+    {
+        "title": "Hubungan Konstanta Atenuasi dengan Konstituen Air pada Perairan Pelabuhan Karimnunjawa",
+        "authors": [
+            "MU Nuha",
+            "A Basith",
+            "W Asriningrum",
+            "G Winarso",
+            "KT Setiawan"
+        ],
+        "cited_by": "1",
+        "year": "2019",
+        "venue": "Elipsoida",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:9vf0nzSNQJEC",
+        "publication_date": "2019/6",
+        "abstract": "Satellite derived bathymetry (SDB) atau yang dikenal di Indonesia sebagai batimetri berbasis satelit merupakan salah satu teknik dalam penginderaan jauh untuk ekstraksi kedalaman laut dengan memanfaatkan citra optik. Data masukan berupa nilai spektral dari objek kolom air dibutuhkan untuk proses SDB. Salah satu metode SDB yaitu metode analitis membutuhkan data spektral lapangan, konstanta atenuasi air, dan konstituen air untuk proses estimasi kedalaman. Data spektral dan atenuasi diakuisisi dengan alat spektrometer TriOS Ramses spektrometer. Data konstituen air diambil dari sampel air yang disaring untuk dilakukan pengujian. Konstituen air yang diuji berupa chlorophyll, CDOM, TSS, dan TOM. Nilai kedalaman ekstraksi batimetri sangat dipengaruhi oleh perilaku penetrasi cahaya. Hal tersebut dipengaruhi oleh kondisi konstituen air. Konstituen air memengaruhi atenuasi air sebuah perairan. Penelitian memberikan hasil dari 4 stasiun pengukuran atenuasi memiliki korelasi positif dengan konstituen chlorophyll. Chlorophyll memiliki korelasi positif dengan konstituen yang lain (TOM, CDOM, dan TSS). Dari nilai atenuasi air, perairan sekitar Pelabuhan Karimunjawa merupakan jenis perairan jernih dengan tipe III dan 1 yang memiliki nilai (PAR) adalah 0.111.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/4858/2897"
+    },
+    {
+        "title": "Evaluasi Kemampuan Alat Fish Finder Garmin Mapsounder 178c Dan Echosounder Odom Hydrotrac Ii Untuk pengukuran Batimetri",
+        "authors": [
+            "Bambang Kun Cahyono",
+            "Abdul Basith"
+        ],
+        "cited_by": "1",
+        "year": "2014",
+        "venue": "Annual Engineeering Seminar 2014",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:-_dYPAW6P2MC",
+        "publication_date": "2014/2/12",
+        "abstract": "Bathymetric mapping is needed in order to provide geo-spatial information for planning and decision making activities related to information of inland and marine waters. There are various technologies that can be used to generate the bathymetric data, one of them is by using a single beam echo sounder (SBES). There are two types of SBES, ie standard single beam echo sounder and fish finder. Fish finder is a low cost alternative depth gauges, but the resulted accuracy based on the existing specifications is lower, compared to the standard SBES. Nevertheless it is necessary to compare the bathymetric data measured using both those tools. It was performed in order to provide a comparative picture, whether the quality of the data measured by the fish finder and a standard SBES are different or not, by following the referral standardization IHO SP-44 in 2008 and ISO 7646 in 2010. The works in this study consist of the measurement scenario design, equipments configuration, calibration barcheck, sounding (data collection), data processing, quality testing, and comparison of the depth data refers to the IHO and SNI standardizations. Based on the results of quality testing of the depth data measured by both fish finder and standard SBES, the resulted depths meet IHO and SNI standardizations for both uniform and varied depth areas. When viewed from the position of the placement of standard SBES and fish finder transducers in term of statistical test with a confidence level of 95%, transducers placed side by side will produce different data statistically. However if the transducer placed on opposite left and right side of the ship will result in data that …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Bambang-Cahyono-6/publication/347439378_Evaluasi_Kemampuan_Alat_Fish_Finder_Garmin_MapSounder_178C_Dan_EchoSounder_ODOM_Hydrotrac_II_Untuk_Pengukuran_Batimetri/links/5fdbaced92851c13fe958c40/Evaluasi-Kemampuan-Alat-Fish-Finder-Garmin-MapSounder-178C-Dan-EchoSounder-ODOM-Hydrotrac-II-Untuk-Pengukuran-Batimetri.pdf"
+    },
+    {
+        "title": "Pemanfaatan Data Multi Satelit Altimetri untuk Kajian Kenaikan Muka Air Laut Perairan Pulau Jawa dari Tahun 1995 sd 2014",
+        "authors": [
+            "Isna Uswatun Khasanah",
+            "Leni S Heliani",
+            "Abdul Basith"
+        ],
+        "cited_by": "1",
+        "year": "2014",
+        "venue": "Universitas Gadjah Mada, Yogyakarta",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:N5tVd3kTz84C",
+        "publication_date": "2014",
+        "abstract": "Pulau Jawa merupakan pulau di Indonesia dengan penduduk terpadat, dimana sebagian besar penduduknya tinggal di pesisir. Oleh karena itu, informasi kelautan seperti perubahan permukaan laut sangat diperlukan, diantaranya untuk keperluan pengelolaan dan pengembangan wilayah pesisir. Kenaikan muka air laut di perairan Pulau Jawa selama 20 tahun dari tahun 1995 sd 2014 secara lokal dan global belum diketahui. Oleh karena itu, penelitian dilakukan untuk mengidentifikasi kenaikan muka air laut global dan lokal di perairan Pulau Jawa, serta menganalisis hubungan fenomena ENSO (El-Nino dan La-Nina) terhadap perubahan permukaan lau di perairan Pulau Jawa. Data multi satelit altimetri yang digunakan adalah data Topex/Poseidon, Jason-1 dan Jason-2, karena ketiga satelit tersebut mempunyai visi yang sama. Data multi satelit altimetri dikoreksi dari kesalahan geofisik dan direferensikan …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Implementation and Validation of Online Tidal Analysis",
+        "authors": [
+            "Ghani Yanuargo Dondiarta",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Journal of Geospatial Information Science and Engineering (JGISE)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:nrtMV_XWKgEC",
+        "publication_date": "2025/6/30",
+        "abstract": "Tidal harmonic analysis extracts tidal components to understand regional tides that generally conducted using commercial or noncommercial software that needs to be installed on the user's local device. Currently there is still no online harmonic analysis service for tidal data, only an online tidal prediction service. Auto Tidal Pro is developed to perform harmonic analysis and prediction online and is designed to automate the process. It is built using the least square method and Java programming language for harmonic analysis and tidal prediction programs. This study aims to present the results of the development of the online tidal data analysis system called Auto Tidal Pro and its validation. Validation is conducted by comparing the results of harmonic analysis and predictions from the LP-Tides software and observational data. The tidal observational data used is from Balikpapan station. The validation results show that the amplitude component values are close to the LP-Tides results, but the phase values still show some differences. The RMSE value of the harmonic analysis results with Auto Tidal Pro ranges from 0.032-0.17 m, while the RMSE of LP-Tides results is 0.12 m. The MSL difference in about 0.012-0.004 m. Auto Tidal Pro prediction produce wave patterns that are almost identical to the observational data and the LP-Tides predictions. The prediction RMSE gives values between 0.08-0.16 m, and the correlation between Auto Tidal Pro's predictions with observational data and LP-Tides predictions ranges from 0.930816-0.990809. In general, Auto Tidal Pro can be an alternative for tidal harmonic analysis and prediction.",
+        "pdf_link": "https://www.researchgate.net/profile/Abdul-Basith-5/publication/393787817_Implementation_and_Validation_of_Online_Tidal_Analysis/links/687a01327d202419e84d3314/Implementation-and-Validation-of-Online-Tidal-Analysis.pdf"
+    },
+    {
+        "title": "Evaluating Influencing Factors on Liqui-InSAR Derived Bathymetry in Dynamic Aquatic Environments: A Case Study of Lake Limboto, Indonesia",
+        "authors": [
+            "Argo Galih Suhadha",
+            "Wening Aisyah Fauziana Koman",
+            "Rizky Faristyawan",
+            "Aldiano Rahmadya",
+            "Atriyon Julzarika",
+            "Aulia Tryatmojo",
+            "Farikhotul Chusnayah",
+            "Ratna Sari Dewi",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "2024 IEEE International Conference on Aerospace Electronics and Remote Sensing Technology (ICARES)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:XD-gHx7UXLsC",
+        "publication_date": "2024"
+    },
+    {
+        "title": "Dual-channel model for shallow water depth retrieval from Worldview-3 imagery a case study of Karimunjawa waters, Central Java, Indonesia",
+        "authors": [
+            "Abdul Basith",
+            "Luhur Moekti Prayogo",
+            "Gathot Winarso",
+            "Kuncoro Teguh Setiawan"
+        ],
+        "cited_by": "",
+        "year": "2022",
+        "venue": "Geodesy and Cartography",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:NJ774b8OgUMC",
+        "publication_date": "2022/10/10",
+        "abstract": "This research aims to estimate shallow water depth using Worldview 3 satellite imagery and dual-channel models in Karimunjawa waters, Central Java–Indonesia. To build dual-channel models, we used spectral data that had been validated in the field. Twenty-three depth data were recorded synchronous to the spectral data used in forming the semianalytical dual-channel models. Twelve models were tested using 633 depth data with a non-linear model using multiple polynomial regression analysis degrees 1 and 2. This research has shown that the proposed model has been confirmed to improve depth accuracy. Models using blue and green channels of Worldview 3 image result in good accuracies especially for estimating depths with interval from 5 to 20 meters with RMSE of 1,592 meters (5–10 meters), 2,099 meters (10–15 meters), and 1,239 meters (15–20 meters). The wavelengths of two channels have a low absorption rate to penetrate deeper waters than other wavelengths. The research also finds out that there are still models that meet the IHO standard criteria.",
+        "pdf_link": "https://journals.vilniustech.lt/index.php/GAC/article/download/14644/11351/"
+    },
+    {
+        "title": "PEMETAAN HABITAT BENTIK PERAIRAN DANGKAL MENGGUNAKAN WAHANA UAV DI PULAU KARIMUNJAWA PROVINSI JAWA TENGAH",
+        "authors": [
+            "Yahya Dwikarsa",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Prosiding Seminar Nasional Perikanan dan Kelautan",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:pqnbT2bcN3wC",
+        "publication_date": "2021/7/6",
+        "abstract": "Perkembangan teknologi pemetaan untuk mendapatkan data spasial terutama di wilayah pesisir terutama objek habitat bentik semakin berkembang. Kehadiran UAV menjadi solusi dalam penyediaan data spasial berosolusi tinggi dan mereduksi kendala dari segi biaya dan waktu. Penelitian ini menerapkan teknologi UAV untuk memetakan habitat bentik perairan dangkal. Wilayah yang akan dikaji adalah habitat bentik yang berlokasi di Pulau Karimunjawa. Teknik yang digunakan merupakan teknik fotogrametri dengan menggabungkan sejumlah foto udara menjadi satu bagian (orthomosaik). Jumlah foto udara yang digabungkan total terdapat 2593 foto udara. Dalam meningkatkan akurasi geometrik citra ortophoto habitat bentik pada penelitian ini, digunakan 8 titik GCP yang diukur dengan GNSS dan menghasilkan rata-rata presisi±2, 2 mm untuk horizontal dan±3, 3 mm untuk vertikal. Hasil pemotretan citra …"
+    },
+    {
+        "title": "Cirrus Cloud Correction in Landsat 8 Image Using Combined Image-Based Approach and Various Classification Schemes",
+        "authors": [
+            "Abdul Basith",
+            "Indah Restumi",
+            "Ratna Prastyani"
+        ],
+        "cited_by": "",
+        "year": "2020",
+        "venue": "2020 6th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:ye4kPcJQO24C",
+        "publication_date": "2020/9/7",
+        "abstract": "The interaction of electromagnetic energy with the atmosphere causes the sensor to detect some of the elements found in the ozone layer such as ice crystals, dust, and clouds. Cirrus cloud in particular is often contaminating satellite imagery and yet relatively difficult to visually detect in visible spectrum. Indonesia as one of the tropical countries has highly cloud cover almost throughout the year. This condition causes land covers are contaminated by cirrus cloud which alters the digital numbers. The availability of cirrus band in Landsat 8 brings an advantage to eliminate cirrus clouds by performing cirrus cloud effect estimation and simple regression method. In this experiment, image-based cirrus correction was implemented in Landsat-8 over Palangkaraya city with high cirrus contamination. Cirrus cloud effect is estimated by using simple linear regression method involving samples or training area over …"
+    },
+    {
+        "title": "Bathymetry extraction of empirical models using SPOT 7 satellite imagery",
+        "authors": [
+            "Kuncoro Teguh Setiawan",
+            "Devica Natalia BR Ginting",
+            "Masita DM Manessa, Surahman",
+            "Gathot Winarso",
+            "Nanin Anggraini",
+            "Abdul Basith",
+            "Wikanti Asriningrum",
+            "Syamsu Rosid",
+            "A Harsono Supardjo"
+        ],
+        "cited_by": "",
+        "year": "2020",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:UebtZRa9Y70C",
+        "publication_date": "2020/6",
+        "abstract": "Bathymetry is information on the depth of the sea that can describe the hydrographic conditions of the seabed. Satellite derived bathymetry has several methods that can be applied to the batimetric extraction process using optical satellite images. One of the satellite images that can be used is SPOT 7. The image is the latest generation of SPOT which has 4 multispectral channels with a spatial resolution of 6 meters so that it can be extracted to obtain information on shallow water bathymetry. The bathymetry extraction method uses the Van Hengel and Spitzer methods, 1991. The VS method is the principal component analysis method of three bands with respect to the rotation transformation factor. The purpose of this study is to extract SPOT 7 satellite image data to produce relative bathymetry information in shallow seas using the VS algorithm. The location of the study was carried out on Karimunjawa Island, Jepara …",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/500/1/012063/pdf"
+    },
+    {
+        "title": "ANALISIS BATIMETRI SUNGAI SERANG UNTUK MENDUKUNG PENGEMBANGAN INFRASTRUKTUR YOGYAKARTA",
+        "authors": [
+            "Hilmiyati Ulinnuha",
+            "Maritsa Faridatunnisa",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2020",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:WF5omc3nYNoC",
+        "publication_date": "2020/6/1",
+        "abstract": "Salah satu kriteria infrastruktur yang baik adalah adanya connecting jalur transportasi darat, laut, maupun udara. Untuk mendukung infrastruktur yang baik di Yogyakarta, diperlukan pengembangan pelabuhan Tanjung Adikarto yang terletak saling berdekatan dengan Bandara New Yogyakarta International Airport. Alih-alih memiliki infrastruktur Pelabuhan yang baik, Pelabuhan Tanjung Adikarto mengalami sedimentasi karena pengaruh berbagai hal. Salah satu faktor yang dapat menyebabkan sedimentasi Pelabuhan Tanjung Adikarto adalah sedimen yang terbawa oleh Sungai Serang. Oleh karena itu, penelitian ini bertujuan untuk menganalisis batimetri Sungai Serang dan menginterpolasi lokasi sedimentasi Sungai Serang.",
+        "pdf_link": "https://scholar.archive.org/work/wohrdmhgwzekleyuinzohct4um/access/wayback/http://iptek.its.ac.id/index.php/geoid/article/download/6094/4769"
+    },
+    {
+        "title": "Cirrus Cloud Correction in Landsat 8 Image Using the Image-Based Approach: A Case Study in Sumba Island, Indonesia",
+        "authors": [
+            "Ratna Prastyani",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "2018 4th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:mVmsd5A6BfQC",
+        "publication_date": "2018/8/7",
+        "abstract": "Satellite observations show that cirrus cloud can cover 30% of Earth's surface with 70% of its global coverage in the tropics. Indonesia as a tropical country has cirrus coverage all year round. Cirrus clouds are typically thin which form at high altitude making it difficult to detect on optical imageries. However, with the availability of cirrus band in Landsat 8, cirrus cloud effects can be estimated and corrected. This paper demonstrates the image-based approach by utilising cirrus band to estimate and correct cirrus clouds which cover Landsat 8 image of Indonesia. We use Landsat 8 image of Sumba in this study to perform cirrus correction. Cirrus effect on each pixel in visible bands is estimated using linear regression model involving contaminated pixel samples over homogenous area with variety of cirrus intensity. Cirrus cloud correction is performed using band math based on the slope regression coefficient which …"
+    },
+    {
+        "title": "Perbandingan Beberapa Metode Klasifikasi Dasar Laut Menggunakan Data Backscatter Multi-Beam Echosounder",
+        "authors": [
+            "Azam Rizaldi, Kholqi",
+            "Abdul Basith",
+            "Dwi Haryanto"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Simposium Infrastruktur Informasi Geospasial 2018",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:ZfRJV9d4-WMC",
+        "publication_date": "2018/5/14"
+    },
+    {
+        "title": "Pengadaan Data Spasial untuk Pemodelan Run Up Tsunami di Wilayah Pesisir Kulon Progo",
+        "authors": [
+            "Farikjotul Chusnayah",
+            "Abdul Basith",
+            "Widjo Kongko"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "Simposium Infrastruktur Informasi Geospasial 2018",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:7T2F9Uy0os0C",
+        "publication_date": "2018/5/14"
+    },
+    {
+        "title": "Evaluasi Ketelitian Penentuan Kedalaman Perairan Dangkal Menggunakan Citra Satelit Pleiades",
+        "authors": [
+            "DH Suryopuspito",
+            "Abdul Basith, Harintaka"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "The 5th Geoinformation Science Symposium 2017",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:tKAzc9rXhukC",
+        "publication_date": "2017/9/27"
+    },
+    {
+        "title": "Perkembangan Metode Penentuan Kedalaman Menggunakan Citra Satelit",
+        "authors": [
+            "DH Suryopuspito",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "Seminar Nasional 3rd CGISE dan FIT ISI (Forum Ilmiah Tahunan Ikatan Surveyor Indonesia) 2016",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:2KloaMYe4IUC",
+        "publication_date": "2016/10/27"
+    },
+    {
+        "title": "Analisis Tingkat Kerawanan Tsunami di Desa Karangsewu, Kecamatan Galur, Kabupaten Kulon Progo",
+        "authors": [
+            "Septa Anggraini, Hesti",
+            "Nur, Harintaka",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "Seminar Nasional 3rd CGISE dan FIT ISI (Forum Ilmiah Tahunan Ikatan Surveyor Indonesia) 2016",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:_Re3VWB3Y0AC",
+        "publication_date": "2016/10/27"
+    },
+    {
+        "title": "Analysis of object oriented classification on high resolution images",
+        "authors": [
+            "Nurhadi Bashit",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "2016 6th International Annual Engineering Seminar (InAES)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2016/8/1",
+        "abstract": "Classification is one step of image processing which aims to obtain information from remote sensing data. Object oriented classification is a classification algorithm which can be used to process a high resolution image because it uses the object elements as spectral, spatial, and texture. The purpose of this study is to examine the application of object oriented classification on two types of images which are categorized as high resolution images. The study uses two types high resolution image. They are SPOT 5 and QuickBird image covering Ngaglik district, Sleman, Yogyakarta. SPOT 5 was acquired on September 2, 2014 which has 2.5 meters spatial resolution and QuickBird was acquired in 2010 which has 0.6 meters spatial resolution. A field survey was conducted for identifying the classification scheme and testing the classification accuracy. Classification has been done through several stages, involving …",
+        "pdf_link": "https://www.researchgate.net/profile/Abdul-Basith-5/publication/312562414_Analysis_of_object_oriented_classification_on_high_resolution_images/links/59e53643458515250246f6af/Analysis-of-object-oriented-classification-on-high-resolution-images.pdf"
+    },
+    {
+        "title": "Kajian Kenaikan Muka Air Laut di Pelabuhan Perikanan Pantai Sadeng Yogyakarta Berdasarkan Data Multi Satelit Altimetri",
+        "authors": [
+            "I. U. Khasanah",
+            "L. S. Heliani",
+            "Abdul Basith Basith"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "SEMINAR NASIONAL PENGINDERAAN JAUH 2016",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:tzM49s52ZIMC",
+        "publication_date": "2016/7/27"
+    },
+    {
+        "title": "Pengembangan dan Konstruksi Autonomous Remotely Surface Vessel(AROSSEL) untuk Pemetaan Batimetri Perairan Spesifik",
+        "authors": [
+            "Abdul Basith",
+            "Addin Suwastono",
+            "Ariyanto Sufyan",
+            "Bambang Kun Cahyono",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "THE 5TH ANNUAL ENGINEEERING SEMINAR (AES 2015)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:35r97b3x0nAC",
+        "publication_date": "2015/2/12"
+    },
+    {
+        "title": "Kajian Datum Pasang Surut di Pelabuhan Sadeng dan Kaitannya dengan Keselamatan Pelabuhan",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "THE 5TH ANNUAL ENGINEEERING SEMINAR (AES 2015)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:evX43VCCuoAC",
+        "publication_date": "2015/2/12"
+    },
+    {
+        "title": "Pengolahan Citra ALOS PALSAR untuk Identifikasi Mangrove sebagai Data Pendukung Pengelolaan Wilayah Pesisir Suaka Margasatwa Sembilang, Sumatera Selatan",
+        "authors": [
+            "Faiz Karmani",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "Seminar Nasional dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2013 (FIT-ISI 2013)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:uJ-U7cs_P_0C",
+        "publication_date": "2013/10/31"
+    },
+    {
+        "title": "KAJIAN PERUBAHAN LAHAN MENGGUNAKAN CITRA ALOS PALSAR DAN LANDSAT 7 ETM+ MODE SLC-OFF UNTUK WILAYAH PESISIR KAB. SEMARANG-DEMAK",
+        "authors": [
+            "Abdul Basith",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "SEMINAR NASIONAL TEKNOLOGI TERAPAN (SNTT) 2013",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:j8SEvjWlNXcC",
+        "publication_date": "2013/10/26"
+    },
+    {
+        "title": "Kajian Perubahan Kawasan Pesisir Menggunakan Citra Radar dan Optik (Studi Kasus Wilayah Pesisir Kabupaten Semarang-Demak, Jawa Tengah)",
+        "authors": [
+            "Abdul Basith",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "SEMINAR NASIONAL TEKNOLOGI TERAPAN 2013",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:fEOibwPWpKIC",
+        "publication_date": "2013/10/1"
+    },
+    {
+        "title": "Beberapa Aspek Penting dalam Pemanfaatan Data Satelit Altimetri untuk Studi Pasang Surut Laut",
+        "authors": [
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "Forum Ilmiah Tahunan (FIT) 2011I dan Seminar Nasional",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:VLnqNzywnoUC",
+        "publication_date": "2011/11/24"
+    },
+    {
+        "title": "KALIBRASI ALAT GPS DENGAN METODE UJI PANJANG BASIS",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Dedi Atunggal",
+            "Bambang Kun Cahyono",
+            "Abdul Basith",
+            "Asri Hj Zahid",
+            "Abdul Nasir Matori"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "Simposium Nasional Sains Geoinformasi ke-1",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:t7zJ5fGR-2UC",
+        "publication_date": "2009/11/17"
+    },
+    {
+        "title": "APPLICATION OF SPOT5 SATELLITE IMAGE AND GIS FOR UPDATING ROAD NETWORK: TOWARDS BUILDING LANDSLIDE SPATIAL DATABASE",
+        "authors": [
+            "Abdul Basith",
+            "Abdul Nasir Matori",
+            "Bambang Kun Cahyono"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "2nd INTERNATIONAL CONFERENCE ON BUILT ENVIRONMENT IN DEVELOPING COUNTRIES (ICBEDC 2008",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:IWHjjKOFINEC",
+        "publication_date": "2008/12/3"
+    },
+    {
+        "title": "Pengkajian Kemampuan Gabungan Wild Teodolit TI Dan Leica Distotm Classic Untuk Survei 3 Dimensi",
+        "authors": [
+            "Untung Rahardjo",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "2005",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2005",
+        "abstract": "Teodolite can be used to map indoor targets such as cave, tunnel, inside buildings as long as long as the targets con be accessed by the observer. There are off course other techniques to measure inaccessible targets but this will be time consuming of frequently setting up instrument. On the other hand, Leica Disto ClassicTM is a small handy measurement device using laser technology. This device can be used to measure inaccessible targets. Unfortunately, this device cannot provide the inclination data (vertical angle) in case of measuring the inclined targets. Combination of both teodolite and Disto may improve in case of measuring inaccessible targets. This research is meant to make such platform that the Disto can be joined with teodolite. This research also investigates the capability of combination of both which is, in this case, called TeoDisto.•"
+    },
+    {
+        "title": "PARAMETER OPTIMAL DALAM PENERAPAN ALGORITMA MULTI-RESOLUTION SEGMENTATION PADA FOTO UDARA UNTUK KLASIFIKASI PENUTUP LAHAN BERBASIS OBJEK",
+        "authors": [
+            "Danang Budi Susetyo",
+            "Abdul Basith"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=weadN_wAAAAJ&cstart=20&pagesize=80&citation_for_view=weadN_wAAAAJ:Fu2w8maKXqMC",
+        "abstract": "Secara general klasifikasi data penginderaan jauh dapat dikategorikan menjadi pendekatan berbasis piksel dan pendekatan berbasis objek atau GEOBIA. Secara teknis, klasifikasi berbasis objek dimulai dengan segmentasi terlebih dahulu sebelum nantinya dilakukan klasifikasi terhadap segmen-segmen yang sudah terbentuk. Salah satu metode segmentasi adalah menggunakan prinsip region growing, dengan algoritmanya diantaranya adalah multi-resolution segmentation. Hal terpenting dari multi-resolution segmentation adalah menentukan nilai parameter seperti scale, shape, dan compactness yang paling optimal. Penelitian ini dilakukan dengan melakukan uji coba pada parameter-parameter tersebut dan pengaruhnya terhadap hasil segmentasi. Hasil segmentasi yang paling optimal kemudian diproses lebih lanjut untuk diklasifikasi ke beberapa kelas, yaitu bangunan, tanah terbuka, vegetasi, dan badan air. Berdasarkan hasil uji coba menggunakan foto udara, nilai scale= 50 cocok digunakan untuk data tersebut. Selain itu, dengan kondisi dan kompleksitas pada data tersebut, nilai shape= 0, 9 dan compactness= 0, 3 dianggap paling tepat karena objek-objek di foto udara tersebut tidak terlalu kontras dan relatif tidak teratur. Selanjutnya, proses klasifikasi dilakukan menggunakan algoritma nearest neighbor. Berdasarkan analisis visual dan statistik menggunakan confusion matrix, nilai overall accuracy yang didapatkan dari proses klasifikasi adalah 72%. Kesalahan paling besar dalam proses klasifikasi terjadi pada objek bangunan dengan ketelitian individu hanya sebesar 56, 5%. Hal tersebut karena bangunan memiliki tingkat …",
+        "pdf_link": "https://www.researchgate.net/profile/Danang-Budi-Susetyo/publication/359452269_PARAMETER_OPTIMAL_DALAM_PENERAPAN_ALGORITMA_MULTIRESOLUTION_SEGMENTATION_PADA_FOTO_UDARA_UNTUK_KLASIFIKASI_PENUTUP_LAHAN_BERBASIS_OBJEK/links/623d66900f805847d7f67b08/PARAMETER-OPTIMAL-DALAM-PENERAPAN-ALGORITMA-MULTIRESOLUTION-SEGMENTATION-PADA-FOTO-UDARA-UNTUK-KLASIFIKASI-PENUTUP-LAHAN-BERBASIS-OBJEK.pdf"
+    }
+]

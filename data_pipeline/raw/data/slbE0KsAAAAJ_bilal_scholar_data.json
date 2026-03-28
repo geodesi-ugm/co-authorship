@@ -1,0 +1,440 @@
+[
+    {
+        "title": "Present-day crustal deformation revealed active tectonics in Yogyakarta, Indonesia inferred from GPS observations",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "T Aris Sunantyo",
+            "Leni Sophia Heliani",
+            "Bilal Ma'ruf",
+            "Dedi Atunggal",
+            "Dwi Lestari",
+            "Hilmiyati Ulinnuha",
+            "Arinda Pinasti",
+            "Riska Fajrul Ummi"
+        ],
+        "cited_by": "30",
+        "year": "2020",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:KlAtU1dfN6UC",
+        "publication_date": "2020/3/1",
+        "abstract": "We investigated the active crustal structure in Yogyakarta, Indonesia, using new and denser Global Positioning System (GPS) data. Deformation rate estimated from five years (2013–2018) of observations on 22 campaign might record broad deformation after the 2006 Mw7.8 Java tsunami earthquake and postseismic transient due to the 2006 Mw6.3 Yogyakarta earthquake. We conducted a decomposition method to obtain a short wavelength feature by removing those postseismic deformations from the observation data. The short wavelength pattern revealed active tectonics indicating a combination of E–W dip-slip motion and N–S left-lateral structure. A large maximum shear strain rate (>0.1 microstrain/yr) was estimated along the Opak fault while a large dilatation rate (<-0.1 microstrain/yr) was estimated around the Bantul Graben. The analysis result indicates important implications for crustal dynamics and …",
+        "total_citations": "Cited by 30",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984720300148"
+    },
+    {
+        "title": "Evaluation on the performance of single and dual frequency low cost GPS module observation using geodetic antenna",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma'ruf",
+            "T Aris Sunantyo",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "6",
+        "year": "2018",
+        "venue": "Communications in Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:8k81kl-MbHgC",
+        "publication_date": "2018/6/14",
+        "abstract": "GPS modules have been used for various applications in recent years. Its early development came in parallel with the advancement of Unmanned Aerial Vehicle (UAV) technology. Nowadays, it is also used in in geographic information system (GIS) data acquisition/census, mapping surveys, structure stability monitoring systems and many other applications. GPS modules generally have several positioning features, including standard positioning service (SPS), static positioning, precise point positioning (PPP), post processing kinematic (PPK) and real time kinematic (RTK) GPS. GPS modules in general are only equipped with a microstrip-type antenna or better known as patch antenna. Results from related research show that GPS module with this type of antenna has sub meter accuracy when used for PPK or RTK GPS method. The use of geodetic antennas is very potential to increase GPS position accuracy by up to centimeter level. This paper discusses the evaluation of GPS module measurements with geodetic type antennas for precise positioning using RTK GPS. This paper is focused on the resolution of GPS cycle ambiguity that is often expressed by the term fixing ratio and the accuracy of measurement results obtained. To provide a comprehensive description of the performance of GPS module, in this research two types of GPS module were used; single and dual frequency. Both types of GPS modules were used to conduct simultaneous observation on an open and obstructed observation location.",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://cst.kipmi.or.id/article/download/78/40"
+    },
+    {
+        "title": "Analisis Uji Beban Jembatan Menggunakan Metode Levelling",
+        "authors": [
+            "Bilal Ma'ruf",
+            "Akhmad Aminullah",
+            "Moh Arief Herusiswoyo"
+        ],
+        "cited_by": "5",
+        "year": "2021",
+        "venue": "Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:YOwf2qJgpHMC",
+        "publication_date": "2021/12/10",
+        "abstract": "Berdasarkan Permen PUPR No. 41 tahun 2015 tentang Penyelenggaraan Keamanan Jembatan dan Terowongan Jalan, jembatan yang sudah selesai tahap konstruksi, sebelum operasional harus disertifikasi oleh Komisi Keamanan Jembatan dan Terowongan Jalan (KKJTJ). Salah satu pengecekan yang harus dilakukan tim KKJTJ adalah uji beban. penelitian ini berusaha mengkaji bagaimana melakukan uji beban statis terhadap jembatan menggunakan metode levelling dengan alat sipat datar untuk mendapatkan nilai lendutan jembatan pada saat sebelum terbebani, saat terbebani dan sesudah terbebani. Tahapan yang dilakukan pada kegiatan ini meliputi perencanaan titik kontrol dan titik objek, pembebanan jembatan, pengamatan jembatan, dan perhitungan nilai lendutan. Penelitian ini dilakukan di Jembatan Situ Gintung Kabupaten Purbalingga, Jawa Tengah. Alat yang digunakan adalah Waterpass Topcon DL503 dengan ketelitian 1 mm. Titik pengamatan yang digunakan sebanyak 4 buah yang terletak di ¼ bentang panjang, ½ bentang panjang, ¾ bentang panjang, dan pilar tumpuan jembatan. Beban yang digunakan berupa truk yang diberi muatan 11 ton. Pembebanan dan pengamatan lendutan dilakukan dengan 16 tahap dimulai dari kondisi tanpa truk, 2 truk, 4 truk, 8 truk, 12 truk, 16 truk, 20 truk, dan 24 truk. Kemudian dilakukan pengurangan beban secara bertahap hingga kembali ke kondisi tanpa truk. Nilai lendutan akan didapatkan dari perubahan posisi titik pengamatan untuk tiap kondisi. Pengukuran beda tinggi metode levelling dengan alat sipat datar mampu mendeteksi lendutan jembatan. Hasil pengukuran dengan …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "http://proceedings.undip.ac.id/index.php/isiundip2021/article/viewFile/602/343"
+    },
+    {
+        "title": "Application of Low Cost RTK GPS Module for Precise Geotagging using Smartphone",
+        "authors": [
+            "Dedi Atunggal",
+            "Nuaim Hamad Ausi",
+            "Bilal Ma'ruf",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "5",
+        "year": "2017",
+        "venue": "Jakarta, sn",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:0EnyYjriUFMC",
+        "publication_date": "2017/10",
+        "abstract": "Low cost GPS modul has been widely used in various application in the last few years. Its early development came in parallel with the advancement of Unmanned Aerial Vehicle (UAV) technology. Nowadays, It is also used in Unmanned Surface Vehicle (USV) technology, platform/structure stability monitoring system, surveying and mapping, etc. Low cost GPS modul offers various features of global positioning system, including Standard Positioning Service (SPS), static post processed positioning and Real Time Kinematic (RTK) GPS. This paper highlight the application of external low cost RTK GPS module for precise geotagging using smartphone. Result of experiment shows that this system is potentially applicable to census or data collection activities in densely populated areas.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/320345644_Application_of_Low_Cost_RTK_GPS_Module_for_Precise_Geotagging_using_Smartphone/links/59df08c3458515376b38980d/Application-of-Low-Cost-RTK-GPS-Module-for-Precise-Geotagging-using-Smartphone.pdf"
+    },
+    {
+        "title": "Analisis Deformasi Gunung Merapi Dengan Metode Geodetik GPS",
+        "authors": [
+            "Bilal Ma’ruf"
+        ],
+        "cited_by": "5",
+        "year": "2001",
+        "venue": "Institut Teknologi Bandung",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:ULOm3_A8WrAC",
+        "publication_date": "2001",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "Evaluasi Kesiapan Pemasangan Sistem Pemantauan Pintar Menggunakan TS Robotik di Candi Borobudur",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma’ruf",
+            "Yudi Suhartono",
+            "Joni Setiawan"
+        ],
+        "cited_by": "3",
+        "year": "2019",
+        "venue": "Conference: SIIG",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:9ZlFYXVOiuMC",
+        "publication_date": "2019",
+        "abstract": "Candi Borobudur telah menjadi obyek penelitian yang menarik bagi banyak ilmuwan selama bertahun tahun. Situs ini ditemukan pada tahun 1814 dan pertama kali dipugar oleh Belanda pada tahun 1907 hingga 1911. Semenjak itu Candi Borobudur telah mengalami beberapa pemugaran dan pemeliharaan. Sejak pemugaran oleh United Nations Educational, Scientific and Cultural Organization (UNESCO) yang berlangsung selama 2 tahap mulai dari 1973-1983, banyak ahli telah meneliti Candi Borobudur dari berbagai aspek. Penelitian terkait sistem pemantauan stabilitas atau deformasi Candi Borobudur sudah mulai dilakukan dengan mengkombinasikan Global Positioning System (GPS), sipat datar teliti dan Total Station (TS) mulai tahun 2000. Sistem pemantauan candi yang telah dilaksanakan sejak tahun 2000 menggunakan pendekatan analisis epok tahunan untuk data GPS dan per beberapa bulan sekali untuk pengukuran sipat datar teliti dan TS. Sistem pemantauan tersebut difokuskan untuk mendapatkan gambaran deformasi, terutamanya pergeseran tubuh candi secara umum pada komponen horisontal dan vertikal. Seriring dengan perkembangan teknologi penentuan posisi dan pemantauan deformasi, pemantauan deformasi candi dapat dilaksanakan dengan mengkombinasikan sensor laser scanner, TS robotik dan GPS yang dapat memberikan pendekatan yang lebih realistis dan mendetail terhadap bagian-bagian candi yang mengalami deformasi. Makalah ini membahas tentang evaluasi kesiapan pemasangan sistem pemantauan pintar menggunakan TS robotik di Candi Borobudur, meliputi kegiatan survei …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/350310678_Evaluasi_Kesiapan_Pemasangan_Sistem_Pemantauan_Pintar_Menggunakan_TS_Robotik_di_Candi_Borobudur/links/605954b1a6fdccbfeafc94ea/Evaluasi-Kesiapan-Pemasangan-Sistem-Pemantauan-Pintar-Menggunakan-TS-Robotik-di-Candi-Borobudur.pdf"
+    },
+    {
+        "title": "Pembuatan Sistem Pemantauan Pergerakan Titik Hasil Penentuan Posisi Metode NTRIP RTK Menggunakan Komunikasi Data Berbasis TCP-IP",
+        "authors": [
+            "Dedi Atunggal",
+            "B Ma’aruf",
+            "Aditya Yan"
+        ],
+        "cited_by": "3",
+        "year": "2010",
+        "venue": "Prosiding Seminar Nasional GNSS-CORS Pengembangan dan Aplikasinya di Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:5nxA0vEk-isC",
+        "publication_date": "2010/7/17",
+        "abstract": "Measurements by using RTK GNSS CORS technologies can be used to define position as well as to monitor the movement of a point located on a specific locations (known as rover station) from a control station (monitor station) which is located far from the point being monitored. Such GNSS data format that supports remote monitoring system is NMEA (National Marine Electronics Association). One of the problem on developing remote monitoring system is how to design the NMEA data communication from the rover station to the monitor station and how to observe the rover station’s movement on the monitor station. This paper focuses on the development of a monitoring system by using NMEA data communications through VPN (Virtual Private Network). The development of real-time remote monitoring system covers a very broad job. This study focuses on data communications instrumentation and visual observation of the rover position of the monitoring system.",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Penetapan Dan Penegasan Batas Wilayah Desa Kauffman Kecamatan Karangrejo Provinsi Jawa Timur",
+        "authors": [
+            "Bilal Ma’ruf"
+        ],
+        "cited_by": "3",
+        "year": "",
+        "venue": "Jurusan Tehnik Geodesi FT UGM",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:zYLM7Y9cAGgC",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Pendefinisian Jaring Kontrol Sistem Cerdas Candi Borobudur ke dalam Datum SRGI 2013",
+        "authors": [
+            "Nerissa Mutiara Christy",
+            "Bilal Ma’ruf",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "2",
+        "year": "2022",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:Wp0gIr-vW9MC",
+        "publication_date": "2022",
+        "abstract": "Candi Borobudur merupakan candi Buddha terbesar di dunia dan diakui sebagai salah satu warisan budaya yang dilindungi oleh",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://pdfs.semanticscholar.org/62e1/d508cd79978c2a2cafb9be19889d85aee313.pdf"
+    },
+    {
+        "title": "Evaluasi Hasil Penentuan Tinggi Titik Dasar Teknik Menggunakan Model Geoid SRGI 2013 Studi Kasus: Daerah Istimewa Yogyakarta",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma’ruf",
+            "Nurrohmat Widjajanti"
+        ],
+        "cited_by": "2",
+        "year": "2021",
+        "venue": "Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:_kc_bZDykSQC",
+        "publication_date": "2021/12/10",
+        "abstract": "Koordinat Titik Dasar Teknik (TDT) yang dikelola Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) hingga saat ini masih mengacu pada elipsoid World Geodetic System 1984 (WGS84) atau tereferensi ke Datum Geodetik Nasional 1995 (DGN95) yang direalisasikan menggunakan International Terrestrial Reference Frame 1991 (ITRF91) epok 1992.0. Penelitian tentang evaluasi pembaharuan koordinat TDT hingga saat ini masih sangat jarang dilakukan, terutamanya terkait pengikatan ke Sistem Referensi Geospasial Indonesia 2013 (SRGI 2013). Analisis tentang penentuan tinggi TDT mengacu SRGI 2013 bahkan belum pernah dilakukan sebelumnya. Penelitian ini bertujuan untuk mengkaji potensi dan mengidentifikasi permasalahan terkait pemanfaatan model geoid SRGI 2013 (InaGeoid) untuk pendefinisian tinggi TDT. Penelitian dilakukan dengan menggunakan sampel TDT dan titik JKVN yang ada di Provinsi Daerah Istimewa Yogyakarta. Penentuan koordinat 3D titik-titik sampel dilakukan dengan menggunakan metode Real Time Kinematic Network Transported RTCM via InternetProtocol (RTK NTRIP) menggunakan layanan InaCORS. Koordinat sampel TDT dari hasil pengukuran Global Navigation Satellite System (GNSS) setara Orde 2 digunakan sebagai pembanding. Nilai tinggi elipsoid hasil pengamatan RTK NTRIP dan jaring statik GNSS Orde 2 dikonversi menjadi tinggi orthometrik menggunakan layanan online InaGeoid. Pengukuran beda tinggi jaring tertutup dilakukan dengan menggunakan sipat datar digital secara pergi-pulang terhadap 2 pasang sampel TDT (Loop-1 dan Loop-2). Analisis …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "http://proceedings.undip.ac.id/index.php/isiundip2021/article/viewFile/616/415"
+    },
+    {
+        "title": "Analisis Kawasan Risiko Bencana Banjir Dan Tanah Longsor Di Kampung Code Utara, Kota Yogyakarta",
+        "authors": [
+            "Bilal Ma'ruf",
+            "Naufal Azhar Pratama",
+            "Aris Sunantyo",
+            "Nurrohmat Widjajanti",
+            "Parseno Parseno",
+            "Joko Sujono",
+            "Tarcicius Yoyok Wahyu Subroto",
+            "Tri Mulyani Sunarharum",
+            "Donatus Hendra Amijaya",
+            "Moh Arief Heru Siswoyo",
+            "Ghea Ayunda Siami",
+            "Ruzaldi Puluala"
+        ],
+        "cited_by": "2",
+        "year": "2021",
+        "venue": "Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:4TOpqqG69KYC",
+        "publication_date": "2021",
+        "abstract": "Kampung Code Utara merupakan salah satu kawasan di sekitar bantaran sungai Code, DIY yang rawan terhadap bencana banjir dan tanah longsor. Kondisi ini dikarenakan kawasan ini memiliki kelerengan yang relatif ekstrim, jenis tanah yang liat dan berpasir, serta penggunaan lahan yang tidak sesuai peraturan sempadan sungai. Penelitian ini bertujuan menganalisis risiko bencana banjir dan tanah longsor di kawasan ini. Data yang digunakan pada penelitian ini adalah ortofoto dari foto udara format kecil, data penggunaan lahan, jenis tanah, hidrologi, serta sosial-ekonomi masyarakat sekitar. Kriteria dalam menentukan kawasan risiko bencana menggunakan kriteria Risiko Bencana Indonesia BNPB tahun 2016. Proses deliniasi kawasan risiko bencana dilakukan dengan metode overlay dan scoring menggunakan perangkat lunak ArcMap. Tahap scoring dilakukan dengan memberikan bobot dan nilai pada setiap kriteria sesuai dengan klasifikasinya, selanjutnya dilakukan proses overlay untuk menghasilkan kawasan risiko bencana banjir dan tanah longsor. Hasil yang diperoleh berupa peta risiko bencana banjir dan tanah longsor di kampung code utara yang dibagi menjadi 3 kelas, yaitu kawasan risiko tinggi, sedang, dan rendah. Kawasan bantaran sungai memiliki risiko yang tinggi terhadap bencana banjir dan tanah longsor dikarenakan kelerengan tebing yang ekstrim dan terdapat beberapa kawasan permukiman yang dibangun tidak sesuai peraturan sempadan sungai.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://proceedings.undip.ac.id/index.php/isiundip2021/article/viewFile/642/387"
+    },
+    {
+        "title": "Pemanfaatan CORS GNSS Bakosurtanal untuk Pemetaan Situasi",
+        "authors": [
+            "LM Sabri",
+            "Bambang Sudarsono",
+            "Bilal Ma'ruf",
+            "Wahyu Arief Wibowo",
+            "Redy Kwee",
+            "Joni Efendi",
+            "Elisa Harlia Sandhi"
+        ],
+        "cited_by": "2",
+        "year": "2011",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:mVmsd5A6BfQC",
+        "publication_date": "2011",
+        "abstract": "Pemanfaatan CORS GNSS Bakosurtanal untuk Pemetaan Situasi Page 1 Pemanfaatan CORS \nGNSS Bakosurtanal untuk Pemetaan Situasi by Lm Sabri Submission date: 05-Sep-2019 \n10:34AM (UTC+0700) Submission ID: 1167461636 File name: Pemanfaatan_CORS.docx (144.76K) \nWord count: 2226 Character count: 14092 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7 Page \n8 Page 9 Page 10 Page 11 16% SIMILARITY INDEX 16% INTERNET SOURCES 4% \nPUBLICATIONS 6% STUDENT PAPERS 1 5% 2 3% 3 1% 4 1% 5 1% 6 1% 7 1% 8 1% 9 \nPemanfaatan CORS GNSS Bakosurtanal untuk Pemetaan Situasi ORIGINALITY REPORT \nPRIMARY SOURCES geodesy.gd.itb.ac.id Internet Source eprints.undip.ac.id Internet Source \ndigilib.itb.ac.id Internet Source www.ejournal-s1.undip.ac.id Internet Source id.scribd.com \nInternet Source Submitted to University of the West Indies Student Paper es.scribd.com Internet …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Analisis deformasi gunungapi Merapi dengan metode geodetik-GPS.",
+        "authors": [
+            "Bilal Ma Ruf"
+        ],
+        "cited_by": "2",
+        "year": "2001",
+        "venue": "Universitas Komputer Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:kNdYIx-mwKoC",
+        "publication_date": "2001",
+        "abstract": "Pemahaman fenomena magmatik dan pemantauan Gunungapi Merapi tidak dapat terlepad dari studi deformasi. Studi deformasi ini tidak dapat diselenggarakn oleh satu disiplin ilmu, melainkan harus secara multidisipliner. Geodesi merupakan disiplin ilmu yang berperan mengkaji deformasi dari aspek geometrik, yaitu menentukan besar dan pola vektor pergeseran dan parameter-parameter deformasi. Salah satu metode geodetik yang mulai dikembangkan dalam studi deformasi di Gunungapi Merapi adalah GPS. Analisis deformasi Gunungapi Merapi dengan GPS direalisasikan dengan melakukan survai GPS. Survai GPS tersebut dilakukan dengan membuat kerangka dasar deformasi (jaring GPS) yang titik-titiknya tersebar di tubuh Gunungapi Merapi. Berdasarkan koordinat titik-titik kerangka dasar deformasi yang diperoleh dari hasil survai GPS, maka dapat dihitung besar dan pola vektor pergeseran. Vektor pergeseran ini selanjutnya digunakan sebagai dasar dalam menyusun model analisis ini deformasi untuk menentukan parameter-parameter deformasi Gunungapi Merapi.Dari hasil hitungan dapat disimpulkan bahwa (1) receiver satu frekuensi dapat digunakan dalam analisis deformasi Gunungapi Merapi, (2) selama interval waktu antara November 1996-Maret 1998, Gunungapi Merapi mengalami deformasi. Adanya deformasi ini dibuktikan dari aspek geometrik dan fisis. Dari aspek geometrik terlihat nilai vektor pergeseran, parameter-parameter deformasi dan principal strain memberikan nilai yang cukup signifikan, sedangkan dari aspek fisis dibuktikan dengan adanya pertumbuhan kubah lava dan terjadinya letusan pada tanggal …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Optimasi Geometri Jaring GNSS dan RTS untuk Pemantauan Deformasi Kontinu Saluran Induk Kalibawang di Jembatan Talang Bowong, Kabupaten Kulon Progo",
+        "authors": [
+            "Ghea Ayunda Siami",
+            "Bilal Ma’ruf",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "1",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:M3ejUd6NZC8C",
+        "publication_date": "2021",
+        "abstract": "Kegiatan rehabilitasi dan pemeliharaan di Jembatan Talang Bowong membutuhkan pemantauan gerakan massa tanah secara realtime dan kontinu. Penelitian ini berusaha mendesain jaring kontrol pemantauan gerakan massa tanah secara geometrik dengan data simulasi yang diturunkan dari data orthophoto sebagai langkah awal untuk pembangunan jaring kontrol pemantauan. Data simulasi yang didapatkan berupa koordinat distribusi titik kontrol kemudian diturunkan menjadi vektor baseline. Nilai ketelitian pada penelitian ini didapatkan dari alat yang digunakan pada saat pemantauan berlangsung yaitu GNSS Leica seri GM30 dan RTS Leica seri TS16 1”. Jaring kontrol pemantauan didesain berdasarkan integrasi antara GNSS dan RTS. Pembuatan desain jaring kontrol GNSS dilakukan dengan membentuk jaring dengan baseline yang sederhana hingga kompleks. Sedangkan, pembuatan desain jaring kontrol RTS dilakukan berdasarkan variasi jarak antar titik prisma target. Nilai matriks varian-kovarian pengamatan dari estimasi hitung kuadrat terkecil digunakan untuk pemilihan desain geometri jaring terbaik berdasarkan hasil perhitungan kriteria presisi yang terdiri atas kriteria A-Optimality, D-Optimality, E-Optimality, S-Optimality, dan I-Optimality. Nilai matriks kofaktor residu digunakan untuk pemilihan desain geometri jaring terbaik berdasarkan kriteria kehandalan yang terdiri atas aspek redundansi individu, kehandalan dalam, dan kehandalan luar. Hasil penelitian menunjukkan bahwa desain jaring GNSS yang paling optimal yaitu jaring DG04. Hal ini ditunjukkan dari nilai kriteria presisi dan kehandalan luar paling kecil serta nilai …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/357368507_Optimasi_Geometri_Jaring_GNSS_dan_RTS_untuk_Pemantauan_Deformasi_Kontinu_Saluran_Induk_Kalibawang_di_Jembatan_Talang_Bowong_Kabupaten_Kulon_Progo_Geometric_Optimization_of_GNSS_and_RTS_Network_for_Con/links/61caef3cb8305f7c4b0746a3/Optimasi-Geometri-Jaring-GNSS-dan-RTS-untuk-Pemantauan-Deformasi-Kontinu-Saluran-Induk-Kalibawang-di-Jembatan-Talang-Bowong-Kabupaten-Kulon-Progo-Geometric-Optimization-of-GNSS-and-RTS-Network-for-Co.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9"
+    },
+    {
+        "title": "Pemanfaatan Citra Satelit Resolusi Tinggi, DGPS, dan Sig Untuk mendeteksi Kondisi Penggunaan Lahan Di Kota Yogyakarta",
+        "authors": [
+            "Harintaka Subaryono",
+            "Bilal Ma'ruf"
+        ],
+        "cited_by": "1",
+        "year": "2006",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2006",
+        "abstract": ": The geomatics technology, especially remote sensing technology, has developed sensors capable of producing satellite images such as\" IKONOS\" images with very high spatial resolution (0.6–1m). However, the high spatial resolution has no high values when its geometric positions are not well corrected. The combination of the use of high spatial resolution image and the DGPS will be able to produce high quality information of objects in the earth surface in terms of both the content and its geometric positions. Information about land use with such quality is very useful in support of urban planning and management.This research used a high spatial resolution image\" IKONOS\" which was corrected using primary data obtained through the application of the DGPS (Differential Global Positioning System) in the City of Yogyakarta. The combination of both procedures (data processing of IKONOS and DGPS) lies …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Geodesy and Geodynamics",
+        "authors": [
+            "Leni Sophia Heliani",
+            "Bilal Ma'ruf",
+            "Dedi Atunggal",
+            "Dwi Lestari",
+            "Hilmiyati Ulinnuha",
+            "Arinda Pinasti",
+            "Riska Fajrul Ummi"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:QIV2ME_5wuYC",
+        "publication_date": "2024/3/19",
+        "abstract": "The Mentawai Forearc Sliver (MFS) is characterized by oblique deformation formed as slip partitioned between normal and parallel trench plate convergence. The surge of great earthquakes from 2004 to 2012 along the adjacent Sunda trench left a large unbroken segment known as the Mentawai Seismic Gap. Here, we adopted continuous Global Navigation Satellite System (GNSS) observation data to identify the present regional crustal deformation using geodetic strain rates. The principal strain rate, dilatation rate, and maximum shear strain rate are about 0.13 microstrain/yr, 0.2 microstrain/yr, and 0.1 microstrain/yr, respectively, with the range of its uncertainties between 0.01 and 0.04 microstrain/yr. The dilatation and maximum shear strain rates reveal the spatial coverage of strike-slip duplex and backthrust tectonics along the Mentawai Forearc Sliver. Đ 2024 Editorial office of Geodesy and Geodynamics. Publishing services by Elsevier BV on behalf of KeAi Communications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons. org/licenses/by-nc-nd/4.0/).",
+        "pdf_link": "https://www.sciopen.com/local/article_pdf/10.1016/j.geog.2024.04.003.pdf"
+    },
+    {
+        "title": "PENENTUAN POSISI TITIK–TITIK PEMANTAUAN BANJIR DI DESA SEGOROYOSO, KECAMATAN PLERET, KABUPATEN BANTUL, PROVINSI DIY",
+        "authors": [
+            "H Arief",
+            "S Lantip Setiasmara",
+            "P Ajiputra Arisyah"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Jurnal Pengabdian dan Pengembangan Masyarakat",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:4DMP91E08xMC",
+        "publication_date": "2021/11",
+        "abstract": "Desa Segoroyoso merupakan wilayah yang rawan terhadap adanya bencana alam seperti gempa bumi, banjir, dan tanah longsor. Bencana alam yang sering dialami di Desa Segoroyoso adalah banjir Sungai Opak yang berdampak menggenangi pemukiman warga di Dusun Karanggayam dan Dusun Dahromo I. Sering terjadinya banjir di Desa Segoroyoso membutuhkan penanganan dan mitigasi bencana. Sebagai langkah awal mitigasi banjir, diperlukan titik pantau berupa tanda di lapangan yang mudah diidentifikasi oleh warga tentang elevasi air yang mulai menggenang. Oleh karena itu kegiatan ini bertujuan untuk menentukan posisi horizontal dan vertikal titik pemantauan banjir di Desa Segoroyoso. Titik pemantauan banjir ini diharapkan akan menjadi panduan para warga tentang kemungkinan terjadinya banjir. Posisi horizontal titik pemantau banjir ini akan diukur menggunakan instrumen Global Navigation Satelite System (GNSS) dan posisi vertikal didapatkan melalui pengukuran sipat datar. Hasil dari kegiatan ini adalah koordinat horizontal titik pantau dalam SRGI 2013 serta tinggi orthometriknya.",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/364320977_PENENTUAN_POSISI_TITIK_-TITIK_PEMANTAUAN_BANJIR_DI_DESA_SEGOROYOSO_KECAMATAN_PLERET_KABUPATEN_BANTUL_PROVINSI_DIY/links/6347c7a72752e45ef6b3b0e9/PENENTUAN-POSISI-TITIK-TITIK-PEMANTAUAN-BANJIR-DI-DESA-SEGOROYOSO-KECAMATAN-PLERET-KABUPATEN-BANTUL-PROVINSI-DIY.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9"
+    },
+    {
+        "title": "PEMBUATAN PETA SITUASI DIGITAL SKALA BESAR DUSUN PENGASIH, DESA PENGASIH, KECAMATAN PENGASIH, KABUPATEN KULON PROGO, PROVINSI DAERAH ISTIMEWA YOGYAKARTA",
+        "authors": [
+            "FITRI ANISA NURRINI"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2016",
+        "abstract": "Peta adalah gambaran dari seluruh atau sebagian permukaan bumi pada bidang datar dengan skala dan simbol tertentu serta sistem proyeksi tertentu. Kegiatan pemetaan ini bertujuan untuk membuat peta situasi digital dengan skala 1: 500 di Dusun Pengasih, Desa Pengasih, Kecamatan Pengasih, Kabupaten Kulon Progo, Provinsi Daerah Istimewa Yogyakarta. Tahapan pemetaan meliputi persiapan, pengukuran, perhitungan, penggambaran, dan pengujian peta. Tahap persiapan digunakan untuk pengecekan orientasi lapangan dan pemasangan patok. Tahap pengukuran meliputi pengukuran kerangka kontrol horizontal dengan metode poligon tertutup menggunakan alat ukur total station, pengukuran kerangka kontrol vertikal dengan metode sipat datar menggunakan alat ukur sipat datar, pengukuran azimut awal poligon, pengukuran poligon terbuka terikat sepihak, dan pengukuran detil dengan metode ekstrapolasi dan trigonometri menggunakan alat ukur total station. Tahap perhitungan meliputi perhitungan kerangka kontrol horizontal, perhitungan kerangka kontrol vertikal, dan perhitungan detil. Tahap penggambaran peta dilakukan dengan dua cara yaitu manuskrip dan digital. Tahap pengujian peta meliputi uji detil planimetris dan uji ketinggian dengan Term Of Reference (TOR) sebesar 90%. Hasil yang diperoleh dari kegiatan ini adalah peta situasi skala 1: 500 Dusun Pengasih, Desa Pengasih, Kecamatan Pengasih, Kabupaten Kulon Progo, Provinsi Daerah Istimewa Yogyakarta. Ketelitian linear KKH yang dicapai adalah 1: 27820, sedangkan kesalahan penutup tinggi KKV sebesar-3 mm. Ketelitian linear KKH dan kesalahan …"
+    },
+    {
+        "title": "DESAIN RUTE PEMASANGAN KABEL LAUT JALUR TRANSMISI 150 KV ANTARA LANDING POINT KARIANGAU-PENAJAM",
+        "authors": [
+            "DHANI ADITYA"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2014"
+    },
+    {
+        "title": "PEMBUATAN PETA SITUASI SKALA 1: 500 DUSUN PANDANREJO DAN DUSUN TEGALMIRI DESA BANYURIPAN KECAMATAN BAYAT KABUPATEN KLATEN PROVINSI JAWA TENGAH",
+        "authors": [
+            "KHAIRUL MUKHLIS"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&citation_for_view=slbE0KsAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2014",
+        "abstract": "Praktek kerja lapangan ini bertujuan untuk menghasilkan suatu produk akhir dalam bentuk peta. Pengukuran dan pemetaan merupakan pekerjaan yang menghasilkan suatu informasi data spasial dari permukaan bumi. Data spasial tersebut meliputi semua objek yang ada di permukaan bumi, berupa titik tinggi dan detil planimetris yang akan disajikan dalam bentuk peta. Tugas akhir ini menjelaskan tentang kegiatan pengukuran dan pemetaan. Metode yang diterapkan pada kegiatan tersebut adalah pembuatan kerangka kontrol peta yang berupa pengukuran kerangka kontrol horisontal dan kerangka kontrol vertikal, pengukuran detil dan titik tinggi, serta penggambaran peta digital. Hasil yang diperoleh dalam pengukuran dan pemetaan tersebut adalah peta situasi skala 1: 500 pada Dusun Pandanrejo dan Dusun Tegalmiri, Desa Banyuripan, Kecamatan Bayat, Kabupaten Klaten, Provinsi Jawa Tengah. Hasil perhitungan ketelitian linear kerangka kontrol horisontal sebesar 1: 78925 dari toleransi yang diberikan sebesar 1: 7500 dan kesalahan penutup rata-rata beda tinggi kerangka kontrol vertikal sebesar 2 mm dari toleransi yang diberikan sebesar 11,198 mm, sehingga pengukuraan kerangka kontrol peta tersebut telah memenuhi spesifikasi TOR. Pada hasil uji peta, untuk uji planimetris sebesar 80% dan ketinggian sebesar 60% dengan toleransi yang diberikan sebesar 90% dari jumlah sampel yang telah di uji, sehingga uji peta tersebut tidak memenuhi spesifikasi TOR dan kualitas peta yang dihasilkan kurang baik.Field practice aims to produce a final product in the form of a map. Measuring and mapping of a job that produces a spatial …"
+    },
+    {
+        "title": "PENENTUAN JARING KONTROL VERTIKAL PADA KATEGORI KELAS PENGUKURAN LD DENGAN MENGGUNAKAN METODE DIFFERENSIAL GNSS",
+        "authors": [
+            "ACHMAD RADAMA RINARDI"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&cstart=20&pagesize=80&citation_for_view=slbE0KsAAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2014"
+    },
+    {
+        "title": "PEMBUATAN PETA SITUASI SKALA 1: 500 DUSUN BANARAN DAN TRUKAN DESA BANYURIPAN KECAMATAN BAYAT KABUPATEN KLATEN PROPINSI JAWA TENGAH",
+        "authors": [
+            "AMANDA PAVITA"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&cstart=20&pagesize=80&citation_for_view=slbE0KsAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2014",
+        "abstract": "Praktek Kerja Lapangan sebagai syarat kelulusan dan memperoleh gelar sebagai Ahli Madya di Program Studi Diploma 3 Teknik Geomaika Sekolah Vokasi UGM. Tujuan dari PKL ini adalah untuk menghasilkan Peta Situasi Skala 1: 500 Dusun Banaran dan Trukan Kecamatan Banyuripan Kabupaten Bayat Provinsi Jawa Tengah Pelaksanaan PKL ini dimulai dari proses pembuatan Kerangka kontrol peta (KKP). Kerangka kontrol peta terdiri atas kerangka kontrol horisontal (KKH) dan kerangka kontrol vertikal (KKV). Metode yang digunakan untuk KKH yaitu poligon tertutup, sedangkan KKV menggunakan metode leveling (sipat datar). Setelah Kerangka kontrol peta diperoleh, dilanjutkan pengukuran detil. Data detil diolah menggunakan perangkat lunak diantaranya: Surpac, Autocad, dan ARCGIS untuk menghasilkan peta manuskrip. Kemudian peta ini diuji lapangan untuk mengetahui kualitas peta. Uji lapangan dilakukan pada beberapa sampel yang didesign mewakili keadaan sebenarnya. Terakhir peta dilakukan perbaikan pada data yang salah. Ketelitian linear KKH yang dihasilkan adalah 1: 60771 sedangkan syarat yang ditentukan â‰¤ 1: 7500 sehingga KKH sudah memenuhi TOR. Ketelitian beda tinggi KKV dihasilkan jumlah penutup beda tinggi rata-rata sebesar 3 mm sedangkan spesifikasi teknis yang ditentukan sebesar â‰¤ 10.449 mm, sehingga KKV sudah memenuhi TOR. Sedangkan ditinjau dari hasil uji peta prosentase masing-masing sampel dari segi planimetris maupun ketinggian harus mencapai â‰¥ 90%. Sampel ketinggian yang memenuhi spesifikasi teknis 95.24% sehingga sudah memenuhi TOR. Sampel …"
+    },
+    {
+        "title": "Status of GNSS CORS GMU1 at Geodetic Department Faculty of Engineering, Gadjah Mada University",
+        "authors": [
+            "T Aris Sunanto",
+            "Bilal Ma'ruf",
+            "Dedi Atunggal",
+            "Adityo Nugroho"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "Documentation Teknik Geodesi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&cstart=20&pagesize=80&citation_for_view=slbE0KsAAAAJ:qjMakFHDy7sC",
+        "publication_date": "2009",
+        "abstract": "GNSS CORS have been growing to be widely applicable in Indonesia. Several government institutions and private companies have installed GNSS CORS at their offices. The GNSS CORS GMU1 is one of several GNSS CORS in Indonesia which is operated by Geodetic Department, Faculty of Engineering, Gadjah Mada University since June 27, 2009. The GMU1 is the main dedication and a kind support from geodetic department, faculty of engineering, Gadjah Mada University alumni. The first launching of GNSS CORS GMU1 is supposed to celebrate 50th anniversary of Geodetic Department, faculty of engineering, Gadjah Mada University. The purpose of GNSS CORS GMU1 is to design for multi purposes including academic research (for staff and students), official and public services. Several users now are waiting for the services of GMU1. The first problem of services for all of user is concerning with the performance of GMU1 station. That is why the evaluation of GMU1 performance will have to be carried out before operated for many users. In order to evaluate the performance of GMU1, several activities have been done including definition of station, RTK and NRIP test of rover, and post processing method. The definition of station of the GNSS CORS data processing (10 days observation) was carried out by GAMIT 10.35 version. The paper will be discussed mainly about status of GNSS CORS GMU 1 and preliminary testing. Key words: GNSS CORS, GMU1, RTK, and NRIP"
+    },
+    {
+        "title": "PEMBANGUNAN EMPATPULUH TITIK KERANGKA DASAR KADASTRAL NASIONAL (KDKN) ORDE-3 DI KABUPATEN KULONPROGO, PROPINSI DIY",
+        "authors": [
+            "Bilal Ma'ruf",
+            "Agung Munanto",
+            "MK Wijayanto"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "Ducumentation",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&cstart=20&pagesize=80&citation_for_view=slbE0KsAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2009",
+        "abstract": "Berdasarkan data dari BPN Kanwil DIY, sampai dengan Desember 2007 KDKN Orde-3 yang tersebar di Kabupaten Kulonprogo berjumlah 57 titik. Mengacu pada Standarisasi Spesifikasi Teknis Pengukuran Kerangka Dasar Kadastral (SSTPKDK) Ref No:01.0-STD-PT.03 yang dikeluarkan oleh BPN tahun 2003, jumlah KDKN Orde-3 yang ideal untuk Kabupaten Kulonprogo adalah sebanyak 285–570 titik. Salah satu upaya untuk memenuhi kondisi ideal tersebut pada tahun anggaran 2007, Kanwil BPN DIY mengalokasi pembangunan KDKN Orde-3 sebanyak 40 titik. Pembangunan 40 titik KDKN Orde-3 ini dilakukan melalui beberapa tahapan mulai dari persiapan, desain jaring, rekonaisans, pembuatan dan pemasangan pilar, pengukuran, pengolahan data, pembuatan buku tugu, pembuatan peta KDKN dan pelaporan. Hasil kegiatan ini adalah tersedianya pilar KDKN Orde-3 di lapangan sebanyak 40 buah beserta koordinatnya yang memenuhi SSTPKDK Ref No:01.0-STD-PT.03. Kata kunci : KDKN, Orde-3, SSTPKDK Ref No:01.0-STD-PT.03, SNI JKHN"
+    },
+    {
+        "title": "Analisis teknik pengolahan baseline secara baseline-per-baseline dan sesi-per-sesi pada perataan jaring GPS",
+        "authors": [
+            "Bilal Ma'ruf",
+            "Muhammad Agung Rahman"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&cstart=20&pagesize=80&citation_for_view=slbE0KsAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2009"
+    },
+    {
+        "title": "ANALISIS DAN PREDIKSI GERAKAN MASSA TANAH DI KM 15, 9 SALURAN INDUK KALIBAWANG KABUPATEN KULON PROGO DENGAN MENGGUNAKAN MODEL KINEMATIK",
+        "authors": [
+            "Bilal Ma'ruf",
+            "Subagyo Pramumijoyo",
+            "Harry CristadyHardiyatmo",
+            "Leni Sophia Heliani",
+            "Dwikorita Karnawati",
+            "Dwiko Unggul Prabowo"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "Documentation Teknik Geodesi",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&cstart=20&pagesize=80&citation_for_view=slbE0KsAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2008",
+        "abstract": "Gerakan massa tanah merupakan fenomena deformasi permukaan lereng. Secara geometrik (geodetik), deformasi permukaan lereng dapat dipantau melalui pergerakan posisi titik-titik kontrol pemantauan. Dengan GPS, pergerakan posisi titik-titik kontrol pemantauan dapat ditentukan secara teliti dalam 3-dimensi melalui survei GPS secara periodik. Berdasarkan pergerakan posisi titik-titik kontrol pemantauan ini, mekanisme gerakan massa tanah dapat dianalisis dan diprediksi. Salah satu model analisis dan prediksi yang representatif untuk memodelkan gerakan massa tanah adalah model kinematik. Penelitian ini berusaha memodelkan secara kinematik gerakan massa tanah berdasarkan data pergerakan posisi titik-titik kontrol pemantauan yang diamat secara periodik melalui survei GPS. Survei GPS dilakukan sebanyak 3 periode, November 2006, Maret 2007, dan Desember 2008. Tujuan penelitian ini adalah untuk menganalisis dan memprediksi kecepatan dan percepatan gerakan massa tanah yang terjadi di daerah penelitian dengan menggunakan pemodelan kinematik yang diselesaikan dengan Teknik Kalman Filtering. Kata kunci : GPS, model kinematik, teknik Kalman Filtering"
+    },
+    {
+        "title": "ANALISIS HASIL PENENTUAN KOORDINAT TITIK DASAR TEKNIK MENGACU SRGI 2013 DAN BUKU TUGU BPN",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma’ruf",
+            "Nurrohmat Widjajanti"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&cstart=20&pagesize=80&citation_for_view=slbE0KsAAAAJ:aqlVkmm33-oC",
+        "abstract": "Koordinat Titik Dasar Teknik (TDT) yang dikelola Kementerian Agraria Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) hingga saat ini masih mengacu pada Datum Geodetik Nasional 1995 (DGN95) yang mengacu pada elipsoid World Geodetic System 1984 (WGS84). Sesuai amanat Undang-undang No. 4 Tahun 2011 tentang Informasi Geospasial (UUIG), koordinat TDT ATR BPN perlu diperbaharui dan mengacu pada Sistem Referensi Geospasial Indonesia (SRGI). TDT yang terbaharui unsur-unsur koordinatnya diperlukan agar hasil pengukuran bidang tanah akan menggambarkan kondisi yang tepat dan sesuai dengan kondisi di lapangan. Hal ini dikarenakan pemetaan bidang tidak lepas dari pengaruh geodinamika bumi sehingga perubahan unsur-unsur koordinat perlu diketahui. Makalah ini menyajikan analisis perbedaan koordinat dan pola pergeseran koordinat hasil penentuan posisi metode Real Time Kinematic Global Navigation Satellite System (RTK GNSS) menggunakan layanan koreksi real-time dari InaCORS yang telah terdefinisi ke SRGI 2013. Koordinat hasil pengukuran tersebut dibandingkan dengan koordinat TDT yang tertera pada buku tugu BPN. Analisis dilakukan terhadap 54 sampel TDT orde 2 dan 3 di Provinsi Daerah Istimewa Yogyakarta dari total sejumlah 290 TDT yang ada. Hasil dari penelitian menunjukkan perbedaan koordinat bervariasi dari 0, 3 hingga 2 meter pada sebagian besar sampel dan terdapat pola pola pergeseran yang sistematik ke arah timur laut.",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/358495932_ANALISIS_HASIL_PENENTUAN_KOORDINAT_TITIK_DASAR_TEKNIK_MENGACU_SRGI_2013_DAN_BUKU_TUGU_BPN_Studi_Kasus_Titik_Dasar_Teknik_di_Daerah_Istimewa_Yogyakarta_Analysis_of_Cadastral_Control_Points_Coordinates_/links/620b1c4c87866404a16b1eab/ANALISIS-HASIL-PENENTUAN-KOORDINAT-TITIK-DASAR-TEKNIK-MENGACU-SRGI-2013-DAN-BUKU-TUGU-BPN-Studi-Kasus-Titik-Dasar-Teknik-di-Daerah-Istimewa-Yogyakarta-Analysis-of-Cadastral-Control-Points-Coordinates.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9"
+    },
+    {
+        "title": "Aplikasi GPS Tipe Pemetaan BAP Precision S852P untuk Pengukuran dan Pemetaan Bidang Tanah pada Daerah dengan Obstruksi Bervariasi",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma’ruf"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&cstart=20&pagesize=80&citation_for_view=slbE0KsAAAAJ:Zph67rFs4hoC",
+        "abstract": "Pengukuran dan pemetaan bidang tanah secara konvensional dilaksanakan dengan pengukuran secara teristris menggunakan pita ukur dan Total Station (TS). Seiring dengan berkembangnya teknologi survei pemetaan, pengukuran dan pemetaan bidang mulai dilaksanakan juga dengan menggunakan metode ekstra terestris menggunakan Global Positioning System (GPS). Pengukuran dengan GPS low-cost potensial diterapkan untuk mendukung kegiatan peningkatan angka pemetaan bidang per tahun yang di BPN sevara umum targetnya cenderung naik dari tahun ke tahun. Alat yang digunakan dalam penelitian ini adalah GPS low-cost tipe pemetaan merk BAP Precision S852P. Hasil dari penelitian ini diharapkan dapat memberikan gambaran penggunaan receiver GPS tipe pemetaan dalam pengukuran dan pemetaan bidang dan ketelitian yang dihasilkan dari metode pengukuran tersebut. Pengukuran bidang dilakukan secara statik diferensial. Evaluasi hasil penelitian dilakukan dengan menganalisis hasil pengukuran dengan GPS low-cost ini terhadap hasil pengukuran metode RTK menggunaan GPS tipe geodetik. Receiver GPS BAP Precision S852P tergolong sebagai receiver low-cost namun daya tahan baterainya saat digunakan untuk pengukuran terhitung baik dengan durasi pengukuran secara kontinyu selama kurang lebih 6 jam pada pengukuran metode statik diferensial. Inisialisasi relatif lambat, padahal pada penelitian yang dilakukan oleh Atunggal dkk (2015) modul GPS yang sama dapat berinisialisasi dengan relatif lebih cepat (kurang dari 1 menit) dengan menggunakan aplikasi RTKLib. GPS tipe pemetaan BAP …",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/350446926_Aplikasi_GPS_Tipe_Pemetaan_BAP_Precision_S852P_untuk_Pengukuran_dan_Pemetaan_Bidang_Tanah_pada_Daerah_dengan_Obstruksi_Bervariasi/links/6061525e92851cd8ce744ff8/Aplikasi-GPS-Tipe-Pemetaan-BAP-Precision-S852P-untuk-Pengukuran-dan-Pemetaan-Bidang-Tanah-pada-Daerah-dengan-Obstruksi-Bervariasi.pdf"
+    },
+    {
+        "title": "Evaluasi Penggunaan Data Satelit Beidou Untuk Meningkatkan Kecepatan Dan Ketelitian Pada Penentuan Posisi Metode RTK",
+        "authors": [
+            "Satria Kusuma",
+            "Bilal Ma’ruf",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=slbE0KsAAAAJ&cstart=20&pagesize=80&citation_for_view=slbE0KsAAAAJ:MXK_kJrjxJIC",
+        "abstract": "Metode RTK merupakan metode pengamatan relatif dengan menggunakan data fase yang posisinya diperoleh secara differential saat pengamatan secara real time yang dikirimkan dari base station ke rover.",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/332369384_Evaluasi_Penggunaan_Data_Satelit_Beidou_untuk_Meningkatkan_Kecepatan_dan_Ketelitian_Pada_Penentuan_Posisi_Metode_RTK/links/5cb018c7299bf120975f8a8c/Evaluasi-Penggunaan-Data-Satelit-Beidou-untuk-Meningkatkan-Kecepatan-dan-Ketelitian-Pada-Penentuan-Posisi-Metode-RTK.pdf"
+    }
+]

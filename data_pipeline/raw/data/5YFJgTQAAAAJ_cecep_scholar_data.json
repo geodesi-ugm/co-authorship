@@ -1,0 +1,1313 @@
+[
+    {
+        "title": "Transient rheology of the oceanic asthenosphere following the 2012 Indian Ocean Earthquake inferred from geodetic data",
+        "authors": [
+            "Cecep Pratama",
+            "Takeo Ito",
+            "Ryohei Sasajima",
+            "Takao Tabei",
+            "Fumiaki Kimata",
+            "Endra Gunawan",
+            "Yusaku Ohta",
+            "Tadashi Yamashina",
+            "Nazli Ismail",
+            "Irwandi Nurdin",
+            "Didik Sugiyanto",
+            "Umar Muksin",
+            "Irwan Meilano"
+        ],
+        "cited_by": "31",
+        "year": "2017",
+        "venue": "Journal of Asian Earth Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2017/10/1",
+        "abstract": "Postseismic motion in the middle-field (100–500 km from the epicenter) geodetic data resulting from the 2012 Indian Ocean earthquake exhibited rapid change during the two months following the rupture. This pattern probably indicates multiple postseismic deformation mechanisms and might have been controlled by transient rheology. Therefore, the relative contribution of transient rheology in the oceanic asthenosphere and afterslip in the oceanic lithosphere should be incorporated to explain short- and long-term transitional features of postseismic signals. In this study, using two years of post-earthquake geodetic data from northern Sumatra, a three-dimensional spherical-earth finite-element model was constructed based on a heterogeneous structure and incorporating transient rheology. A rheology model combined with stress-driven afterslip was estimated. Our best-fit model suggests an oceanic lithosphere …",
+        "total_citations": "Cited by 31",
+        "pdf_link": "https://www.academia.edu/download/99567891/Pratama_et_al_JAES_2017.pdf"
+    },
+    {
+        "title": "Present-day crustal deformation revealed active tectonics in Yogyakarta, Indonesia inferred from GPS observations",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "T Aris Sunantyo",
+            "Leni Sophia Heliani",
+            "Bilal Ma'ruf",
+            "Dedi Atunggal",
+            "Dwi Lestari",
+            "Hilmiyati Ulinnuha",
+            "Arinda Pinasti",
+            "Riska Fajrul Ummi"
+        ],
+        "cited_by": "30",
+        "year": "2020",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:W7OEmFMy1HYC",
+        "publication_date": "2020/3/1",
+        "abstract": "We investigated the active crustal structure in Yogyakarta, Indonesia, using new and denser Global Positioning System (GPS) data. Deformation rate estimated from five years (2013–2018) of observations on 22 campaign might record broad deformation after the 2006 Mw7.8 Java tsunami earthquake and postseismic transient due to the 2006 Mw6.3 Yogyakarta earthquake. We conducted a decomposition method to obtain a short wavelength feature by removing those postseismic deformations from the observation data. The short wavelength pattern revealed active tectonics indicating a combination of E–W dip-slip motion and N–S left-lateral structure. A large maximum shear strain rate (>0.1 microstrain/yr) was estimated along the Opak fault while a large dilatation rate (<-0.1 microstrain/yr) was estimated around the Bantul Graben. The analysis result indicates important implications for crustal dynamics and …",
+        "total_citations": "Cited by 30",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984720300148"
+    },
+    {
+        "title": "Earthquake early warning system using ncheck and hard-shared orthogonal multitarget regression on deep learning",
+        "authors": [
+            "Adi Wibowo",
+            "C Pratama",
+            "David P Sahara",
+            "LS Heliani",
+            "S Rasyid",
+            "Zharfan Akbar",
+            "Faiz Muttaqy",
+            "Ajat Sudrajat"
+        ],
+        "cited_by": "23",
+        "year": "2021",
+        "venue": "IEEE Geoscience and Remote Sensing Letters",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:KlAtU1dfN6UC",
+        "publication_date": "2021/3/23",
+        "abstract": "Realizing an effective earthquake early warning system (EEWS) in the case of extensive regions and noisy signals is challenging, particularly in East Java, Indonesia. This letter proposes the rapid detection of the p-wave arrival and determination of the earthquake’s hypocenter and magnitude using deep learning. The Ncheck algorithm is used for noise handling for picking the p-arrival on a multistation waveform as a form of picking target window prediction (PTWP). Then, multitarget regression (MTR) with a hard-shared orthogonal optimization model is proposed for earthquake parameter determination. The data sets used contained data of earthquakes recorded at three stations from the Indonesian seismic network in East Java; 2009–2017 data were used for training and validation, and 2019 data were used for real-time testing. The results show that the PTWP for picking p-arrival has a mean absolute error (MAE …",
+        "total_citations": "Cited by 23"
+    },
+    {
+        "title": "The 2019 Mw 7.0 Banten, Indonesia, intraslab earthquake: investigation of the coseismic slip, tsunami modelling and Coulomb stress change",
+        "authors": [
+            "Endra Gunawan",
+            "Widjo Kongko",
+            "Munawar Kholil",
+            "Bayu Triyogo Widyantoro",
+            "Sri Widiyantoro",
+            "Pepen Supendi",
+            "Nuraini Rahma Hanifa",
+            "Ira Mutiara Anjasmara",
+            "Cecep Pratama",
+            "Aditya Riadi Gusman"
+        ],
+        "cited_by": "22",
+        "year": "2022",
+        "venue": "Geoenvironmental Disasters",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:mVmsd5A6BfQC",
+        "publication_date": "2022/6/10",
+        "abstract": "The 2019 Mw 7.0 Banten, Indonesia, earthquake occurred at a 49 km depth in a relatively unknown region, where the geological structure did not clearly show the fault. In this study, we use the Global Navigation Satellite System data to analyse the fault source of the earthquake. Following the earthquake’s focal mechanism, we modelled a total of four fault models using two possible fault strikes, with each of the fault strikes investigated for shallow top depth and deeper top depth. This study also utilises the tide gauge data to confirm the tsunami waveform, modelled using the estimated coseismic slip. We present evidence of the shallow rupture of the 2019 Mw 7.0 Banten, Indonesia, intraslab earthquake from an ENE-WSW fault direction. The tsunami modelling of a shallow top depth of an ENE-WSW fault direction is a better fit in predicting the tide gauge waveform. We also present evidence that the 2019 Banten …",
+        "total_citations": "Cited by 22",
+        "pdf_link": "https://link.springer.com/article/10.1186/s40677-022-00215-4"
+    },
+    {
+        "title": "Postseismic deformation following the 2 July 2013 Mw 6.1 Aceh, Indonesia, earthquake estimated using GPS data",
+        "authors": [
+            "Endra Gunawan",
+            "Sri Widiyantoro",
+            "Irwan Meilano",
+            "Cecep Pratama"
+        ],
+        "cited_by": "21",
+        "year": "2019",
+        "venue": "Journal of Asian Earth Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:qjMakFHDy7sC",
+        "publication_date": "2019/6/15",
+        "abstract": "GPS data after the 2 July 2013 Mw 6.1 Aceh earthquake provide valuable information for understanding the postseismic behavior of a strike-slip fault in northern Sumatra, Indonesia. The analysis of postseismic deformation following the 2004 Sumatra-Andaman earthquake and the 2012 Indian Ocean earthquake suggest that the ongoing deformation affected northern Sumatra between July and December 2013. The postseismic deformation of the 2013 Aceh earthquake is herein investigated, with the contribution of poroelastic rebound and viscoelastic relaxation evaluated. The results suggest that the model displacement of those two mechanisms failed to estimate the data. The afterslip analysis of the 2013 Aceh earthquake, on the contrary, fits the data very well with a seismic slip occurring at multiple fault segments of the Sumatran fault in northern Sumatra, Indonesia.",
+        "total_citations": "Cited by 21"
+    },
+    {
+        "title": "Geovisual analytics of spatio-temporal earthquake data in Indonesia",
+        "authors": [
+            "Febrian Fitryanik Susanta",
+            "Cecep Pratama",
+            "Trias Aditya",
+            "Alian Fathira Khomaini",
+            "Hadi Wijaya Kusuma Abdillah"
+        ],
+        "cited_by": "20",
+        "year": "2019",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2019/12",
+        "abstract": "Indonesia is one of the nations located in the Ring of Fire. High geodynamic occurrences cause often occurring earthquake tectonics in Indonesia. The earthquakes are also caused by Indonesia position which is in the confluence of four main plates. Earthquake data in Indonesia has been accessible by the public. However, the map and graphical of historical earthquake data have not been available. This research aims to create a visualization dashboard of historical earthquake combining spatial and temporal data. The data used for this research was obtained from BMKG website. The data contain CORS stations and historical earthquake data in 2004 to 2019. In addition, seismic data attributes such as earthquake magnitude and depth. The data are processed using Ms Excel and ArcGIS Online Map then WebAppBuilder for ArcGIS is used to build a visualization dashboard. We have designed and implemented a visualization dashboard, VizEQ, which present a map, time-series animation and graphical widgets of historical earthquake data. Dashboard interfaces support visual analytics method to create the relationship between variables. In this paper, we present the visual analytics techniques to build visual queries as users explore the data.",
+        "total_citations": "Cited by 20",
+        "pdf_link": "https://www.academia.edu/download/98931847/26581.pdf"
+    },
+    {
+        "title": "Evaluation of the 2012 Indian Ocean coseismic fault model in 3-D heterogeneous structure based on vertical and horizontal GNSS observation",
+        "authors": [
+            "Cecep Pratama",
+            "Takeo Ito",
+            "Takao Tabei",
+            "Fumiaki Kimata",
+            "Endra Gunawan",
+            "Yusaku Ohta",
+            "Tadashi Yamashina",
+            "Irwandi Nurdin",
+            "Didik Sugiyanto",
+            "Umar Muksin",
+            "Nazli Ismail",
+            "Irwan Meilano"
+        ],
+        "cited_by": "13",
+        "year": "2018",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2018/7/18",
+        "abstract": "Lack of observation network in the vicinity of oceanic intraplate earthquake lead the estimation of coseismic fault slip with high uncertainty. Satriano et al. [2] and Wei et al. [3] found NNE trending left-lateral slip as the primary features. In another hand, Yue et al. [4] and Hill et al. [5] proposed WNW trending right-lateral faults structure as the main characteristic. Here, we investigate the coseismic fault model that could explain the coseismic offset both vertical and horizontal in a 3-D heterogeneous earth structure. We constructed finite element model that include three-dimensional velocity structure, topography/bathymetry, spherical-earth and subducting slab. In this study, we employed scaling slip to adjust slip amount and total seismic moment. Instead of original slip amount, we preserve seismic moment as a basis comparison. Based on vertical and horizontal observation data, WNW trending right-lateral fault could fit …",
+        "total_citations": "Cited by 13",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.5047296/14163604/020011_1_online.pdf"
+    },
+    {
+        "title": "Coseismic displacement accumulation between 1996 and 2019 using A global empirical law on Indonesia continuously operating reference station (InaCORS)",
+        "authors": [
+            "Cecep Pratama",
+            "Febrian Fitryanik Susanta",
+            "Ridho Ilahi",
+            "Alian Fathira Khomaini",
+            "Hadi Wijaya Kusuma Abdillah"
+        ],
+        "cited_by": "12",
+        "year": "2019",
+        "venue": "JGISE J Geospatial Inf Sci Eng",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2019",
+        "abstract": "Indonesia archipelago is one of the most populated country with active and complex tectonic zone in the world. Plate boundaries were assembled by four major plate which made the region not only vulnerable to earth-hazard but also prone to semi-dynamic reference frame. However, influence of transient deformation such as coseismic displacement due to large amount of small to intermediate earthquakes (< Mw 6) on the geodetic networks is remain poorly understood. Geospatial Information Agency occupied permanent and continuous GPS networks since 1996 but rapidly increase in 2010. Based on simulated empirical law of coseismic crustal deformation, we estimate the cumulative displacement due to coseismic step on Indonesia Continuous Operating Reference Stations (InaCORS). We utilize the position of the observation network and earthquake hypocentral with estimated moment magnitude. Our result suggesting small to intermediate earthquakes are indispensable for estimating secular motion and potentially contribute the cumulative offset associated with the transient postseismic deformation.",
+        "total_citations": "Cited by 12",
+        "pdf_link": "https://www.academia.edu/download/99454801/26646.pdf"
+    },
+    {
+        "title": "Active tectonics of the eastern java based on a decade of recent continuous geodetic observation",
+        "authors": [
+            "Retno Eka Yuni Purwaningsih",
+            "Adelia Sekarsari",
+            "Tika Widya Sari",
+            "Cecep Pratama",
+            "Sidik Tri Wibowo"
+        ],
+        "cited_by": "11",
+        "year": "2022",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:Wp0gIr-vW9MC",
+        "publication_date": "2022/7/1",
+        "abstract": "The eastern part of Java Island is transversed by major faults such as Cepu, Blumbang, Surabaya, and Waru Segment, part of the Kendeng Fault, Wonsorejo Fault, Pasuruan Fault, and Probolinggo Fault. Due to the major fault, we used decomposition of identified fault from the Global Navigation Satellite System (GNSS) observation data to identify the potential of local deformation. We analyzed surface deformation due to the effect of major fault using scaling law and elastic half-space method. We investigated the possibility of unidentified fault using strain rates based on velocity vector data before and after correcting the effect of a major fault. We found that strain calculation for principal strain value in the eastern part of Java Island is less than one microstrain/year and the dominant one with a compression pattern due to the Sunda subduction zone. The maximum shear strain rate value goes from 0.002 to 0.094 …",
+        "total_citations": "Cited by 11",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984722000210"
+    },
+    {
+        "title": "Anomaly detection on displacement rates and deformation pattern features using tree-based algorithm in Japan and Indonesia",
+        "authors": [
+            "Adi Wibowo",
+            "Satriawan Rasyid Purnama",
+            "Cecep Pratama",
+            "Leni Sophia Heliani",
+            "David P Sahara",
+            "Sidik Tri Wibowo"
+        ],
+        "cited_by": "10",
+        "year": "2023",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:9ZlFYXVOiuMC",
+        "publication_date": "2023/3/1",
+        "abstract": "Research on strain anomalies and large earthquakes based on temporal and spatial crustal activities has been rapidly growing due to data availability, especially in Japan and Indonesia. However, many research works used local-scale case studies that focused on a specific earthquake characteristic using knowledge-driven techniques, such as crustal deformation analysis. In this study, a data-driven-based analysis is used to detect anomalies using displacement rates and deformation pattern features extracted from daily global navigation satellite system (GNSS) data using a machine learning algorithm. The GNSS data with 188 and 1181 continuously operating reference stations from Indonesia and Japan, respectively, are used to identify the anomaly of recent major earthquakes in the last two decades. Feature displacement rates and deformation patterns are processed in several window times with 2560 …",
+        "total_citations": "Cited by 10",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984722000702"
+    },
+    {
+        "title": "Multi-target regression using convolutional neural network-random forests (CNN-RF) for early earthquake warning system",
+        "authors": [
+            "Benaldy Yuga Adhaityar",
+            "David P Sahara",
+            "Cecep Pratama",
+            "Adi Wibowo",
+            "Leni S Heliani"
+        ],
+        "cited_by": "10",
+        "year": "2021",
+        "venue": "2021 9th International Conference on Information and Communication Technology (ICoICT)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:4TOpqqG69KYC",
+        "publication_date": "2021/8/3",
+        "abstract": "Indonesia occupies a very active tectonic zone because the world's three large plates and nine other smaller plates meet each other in Indonesian territory and form a complex plate meeting path. East Java Province is part of the Sundanese arc, which has a relatively high level of seismicity and has a complex geological system resulting from the Indo-Australian plate. Therefore, a system that can provide earthquake early warning (EEW) is needed to reduce casualties. In this paper, we determine the epicenter and magnitude of the earthquake using the Multi-Target Regression Convolutional Neural Network-Random Forest (CNN-RF). This model uses Multi-Target Regression Convolutional Neural Network (CNN) as feature extraction and Multi-Target Regression Random Forest (RF) for multi-target regression. Earthquakes in East Java in 2009-2017 are used to train and validate the proposed model. Based on the …",
+        "total_citations": "Cited by 10"
+    },
+    {
+        "title": "Vertical deformation model on postseismic phase using exponential and logarithmic function based on InSAR",
+        "authors": [
+            "Irma Yusiyanti",
+            "Tattyana Wening Kalbuadi Prajardi",
+            "Yofita Indah Saputri",
+            "Cecep Pratama"
+        ],
+        "cited_by": "8",
+        "year": "2023",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:IWHjjKOFINEC",
+        "publication_date": "2023/7/1",
+        "abstract": "The Palu MW7.4 earthquake occurred on September 28, 2018, with the epicenter at 119.86°, 0.72°. The severe shaking caused severe damage in Central Sulawesi, especially in Palu. We conducted a postseismic deformation study to determine the deformation pattern and reduce future earthquakes' impact. Interferometric Synthetic Aperture Radar (InSAR) data were processed using LiCSBAS to get the time series. The time series data were fitted to exponential and logarithmic functions to determine the mechanism of postseismic deformation. The exponential model identified the influence of the viscoelastic mechanism, and the logarithm identified the afterslip mechanism. The Palu earthquake was fitted to logarithmic and exponential, but the logarithmic was more significant than an exponential function. Afterslip mechanism predominates, and viscoelastic mechanisms play a minor role in this postseismic deformation.",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984723000174"
+    },
+    {
+        "title": "Spatiotemporal variation of vertical displacement driven by seasonal hydrological water storage changes in Kalimantan, Indonesia from GPS observation",
+        "authors": [
+            "Leni Sophia Heliani",
+            "Cecep Pratama",
+            "Nurrohmat Widjajanti",
+            "Eko Hanudin"
+        ],
+        "cited_by": "8",
+        "year": "2020",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:WF5omc3nYNoC",
+        "publication_date": "2020/9/1",
+        "abstract": "The Global Positioning System (GPS) Indonesian Continuously Operating Reference Stations (InaCORS) network has been used for various applications ranging from land administration to geodynamics. Crustal dynamic process plays a significant role in almost all Indonesia regions except in Kalimantan Island since it's located on the stable continental plate. Therefore, the study of deformation in an area with less tectonic activities would be relatively simple to elucidate another terrestrial process. Here, we analyzed the deformation process in Kalimantan Island using continuous geodetic observation. We found that vertical displacement shows oscillation signals which are related to the hydrological cycle of water storage changes. Along with the GPS data, we utilized rain precipitation data to analyze both spatial and temporal variation of vertical displacement to support the hypothesis of elastic response to the load …",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984720300550"
+    },
+    {
+        "title": "Deep learning for real-time P-wave detection: A case study in Indonesia's earthquake early warning system",
+        "authors": [
+            "Adi Wibowo",
+            "Leni Sophia Heliani",
+            "Cecep Pratama",
+            "David Prambudi Sahara",
+            "Sri Widiyantoro",
+            "Dadan Ramdani",
+            "Mizan Bustanul Fuady Bisri",
+            "Ajat Sudrajat",
+            "Sidik Tri Wibowo",
+            "Satriawan Rasyid Purnama"
+        ],
+        "cited_by": "7",
+        "year": "2024",
+        "venue": "Applied Computing and Geosciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:RHpTSmoSYBkC",
+        "publication_date": "2024/12/1",
+        "abstract": "Detecting seismic events in real-time for prompt alerts and responses is a challenging task that requires accurately capturing P-wave arrivals. This task becomes even more challenging in regions like Indonesia, where widely spaced seismic stations exist. The wide station spacing makes associating the seismic signals with specific even more difficult. This paper proposes a novel deep learning-based model with three convolutional layers, enriched with dual attention mechanisms—Squeeze, Excitation, and Transformer Encoder (CNN-SE-T) —to refine feature extraction and improve detection sensitivity. We have integrated several post-processing techniques to further bolster the model's robustness against noise. We conducted comprehensive evaluations of our method using three diverse datasets: local earthquake data from East Java, the publicly available Seismic Waveform Data (STEAD), and a continuous …",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S2590197424000417"
+    },
+    {
+        "title": "The western extension of the Balantak Fault revealed by the 2021 earthquake cascade in the central arm of Sulawesi, Indonesia",
+        "authors": [
+            "Andrean VH Simanjuntak",
+            "Kadek H Palgunadi",
+            "Pepen Supendi",
+            "Umar Muksin",
+            "Endra Gunawan",
+            "Sri Widiyantoro",
+            "Nicholas Rawlinson",
+            "Mudrik R Daryono",
+            "D Daryono",
+            "Dwikorita Karnawati",
+            "Nuraini R Hanifa",
+            "Cecep Pratama",
+            "Rachmah Ida"
+        ],
+        "cited_by": "7",
+        "year": "2024",
+        "venue": "Geoscience Letters",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:_Qo2XoVZTnwC",
+        "publication_date": "2024/8/14",
+        "abstract": "Two shallow earthquakes of moment magnitude 6.2 and 5.8 occurred in the central arm of Sulawesi on 26 July 2021 and 26 August 2021, respectively. The fault responsible for the earthquake had previously only been partially mapped, thus making further analysis of its characteristics crucial for the assessment of seismic hazard. In this study, we exploit data from a regional seismic network, relocate the associated seismicity using the double difference method with an updated velocity model, determine focal mechanisms from full-waveform inversion, and analyze the static stress changes caused by the mainshock. Our relocated hypocenters and focal mechanism solutions reveal two earthquake clusters, one at the Central Balantak Fault that exhibits normal slip on a SE–NW trending rupture, and the other at the West Balantak Fault, which exhibits dextral strike-slip motion on a SE–NW trending rupture. The …",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://link.springer.com/article/10.1186/s40562-024-00353-7"
+    },
+    {
+        "title": "Integrating Multi-Hazard Risk Analysis into Spatial Planning for Small Island: Study Case of Sangihe Island",
+        "authors": [
+            "Atrida Hadianti",
+            "Hilmiyati Ulinnuha",
+            "Leni Sophia Heliani",
+            "Ahmad Sarwadi",
+            "Adhy Kurniawan",
+            "Juswono Budisetiawan",
+            "Latif Suhubawa",
+            "Wiwit Suryanto",
+            "Cecep Pratama",
+            "Bachtiar Wahyu Mutaqin",
+            "Widya Nayati",
+            "Yosi Bayumurti",
+            "Ridho Ilahi",
+            "Senoaji Y Widjonarko"
+        ],
+        "cited_by": "6",
+        "year": "2021",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:YOwf2qJgpHMC",
+        "publication_date": "2021/6",
+        "abstract": "Small island regions are facing disaster risks due to their exposure to various hazards, e.g. floods, landslide, and earthquake. In order to achieve long-term disaster resilience, one of the significant strategies is applying spatial planning based on disaster risk reduction. Methods for multi-hazard risk assessment and risk analysis have been broadly discussed, nevertheless, its implementation in spatial planning is inadequate. In this study, we conducted a multi-hazard risk mapping of Sangihe Island and reviewed its spatial plan. It is identified that disaster risk analysis hardly meets its standard in consequence of insufficient secondary data availability. Also, the spatial plan merely utilizes hazard maps for consideration, not yet as risk analysis, resulting in allocating vital elements in high-risk areas. Hence, secondary data support is necessary for accordance with the needs of standardized risk analysis and is updated …",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/799/1/012008/pdf"
+    },
+    {
+        "title": "Data-driven of time series decomposition on estimating geodetic secular motion around palu-koro fault zone",
+        "authors": [
+            "Cecep Pratama",
+            "Irwan Meilano",
+            "Euis Sunarti",
+            "Setya Haksama",
+            "Mahmud Dwi Sulistiyo"
+        ],
+        "cited_by": "6",
+        "year": "2020",
+        "venue": "2020 8th International Conference on Information and Communication Technology (ICoICT)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:_FxGoFyzp5QC",
+        "publication_date": "2020/6/24",
+        "abstract": "The 2018 Mw 7.5 Palu earthquake occurred along the Palu-Koro segment devastated Central Sulawesi, Indonesia. The Palu-Koro fault is considered as a plate boundaries between of three major tectonic plates. Couples space geodesy measurement has been conducted to characterize the crustal activity of the Palu-Koro fault based on secular velocities pattern. However, several non-secular deformation observed and need to be considered to obtained actual secular deformation. Here, we conducted data-driven time series decomposition of Global Positioning System (GPS) observation. We used earthquake catalogue data to drive decomposition recognize the co-seismic offset and respective post-seismic deformation. We obtained precise secular motion on WATP, P14P, PALP, and TOBP sites where the direction changing from eastward toward northeast.",
+        "total_citations": "Cited by 6"
+    },
+    {
+        "title": "The Investigation of Viscoelastic Relaxation Following the 2018 Mw 6.2 Situbondo, Indonesia, Earthquake",
+        "authors": [
+            "Endra Gunawan",
+            "Pandu Setyo Wibiseno",
+            "Sri Widiyantoro",
+            "Munawar Kholil",
+            "Rachmah Ida",
+            "Cecep Pratama",
+            "Nuraini Rahma Hanifa",
+            "Iwan Hermawan",
+            "Pepen Supendi, Daryono",
+            "Dwikorita Karnawati"
+        ],
+        "cited_by": "5",
+        "year": "2023",
+        "venue": "Geotechnical and Geological Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:qUcmZB5y_30C",
+        "publication_date": "2023/11",
+        "abstract": "The 2018 Mw 6.2 Situbondo earthquake occurred in an active fault where no earthquakes of magnitude 6 or higher have been recorded in the last decade. Since the fault geometry responsible of this earthquake is not well identified, we analyze the mainshock and aftershock of the 2018 earthquake. We conduct hypocenter relocation of earthquakes from 10 October 2018 to 25 December 2018. We find that the distribution of the relocated aftershocks forming a lineament to the northwest relative to the mainshock with an average depth of 12.6 km. This southeast-northwest pattern is in agreement with the previously-published coseismic fault model derived from GNSS (Global Navigation Satellite System) data. In this study, we investigate the deformation after earthquake associated with viscoelastic relaxation, using continuous GNSS data available in the region. During our investigation, we use a rheological structure …",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "Importance of Tropospheric Correction to C-band InSAR Measurements: Application in the 2018 Palu Earthquake",
+        "authors": [
+            "Hidayat Panuntun",
+            "Leni Sophia Heliani",
+            "Wiwit Suryanto",
+            "Cecep Pratama"
+        ],
+        "cited_by": "5",
+        "year": "2022",
+        "venue": "Indonesian Journal of Geography",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:ZeXyd9-uunAC",
+        "publication_date": "2022/9/1",
+        "abstract": "Long-term InSAR-based observations are prone to atmospheric delay interference. The active-phase signals emitted and recorded back by sensors during imaging are easily disturbed by the electron content in the ionospheric layer and the water vapor content in the tropospheric layer. Given that the short wavelength of the C-band used by Sentinel-1 is more sensitive to tropospheric delay than to ionospheric delay, in this work, we utilized InSAR Sentinel-1 data to observe the postseismic deformation that occurred following the 2018 Palu earthquake and to evaluate the effect of tropospheric delay on the estimated interferogram time series. The cloud computation of Looking into Continent from Space with Synthetic Aperture Radar (LiCSAR) and LiCSBAS was used to generate interferograms and analyze the time series. Here the atmospheric delay was modeled by using Generic Atmospheric Correction Online Service (GACOS) and removed from the generated interferograms. Results showed that the annual velocity and cumulative line-of-sight (LOS) displacement were refined by correcting the atmospheric delay. Specifically, by applying GACOS, the standard deviation of the generated interferograms decreased by up to 76.6%. GNSS observations were utilized to verify the improvement due to the removal of tropospheric noise. We found that LOS displacement with GACOS correction better fitted the GNSS observation than LOS displacement without GACOS correction. Therefore, atmospheric correction plays an important role in long-term InSAR-based observations, especially in avoiding any bias in the interpretation of the estimated time series …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Hidayat-Panuntun/publication/366835522_Importance_of_Tropospheric_Correction_to_C-band_InSAR_Measurements_Application_in_the_2018_Palu_Earthquake/links/63c0d1f8ef57e61a6113281f/Importance-of-Tropospheric-Correction-to-C-band-InSAR-Measurements-Application-in-the-2018-Palu-Earthquake.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D"
+    },
+    {
+        "title": "Recent GPS-based long wavelength crustal deformation revealed active postseismic deformation due to the 2006 Yogyakarta earthquake",
+        "authors": [
+            "Cecep Pratama",
+            "Leni Sophia Heliani",
+            "Nurrohmat Widjajanti",
+            "Endra Gunawan",
+            "Ira Mutiara Anjasmara",
+            "Suci Tresna Novianti",
+            "Tika Widya Sari",
+            "Retno Eka Yuni",
+            "Adelia Sekarsari"
+        ],
+        "cited_by": "5",
+        "year": "2022",
+        "venue": "Journal of Applied Geodesy",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&citation_for_view=5YFJgTQAAAAJ:qxL8FJ1GzNcC",
+        "publication_date": "2022/4/26",
+        "abstract": "We analyze the Global Positioning System (GPS)-derived strain rate distribution to investigate active crustal structure in Central Java, Indonesia, using ten years (2010–2019) continuous and permanent observation data. Central Java is the third-most populous province in Indonesia where postseismic deformation of devastating Yogyakarta earthquake in 2006 might influence the GPS data. The postseismic extensional response might overshadow the low contractional process due to active tectonics deformation. A decomposition method of a calculated strain rate shows a long wavelength feature with the extensional region in the vicinity of the 2006 Yogyakarta earthquake may reflect the postseismic process remain active. The short wavelength pattern is sharpening potential active tectonics dominated by oblique Northwest-Southeast dip-slip motion with East-West left-lateral sense. Our result demonstrates …",
+        "total_citations": "Cited by 5"
+    },
+    {
+        "title": "Strain accumulation in the Mentawai Forearc Sliver, Indonesia, inferred from continuous GNSS-derived strain rate",
+        "authors": [
+            "Leni Sophia Heliani",
+            "Cecep Pratama",
+            "Adi Wibowo",
+            "David Prambudi Sahara",
+            "Susilo Susilo",
+            "Sidik Tri Wibowo",
+            "Ayu Nur Safii",
+            "Oktadi Prayoga",
+            "Ajat Sudrajat",
+            "Mizan Bustanul Fuady Bisri",
+            "Evi Dwi Kurniasari",
+            "Sheilla Evelinda",
+            "Nicholas Genta Setiawan Gunawan"
+        ],
+        "cited_by": "4",
+        "year": "2025",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:TQgYirikUcIC",
+        "publication_date": "2025/1/1",
+        "abstract": "The Mentawai Forearc Sliver (MFS) is characterized by oblique deformation formed as slip partitioned between normal and parallel trench plate convergence. The surge of great earthquakes from 2004 to 2012 along the adjacent Sunda trench left a large unbroken segment known as the Mentawai Seismic Gap. Here, we adopted continuous Global Navigation Satellite System (GNSS) observation data to identify the present regional crustal deformation using geodetic strain rates. The principal strain rate, dilatation rate, and maximum shear strain rate are about 0.13 microstrain/yr, 0.2 microstrain/yr, and 0.1 microstrain/yr, respectively, with the range of its uncertainties between 0.01 and 0.04 microstrain/yr. The dilatation and maximum shear strain rates reveal the spatial coverage of strike-slip duplex and backthrust tectonics along the Mentawai Forearc Sliver.",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984724000363"
+    },
+    {
+        "title": "Factors determining the welfare of the sunda strait tsunami victim’s family. A mechanism disaster impact on SDGs in family level",
+        "authors": [
+            "Euis Sunarti",
+            "Irwan Meliano",
+            "Cecep Pratama",
+            "Setya Haksana",
+            "Aliya Faizah Fithriyah",
+            "Nikmatul Khoiriyah",
+            "Winny Novyanti"
+        ],
+        "cited_by": "4",
+        "year": "2022",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:aqlVkmm33-oC",
+        "publication_date": "2022/2/1",
+        "abstract": "The Sunda Strait Tsunami in December 2018 has prolonged impact on the welfare of victim’s families. This research aims to analyze factors determining family welfare after 27 month of Sunda Strait tsunami. Research involved 123 families consisted of two groups: refugees who living in shelter F(LS) and non-refugees who living in non shelter (FLNS). Almost two-thirds of the families stated that the impact of the tsunami is still disrupting their work, livelihood, and daily lives. Acceptance and gratitude lead to higher subjective well-being, although objectively, family welfare has not returned to how it was before the tsunami. The results of different tests showed that FLS families (compared to FLNS) had better conditions and the health of their homes as well as their livelihood strategies. The objective welfare of the family is negatively affected by economic pressures, while the subjective welfare of the family is negatively …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/989/1/012021/pdf"
+    },
+    {
+        "title": "A possible opak fault segment that caused the 2006 mw 6.3 yogyakarta earthquake and its future implication",
+        "authors": [
+            "Cecep Pratama",
+            "Nurrohmat Widjajanti",
+            "Parseno",
+            "A Pinasti",
+            "RF Ummi",
+            "D Lestari",
+            "TA Sunantyo",
+            "LS Heliani",
+            "H Ulinnuha"
+        ],
+        "cited_by": "4",
+        "year": "2021",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:YsMSGLbcyi4C",
+        "publication_date": "2021/3/1",
+        "abstract": "On May 26th, 2006, the Mw 6.3 earthquake devastated the Yogyakarta region in a shallow strike-slip mechanism. Previous studies suggest the 2006 Yogyakarta earthquake aligned with the Opak river fault. However, several studies reported the aftershock distribution occurred along the eastward side of the Opak river fault strike. Those discrepancies may indicate two possibilities. First, the Opak river fault has an eastward dipping fault. Second, there are unidentified fault lines rather than Opak river fault. In this study, we investigated the fault segment that was responsible for the 2006 earthquake. We estimated the fault length based on seismic moment release assuming rigidity, fault depth, and coseismic displacement are 30 GPa, 12.5 Km, and 1 m, respectively. Therefore, we investigated the two possible scenarios using multi-years and recent Global Navigation Satellite System (GNSS) network developed by the …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/683/1/012059/pdf"
+    },
+    {
+        "title": "A green scenario for sustainable landscape planning: the case study in Sintang Regency, West Kalimantan Province",
+        "authors": [
+            "A Salim",
+            "S Hidayat",
+            "R Wulandari",
+            "CD Pratama",
+            "SN Ichwani"
+        ],
+        "cited_by": "4",
+        "year": "2019",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:kNdYIx-mwKoC",
+        "publication_date": "2019/12/1",
+        "abstract": "Sintang Regency is one of the 12 regencies and two cities in West Kalimantan Province, Indonesia. The total area of this regency is approximately 2.2 million hectares (ha) with 59% of the area designated as state forest area which provides high biodiversity and environmental services for adjoining communities. Through multi-stakeholder scenario planning, the government of Sintang Regency committed to protect and preserve forest resources for long-term landscape planning and sustainable utilization. Scenario planning yielded two possible outcomes in 2030 called “green” and “business as usual” (BAU) scenarios. Under the green scenario, future development without deforestation and land permits complied with spatial planning while under the BAU scenario, future conditions will be the result of past conditions without interventions. This study aimed to analyze land-use change in the regency over the past …",
+        "total_citations": "Cited by 4",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/399/1/012080/pdf"
+    },
+    {
+        "title": "Disaster risk reduction communication during the Mount Semeru eruption in East Java, Indonesia",
+        "authors": [
+            "Rachmah Ida",
+            "Endra Gunawan",
+            "Sri Widiyantoro",
+            "Cecep Pratama",
+            "Nuraini Rahma Hanifa",
+            "Muhammad Saud"
+        ],
+        "cited_by": "3",
+        "year": "2025",
+        "venue": "Jàmbá-Journal of Disaster Risk Studies",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:maZDTaKrznsC",
+        "publication_date": "2025/6/11",
+        "abstract": "This research is focused on disaster risk communication management and local community engagement during the Mount Semeru eruption in 2021. The problem faced by the East Java regional government, regency governments and the regional disaster management and mitigation agency (Badan Nasional Penanggulangan Bencana [BNPBD]) is the unavailability of communication protocols and strategies in the event of a disaster and mitigation coordination for follow-up programmes. In communicating disaster risk, the government is considered most appropriate as a risk communicator.ContributionThe study examines the risk communication process carried out by the government and the risk messages it conveys and explores the perceptions of stakeholders. Furthermore, it highlights the importance of risk communication for disaster mitigation and as an early warning system and focuses on the role of …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.scielo.org.za/pdf/jamba/v17n1/18.pdf"
+    },
+    {
+        "title": "Disaster Risk Reduction Communication and Local Community Engagement during the Mount Semeru Eruption in East Java, Indonesia",
+        "authors": [
+            "Rachmah Ida",
+            "Endra Gunawan",
+            "Sri Widiyantoro",
+            "Cecep Pratama",
+            "Nuraini Rahma Hanifa",
+            "Muhammad Saud"
+        ],
+        "cited_by": "3",
+        "year": "2023",
+        "venue": "Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:HDshCWvjkbEC",
+        "publication_date": "2023",
+        "abstract": "This research topic is focused on the disaster risk communication management and local community engagement during the earthquake and Mount Semeru eruption in 2021. The problem faced by the East Java regional government, regency governments, and the regional disaster management and mitigation agency (BNPBD), is the unavailability of communication protocols and strategies in the event of a disaster and mitigation coordination for follow-up programs. One of the consequences is that affected communities and disaster victims are too late to receive a response from both local governments and external support. á In communicating disaster risk, the Government is considered most appropriate as a risk communicator. The study aims to explore the risk communication process carried out by the Government and the risk messages it conveys, explore the perceptions of stakeholders in the East Java region about the importance of risk communication for disaster mitigation and as an early warning system and how community involvement in disaster mitigation efforts. áThe method used is descriptive qualitative with data collection techniques through review of government documents, literature studies, direct observation by observing government programs, and in-depth Interviews to selected informants who live in disaster-prone area in Lumajang and Jember regencies. During the Mount Semeru eruptions and earthquakes, both the central and regional governments must carry out risk communication management in handling and responding to the public's need for information related to disasters.",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4672651"
+    },
+    {
+        "title": "Analysis of damage to buildings affected by the tsunami in the Palu coastal area using deep learning",
+        "authors": [
+            "Irwan Meilano",
+            "Achmad Ikbal Rahadian",
+            "Deni Suwardhi",
+            "Wulan Suminar",
+            "Fiza Wira Atmaja",
+            "Cecep Pratama",
+            "Euis Sunarti",
+            "Setya Haksama"
+        ],
+        "cited_by": "3",
+        "year": "2020",
+        "venue": "2020 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:ULOm3_A8WrAC",
+        "publication_date": "2020/12/7",
+        "abstract": "Assessing the building damage after a tsunami is the first step to quantitatively learn about the amount of damage it caused. Indonesia is an archipelagic country, with two-thirds of its territory consisting of water. It has the second-longest coastline in the world, increasing the potential for tsunami damage in Indonesian territory. In this study, an analysis of building damage due to the tsunamis was carried out and Palu was assigned as the study location. Palu's coastal area suffered a tsunami on September 28, 2018, caused by an earthquake with a magnitude of 7.5. The location and the number of buildings were generated through object detection using deep learning from high-resolution satellite imagery data. Object detection was carried out using pre-trained YOLOv3 models that are trained using 315 satellite images as data sets and produce a model with a loss value of 33.15. Object detection was carried out on …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Strain Accumulation Along the Eastern Java Back–Arc Thrust System Inferred from a Dense Global Navigation Satellite System Network",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "Iqbal Hanun Azizi",
+            "Yulaikhah Yulaikhah",
+            "Muhammad Farhan Abiyyu",
+            "Sheva Aulia Rahman",
+            "Mokhamad Nur Cahyadi",
+            "Evi Aprianti",
+            "Oktadi Prayoga"
+        ],
+        "cited_by": "2",
+        "year": "2024",
+        "venue": "Geosciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:r0BpntZqJG4C",
+        "publication_date": "2024/12/17",
+        "abstract": "The back–arc thrust region in Eastern Java to Flores is significantly influenced by the arc–continent collision between the Australian Plate and the Eastern Sunda Arc, leading to a tectonic regime characterized by high seismic and volcanic hazards. This area has experienced several major earthquakes. However, back–arc thrust in Eastern Java remains absent from significant shallow earthquakes, which might indicate intense deformation. We conducted an analysis using recent and dense Global Navigation Satellite System (GNSS) observations from both continuous and campaign stations to develop a strain rate model and explore the detailed crustal behavior and strain accumulation within the Eastern Java back–arc thrust system. Our findings revealed varying values of compression and extension throughout the region, with compression values ranging from −2.24 to 0.086 μstrain/year. Additionally, we observed that the maximum shear strain rate and dilatation strain rate were within the ranges of 0.0013 to 1.12 μstrain/year and −2.24 to 0.698 μstrain/year, respectively. These findings could facilitate more informed strategies and improve preparedness for future seismic events.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.mdpi.com/2076-3263/14/12/346"
+    },
+    {
+        "title": "Spatiotemporal postseismic due to the 2018 Lombok earthquake based on insar revealed multi mechanisms with long duration afterslip",
+        "authors": [
+            "Annisa Rizky Kusuma",
+            "Cecep Pratama",
+            "Nurrohmat Widjajanti",
+            "Yulaikhah",
+            "Oktadi Prayoga",
+            "Evi Dwi Kurniasari"
+        ],
+        "cited_by": "2",
+        "year": "2024",
+        "venue": "Journal of Applied Geodesy",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:mB3voiENLucC",
+        "publication_date": "2024/7/26",
+        "abstract": "The Lombok earthquake in August 2018 triggered a sequential rupture with doublet earthquake up to Mw 6.9. This tectonic activity occurred near the main earthquake due to the decay of residual energy from one event to another. This activity is suspected to be a post-seismic deformation process such as afterslip and viscoelastic. In this paper, we conducted a study to determine the deformation pattern. Each of these processes can be investigated by extracting InSAR observational data. Time series from Sentinel-1 SAR is processed using LiCSBAS as data observation and then compare with the model based on exponential and logarithmic functions. The results of combined logarithmic and exponential fitting suggest the Lombok multi-event earthquakes were influenced by seismic activity from dual-releasing residual energy comprises of afterslip and viscoelastic as a dual mechanism with long duration rather than …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Estimation of Slip Rate and the Opak Fault Geometry Based on GNSS Measurement",
+        "authors": [
+            "Jiyon Ataa Nurmufti Adam",
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama"
+        ],
+        "cited_by": "2",
+        "year": "2022",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:dhFuZR0502QC",
+        "publication_date": "2022/9/1",
+        "abstract": "GNSS observations are usually used in periodic deformation monitoring. The Opak fault, which was in the Special Region of Yogyakarta, became a concern after the 2006 earthquake. The horizontal velocity values of each observation station are needed to estimate the slip rate and locking depth values of the Opak fault. The magnitude of the velocity vector is computed by the linear least square method, then translated into the Sunda Block reference frame. The creep of fault assumption is used in analyzing the potential for the earthquake in the Opak fault region. The velocity is done by reducing the Sunda Block using the Euler pole method, and it produces a velocity vector value on the east component is -6.08 to 5.25 mm/year while the north component is -3.38 to 5.74 mm/year. Meanwhile, in the northern segment of the Opak fault, the estimated slip rate is around 3.5 to 10.5 mm/year, with the locking depth …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/1039/1/012058/pdf"
+    },
+    {
+        "title": "Velocity Variation of Opak Fault GNSS Observation Station 2006 Yogyakarta Post-Earthquake",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Septi Praja Abdiana",
+            "Parseno",
+            "Cecep Pratama"
+        ],
+        "cited_by": "2",
+        "year": "2021",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:_kc_bZDykSQC",
+        "publication_date": "2021/6",
+        "abstract": "The postseismic effects of the 2006 Yogyakarta earthquake was caused by the Opak Fault activity as the possible source still continues. Secular velocity analysis who referred to the velocity which is free from the other deformations than interseismic deformation needs to be done to represent local deformation of the fault. This study was conducted to determine the significance of the difference between the secular velocity without and with postseismic corrections. The secular velocity is determined by the linear least square method. Furthermore, the velocity is calculated its postseismic correction with logarithmic method. This research data includes CORS BIG and Opak Fault station observation data from 2013 to 2018 which is processed using GAMIT/GLRED. Furthermore, the time series data for each station is plotted and analysed, then it is visualized its velocity. The result of this study shows the value of secular …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/799/1/012025/pdf"
+    },
+    {
+        "title": "Deformation rate variation along Baribis Fault based on continuous geodetic observation",
+        "authors": [
+            "Ridho Ilahi",
+            "Leni S Heliani",
+            "Dwi Lestari",
+            "Cecep Pratama",
+            "Sidik T Wibowo"
+        ],
+        "cited_by": "2",
+        "year": "2019",
+        "venue": "2019 5th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:LkGwnXOMwfcC",
+        "publication_date": "2019/7/30",
+        "abstract": "Java Island lies between Sunda Block and Indo-Australian Plate. That tectonics configuration forms interplate the subduction zone off the southern Java and intraplate localized fault structure across Java Island. However, most of those onland active faults are poorly understood. The previous finding reported that Baribis Fault is the cause of three massive earthquakes that happened in Majalengka and twice in Jakarta. We present the deformation rate around Baribis Fault using twelve continuous geodetic observations. The result shows that the deformation rate of the station moves to the southeast around 2 mm per year, suggesting the Sunda Block motion effect. Therefore, the original observation rate was converted to Sunda Block reference using the most recent Euler Pole parameter. Our solution indicates the deformation rate around the Baribis fault is vary in space. Several observations indicate moves to the …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Crustal Deformation Pattern across Yogyakarta Special Region Revealed by a Dense Geodetic Measurements",
+        "authors": [
+            "Arinda Pinasti",
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "Parseno Parseno",
+            "Dwi Lestari",
+            "Aris Sunantyo",
+            "Leni Heliani",
+            "Hilmiyati Ulinnuha"
+        ],
+        "cited_by": "2",
+        "year": "2019",
+        "venue": "2019 5th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:ufrVoPGSRksC",
+        "publication_date": "2019/7/30",
+        "abstract": "Special Region of Yogyakarta is one of the Indonesian regions with high seismic activity. Subduction zones and onland fault structures influence these activities. One of onland fault structures that affect this region is the Opak Fault. Therefore, deformation monitoring is required. This study used five years of geodetic data that is acquired periodically. The deformation rate of Global Navigation Satellite System (GNSS) station around the Opak Fault ranging from 5.73 to 23.59 mm/yr and -30.16 to 118.61 mm/yr for horizontal and vertical components with respect to Sundaland Block, respectively. Those deformation rates have been reduced by Sundaland Block effect but have not deliberate error and noise from the other effects. The estimated deformation rate is used to compute the preliminary deformation model. The strain rate analysis suggests that the western region of the fault is dominated by compression …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "GPS Technology Implementation for Sangihe Islands’ Movement Monitoring in 2017-2019",
+        "authors": [
+            "Hilmiyati Ulinnuha",
+            "Dwi Lestari",
+            "Leni Sophia Heliani",
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "Parseno Parseno",
+            "Krishna Fitranto Nugroho"
+        ],
+        "cited_by": "2",
+        "year": "2019",
+        "venue": "Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2019",
+        "abstract": "Sangihe Islands belong to a complex tectonic area at the subduction of the Eurasian plate and the Philippine Sea. Sangihe subduction zones are complex subduction zone, so that there is a need for continuous movement monitoring. Previous research had been carried out to monitor movement of the Sangihe subduction zone, but no monitoring has been done in 2019. Therefore, this study aims to monitor movement of Sangihe subduction zones with the latest observation data. This study aims to obtain velocity of Sangihe Islands plate movement during 2017 to 2019. Observation was performed using 3 monitoring control points for 7 days in 2019. While observation data from 2017 to 2018 were obtained from previous studies. Observations was carried out using GNSS differential method technology. Loosely constrained of weighted parameter was performed in least square adjustment of GNSS data daily …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "B-value and slip rate sensitivity analysis for PGA value in Lembang fault and Cimandiri fault area",
+        "authors": [
+            "Cecep Pratama",
+            "Takeo Ito",
+            "Irwan Meilano",
+            "Andri Dian Nugraha"
+        ],
+        "cited_by": "2",
+        "year": "2017",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2017/7/25",
+        "abstract": "We examine slip rate and b-value contribution of Peak Ground Acceleration (PGA), in probabilistic seismic hazard maps (10% probability of exceedence in 50 years or 500 years return period). Hazard curve of PGA have been investigated for Sukabumi and Bandung using a PSHA (Probabilistic Seismic Hazard Analysis). We observe that the most influence in the hazard estimate is crustal fault. Monte Carlo approach has been developed to assess the sensitivity. Uncertainty and coefficient of variation from slip rate and b-value in Lembang and Cimandiri Fault area have been calculated. We observe that seismic hazard estimates are sensitive to fault slip rate and b-value with uncertainty result are 0.25 g dan 0.1-0.2 g, respectively. For specific site, we found seismic hazard estimate are 0.49 + 0.13 g with COV 27% and 0.39 + 0.05 g with COV 13% for Sukabumi and Bandung, respectively.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4987083/13746787/050005_1_online.pdf"
+    },
+    {
+        "title": "Spatial correlation between GRACE-based total water level fluctuation and GNSS-derived dilatation rate of peatland area in Kalimantan, Indonesia",
+        "authors": [
+            "Leni Sophia Heliani",
+            "Cecep Pratama",
+            "Poppy Andriani Wirawan",
+            "Rendra Fauzi",
+            "Sidik Tri Wibowo",
+            "Nurrohmat Widjajanti",
+            "Danardono Danardono",
+            "Eko Hanudin"
+        ],
+        "cited_by": "1",
+        "year": "2025",
+        "venue": "Applied Geomatics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:TFP_iSt0sucC",
+        "publication_date": "2025/2/17",
+        "abstract": "Borneo Island is home to the world’s largest peatland with relatively straightforward tectonics movement. Those nature would be beneficial to illuminate the hydrological cycle of the Earth-surface processes. We analyzed the total water storage changes deduced from the Gravity Recovery and Climate Experiment (GRACE) satellite where the Global Navigation Satellite System (GNSS) network may detect its deformation. High-frequency data in GNSS observation might benefit the hydrological cycle real-time monitoring. We investigate the spatial correlation of GRACE-based total water storage changes and the GNSS-derived horizontal dilatational strain rate. We found that the dilatational strain rate based on GNSS data negatively correlates to the Equivalent Water Height (EWH) change observed from GRACE data. Hence, the extensional dilatation rate (> 20 nanostrain/yr) is observed exactly in the decreased EWH …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Eko-Hanudin/publication/389078706_Spatial_correlation_between_GRACE-based_total_water_level_fluctuation_and_GNSS-derived_dilatation_rate_of_peatland_area_in_Kalimantan_Indonesia/links/67e2bcb372f7f37c3e8c8f99/Spatial-correlation-between-GRACE-based-total-water-level-fluctuation-and-GNSS-derived-dilatation-rate-of-peatland-area-in-Kalimantan-Indonesia.pdf"
+    },
+    {
+        "title": "Availability of Human Resources as a Determinant of Health Service Quality in Multihazard Disasters in Palu City, Indonesia",
+        "authors": [
+            "Setya Haksama",
+            "Irwan Meilano",
+            "Euis Sunarti",
+            "Cecep Pratama",
+            "Muhammad Farid Dimjati",
+            "Shyamkumar Sriram",
+            "Syadza Zahrah Shedyta",
+            "Diansanto Prayoga",
+            "Syahprevi Rayyan Zeinsar",
+            "A Al Mamun",
+            "R Asyrofi",
+            "R Risang",
+            "SW Nugroho"
+        ],
+        "cited_by": "1",
+        "year": "2024",
+        "venue": "Texila International Journal of Public Health",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:iH-uZ7U-co4C",
+        "publication_date": "2024/12",
+        "abstract": "Health aspects in disaster management, including earthquakes, are very important to formulate because they include pre-disaster, emergency response and post-disaster aspects so that appropriate mitigation and preparedness can be carried out to reduce the impacts that occur. This study aimed to analyze the influence of health resource factors on the quality of health services in multihazard disasters. This study applied a cross-sectional design, involving 57 people selected using accidental sampling techniques. The independent variables were health service providers; human resources; health financing; materials; methods; institutional structures; health information system technology; drugs and health supplies; community conditions; environment; preparedness; and basic needs during disasters. While the dependent variable was the quality of health services in multihazard disasters. All variables were measured by filling out a questionnaire. The measurement data were analyzed using multiple linear regression tests. The results showed that the p-value was less than 0.05 only for the availability of human resources, which was 0.013; so this is a factor that significantly influences the quality of health services. Thus it could be concluded that the determinant of the quality of health services in multihazard disasters in Palu City, Indonesia was the availability of human resources.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.academia.edu/download/120568240/84_TJ2894.pdf"
+    },
+    {
+        "title": "Recent development of seismic source and hazard maps of Indonesia for earthquake resistant design",
+        "authors": [
+            "Masyhur Irsyam",
+            "Sri Widiyantoro",
+            "Lutfi Faizal",
+            "Nuraini Rahma Hanifa",
+            "Danny Hilman Natawidjaja",
+            "Wahyu Triyoso",
+            "Andri Dian Nugraha",
+            "Irwan Meilano",
+            "M Asrurifak",
+            "Sigit Pramono",
+            "Fahmi Aldiamar",
+            "Endra Gunawan",
+            "Shindy Rosalia",
+            "Pepen Supendi",
+            "Nova Heryandoko",
+            "Ade Surya Putra",
+            "Ade Anggraeni",
+            "Mohammad Ramdhan",
+            "Mudrik R Daryono",
+            "Adi Patria",
+            "Sonny Aribowo",
+            "Gayatri Indah Marliyani",
+            "Anggraini Rizkita Puji",
+            "Astyka Pamumpuni",
+            "Muhammad Hanif",
+            "Dadan Dhani Wardhana",
+            "Amien Widodo",
+            "Benjamin Sapiie",
+            "Carolus Prasetyadi",
+            "Gatot Haryo Pramono",
+            "M Ridwan",
+            "Deasy Arisa",
+            "Cecep Pratama",
+            "Ira Mutiara Anjasmara",
+            "Putra Maulida",
+            "Henri Kuncoro",
+            "Suchi Rahmadani",
+            "Achmad Fakhrus Shomim",
+            "Athia Nadira",
+            "Dini Herfiani",
+            "Phil R Cummnis",
+            "Mark D Petersen",
+            "Marco Pagani",
+            "Ekbal Hussain",
+            "Iswandi Imran",
+            "Widjojo Adi Prakoso"
+        ],
+        "cited_by": "1",
+        "year": "2024",
+        "venue": "International Association for Earthquake Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:O3NaXMp0MMsC",
+        "publication_date": "2024",
+        "abstract": "The main cause of casualties from earthquakes in Indonesia arises from building and infrastructure failures due to non-compliance with seismic codes, a lack of understanding of local hazards, and additional complexity in seismic risks. Strengthening earthquake-resistant designs for buildings and infrastructure is therefore crucial. Efforts towards disaster risk reduction in Indonesia have been notable. The Ministry of Public Works and Housing (PUPR) has developed six Hazard Maps of Indonesia and consistently enhanced Building and Infrastructure Codes. The initial seismic hazard map was developed in 1966, followed by updates in 1970, 1983, 2002, 2010, and 2017. The National Center for Earthquake Studies (PuSGeN), established and supported by the Ministry, serves as a collaborative hub for Indonesia’s earthquake scientists and engineers, dedicated to refining data for national seismic sources and hazard maps and formulating earthquake resistance codes. PuSGeN has engaged in extensive partnerships with United States Geological Survey (USGS), the Australian Department of Foreign Affairs & Trade (DFAT), and the Global Earthquake Model Foundation (GEM). In 2017, PuSGeN released the most recent seismic sources and hazard maps, incorporating results from recent active fault studies, employing geological, geophysical, and geodetic observations, along with a new comprehensive earthquake catalog. This involved relocating hypocenters in a three-dimensional velocity model and modeling seismic source zones using the 2008-USGS and OpenQuake Engine software. Subsequently, impactful and destructive earthquakes …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Estimasi Potensi Gempa Tektonik di Wilayah Sesar Opak Berdasarkan Data Pengamatan GPS",
+        "authors": [
+            "Hilmiyati Ulinnuha",
+            "Dwi Lestari",
+            "Nurrohmat Widjajanti",
+            "Parseno Parseno",
+            "Cecep Pratama",
+            "Leni Sophia Heliani",
+            "Suci Tresna Novianti"
+        ],
+        "cited_by": "1",
+        "year": "2022",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:7PzlFSSx8tAC",
+        "publication_date": "2022/10/1",
+        "abstract": "Yogyakarta merupakan daerah ring of fire dengan adanya wilayah-wilayah subduksi lempeng tektonik. Kondisi ini mengakibatkan tingginya potensi gempa tektonik di daerah Yogyakarta. Seperti pada tahun 2006, telah terjadi gempa tektonik dengan skala 6, 3 Mw di Yogyakarta dan menimbulkan dampak negatif. Gempa ini disebabkan oleh aktivitas Sesar Opak. Berdasarkan penelitian sebelumnya, segmen patahan Sesar Opak tidak semua melepaskan energi, sehingga dimungkinkan berpotensi menimbulkan gempa tektonik besar di masa yang akan datang. Oleh karena itu, penelitian ini bertujuan untuk mengenalisis dan mengestimasi potensi gempa tektonik di sekitar wilayah Sesar Opak berdasarkan data pengamatan GPS. Penelitian ini juga mengestimasi maximum magnitude dan periode perulangan maximum magnitude tersebut. Data yang digunakan dalam penelitian ini adalah data pengamatan GPS …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/1752/1429"
+    },
+    {
+        "title": "Long and Short Wavelength of Geodetic Strain Rate Tapering Earthquake Potential in Western Java",
+        "authors": [
+            "LS Heliani",
+            "C Pratama",
+            "A Wibowo",
+            "DP Sahara",
+            "R Ilahi",
+            "D Lestari"
+        ],
+        "cited_by": "1",
+        "year": "2021",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:Zph67rFs4hoC",
+        "publication_date": "2021/4/1",
+        "abstract": "Shallow earthquake produced by intra-island fault in a populated region could be a catastrophic disaster. Java island is the most populated area specifically in Western Java since there include Jakarta, the capital city of Indonesia. Cimandiri, Lembang and Baribis fault as main intra-island fault are considered to be responsible due to some shallow historical earthquake in Western Java. However, convergent plate margin such as Java Island generates a broad spectrum of deformation pattern that potentially distracts the deformation due to Baribis fault. In addition, slow relative motion of Sunda block and postseismic deformation due to the 2006 Java tsunami earthquake involve along those fault. Here, we intend to conduct a wavelength decomposition of strain rate calculated from GNSS (Global Navigation Satellite System) data. We expect to separate long wavelength due to wider-region deformation such as …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/731/1/012003/pdf"
+    },
+    {
+        "title": "Estimation of Deformation Parameters to Separate Postseismic Effect After The 2006 Yogyakarta Earthquake Based on Geodetic Observation",
+        "authors": [
+            "GA Widodo",
+            "N Widjajanti",
+            "C Pratama"
+        ],
+        "cited_by": "1",
+        "year": "2021",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:hqOjcs7Dif8C",
+        "publication_date": "2021/4/1",
+        "abstract": "The 2006 Yogyakarta earthquake with a magnitude of 6.3 happened with presumption due to activity from the Opak fault. After the earthquake, the activity of the Opak fault continued to be monitored by using Global Positioning System (GPS) technology. GPS data can be used to see the characteristics of deformation, which happened until present after the Yogyakarta earthquake in 2006. The characteristics of the deformation caused by the earthquake can be either afterslip or viscoelastic relaxation, where each of them can be approached by using a logarithmic and exponential function. The results show the data from continuous stations shows better results compilation approached with an exponential function, which means the deformation of the Opak Fault depends on the interseismic phase with still potential as viscoelastic relaxation of material which lies on the lower crust. Then, the results of the exponential …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/731/1/012002/pdf"
+    },
+    {
+        "title": "GPS-Derived Secular Velocity Field around Sangihe Island and its Implication to the Molucca Sea Seismicity",
+        "authors": [
+            "Leni Sophia Heliani",
+            "Cecep Pratama",
+            "Parseno Parseno",
+            "Nurrohmat Widjajanti",
+            "Dwi Lestari"
+        ],
+        "cited_by": "1",
+        "year": "2020",
+        "venue": "GEOMATIKA Учредители: Geospatial Information Agency of The Republic of Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:8k81kl-MbHgC",
+        "publication_date": "2020/11/30",
+        "abstract": "Sangihe-Moluccas region is the most active seismicity in Indonesia. Between 2015 to 2018 there is four M6 class earthquake occurred close to the Sangihe-Moluccas region. These seismic active regions representing active deformation which is recorded on installed GPS for both campaign and continuous station. However, the origin of those frequent earthquakes has not been well understood especially related to GPS-derived secular motion. Therefore, we intend to estimate the secular motion inside and around Sangihe island. On the other hand, we also evaluate the effect of seismicity on GPS sites. Since our GPS data were conducted on yearly basis, we used an empirical global model of surface displacement due to coseismic activity. We calculate the offset that may be contained in the GPS site during its period. We remove the offset and estimate again the secular motion using linear least square. Hence, in …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Estimation of Strain Rate in the Opak Fault with Postseismic Correction After the 2006 Yogyakarta Earthquake",
+        "authors": [
+            "Nurul Ninatin",
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama"
+        ],
+        "cited_by": "1",
+        "year": "2020",
+        "venue": "2020 6th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:4DMP91E08xMC",
+        "publication_date": "2020/9/7",
+        "abstract": "The 2006 Yogyakarta earthquake was indicated as a result of the Opak fault which is still active today. Global Navigation Satellite System (GNSS) measurements as soon as possible after an earthquake are very important because it is an early indication of postseismic deformation. The characteristics of postseismic deformation can be modeled by logarithmic equations with the assumption that the deformations that occur due to the influence of afterslip. In this study, fifteen periodic GNSS data provided by Geodetic Laboratory Universitas Gadjah Mada (UGM) and four continuous GNSS data provided by Geospatial Information Agency of Indonesia (BIG) were used to determine the velocity and strain rate around the Opak fault. The result showed that the Yogyakarta region especially in the Opak fault area has been deformed with the variying horizontal velocity rate. The stations move to the southeast direction as an …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Inhomogeneous spherical-earth finite element model of coseismic offset due to the 2012 Indian Ocean earthquake",
+        "authors": [
+            "Cecep Pratama",
+            "Takeo Ito",
+            "Takao Tabei"
+        ],
+        "cited_by": "1",
+        "year": "2017",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2017/7/25",
+        "abstract": "On April 11, 2012, a Mw 8.6 earthquake struck off the west coast of northern Sumatra approximately 300 km west of the Sunda trench following by Mw 8.2 two hours afterward. The 2012 Indian Ocean Earthquake sequence, which was the largest intraplate earthquake in recorded history, yielded seismic moment of 1.2-1.3 × 1022 N m and 0.2-0.3 × 1022 N m for the main shock (Mw 8.6) and the after shock (Mw 8.2), respectively. Aceh GPS Network for Sumatran Fault System (AGNeSS) observed a predominantly ENE coseismic offset up to 10 cm while the sites on the Andaman Island observed southward and southern part Sumatra GPS Array (SuGar) network observed northward. Limited far-field and inland GPS observation network might lead the homogeneous and half-space model insufficient to explain the coseismic offset. In that of sense, in order to estimate more realistic surface displacement due to complex …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4987066/13746851/040002_1_online.pdf"
+    },
+    {
+        "title": "Integrated gravity, GNSS, and seismic analysis for fault mapping in sulawesi island: Insights into the Palu-Koro Fault",
+        "authors": [
+            "Leni Sophia Heliani",
+            "Cecep Pratama",
+            "Ade Anggraini",
+            "Bondan Galih Dewanto",
+            "Al Shida Natul",
+            "Dwi Lestari"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:YFjsv_pBGBYC",
+        "publication_date": "2025/11/10",
+        "abstract": "The Palu-Koro Fault is one of the most active left-lateral strike-slip faults in Indonesia. This study integrates gravity data (GGMPlus), GNSS measurements, and seismic analysis to better understand the fault structure and tectonic behavior. The results show that the high First Horizontal Derivative (FHD) value along the fault corresponds to a sharp density gradient related to high tectonic activities. The secondary fault branches and lineaments can also be identified from Tilt Derivative (TDR), emphasizing the fault system's complexity. GNSS data from the INA-CORS network reveals patterns with notable extensional dilatation rates exceeding 100 nanostrain/year in pull-apart basins and compressional zones displaying significant uplift potential. Shear strain measurements highlight regions with deformation rates exceeding 250 nanostrain/year, particularly in the central Palu-Koro Fault segment. Seismicity clustering …",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984725000734"
+    },
+    {
+        "title": "Geodetic slip rate and seismogenic depth of unmapped active faults in Yogyakarta, Indonesia, inferred from dense Global Navigation Satellite System campaign observation",
+        "authors": [
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "Iqbal Hanun Azizi",
+            "Dwi Lestari",
+            "Muhammad Farhan Abiyyu",
+            "Sheva Aulia Rahman",
+            "Deni Kusumawardani"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Geodesy and Geodynamics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:NMxIlDl6LWMC",
+        "publication_date": "2025/10/29",
+        "abstract": "Yogyakarta was struck by a devastating MW6.3 earthquake, which intensified awareness about the seismic hazards in the region. This study investigates the kinematic slip rate and seismogenic depth of the northern segment of Opak Fault and an unmapped fault known as Ngalang Fault in Yogyakarta, utilizing Global Navigation Satellite System (GNSS) data collected between 2019 and 2023. By deploying a network of 12 GNSS stations alongside continuous observations from the InaCORS network, we performed a detailed geodetic analysis to discern current deformation patterns. To quantify the slip rate, we established a frame of reference using the Sundaland Block’s rotational parameters and applied the Euler pole angular velocity to transform daily GNSS solutions accordingly. The findings reveal significant left-lateral strike-slip motion in the northern segment of Opak Fault, with a slip rate averaging 3 mm/yr …",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1674984725000473"
+    },
+    {
+        "title": "Spatiotemporal postseismic deformation due to the 2018 Palu-Donggala earthquake revealed the relative importance of viscoelastic relaxation and the afterslip distribution …",
+        "authors": [
+            "Irma Yusiyanti",
+            "Fina Alfi Khasanah",
+            "Kautsar Rahtandi Trihandaru",
+            "Tattyana Wening Kalbuadi Prajardi",
+            "Cecep Pratama",
+            "Sidik Tri Wibowo"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Journal of Applied Geodesy",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:bEWYMUwI8FkC",
+        "publication_date": "2025/10/27",
+        "abstract": "The Palu region has attracted attention due to significant seismic activity, including a destructive earthquake in 2018. This study aims to investigate postseismic deformation following the 2018 Palu-Donggala earthquake using the Interferometric Synthetic Aperture Radar (InSAR) technique. We utilized Global Navigation Satellite System (GNSS) data to obtain the viscoelastic mechanism decay time. Therefore, we subtracted the viscoelastic relaxation signal to obtain spatiotemporal afterslip distribution inferred from the 2.5D InSAR observation based on the Steepest Descent Method (SDM). Our results suggest the viscoelastic mechanism is indispensable, with an optimal decay time of about 2 years after the earthquake. Based on the chi-square statistical test, the spatiotemporal afterslip model can explain the observation with good qualification. We found anomalies indicating non-decreasing slip, which is likely due …",
+        "pdf_link": "https://www.researchgate.net/profile/Irma-Yusiyanti/publication/388999979_Spatiotemporal_postseismic_deformation_due_to_the_2018_Palu-Donggala_earthquake_revealed_the_relative_importance_of_viscoelastic_relaxation_and_the_afterslip_distribution_estimated_from_geodetic_obser/links/685903d2b8078e0c248ecb91/Spatiotemporal-postseismic-deformation-due-to-the-2018-Palu-Donggala-earthquake-revealed-the-relative-importance-of-viscoelastic-relaxation-and-the-afterslip-distribution-estimated-from-geodetic-obser.pdf"
+    },
+    {
+        "title": "Investigation the impact of active fault-induced vertical displacement on land subsidence rates using GNSS CORS data in northern coastal cities of Central Java, Indonesia",
+        "authors": [
+            "Muhammad Arif Mumtaz",
+            "Cecep Pratama",
+            "Leni Sophia Heliani",
+            "Dwi Lestari",
+            "Krishna Duta Wibisono",
+            "Zulviana Rahmadina",
+            "Nur Intan Komala Dewi",
+            "Nicholas Genta Setiawan Gunawan",
+            "Sidik Tri Wibowo"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Journal of Applied Geodesy",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:JV2RwH3_ST0C",
+        "publication_date": "2025/8/27",
+        "abstract": "Land subsidence is commonly observed along the coastal regions of Java Island, particularly in the northern part of Central Java. This phenomenon often contributes to the intensification of coastal flooding. Subsidence rates are influenced by multiple factors, which might also relate to tectonic movements associated with active fault structures. In this study, we investigate the contribution of active fault-induced deformation to land subsidence in northern coastal cities of Central Java. We modeled the surface displacements resulting from active faults using the elastic half-space approach. We analyzed geodetic data from Continuously Operating Reference Stations (CORS) situated along the northern coast, covering the period from 2015 to 2019. The analysis revealed notable land subsidence at Pekalongan and Tegal, with annual rates of −122.54 mm/year and −11.04 mm/year, respectively. Statistical testing of …"
+    },
+    {
+        "title": "Integrated seismo-geodetic observatory network for monitoring the Lembang Fault, West Java, Indonesia",
+        "authors": [
+            "Nuraini Rahma Hanifa",
+            "Endra Gunawan",
+            "Dini Nurfiani",
+            "Achmad Fakhrus Shomim",
+            "Faiz Muttaqy",
+            "Aang Gunawan Sutyawan",
+            "Lina Handayani",
+            "Deasy Arisa",
+            "Rian Amukti",
+            "Muhammad Hanif",
+            "Yayat Sudrajat",
+            "Dannie Hidayat",
+            "Iwan Hermawan",
+            "Agus Men Riyanto",
+            "Eko Yulianto",
+            "Adrin Tohari",
+            "Qori'atu Zahro",
+            "Atin Nur Aulia",
+            "Juniator Tulius",
+            "Sri Widiyantoro",
+            "Rachmah Ida",
+            "Cecep Pratama",
+            "Ridwan Suhud",
+            "Putri Natari Ratna",
+            "Titi Anggono"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Earth and Planetary Physics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:M3NEmzRMIkIC",
+        "publication_date": "2025/7/1",
+        "abstract": "The Lembang Fault is a major geological feature in West Java that borders the northern edge of Bandung (one of Indonesia’s largest cities). It lies just south of the active Tangkuban Perahu Volcano, exhibiting clear geomorphic signs of recent activity, and has been scientifically confirmed as active through geological and geophysical studies. In this work, we describe an Integrated along the Lembang Fault, which can be used for geodynamic research in Indonesia. We discuss the design of a seismic and Global Navigation Satellite System (GNSS) array sensor network for continuous monitoring, and report the status of monitoring stations that periodically collect highly accurate, continuous seismographic and GNSS readings, transmitting these data to a central server in Bandung for post-processing. Solutions from the array data are used to provide precise measurements of the deformation of the Earth’s surface over …"
+    },
+    {
+        "title": "Health Disaster Capacity and Preparedness in the Case of Tsunami and Earthquake Disaster",
+        "authors": [
+            "Setya Haksama",
+            "Irwan Meilano",
+            "Euis Sunarti",
+            "Cecep Pratama",
+            "Muhammad Farid Dimjati",
+            "Sunarto Lusno",
+            "Shyamkumar Sriram",
+            "Syadza Zahrah Shedyta",
+            "Diansanto Prayoga",
+            "Syahprevi Rayyan Zeinsar",
+            "Abdullah Al Mamun",
+            "Rozan Asyrofi Rakyan Risang Aji10",
+            "Heru Santoso Wahito Nugroho"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "Texila International Journal of Public Health",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:isC4tDSrTZIC",
+        "publication_date": "2025/3",
+        "abstract": "The health system has a very important role in reducing hazards, exposure and vulnerability, especially in disaster conditions. In this case, the health system can be viewed from various sides, two of which are capacity and preparedness in health disasters. Therefore, research is needed that aims to describe the capacity and preparedness based on the case of the earthquake and tsunami disaster in Palu. This descriptive study was conducted based on the case of the earthquake and tsunami disaster in Palu, Central Sulawesi, Indonesia. Disaster management capacity and preparedness in facing disasters were measured by filling out an online questionnaire. Furthermore, descriptive data analysis was carried out. For disaster management capacity, the results of the assessment of each indicator were: provision of health services= low, human resources= low, financing= low, materials and governance= high, institutional structure and health information systems= low; 6) medicines and health supplies= high and community and environmental conditions= high. For disaster preparedness, the results of the assessment of each indicator were: fulfilment of basic health needs= high and reduction in disease severity through health services= low. In general, it is concluded that based on the case of the earthquake and tsunami disaster in Palu, the capacity and preparedness of disasters in the health sector are still relatively low.",
+        "pdf_link": "https://www.academia.edu/download/122211670/91_TJ3117.pdf"
+    },
+    {
+        "title": "Coseismic slip model of the 14 January 2021 Mw 6.2 Mamuju-Majene earthquake based on static and kinematic GNSS solution",
+        "authors": [
+            "Oktadi Prayoga",
+            "Cecep Pratama"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "Journal of Applied Geodesy",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:R3hNpaxXUhUC",
+        "publication_date": "2024/10/28",
+        "abstract": "The Mw 6.2 Mamuju-Majene earthquake occurred on 14 January 2021, with the epicenter at 118.890°E, 2.972°S. The shaking caused severe damage in West Sulawesi, especially in the Mamuju and Majene cities. Most of the coseismic slip distribution of the Mamuju-Majene Earthquake is derived from the daily solutions, which might include early postseismic deformation. Therefore, we conducted a coseismic slip model using kinematic solution based on Global Navigation Satellite System (GNSS) to determine the best coseismic slip values and model distribution. Our analysis indicates that the coseismic displacement from the kinematic solution is higher than the static solution. The GNSS data was utilized for inversion analysis, considering two potential fault sources, they are the Makassar Strait Central Fault and the Mamuju Fault. We found a larger misfit between the observed data and the model generated on …",
+        "pdf_link": "https://www.researchgate.net/profile/Oktadi-Prayoga/publication/383443018_Coseismic_slip_model_of_the_14_January_2021_Mw_62_Mamuju-Majene_earthquake_based_on_static_and_kinematic_GNSS_solution/links/6773c85ec1b013546505afa5/Coseismic-slip-model-of-the-14-January-2021-Mw-62-Mamuju-Majene-earthquake-based-on-static-and-kinematic-GNSS-solution.pdf"
+    },
+    {
+        "title": "Sunda Strait Tsunami’s Impact on SDGs. A Change in The Welfare of The Tsunami Survivor’s Family",
+        "authors": [
+            "E Sunarti",
+            "AF Fithriyah",
+            "W Novyanti",
+            "I Meliano",
+            "C Pratama"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:-f6ydRqryjwC",
+        "publication_date": "2024/6/1",
+        "abstract": "The devastating Sunda Strait Tsunami of December 2018 has had lasting effects on the lives of affected families. The aims of this research are: (1) analyze the long-term recovery of the affected families in terms of poverty status, food security, and family welfare, and (2) analyze the variables within two distinct family groups, namely refugees and non-refugees. This study tracked changes over four intervals post-tsunami to monitor the progress of recovery. A total of 120 families, divided into refugee and non-refugee categories, participated in the study. Within 20 months post-tsunami, family economic downturn only saw a 40 percent recovery from pre-tsunami levels. Initially, there was a rapid increase in poverty status within the first three months post-tsunami, followed by a gradual decline. Despite this, families persisted in employing food coping strategies as an indicator of food security, albeit with decreasing intensity …",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/1359/1/012043/pdf"
+    },
+    {
+        "title": "2.5 D Time Series of Postseismic Deformation Following the 2018 Mw 7.5 Palu Earthquake Using Sentinel-1 InSAR",
+        "authors": [
+            "Irma Yusiyanti",
+            "Fina Alfi Khasanah",
+            "Kautsar Rahtandi Trihandaru",
+            "Cecep Pratama"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:hFOr9nPyWt4C",
+        "publication_date": "2023/12/1",
+        "abstract": "The observed Displacement of Line of Sight (LOS) InSAR can only measure the displacement towards and away from the satellite sensor, making it difficult to provide an intuitive depiction of the deformation source. In the previous studies, research on the characteristics of postseismic deformation mechanisms was conduct by InSAR but only in the vertical component. Therefore, our study attempts to complement this deformation picture by considering both the horizontal and vertical components. It is hoped that this will provide a more comprehensive understanding of the postseismic deformation mechanism of the 2018 Palu earthquake. In this study, we attempted to estimate the 2.5-D surface deformation resulting from the 2018 Palu Earthquake using Sentinel-1 data. The data was then modeled using exponential and logarithmic functions to understand the characteristics of the postseismic deformation mechanism …",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/1276/1/012015/pdf"
+    },
+    {
+        "title": "Long-short rupture boundary of coseismic displacement estimation based on 30-seconds GNSS observation",
+        "authors": [
+            "Agan Aul Rizki",
+            "Cecep Pratama",
+            "Leni Sophia Heliani",
+            "Adi Wibowo",
+            "David Prambudi Sahara"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "فیزیک زمین و فضا",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:L8Ckcad2t8MC",
+        "publication_date": "2023/3/5",
+        "abstract": "Indonesia is located at the Pacific Ring of Fire and the meeting place of the world's four tectonic plates, which makes Indonesia to have a high tectonic activity and to be prone to earthquakes. Currently, early earthquake detection service in Indonesia is based on seismometers network. However, seismometer instruments that observe seismic waveforms might become saturated, and as such may lead to incorrect earthquake magnitude detection at an early stage. Therefore, a new approach is needed to detect earthquake coseismic information. Global Navigation Satellite System (GNSS) is a good instrument to measure the surface displacement due to an earthquake. However, previous studies in Indonesia still predominantly used daily solution data. To carry out early detection, it is not possible to use daily solutions. Therefore it is needed to use the data with a higher frequency solution than the daily solution. In this study, we used 30-second sampling rate data available from Indonesian Continuously Operating Reference Station (Ina-CORS) and Sumatran GPS Array (SuGAr). We will see how the 30-second GNSS data responds to earthquakes to estimate the value of coseismic displacement compared to daily solution data. The estimated value of this coseismic displacement can be used for earthquake early detection."
+    },
+    {
+        "title": "Anomaly detection on displacement rates and deformation pattern features using tree-based algorithm in Japan and Indonesia",
+        "authors": [
+            "Adi Wibowo",
+            "Satriawan Rasyid Purnama",
+            "Cecep Pratama",
+            "Leni Sophia Heliani",
+            "David P Sahara",
+            "Sidik Tri Wibowo"
+        ],
+        "cited_by": "",
+        "year": "2022",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:hMod-77fHWUC",
+        "publication_date": "2022",
+        "abstract": "Research on strain anomalies and large earthquakes based on temporal and spatial crustal activities has been rapidly growing due to data availability, especially in Japan and Indonesia. However, many research works used local-scale case studies that focused on a specific earthquake characteristic using knowledgedriven techniques, such as crustal deformation analysis. In this study, a data-driven-based analysis is used to detect anomalies using displacement rates and deformation pattern features extracted from daily global navigation satellite system (GNSS) data using a machine learning algorithm. The GNSS data with 188 and 1181 continuously operating reference stations from Indonesia and Japan, respectively, are used to identify the anomaly of recent major earthquakes in the last two decades. Feature displacement rates and deformation patterns are processed in several window times with 2560 experiment scenarios to produce the best detection using tree-based algorithms. Tree-based algorithms with a single estimator (decision tree), ensemble bagging (bagging, random forest and Extra Trees), and ensemble boosting (AdaBoost, gradient boosting, LGBM, and XGB) are applied in the study. The experiment test using realtime scenario GNSSdailydatareveals high F1-scores and accuracy for anomaly detection using slope windowing 365 and 730 days of 91-day displacement rates and then 7-day deformation pattern features in tree-based algorithms. The results show the potential for medium-term anomaly detection using GNSS data without the need for multiple vulnerability assessments.© 2022 Editorial office of Geodesy and …",
+        "pdf_link": "https://www.sciopen.com/local/article_pdf/10.1016/j.geog.2022.07.003.pdf"
+    },
+    {
+        "title": "PENENTUAN POSISI TITIK–TITIK PEMANTAUAN BANJIR DI DESA SEGOROYOSO, KECAMATAN PLERET, KABUPATEN BANTUL, PROVINSI DIY",
+        "authors": [
+            "H Arief",
+            "S Lantip Setiasmara",
+            "P Ajiputra Arisyah",
+            "Cecep Pratama"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Jurnal Pengabdian dan Pengembangan Masyarakat",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:QIV2ME_5wuYC",
+        "publication_date": "2021/11",
+        "abstract": "Desa Segoroyoso merupakan wilayah yang rawan terhadap adanya bencana alam seperti gempa bumi, banjir, dan tanah longsor. Bencana alam yang sering dialami di Desa Segoroyoso adalah banjir Sungai Opak yang berdampak menggenangi pemukiman warga di Dusun Karanggayam dan Dusun Dahromo I. Sering terjadinya banjir di Desa Segoroyoso membutuhkan penanganan dan mitigasi bencana. Sebagai langkah awal mitigasi banjir, diperlukan titik pantau berupa tanda di lapangan yang mudah diidentifikasi oleh warga tentang elevasi air yang mulai menggenang. Oleh karena itu kegiatan ini bertujuan untuk menentukan posisi horizontal dan vertikal titik pemantauan banjir di Desa Segoroyoso. Titik pemantauan banjir ini diharapkan akan menjadi panduan para warga tentang kemungkinan terjadinya banjir. Posisi horizontal titik pemantau banjir ini akan diukur menggunakan instrumen Global Navigation Satelite System (GNSS) dan posisi vertikal didapatkan melalui pengukuran sipat datar. Hasil dari kegiatan ini adalah koordinat horizontal titik pantau dalam SRGI 2013 serta tinggi orthometriknya.",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/364320977_PENENTUAN_POSISI_TITIK_-TITIK_PEMANTAUAN_BANJIR_DI_DESA_SEGOROYOSO_KECAMATAN_PLERET_KABUPATEN_BANTUL_PROVINSI_DIY/links/6347c7a72752e45ef6b3b0e9/PENENTUAN-POSISI-TITIK-TITIK-PEMANTAUAN-BANJIR-DI-DESA-SEGOROYOSO-KECAMATAN-PLERET-KABUPATEN-BANTUL-PROVINSI-DIY.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9"
+    },
+    {
+        "title": "Preliminary result for crustal properties derivation related to tectonics for hazard mitigation in Eastern Indonesia using Teleseismic P Coda",
+        "authors": [
+            "Anang Sahroni",
+            "Leni Sophia Heliani",
+            "Cecep Pratama",
+            "Hidayat Panuntun",
+            "Wiwit Suryanto"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "E3S Web of Conferences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:M3ejUd6NZC8C",
+        "publication_date": "2021",
+        "abstract": "Eastern Indonesia is tectonically complex, formed by different plates and microplates interactions from different origins. This complexity gives geoscientists a challenge to solve the ’jigsaw’ of the complex interactions. The understanding of tectonic processes can lead to a breakthrough in both resource exploration and disaster risk reduction. We utilize teleseismic P wave coda for random coda from scattering and deterministic coda originated from the crust-mantle boundary (Moho) to derive the crustal properties, including thickness, Vp/Vs, and qualitative scattering characteristics. For the scattering properties, we apply Iterative Cross-Correlation and Stacking (ICCS) to align the waveform. At the same time, for the crust characteristic, we employ the Receiver Functions (RF) method alongside H-k stacking. The crustal thickness recovered from the RF and H-k stacking has a good correlation with the crustal origin, where …",
+        "pdf_link": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/101/e3sconf_icst2021_01012.pdf"
+    },
+    {
+        "title": "Crustal Deformation Changes due to M4 Class Earthquake Near Kendeng Thrust Detected by Geodetic Data",
+        "authors": [
+            "Een Lujainatul Isnaini",
+            "Leni S Heliani",
+            "Dwi Lestari",
+            "Cecep Pratama",
+            "Sidik T Wibowo"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "2019 5th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:Se3iqnhoufwC",
+        "publication_date": "2019/7/30",
+        "abstract": "One of the intraplate faults in Java Island, which may significantly produce a future earthquake, is the Kendeng thrust. The shallow earthquake with magnitude 4.3 struck Madiun, East Java on June 25, 2015, causing damage in the region. In this study, we analyze the crustal deformation response based on Global Positioning System (GPS) observation data. A total of 11 GPS stations provided by BIG scattered near the Kendeng thrust. Observation data was processed based on the least squares computation method using GAMIT/GLOBK software. We obtained the daily solution of each GPS station and calculated velocity changes before and after the earthquake. The result shows that there was a change in the deformation rate before and after the earthquake. The deformation features consist of displacement in horizontal velocity from southeast to east, while vertical trend varies from subsidence (CSEM, CMAG …"
+    },
+    {
+        "title": "Determination of Displacement Rate Along Cisadane Fault Inferred from Continuous Geodetic Observation",
+        "authors": [
+            "Hadi Wijaya Kusuma Abdillah",
+            "Leni S Heliani",
+            "Cecep Pratama",
+            "Hadi Suntoko"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "2019 5th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:roLk4NBRz8UC",
+        "publication_date": "2019/7/30",
+        "abstract": "Cisadane Fault is one of the growing faults in Jakarta, which is a surface fracture that becomes a stream water and has northwest-southeast heading. Since 1945 to 2018, 29 earthquakes occured in radius of 25 km from the Cisadane faults, without any scientific evidence to prove it. In this study, nine continuous geodetic observations provided by BPN and BIG were used to determine the activity of Cisadane fault. The result showed that the total horizontal displacement rate every station moves to the southeast with a magnitude about 2 centimeters per year and the vertical displacement rates are varying between 0.22 and 25.44 millimeters per year. After removing the Sunda Block effect, the displacement of each station is random especially the horizontal residual rate, which have magnitude between 0.51 and 3.14 millimeters per year. The BJA0 and BKS1 stations move to the southeast, CRKS, BTGR, and JKTS …"
+    },
+    {
+        "title": "Crustal Movement Estimation along Opak Fault Based on GNSS Data using Kalman Filtering",
+        "authors": [
+            "Riska Fajrul Ummi",
+            "Nurrohmat Widjajanti",
+            "Cecep Pratama",
+            "Dwi Lestari",
+            "T Aris Sunantyo",
+            "Leni Sophia Heliani",
+            "Hilmiyati Ulinnuha"
+        ],
+        "cited_by": "",
+        "year": "2019",
+        "venue": "2019 5th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:eQOLeE2rZwMC",
+        "publication_date": "2019/7/30",
+        "abstract": "Opak Fault is an active fault where located in Special Region of Yogyakarta which need to be monitored because of high seismic potential. GNSS observation along Opak Fault has been deployed periodically since 2013 to 2018 by Department of Geodetic Engineering Universitas Gadjah Mada. This study present displacement rate and crustal movement prediction along Opak Fault using GNSS campaign data. The result show these rates are about 7.81 to 17.52 mm/yr, 0.43 to - 16.52 mm/yr, and 0.43 to -16.52 mm/yr for east, north, and up components respectively. The displacement rate direct to south east side. However, alternative approach of estimation model for crustal movement is need to be evaluated to gain more robust estimation. This study estimate crustal movement along Opak Fault using Kalman Filtering. The estimation accuracy of this filtering is about -0.042 to 2.680 mm of Mean Absolute Error (MAE …"
+    },
+    {
+        "title": "Effect of 3-D heterogeneous-earth on rheology inference of postseismic model following the 2012 Indian Ocean earthquake",
+        "authors": [
+            "Cecep Pratama",
+            "Takeo Ito",
+            "Ryohei Sasajima",
+            "Takao Tabei",
+            "Fumiaki Kimata",
+            "Endra Gunawan",
+            "Yusaku Ohta",
+            "Tadashi Yamashina",
+            "Nazli Ismail",
+            "Umar Muksin",
+            "Putra Maulida",
+            "Irwan Meilano",
+            "Irwandi Nurdin",
+            "Didik Sugiyanto",
+            "Joni Efendi"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "AGU Fall Meeting Abstracts",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2017/12",
+        "abstract": "Postseismic deformation following the 2012 Indian Ocean earthquake has been modeled by several studies (Han et al. 2015, Hu et al. 2016, Masuti et al. 2016). Although each study used different method and dataset, the previous studies constructed a significant difference of earth structure. Han et al.(2015) ignored subducting slab beneath Sumatra while Masuti et al.(2016) neglect sphericity of the earth. Hu et al.(2016) incorporated elastic slab and spherical earth but used uniform rigidity in each layer of the model. As a result, Han et al.(2015) model estimated one order higher Maxwell viscosity than the Hu et al.(2016) and half order lower Kelvin viscosity than the Masuti et al.(2016) model predicted. In the present study, we conduct a quantitative analysis of each heterogeneous geometry and parameter effect on rheology inference. We develop heterogeneous three-dimensional spherical-earth finite element …"
+    },
+    {
+        "title": "Monte Carlo simulation for slip rate sensitivity analysis in Cimandiri fault area",
+        "authors": [
+            "Cecep Pratama",
+            "Irwan Meilano",
+            "Andri Dian Nugraha"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2015/4/24",
+        "abstract": "Slip rate is used to estimate earthquake recurrence relationship which is the most influence for hazard level. We examine slip rate contribution of Peak Ground Acceleration (PGA), in probabilistic seismic hazard maps (10% probability of exceedance in 50 years or 500 years return period). Hazard curve of PGA have been investigated for Sukabumi using a PSHA (Probabilistic Seismic Hazard Analysis). We observe that the most influence in the hazard estimate is crustal fault. Monte Carlo approach has been developed to assess the sensitivity. Then, Monte Carlo simulations properties have been assessed. Uncertainty and coefficient of variation from slip rate for Cimandiri Fault area has been calculated. We observe that seismic hazard estimates is sensitive to fault slip rate with seismic hazard uncertainty result about 0.25 g. For specific site, we found seismic hazard estimate for Sukabumi is between 0.4904 – 0 …",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4915038/13087930/040005_1_online.pdf"
+    },
+    {
+        "title": "Vertical deformation model on postseismic phase using exponential and logarithmic function based on InSAR",
+        "authors": [
+            "Irma Yusiyanti",
+            "Tattyana Wening Kalbuadi Prajardi",
+            "Yofita Indah Saputri",
+            "Cecep Pratama"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:GnPB-g6toBAC",
+        "abstract": "The Palu MW7. 4 earthquake occurred on September 28, 2018, with the epicenter at 119.86, 0.72. The severe shaking caused severe damage in Central Sulawesi, especially in Palu. We conducted a postseismic deformation study to determine the deformation pattern and reduce future earthquakes' impact. Interferometric Synthetic Aperture Radar (InSAR) data were processed using LiCSBAS to get the time series. The time series data were fitted to exponential and logarithmic functions to determine the mechanism of postseismic deformation. The exponential model identified the influence of the viscoelastic mechanism, and the logarithm identified the afterslip mechanism. The Palu earthquake was fitted to logarithmic and exponential, but the logarithmic was more significant than an exponential function. Afterslip mechanism predominates, and viscoelastic mechanisms play a minor role in this postseismic deformation.",
+        "pdf_link": "https://www.sciopen.com/local/article_pdf/10.1016/j.geog.2023.01.003.pdf"
+    },
+    {
+        "title": "Active tectonics of the eastern java based on a decade of recent continuous geodetic observation",
+        "authors": [
+            "Retno Eka Yuni Purwaningsih",
+            "Adelia Sekarsari",
+            "Tika Widya Sari",
+            "Cecep Pratama",
+            "Sidik Tri Wibowo"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:blknAaTinKkC",
+        "abstract": "The eastern part of Java Island is transversed by major faults such as Cepu, Blumbang, Surabaya, and Waru Segment, part of the Kendeng Fault, Wonsorejo Fault, Pasuruan Fault, and Probolinggo Fault. Due to the major fault, we used decomposition of identified fault from the Global Navigation Satellite System (GNSS) observation data to identify the potential of local deformation. We analyzed surface deformation due to the effect of major fault using scaling law and elastic half-space method. We investigated the possibility of unidentified fault using strain rates based on velocity vector data before and after correcting the effect of a major fault. We found that strain calculation for principal strain value in the eastern part of Java Island is less than one microstrain/year and the dominant one with a compression pattern due to the Sunda subduction zone. The maximum shear strain rate value goes from 0.002 to 0.094 microstrain/year, and the dilatation rate value ranges from Ā0. 141 to 0.038 microstrain/year, which correlates with the reverse of the Kendeng Fault. A higher compression pattern outside the major fault in a differential maximum shear strain rate might indicate a local fault. Đ 2022 Editorial office of Geodesy and Geodynamics. Publishing services by Elsevier BV on behalf of KeAi Communications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons. org/licenses/by-nc-nd/4.0/).",
+        "pdf_link": "https://www.sciopen.com/local/article_pdf/10.1016/j.geog.2021.12.004.pdf"
+    },
+    {
+        "title": "Deep learning for real-time P-wave detection: A case study in Indonesia’s earthquake early warning system",
+        "authors": [
+            "Adi Wibowo",
+            "Leni Sophia Heliani",
+            "Cecep Pratama",
+            "David Prambudi Sahara",
+            "Sri Widiyantoro",
+            "Dadan Ramdani",
+            "Mizan Bustanul Fuady Bisri",
+            "Ajat Sudrajat",
+            "Sidik Tri Wibowo",
+            "Satriawan Rasyid Purnama"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:4JMBOYKVnBMC",
+        "abstract": "Detecting seismic events in real-time for prompt alerts and responses is a challenging task that requires accurately capturing P-wave arrivals. This task becomes even more challenging in regions like Indonesia, where widely spaced seismic stations exist. The wide station spacing makes associating the seismic signals with specific even more difficult. This paper proposes a novel deep learning-based model with three convolutional layers, enriched with dual attention mechanisms—Squeeze, Excitation, and Transformer Encoder (CNN-SE-T)—to refine feature extraction and improve detection sensitivity. We have integrated several post-processing techniques to further bolster the model’s robustness against noise. We conducted comprehensive evaluations of our method using three diverse datasets: local earthquake data from East Java, the publicly available Seismic Waveform Data (STEAD), and a continuous waveform dataset spanning 12 h from multiple Indonesian seismic stations. The performance of the CNN-SE-T P-wave detection model yielded exceptionally high F1 scores of 99.10% for East Java, 92.64% for STEAD, and 80% for the 12-h continuous waveforms across Indonesia’s network, demonstrating the model’s effectiveness and potential for real-world application in earthquake early warning systems.",
+        "pdf_link": "https://www.researchgate.net/profile/Adi-Wibowo-2/publication/383854487_Deep_Learning_for_Real-Time_P-Wave_Detection_A_Case_Study_in_Indonesia's_Earthquake_Early_Warning_System/links/66e15e6cb1606e24c21f305b/Deep-Learning-for-Real-Time-P-Wave-Detection-A-Case-Study-in-Indonesias-Earthquake-Early-Warning-System.pdf"
+    },
+    {
+        "title": "Transient rheology model of the oceanic asthenosphere inferred from the 2012 Indian Ocean earthquake using a finite element method",
+        "authors": [
+            "Cecep Pratama"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "(No Title)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5YFJgTQAAAAJ&cstart=20&pagesize=80&citation_for_view=5YFJgTQAAAAJ:UebtZRa9Y70C",
+        "abstract": "有限要素法を用いて 2012 年インド洋地震から推定した海洋アセノスフェアの非定常レオロジーモデル"
+    }
+]

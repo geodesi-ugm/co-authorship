@@ -1,0 +1,1272 @@
+[
+    {
+        "title": "The potential of UAV-based remote sensing for supporting precision agriculture in Indonesia",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "312",
+        "year": "2015",
+        "venue": "Procedia Environmental Sciences",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:u-x6o8ySG0sC",
+        "publication_date": "2015/1/1",
+        "abstract": "This paper shows some practical experiences of using Unmanned Aerial Vehicle-(UAV) based platform for remote sensing in supporting precision agriculture mapping. Some of the information for land preparation, cadaster boundary, vegetation monitoring, plant healthy, and stock valuation are required periodically. So, the UAV-Based remote sensing system should have characteristics such as cost-effective, fast in producing, easy in operation by local staff, and good geometry accuracy (sub-meter). The system consists of aerial platforms from R/C plane, point and shoots digital cameras, data processing with digital photogrammetric: structure from motion algorithms, and free open source-GIS for visualizing. This system has the ability to produce imagery with spatial resolution <10 cm, measuring parcel area, assess the individual trees or plants stock, and topography. The basic products of the system are Orthophoto …",
+        "total_citations": "Cited by 312",
+        "pdf_link": "https://www.sciencedirect.com/science/article/pii/S1878029615001000/pdf?md5=73f7271cfddad0c7dda2240f2b278824&pid=1-s2.0-S1878029615001000-main.pdf"
+    },
+    {
+        "title": "Utilizing UAV-based mapping in post disaster volcano eruption",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Ruli Andaru"
+        ],
+        "cited_by": "36",
+        "year": "2016",
+        "venue": "2016 6th International Annual Engineering Seminar (InAES)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:ULOm3_A8WrAC",
+        "publication_date": "2016/8/1",
+        "abstract": "This paper shows some practical experiences of utilizing UAV (Unmanned Aerial Vehicle)-Based mapping in post disaster for rapid assessment. Some cases are Merapi volcano eruption in year 2010 for seeing the cold lava flow impact and mapping the shelter area; and Kelud volcano eruption in year 2014 for seeing the impact and volumetric material calculation. This meet the need, because the Indonesia archipelago region is locate at Geologic features Pacific Ring of Fire belt. This led the region into a natural disaster-prone area of volcanic eruptions and earthquakes. For keeping practical reliabilities, the UAV-based mapping system was built up by a common instrumentations from hobby shop, such as the aeromodelling plane platform and digital pocket camera. The system should have some basic products capabilities such as Orthophoto Image, and Digital Elevation Model (DEM). For seeing the manmade …",
+        "total_citations": "Cited by 36",
+        "pdf_link": "https://www.researchgate.net/profile/Ruli-Andaru-2/publication/312562417_Utilizing_UAV-based_mapping_in_post_disaster_volcano_eruption/links/64351170ad9b6d17dc4d3c21/Utilizing-UAV-based-mapping-in-post-disaster-volcano-eruption.pdf"
+    },
+    {
+        "title": "Linear quadratic regulator controller (LQR) for AR. Drone's safe landing",
+        "authors": [
+            "Gembong Edhi Setyawan",
+            "Wijaya Kurniawan",
+            "Amroy Casro Lumban Gaol"
+        ],
+        "cited_by": "31",
+        "year": "2019",
+        "venue": "2019 International Conference on Sustainable Information Engineering and Technology (SIET)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:yD5IFk8b50cC",
+        "publication_date": "2019/9/28",
+        "abstract": "Unmanned Aerial Vehicle (UAV) became one of the mobile robot technologies that are widely used by humans. It's used for commercial and development of quadcopter purpose. The reason quadcopter is widely used because of its ability to maneuver in all direction and flexibility. One of the interesting things to develop is safe landing problem of the quadcopter, due to a safe landing can reduce the risk of physical damage to the quadcopter. The purpose of this research was to implement Linear Quadratic Regulator (LQR) algorithm for the safe landing of an AR. Drone quadcopter. This method is an optimal control that produces feedback gains for a linear system by minimizing a quadratic cost function. LQR approach is used to control the attitudes and altitudes to perform landing of AR. Drone that is implemented in Robot Operating System (ROS). The results of this research have obtained a safe landing algorithm …",
+        "total_citations": "Cited by 31",
+        "pdf_link": "https://www.researchgate.net/profile/Wijaya-Kurniawan-2/publication/339173979_Linear_Quadratic_Regulator_Controller_LQR_for_AR_Drone%27s_Safe_Landing/links/5f2144d392851cd5fa5090ed/Linear-Quadratic-Regulator-Controller-LQR-for-AR-Drones-Safe-Landing.pdf"
+    },
+    {
+        "title": "Geometric accuracy assessments of orthophoto production from uav aerial images",
+        "authors": [
+            "Silvester S Sai",
+            "Martinus E Tjahjadi",
+            "Catur A Rokhmana"
+        ],
+        "cited_by": "23",
+        "year": "2019",
+        "venue": "KnE Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:GnPB-g6toBAC",
+        "publication_date": "2019/12/26",
+        "abstract": "Orthophoto mosaic is assembled from aerial perspective images through a process called orthorectification, which eliminate photographic tilts and terrain relief effects. These orthorectified images have been resampled from the original ones that may have been prepared from a DTM which does not accurately model the surface. Meanwhile, some proprietary software such as Agisoft utilizes spatially dense 3D point clouds that are generated from a so called Structure from Motion technique to generate the orthophoto. The software provides a black-box method to regard these clouds as DSM, and it utilizes this surface model to project pixels from the original images. This paper investigates geometric accuracy of the produced orthophoto mosaic according to the American Society of Photogrammetry and Remote Sensing (ASPRS) standards. To minimize scale differences among images, a 35mm fixed-lens camera is mounted on a fixed-wing UAV platform. Flight missions are carried out at around 250m flying height controlled by a navigational grade sensor on board to provide spatial resolution of about 27mm. A number of orthophoto mosaics are produced by varying numbers of GCPs, flight paths configuration and terrain relief differences. The geometric accuracies are assessed through a provision of ICPs on each test field area. Coordinates deviations between the ICP and the corresponding orthophotos are framed into a RMSE figures. Within a 95% confidence level, it is revealed that a suitable orthophoto map scale is up to around 1: 500. It is recommended that a cross flight configuration to achieve better results.",
+        "total_citations": "Cited by 23",
+        "pdf_link": "https://knepublishing.com/index.php/KnE-Engineering/article/download/5876/11266"
+    },
+    {
+        "title": "Spatiotemporal analysis for COVID-19 delta variant using GIS-based air parameter and spatial modeling",
+        "authors": [
+            "Mokhamad Nur Cahyadi",
+            "Hepi Hapsari Handayani",
+            "IDAA Warmadewanthi",
+            "Catur Aries Rokhmana",
+            "Soni Sunarso Sulistiawan",
+            "Christrijogo Sumartono Waloedjo",
+            "Agus Budi Raharjo",
+            "Mohamad Atok",
+            "Shilvy Choiriyatun Navisa",
+            "Mega Wulansari",
+            "Shuanggen Jin"
+        ],
+        "cited_by": "20",
+        "year": "2022",
+        "venue": "International Journal of Environmental Research and Public Health",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:g5m5HwL7SMYC",
+        "publication_date": "2022/1/30",
+        "abstract": "The coronavirus disease of 2019 (COVID-19) pandemic is currently a global challenge, with 210 countries, including Indonesia, seeking to minimize its spread. Therefore, this study aims to determine the spatiotemporal spread pattern of this virus in Surabaya using various data on confirmed cases from 28 April to 26 October 2021. It also aims to determine the relationship between pollutant parameters, such as carbon monoxide (CO), nitrogen dioxide (NO2), sulfur dioxide (SO2), and ozone (O3), as well as the government’s high social restrictions policy in Java-Bali. Several methods, such as the weighted mean center, directional distribution, Getis–Ord Gi*, Moran’s I, and geographically weighted regression, were used to identify the spatial spread pattern of the virus. The weighted mean center indicated that the epicenter location of the outbreak moved randomly. The directional distribution demonstrated a decrease of 21 km2 at the end of the study phase, which proved that its spread has significantly reduced in Surabaya. Meanwhile, the Getis–Ord Gi* results demonstrated that the eastern and southern parts of the study region were highly infected. Moran’s I demonstrate that COVID-19 cases clustered during the spike. The geographically weighted regression model indicated a number of influence zones in the northeast, northwest, and a few in the southwest parts at the peak of R2 0.55. The relationship between COVID-19 cases and air pollution parameters proved that people living at the outbreak’s center have low pollution levels due to lockdown. Furthermore, the lockdown policy reduced CO, NO2, SO2, and O3. In addition, increase in air …",
+        "total_citations": "Cited by 20",
+        "pdf_link": "https://www.mdpi.com/1660-4601/19/3/1614"
+    },
+    {
+        "title": "The low-cost UAV-based remote sensing system capabilities for large scale cadaster mapping",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Susilo Utomo"
+        ],
+        "cited_by": "20",
+        "year": "2016",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:KlAtU1dfN6UC",
+        "publication_date": "2016/11/1",
+        "abstract": "There is at least 190 million hectare of Indonesia's land part area that should be mapped in large scale cadaster maps. The completion of cadaster maps up to scale 1/2500 are still an open problems. The very high resolution images with spatial resolution less than 10cm can be a good choice to be able to see a parcel boundary. The use of Unmanned Aerial Vehicle- based remote sensing system can produce aerial photograph with spatial resolution less than 10cm. For keeping UAV-based system low-cost, the system architecture consists of (1) aerial platform from hobby aeromodelling; (2) consumers grade camera sensor; (3) a low-cost GPS logger for ground control survey; (4) an open source structure from motion processing; and (5) an open source GIS software. This system was tested for producing a cadaster base map in a paddy field area at Trimulyo village at Bantul Region. The high resolution image with …",
+        "total_citations": "Cited by 20",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/47/1/012005/pdf"
+    },
+    {
+        "title": "Identifikasi fase pertumbuhan padi menggunakan citra sar (synthetic aperture radar) sentinel-1",
+        "authors": [
+            "Leni Suspidayanti",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "15",
+        "year": "2021",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:70eg2SAEIzsC",
+        "publication_date": "2021/9/21",
+        "abstract": "Identifikasi fase pertumbuhan padi dilakukan untuk memperoleh informasi umur dan estimasi produksi padi. Identifikasi fase pertumbuhan tanaman padi terdiri atas tiga fase utama yaitu fase vegetatif, reproduktif, dan pematangan. Kemudian fase utama dijabarkan lebih rinci menjadi sembilan fase yaitu seedling, tillering, stem elongation, panicle, heading, flowering, milk grain, dough grain, dan mature grain. Pemantauan pertumbuhan padi dapat dilakukan menggunakan citra optis maupun radar. Penelitian ini menggunakan citra SAR Sentinel-1 dengan perekaman bulan November 2020 hingga Februari 2021, dan citra optis Sentinel-2. Citra SAR Sentinel-1A dapat menggambarkan pertumbuhan padi mengikuti fase tumbuh dengan mengektraksi nilai backscatter dari petak sawah yang dijadikan sampel penelitian. Hasilnya menunjukkan bahwa polarisasi tunggal VH memiliki korelasi paling baik yang menggambarkan nilai backscatter citra dan fase pertumbuhan padi dengan korelasi (R²) sebesar 0.77. Sedangkan algoritma Polarization Index (PI) memiliki korelasi (R²) 0.56. Kombinasi citra SAR Sentinel-1A dan Sentinel-2 dengan waktu perekaman yang sama atau mendekati dimanfaatkan untuk interpretasi training area dalam prose klasifikasi. Kombinasi RGB citra Sentinel-1 dan Sentinel-2 yang digunakan yaitu R= S2-B4 G= S2-B3 B= S1-VH. Klasifikasi fase pertumbuhan menggunakan algoritma random forest dengan komposit RGB (R= VV G= VH B= VV/VH) menghasilkan akurasi sebesar 75%.",
+        "total_citations": "Cited by 15",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/10729/6299"
+    },
+    {
+        "title": "Percepatan Pemetaan Kadaster Memanfaatkan Teknologi Wahana Udara Tanpa Awak",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "13",
+        "year": "2013",
+        "venue": "Bhumi: Jurnal Agraria dan Pertanahan",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:R3hNpaxXUhUC",
+        "publication_date": "2013",
+        "abstract": "Since May 2013, the National Land Agency has begun serving Thematic Map production. This implies that there",
+        "total_citations": "Cited by 13",
+        "pdf_link": "http://www.jurnalbhumi.stpn.ac.id/index.php/JB/article/download/167/147"
+    },
+    {
+        "title": "Evaluasi polarisasi citra SAR (SYHTHETIC APERTURE RADAR) untuk klasifikasi obyek tutupan lahan",
+        "authors": [
+            "Johan Ariyantoni",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "11",
+        "year": "2020",
+        "venue": "Elipsoida: Jurnal Geodesi dan Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:ns9cj8rnVeAC",
+        "publication_date": "2020/7/6",
+        "abstract": "Penggunaan pengindraan jauh sensor aktif SAR (Synthetic Aperture Radar) masih kurang dimanfaatkan sebagai upaya pengganti pengindraan jauh optis untuk pemetaan tutupan lahan, padahal citra optis masih memiliki tutupan awan yang menjadi kendala besar dalam pemantauan obyek tutupan lahan. Keunggulan Citra SAR Sentinel-1A adalah dapat menembus awan serta tidak berpengaruh pada keadaan cuaca. Dengan memanfaatkan teknologi polarisasi, citra SAR dapat membentuk komposit RGB yang berbeda, dalam penelitian ini digunakan komposit VV+ VH, VH, VV/VH yaitu R dengan polarisasi VV+ VH, G dengan polarisasi VH dan B dengan polarisasi VV/VH, menghasilkan tampilan citra SAR yang dapat diinterpretasi obyek tutupan lahannya. Ini dilakukan untuk mengevaluasi seberapa besar teknologi polarisasi SAR membantu dalam pemetaan obyek tutupan lahan. Hasil dari interpretasi tersebut dapat diidentifikasikan enam obyek tutupan lahan yang terdiri dari bangunan (permukiman desa, kota, dan gedung), sawah, hutan, semak, semak belukar dan lahan terbuka, hasil tersebut masih belum mampu untuk pemetaan tutupan lahan secara mendetil karena masih minimnya tutupan lahan yang dapat diinterpretasi pada komposit polarisasi tersebut. Tahapan Klasifikasi dilakukan dengan menggunakan dua metode yaitu maximum likelihood dan Support Vector Machine (SVM). Hasil akurasi keseluruhan confusion matrix dari klasifikasi maximum likelihood adalah 78, 95% sedangkan klasifikasi Support Vector Machine (SVM) adalah 87, 37%. Secara akurasi keselurahan dapat disimpulkan bahwa metode Support Vector …",
+        "total_citations": "Cited by 11",
+        "pdf_link": "https://ejournal2.undip.ac.id/index.php/elipsoida/article/download/7761/4428"
+    },
+    {
+        "title": "The Potential Applications of Balloon Photogrammetry For Cadastre Mapping",
+        "authors": [
+            "CA Rokhmana"
+        ],
+        "cited_by": "9",
+        "year": "2009",
+        "venue": "Proceeding SEASC, Bali",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:3fE2CSJIrl8C",
+        "publication_date": "2009",
+        "total_citations": "Cited by 9"
+    },
+    {
+        "title": "Some Notes on Using Balloon Photography For Modeling The Landslide Area",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "9",
+        "year": "2008",
+        "venue": "Presented at Map Asia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:u5HHmVD_uO8C",
+        "publication_date": "2008/8",
+        "abstract": "In General, the landslide area in Indonesia has specific characteristic such as small area (less than 100Ha), vegetation coverage, and extreme topography. There are others non-technical problems also such as budget limitation and human resources. The challenges is to develop the appropriate system for modeling the landslide area that characterized by low-cost, easy in operation, fast in production, and good quality. Some experience has been done by using the balloon photography as the main acquisition system. This paper shows some notes on using the balloon photography system for modeling the landslide area. It is including the system architecture, the field procedures, the processing enhancement, and some limitations. Some examples show to explain some problems that caused by vegetation covered and the extreme topography. In some case area, the balloon photography can be a good choice to modeling the surface of the earth.",
+        "total_citations": "Cited by 9",
+        "pdf_link": "https://www.researchgate.net/profile/Catur-Rokhmana/publication/265925488_Some_Notes_on_Using_Balloon_Photography_For_Modeling_the_Landslide_Area/links/55687e7008aec22683026584/Some-Notes-on-Using-Balloon-Photography-For-Modeling-the-Landslide-Area.pdf"
+    },
+    {
+        "title": "Cadastral surveys with non-metric camera using UAV: a feasibility study",
+        "authors": [
+            "Catur A Rokhmana",
+            "Martinus E Tjahjadi",
+            "Fransisca D Agustina"
+        ],
+        "cited_by": "8",
+        "year": "2019",
+        "venue": "KnE Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:BqipwSGYUEgC",
+        "publication_date": "2019/12/26",
+        "abstract": "Orthophoto maps are believed by mapping communities as a favorable media to generate land parcel boundaries for cadaster survey related projects. However, since burgeoning off-the-shelf cameras mounted on the unmanned aerial vehicle (UAV) are commonly utilized for photographing such boundaries, unreliable and unstable intrinsic parameters of these non-metric cameras impede good quality orthophoto productions. This paper presents an alternative method to measure the boundaries reliably without an existence of the orthophoto. A degraded quality of the orthophoto can be circumvented by our newly proposed method so called direct visual referencing. This method comprises two stages. The first step is to perform on the fly camera calibration to minimize instabilities of the intrinsic components of the non-metric camera. Modifying common and widely known flying paths for aerial photogrammetry mission is enabling a block variant self-calibrating bundle adjustments to proceed. The second step is a digitation process. Carefully selected Premark or prominent features along the boundaries are digitized on arbitrary selected images. These features are then matched to the similar ones onto all available images by performing multi photo geometrically constraint least squares image matching. Final results are 3D coordinates from the multi photos triangulation process. These boundaries coordinates are compared against the GPS-RTK measurements on the field. Deviations of these types of coordinates are around 1 cm. It is obvious that this method meets the precision requirement of the GPS-RTK measurements. Therefore we firmly …",
+        "total_citations": "Cited by 8",
+        "pdf_link": "https://knepublishing.com/index.php/KnE-Engineering/article/download/5856/11246"
+    },
+    {
+        "title": "Rapid mapping of landslide disaster using UAV-photogrammetry",
+        "authors": [
+            "AB Cahyono",
+            "RA Zayd"
+        ],
+        "cited_by": "7",
+        "year": "2018",
+        "venue": "journal of physics: conference series",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:u_35RYKgDlwC",
+        "publication_date": "2018/3/1",
+        "abstract": "Unmanned Aerial Vehicle (UAV) systems offered many advantages in several mapping applications such as slope mapping, geohazard studies, etc. This study utilizes UAV system for landslide disaster occurred in Jombang Regency, East Java. This study concentrates on type of rotor-wing UAV, that is because rotor wing units are stable and able to capture images easily. Aerial photograph were acquired in the form of strips which followed the procedure of acquiring aerial photograph where taken 60 photos. Secondary data of ground control points using GPS Geodetic and check points established using Total Station technique was used. The digital camera was calibrated using close range photogrammetric software and the recovered camera calibration parameters were then used in the processing of digital images. All the aerial photographs were processed using digital photogrammetric software and the output …",
+        "total_citations": "Cited by 7",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1742-6596/974/1/012046/pdf"
+    },
+    {
+        "title": "Ekstraksi Permukiman dari Kombinasi Citra Sentinel-2 dan Sentinel-1 dengan Pendekatan Object-Based Image Analysis",
+        "authors": [
+            "Dias Eramudadi",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "6",
+        "year": "2024",
+        "venue": "JGISE: Journal of Geospatial Information Science and Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:UxriW0iASnsC",
+        "publication_date": "2024",
+        "abstract": "Informasi yang akurat dan termutakhir mengenai data spasial permukiman skala menengah dibutuhkan berbagai bidang seperti agenda pembangunan berkelanjutan, perubahan iklim dan pengurangan risiko bencana. Namun, ekstraksi informasi spasial untuk permukiman selalu menjadi tantangan karena heterogenitas spasial permukiman yang kompleks. Penelitian ini bertujuan mengekstraksi permukiman dari kombinasi citra Sentinel-2 dan Sentinel-1 menggunakan metode Object-Based Image Analysis (OBIA) dengan platform Google Earth Engine (GEE). Dataset ekstraksi permukiman dibentuk dari 33 fitur kombinasi saluran spektral, indeks spektral dan tekstur. Sementara itu, dataset segmentasi terdiri dari kombinasi indeks spektral UI–NDVI-MNDWI hasil perhitungan Optimum Index Factor (OIF). Segmentasi diproses menggunakan Simple Non-Iterative Clustering (SNIC) dan diklasifikasi dengan algoritma …",
+        "total_citations": "Cited by 6"
+    },
+    {
+        "title": "Telemedicine technology application for COVID-19 patient tracing using smartphone gnss",
+        "authors": [
+            "MN Cahyadi",
+            "LO Susanto",
+            "CA Rokhmana",
+            "SS Sulistiawan",
+            "W Christrijogo Sumartono",
+            "S Agus Budi Raharjo",
+            "M Atok"
+        ],
+        "cited_by": "6",
+        "year": "2022",
+        "venue": "International Journal of Geoinformatics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:M05iB0D1s5AC",
+        "publication_date": "2022/3/28",
+        "abstract": "In order to cope with a pandemic COVID-19, Indonesia has implemented various measures of public health including contact tracing. This research will integrate three aspects, namely the use of telemedicine for geographic information system, tracking covid-19 patients using smartphones and diagnosed persons. The three aspects are wrapped in interactive and informative application where users can track their journeys, and communicate directly with the doctors. The geographic information system was built based on statistical analysis of the coronavirus disease (COVID-19) pandemic to determine the factors that affect the number of COVID-19 patients in an area using geographically weighted regression. Later on, this application can provide information about the current conditions, increase data transparency, and used as a tool in assessing a particular policy. This telemedicine application utilizes a map-based geographic information system (GIS) feature to display information. This system also has high security so that it can protect user information and can be accessed easily by users.",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://ijg.journals.publicknowledgeproject.org/index.php/journal/article/download/2159/1135"
+    },
+    {
+        "title": "Assessing stability performance of non-metric camera’s lens distortion model during uav flight missions",
+        "authors": [
+            "Martinus E Tjahjadi",
+            "Fransisca D Agustina",
+            "Catur A Rokhmana"
+        ],
+        "cited_by": "6",
+        "year": "2019",
+        "venue": "KnE Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:YFjsv_pBGBYC",
+        "publication_date": "2019/12/26",
+        "abstract": "The process and definition of camera calibration have change greatly over recent years. Aerial metric cameras calibration, for which laboratory and field calibration procedures were a separate process, was performed before and independent of any actual mapping data collection using precise calibration fixtures with an assumption that the camera parameters determined would remain valid for a significant period. In contrast, non-metric cameras are characterized by unstable intrinsic parameters over the times and they are vulnerable to the engine and other vibrations during flight data acquisitions. Moreover, there is no standard calibration procedures exist for these cameras. But, since non-metric camera self-calibration augments the concept of calibration as a part of the measurement process, it can determine the camera intrinsic parameters at the time of the data acquisition as long as highly-convergent geometry …",
+        "total_citations": "Cited by 6"
+    },
+    {
+        "title": "Evaluation on the performance of single and dual frequency low cost GPS module observation using geodetic antenna",
+        "authors": [
+            "Dedi Atunggal",
+            "Bilal Ma'ruf",
+            "T Aris Sunantyo",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "6",
+        "year": "2018",
+        "venue": "Communications in Science and Technology",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:j3f4tGmQtD8C",
+        "publication_date": "2018/6/14",
+        "abstract": "GPS modules have been used for various applications in recent years. Its early development came in parallel with the advancement of Unmanned Aerial Vehicle (UAV) technology. Nowadays, it is also used in in geographic information system (GIS) data acquisition/census, mapping surveys, structure stability monitoring systems and many other applications. GPS modules generally have several positioning features, including standard positioning service (SPS), static positioning, precise point positioning (PPP), post processing kinematic (PPK) and real time kinematic (RTK) GPS. GPS modules in general are only equipped with a microstrip-type antenna or better known as patch antenna. Results from related research show that GPS module with this type of antenna has sub meter accuracy when used for PPK or RTK GPS method. The use of geodetic antennas is very potential to increase GPS position accuracy by up to centimeter level. This paper discusses the evaluation of GPS module measurements with geodetic type antennas for precise positioning using RTK GPS. This paper is focused on the resolution of GPS cycle ambiguity that is often expressed by the term fixing ratio and the accuracy of measurement results obtained. To provide a comprehensive description of the performance of GPS module, in this research two types of GPS module were used; single and dual frequency. Both types of GPS modules were used to conduct simultaneous observation on an open and obstructed observation location.",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://cst.kipmi.or.id/article/download/78/40"
+    },
+    {
+        "title": "Pemodelan kondisi bangunan candi Borobudur pasca erupsi merapi dengan UAV-Based Fotogrametri",
+        "authors": [
+            "Ruli Andaru",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "6",
+        "year": "2012",
+        "venue": "Jurnal Dialog Penanggulangan Bencana",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:J_g5lzvAfSwC",
+        "publication_date": "2012/10/15",
+        "abstract": "Borobudur Temple is one of the areas affected by volcanic ash from Merapi eruption. In some places, the thickness of the ash reached 5cm. Cleanup activities conducted by Borobudur Heritage Conservation Center (BKPB) to ensure the building of the temple clean from volcanic ash. Acidic volcanic ash would have a negative impact on the surface of the temple stones that cause brittleness, scrape the walls of the temple reliefs and statues detail. Ministries of education and culture estimate takes 2 to 3 years for the restoration and revitalization of post-eruption of the temple. For this purpose, BKPB requires monitoring and updating the current state of the surface of the temple regularly and periodically, to monitor surface condition of the temple. One method of monitoring and updating is using a low-cost aerial photography with a vehicle UAV (Unmanned Aerial Vehicle). Mapping with UAV technology has several …",
+        "total_citations": "Cited by 6"
+    },
+    {
+        "title": "The low cost monitoring system for landslide and volcano with digital photogrammetry",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "6",
+        "year": "2007",
+        "venue": "Proceeding Joint Convention HAGI, IAGI, IATMI",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:d1gkVwhDpl0C",
+        "publication_date": "2007",
+        "abstract": "Indonesia is one of the countries that cannot escape from the geohazard. So, monitoring system is one of the important activities to reduce the victims. The challenge is how to make the low-cost monitoring system that suitable for Indonesia. This paper focus on the landslide and the volcano hazard. The choice is to use digital photogrammetry that equipped with the consumers grade instrument. As a consequence, the special processing should be implemented to improve the ability of the consumer’s grade equipment. Further, this paper explains the basic system abilities, the processing, and some sample cases. The specific camera calibration procedure was developed to improve the geometric quality. The advantages of using the system was described such as the low-cost operation, the fast 3D modeling, and 3D deformation vector for point or plane. This monitoring method can be worked as a supplement to enhance the existing system.",
+        "total_citations": "Cited by 6",
+        "pdf_link": "https://www.iagi.or.id/web/digital/28/2007_IAGI-Bali_The-Low-Cost-Monitoring-System-for-Landslide.pdf"
+    },
+    {
+        "title": "Hubungan Dual Polametric SAR Band–C dan Landsat 8 untuk Identifikasi Potensi Kekeringan",
+        "authors": [
+            "Hikmah Fajar Assidiq",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "5",
+        "year": "2021",
+        "venue": "Geoid",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&citation_for_view=Z5OOseEAAAAJ:lSLTfruPkqcC",
+        "publication_date": "2021/4/9",
+        "abstract": "Kekeringan merupakan salah satu bencana krusial dan kompleks yang dapat menimbulkan kerugian material dan immaterial. Kekeringan di indonesia dikategorikan beberapa jenis meliputi Kekeringan Pertanian, Kekeringan Meterologis, dan kekeringan Hidrologi. Kekeringan pertanian merupakan kondisi dimana adanya penurunan kandungan air di dalam tanah. Kondisi tersebut akan berdampak pada tumbuhan dan atau tutupan lahan sehingga diperlukan tindakan preventif. Tindakan preventif dilakukan dengan cepat, efektif dan efisien sehingga pendekatan dengan pola dinamis sangat diperlukan. Pendekatan pola dinamis dilakukan dengan dengan metode yang dapat dilakukan setiap waktu. Penggunaan penginderaan jauh sensor aktif dapat menjadi solusi melalui pemantaaun setiap waktu secara dinamis. Salah satunya yaitu satelit dengan sensor radar, yaitu Sentinel 1. Sentinel 1A memiliki gelombang …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://journal.its.ac.id/index.php/geoid/article/download/1687/1367"
+    },
+    {
+        "title": "Potential use of uav-based mapping system to accelerate the production of parcel boundary map in Indonesia",
+        "authors": [
+            "Catur A Rokhmana",
+            "Imung A Gumeidhidta",
+            "Martinus E Tjahjadi"
+        ],
+        "cited_by": "5",
+        "year": "2019",
+        "venue": "KnE Engineering",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:NMxIlDl6LWMC",
+        "publication_date": "2019/12/26",
+        "abstract": "Recently, the Ministry of Agrarian Affairs announces a decree to accelerate a completion of the registration of land parcels of cadaster maps up to a scale of 1: 1000. It is known that the use of Unmanned Aerial Vehicle based mapping system (UAV-Map) can produce orthophoto image with spatial resolution less than 10 cm, but it is not yet known whether UAV-Map implementation is able to identify boundary of land parcel in any condition. Therefore, this paper would analyze the planimetric accuracy that is conformed to the regulation of State Minister of Agrarian Affairs/Head of National Land Agency No. 3, 1997 both for urban and rural areas. Two testing areas are established which located on urban area and rural area respectively. Flight missions are conducted using a fixed-wing aircraft equipped with a consumer grade camera and a navigational grade GPS-INS system. Orthophoto maps are produced by using Agisoft Photoscan software. Digitizing of parcel boundaries are followed both on an existing map and on the orthophoto maps. Deviations in areas are expressed in terms of the RMSE figures. Planimetric accuracies as indicated by the RMSE value are of 0,044 m for urban areas and 0,122 m for rural area. It is showed that all discrepancies of the parcels area are still below the recommended threshold values of the regulation. It is can be concluded that the orthophoto maps obtained by using a low cost UAV-Map system can be used to identify land parcels boundaries and to determine the parcel area.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://knepublishing.com/index.php/KnE-Engineering/article/download/5858/11248"
+    },
+    {
+        "title": "Detection of vertical deformation in Jakarta-Bandung high speed train route using X sar and sentinel",
+        "authors": [
+            "Atriyon Julzarika",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "5",
+        "year": "2019",
+        "venue": "Geodesy and Cartography",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:hMod-77fHWUC",
+        "publication_date": "2019/12/23",
+        "abstract": "The Jakarta-Bandung high speed train is one of the national strategic plans. The high speed train route connects the Jakarta city to the Bandung city. The route needs to be detailed topography and checking of vertical deformations that occur along its route. This study aims to determine the conditions of vertical deformation in four stations and the Jakarta Bandung high speed train route. The spatial information of vertical deformation was extracted from the X SAR (2000) and Sentinel data (2018). The method used was Differential Interferometry Synthetic Aperture Radar (DinSAR). The vertical deformation was obtained from the reduction of topography in 2018 with the topography of 2000. Both of these topography must meet the tolerance of 1.96 sigma so that the resulting deformation is also more optimal. The results of this study can be used to reference the determination of high speed train route based on conditions of vertical deformation.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://journals.vilniustech.lt/index.php/GAC/article/download/10761/9607"
+    },
+    {
+        "title": "Modification of pocket camera as a sensor for uav-based plant health detection system",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Muhammad Ulin Nuha"
+        ],
+        "cited_by": "5",
+        "year": "2019",
+        "venue": "2019 5th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:RGFaLdJalmkC",
+        "publication_date": "2019/7/30",
+        "abstract": "This work is intended to modify the pocket-size digital camera with a DIY (Do It Yourself) Filter Analysis Kit. This modification purpose is to improve the standard pocket-size digital camera to be able to record a plant health then the camera can be carried by UAV (Unmanned Aerial Vehicles). This research use CANON IXUS 145 brand for keeping low cost. The Super-blue and Red Infragramfilter from the Public Lab has used for additional filter. Plant health visual testing was carried out by comparing field observation data and leaf samples. Data processing uses ImageJ's open source software for NDVI (Normalized Difference Vegetation Index) analysis. The NDVI information is verified with field observation data. There were nine plants used in the field samples, which were Papaya, Rice, Sugar Cane, Chili, and Melon. Testing is done by visual interpretation of the plant's healthy condition and unhealthy conditions …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Muhammad-Nuha/publication/343663707_Modification_of_Pocket_Camera_as_A_Sensor_for_UAV-Based_Plant_Health_Detection_System/links/5f37d3b6299bf13404c5a0a2/Modification-of-Pocket-Camera-as-A-Sensor-for-UAV-Based-Plant-Health-Detection-System.pdf"
+    },
+    {
+        "title": "Application of Low Cost RTK GPS Module for Precise Geotagging using Smartphone",
+        "authors": [
+            "Dedi Atunggal",
+            "Nuaim Hamad Ausi",
+            "Bilal Ma'ruf",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "5",
+        "year": "2017",
+        "venue": "Jakarta, sn",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:_Qo2XoVZTnwC",
+        "publication_date": "2017/10",
+        "abstract": "Low cost GPS modul has been widely used in various application in the last few years. Its early development came in parallel with the advancement of Unmanned Aerial Vehicle (UAV) technology. Nowadays, It is also used in Unmanned Surface Vehicle (USV) technology, platform/structure stability monitoring system, surveying and mapping, etc. Low cost GPS modul offers various features of global positioning system, including Standard Positioning Service (SPS), static post processed positioning and Real Time Kinematic (RTK) GPS. This paper highlight the application of external low cost RTK GPS module for precise geotagging using smartphone. Result of experiment shows that this system is potentially applicable to census or data collection activities in densely populated areas.",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/320345644_Application_of_Low_Cost_RTK_GPS_Module_for_Precise_Geotagging_using_Smartphone/links/59df08c3458515376b38980d/Application-of-Low-Cost-RTK-GPS-Module-for-Precise-Geotagging-using-Smartphone.pdf"
+    },
+    {
+        "title": "Some technical notes on using UAV-based remote sensing for post disaster assessment",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Ruli Andaru"
+        ],
+        "cited_by": "5",
+        "year": "2017",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:M3ejUd6NZC8C",
+        "publication_date": "2017/7/25",
+        "abstract": "Indonesia is located in an area prone to disasters, which are various kinds of natural disasters happen. In disaster management, the geoinformation data are needed to be able to evaluate the impact area. The UAV (Unmanned Aerial Vehicle)-Based remote sensing technology is a good choice to produce a high spatial resolution of less than 15 cm, while the current resolution of the satellite imagery is still greater than 50 cm. This paper shows some technical notes that should be considered when using UAV-Based remote sensing system in post disaster for rapid assessment. Some cases are Aceh Earthquake in years 2013 for seeing infrastructure damages, Banjarnegara landslide in year 2014 for seeing the impact; and Kelud volcano eruption in year 2014 for seeing the impact and volumetric material calculation. The UAV-Based remote sensing system should be able to produce the Orthophoto image that can …",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4987115/13748521/100009_1_online.pdf"
+    },
+    {
+        "title": "Studi Awal Penggunaan Modul GPS Murah untuk Pengukuran RTK NTRIP",
+        "authors": [
+            "Dedi Atunggal",
+            "Abdul Basith",
+            "Catur Aries Rokhmana",
+            "Dasita Meygan Pratiwi"
+        ],
+        "cited_by": "5",
+        "year": "2015",
+        "venue": "Seminar Nasional FIT ISI",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:aqlVkmm33-oC",
+        "publication_date": "2015",
+        "abstract": "Nowadays, the industry of low-cost GPS board and module is growing. At first these devices are used for positioning of mobile vehicles and unmanned vehicle (unmanned vehicle) eg the Unmanned Survey Vessel (USV) or Unmanned Aerial Vehicle (UAV). These devices have the specifications and features that allow the application of accurate positioning using various methods such as; static postprocessing, kinematic post-processing and real-time kinematic GPS. This paper discussed the use of low-cost GPS module for real-time kinematic GPS using RTK correction data from Continuously Operating Reference Station (CORS), better known by the term Networked Transported RTCM via Internet Protocol (NTRIP).",
+        "total_citations": "Cited by 5",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/320558668_Studi_Awal_Penggunaan_Modul_GPS_Murah_untuk_Pengukuran_RTK_NTRIP/links/59edb6bba6fdccef8b0ddfde/Studi-Awal-Penggunaan-Modul-GPS-Murah-untuk-Pengukuran-RTK-NTRIP.pdf"
+    },
+    {
+        "title": "Pemanfaatan Unmanned Aerial Vehicle (UAV) Tipe Quadcopter Untuk Percepatan Pengukuran Bidang Tanah Pertanian",
+        "authors": [
+            "Agung Widiyanto"
+        ],
+        "cited_by": "4",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:cFHS6HbyZ2cC",
+        "publication_date": "2021/3/19",
+        "abstract": "The government is currently accelerating the registration of land in Indonesia, the method of measurement and mapping that is characterized by easy, cheap, fast and standard is expected by Kementerian ATR/BPN. The use of photogrammetric methods by utilizing quadcopter type UAVs is one of the solutions considered potential to use. The purposes of this first study is to know whether the photograph map of shooting using UAV can be used for agricultural land measurement and according to standard of PMNA/KBPN No. 3 of 1997. Both know the efficiency of UAV utilization for measurement of agricultural land area.This study uses comparative method. Comparing the terrestrial method field measurements and the photogrametric method with the standards specified in PMNA/KBPN No. 3 of 1997. Measurement of efficiency is done by comparing the elements of human resource requirements and the time required by each method to complete the measurement of the field of open agricultural land with Flat contour of 86 fields. The tool used in this research is UAV type quadcopter DJI Phantom 3 Professional for shooting field of agricultural land, Leica Viva Rover for measuring Ground Control Point (GCP) and Independent Check Point (ICP), and total station Sokkia CX 150 for measurement of boundary plot of land Terrestrially. The making of aerial photograph mosaics in this study using Agisoft Photoscan Professional software, and the result is a photograph map of agricultural land which is then done digitized so as to get a map of the ground plane to be compared with the land parcel map of the measurement using the total station.",
+        "total_citations": "Cited by 4",
+        "pdf_link": "http://repository.stpn.ac.id/960/1/AGUNG%20WIDIYANTO.pdf"
+    },
+    {
+        "title": "Aerial Mapping by Consumer Camcorders",
+        "authors": [
+            "CA Rokhmana"
+        ],
+        "cited_by": "4",
+        "year": "2005",
+        "venue": "GIM International",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:hqOjcs7Dif8C",
+        "publication_date": "2005",
+        "total_citations": "Cited by 4"
+    },
+    {
+        "title": "Filtering DSM extraction from Worldview-3 images to DTM using open source software",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Ahmad Ridho Sastra"
+        ],
+        "cited_by": "3",
+        "year": "2020",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:O3NaXMp0MMsC",
+        "publication_date": "2020/6/1",
+        "abstract": "Today, the Indonesia one map policy has encouraged for producing maps up to scale 1/5.000 – 1/10.000. Therefore, all efforts to accelerate large-scale map production are still needed. One of the challenges is for producing DEM (Digital Elevation Model). DEM data extraction from high-resolution optical satellite imagery is an efficient choice for the production of large-area DEM. This study uses Worldview 3 stereo ready images for DSM (Digital Surface Model) Extraction. Although the DSM data have a high resolution 30cm x 30cm, unfortunately, the DEM extraction techniques from optical images produce DSM (Digital Surface Model) data instead of DTM. While topographic maps generally use DTM data instead of DSM. So, the goal of this study is to use an appropriate procedures method in Open-Source (OS) software towards the generation of Bare-Earth data by filtering DSM. The OS software is SAGA-GIS that it …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/500/1/012054/pdf"
+    },
+    {
+        "title": "Pemetaan Pelabuhan Perikanan Pantai Sadeng Kabupaten Gunungkidul Menggunakan Uav",
+        "authors": [
+            "Abdul Basith",
+            "Catur Aries Rokhmana",
+            "Christine Noegroho Kartini",
+            "Horas Togatorop2Fitrawan",
+            "Dwi Putra Ananta Pradanakusuma",
+            "Trias Sugeng Prayoga",
+            "U Yudhono Prakoso & Leksono"
+        ],
+        "cited_by": "3",
+        "year": "2015",
+        "venue": "Prosiding Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:Wp0gIr-vW9MC",
+        "publication_date": "2015/11",
+        "abstract": "Pelabuhan Perikanan Pantai (PPP) Sadeng terletak di teluk Sadeng, Desa Songbayu Sadeng, Kecamatan Girisubo, Kabupaten Gunungkidul. Sisi lain yang menarik adalah koridor utama akses ke PPP Sadeng dikatakan sebagai alur purba Bengawan Solo. Dengan lokasinya yang menghadap pantai Selatan, pelabuhan ini pun terancam dengan tsunami. Penyediaan data spasial sangat berguna baik untuk pengembangan pelabuhan ini maupun untuk kajian mitigasi bencana tsunami. Penelitian ini mengguanakan wahana USV (Unmanned Surface Vessel) untuk mengkoleksi citra foto Sadeng. Sebanyak 8 titik GCP diukur untuk digunakan dalam pemrosesan foto. Cakupan daerah pengukuran meliputi dari mulut ke arah Timur dan Barat masing-masing sejauh 2, 5 km; dari kolam pelabuhan ke Utara sejauh 2 kilometer. Luas daerah pemotretan±1200 ha. Citra foto yang berhasil diperoleh sebanyak 2536 foto dari …",
+        "total_citations": "Cited by 3",
+        "pdf_link": "https://www.researchgate.net/profile/Abdul-Basith-5/publication/307958160_PEMETAAN_PELABUHAN_PERIKANAN_PANTAI_SADENG_KABUPATEN_GUNUNGKIDUL_MENGGUNAKAN_UAV/links/57d33e1b08ae601b39a429a0/PEMETAAN-PELABUHAN-PERIKANAN-PANTAI-SADENG-KABUPATEN-GUNUNGKIDUL-MENGGUNAKAN-UAV.pdf"
+    },
+    {
+        "title": "Sistem Pemantauan Tata Ruang dengan Wahana Udara Nir-Awak Sebagai Penyedia Foto Udara Murah",
+        "authors": [
+            "Catur Aris Rokhmana"
+        ],
+        "cited_by": "3",
+        "year": "2010",
+        "venue": "Makalah. Yogyakarta: Universitas Gadjah Mada",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:b0M2c_1WBrUC",
+        "publication_date": "2010",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Sistem Pemantauan Tata Ruang Kota dengan Wahana Udara Nirawak sebagai Penyedia Foto Udara Murah",
+        "authors": [
+            "CA Rokhmana"
+        ],
+        "cited_by": "3",
+        "year": "2010",
+        "venue": "Prosiding Seminar Nasional Tata Ruang Wilayah, Institut Teknologi Malang. Malang",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:RYcK_YlVTxYC",
+        "publication_date": "2010",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Membangun Sistem Pemetaan dari Udara Berbiaya rendah dengan Wahana Udara Nir-awak Mini",
+        "authors": [
+            "Catur Aris Rokhmana"
+        ],
+        "cited_by": "3",
+        "year": "2010",
+        "venue": "Jurnal Ilmiah Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:UebtZRa9Y70C",
+        "publication_date": "2010",
+        "abstract": "The production for 1/1.000-1/2.500 scale maps are still done by the aerial photography or survey methods terrestrial which are not cheap. This paper describes an alternative aerial mapping system which is relatively less expensive to produce large scale maps (1/1.000-1/5.000) using unmanned aerial vehicle (UAV). For keeping the lowest cost, the instrumentation build from the stuff that exist in the market such as aeromodeling and digital cameras. For supporting the operational of this system, the database of Indonesian territory was build also. This system consists of several modules namely (1) air vehicle,(2) imaging sensors and the stand,(3) data processing and visualization of results;(4) ground station, and (5) database. This system has been tested to produce the photomaps scale 1/2.500. Geometric quality improvements made possible by conducting the process of camera calibration with\" in-flight calibration\" …",
+        "total_citations": "Cited by 3"
+    },
+    {
+        "title": "Borobudur temple wall stability monitoring using robotic total station during the COVID-19 pandemic",
+        "authors": [
+            "Kresna Hadhinata",
+            "Dedi Atunggal",
+            "Catur Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2023",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:P5F9QuxV20EC",
+        "publication_date": "2023/2/14",
+        "abstract": "Borobudur Temple is a cultural heritage used as a tourist spot. Tourist activities on top of the temple give additional burdens to the temple continuously besides external factors from nature such as wind, temperature changes, weathering, moss growth, and others also contribute to the physical changes of Borobudur Temple. These combined factors can affect the Borobudur Temple wall stability, so it is necessary to monitor the temple wall stability using a robotic total station. This paper discusses the evaluation of Borobudur Temple wall stability by monitoring the points located above the balustrades during the COVID-19 pandemic situation. Tourists are prohibited from entering the temple buildings during the COVID-19 pandemic, so there is no influence of human activities for research related to the temple wall stability. Monitoring in this condition can be used as a comparison with monitoring during the peak season …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0114138/16683475/050003_1_online.pdf"
+    },
+    {
+        "title": "DTM generation from aerial photo and Worldview-3 images by using different DSM filtering methods",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Ahmad Ridho Sastra"
+        ],
+        "cited_by": "2",
+        "year": "2019",
+        "venue": "Sixth Geoinformation Science Symposium",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:JV2RwH3_ST0C",
+        "publication_date": "2019/11/21",
+        "abstract": "The goal of this study is to analyze the suitability of filtering method towards the generation of Digital Terrain Model (DTM) from Digital Surface Model (DSM). In this case DSM was produced by optical images sensor with stereoscopic viewing. There are 2 kind of optical image that used which are Very High Resolution Satellite (VHRS) image Worldview-3 and Aerial Photograph from Drone mission. Furthermore, there are three different DSM filtering methods are used which are Elevation Threshold with Expand Window (ETEW), 2D Morphological Square (Morph 2D Filter), and Adaptive TIN (ATin). The ALDPAT v.1.0 software has used to implement those algorithm. In addition, the visual interpretation from their correspondent images are used to evaluate the quality of the filtering process. A good filtering result will remove the point that not represent a terrain. The missing of non-ground point due to the filtering process …",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.spiedigitallibrary.org/proceedings/Download?fullDOI=10.1117/12.2547622"
+    },
+    {
+        "title": "Evaluation on the performance of NTRIP RTK positioning using multi-frequency low-cost GPS module in areas with different telecommunication signal strength",
+        "authors": [
+            "Novie Chiuman",
+            "Dedi Atunggal",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2019",
+        "venue": "2019 5th International Conference on Science and Technology (ICST)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:NaGl4SEjCO4C",
+        "publication_date": "2019/7/30",
+        "abstract": "GPS modules are often utilized for various applications, such as positioning of Unmanned Aerial Vehicles (UAVs), mobile mapping system, navigation, precision agriculture, and Geographic Information System (GIS). In recent years, affordable GPS modules targeted for Real-Time Kinematic (RTK) positioning have reached the mass market with price ranging from 25 to 3,500 USD. These modules come with several choices: single frequency, multi-frequency, and multi-satellite. This paper discusses the evaluation on the performance of multi-frequency low-cost GPS module with parameters such as baseline and telecommunication signal taken into consideration. Telecommunication signal data from three providers, Telkomsel, Indosat, and 3, are obtained from OpenSignal. This paper focuses on the accuracy of the positions obtained. The multi-frequency GPS module was used to obtain positions in open sky …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Aplikasi RTK GPS menggunakan Receiver OEM GPS untuk Penentuan Posisi Lajur Perum USV dalam Survei Batimetri",
+        "authors": [
+            "Dedi Atunggal",
+            "Abdul Basith",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2016",
+        "venue": "AES",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:4JMBOYKVnBMC",
+        "publication_date": "2016",
+        "abstract": "MetodeProsedur penelitian meliputi langkah-langkah persiapan, pelaksanaan dan penyelesaian seperti tersaji pada diagram alir penelitian (Gambar 2). Penelitian ini dimulai dengan persiapan yang meliputi studi literatur terkait desain sistem RTK yang dipasang pada USV serta persiapan alat dan bahan. Peralatan yang digunakan dalam peneiltian ini adalah sebagai berikut: a) Satu unit alat Echo Sounder GARMIN",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/326508169_Aplikasi_RTK_GPS_menggunakan_receiver_OEM_GPS_untuk_penentuan_posisi_lajur_perum_USV_dalam_survei_batimetri/links/6050b407299bf173674aa92b/Aplikasi-RTK-GPS-menggunakan-receiver-OEM-GPS-untuk-penentuan-posisi-lajur-perum-USV-dalam-survei-batimetri.pdf"
+    },
+    {
+        "title": "Evaluasi Penentuan Posisi dari GPS Cip dan GPS Modul Eksternal Pada Telepon Pintar",
+        "authors": [
+            "Dedi Atunggal",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2016",
+        "venue": "Joint 3rd CGISE and FIT ISI",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:4DMP91E08xMC",
+        "publication_date": "2016",
+        "abstract": "Fitur penentuan posisi pada smartphone (telepon pintar) banyak digunakan untuk aplikasi navigasi dan Location Based-Services (LBS). Pada dua aplikasi tersebut akurasi GPS yang digunakan pada umumnya berkisar 3-15 meter. Di sisi lain, pada kegiatan survei pendataan untuk sistem informasi geografis (GIS) diperlukan sistem penentuan posisi dengan ketelitian sub-meter. Saat ini telah banyak tersedia GPS modul (module GPS) yang mampu merekam data fase GPS (raw data) yang dapat digunakan untuk penentuan posisi dengan lebih teliti dan dapat diintegrasikan dengan telepon pintar. Makalah ini membahas penggunaan modul GPS yang diintegrasikan dengan telepon pintar untuk keperluan penentuan posisi teliti yang dibandingkan dengan posisi dari GPS cip (chipset GPS) yang tertanam pada telepon pintar. Pada penelitian ini telepon pintar yang digunakan memiliki sistem operasi android dan dilengkapi dengan aplikasi RTKGPS+ dan fitur port OTG (on the go) untuk dapat merekam data fase dari GPS modul melalui port USB. Evaluasi ini memanfaatkan stasiun CORS yang berjarak±40km dari area penelitian untuk memberikan koreksi differential GPS (DGPS) menggunakan teknik Network Transported RTCM via Internet Protocol (NTRIP). Hasil uji coba menunjukkan bahwa modul GPS eksternal memberikan solusi dengan ketelitian sub-meter secara cukup konsisten. Di masa mendatang aplikasi RTK GPS modul dengan koreksi NTRIP dari stasiun CORS potensial untuk digunakan pada survei pendataan GIS menggunakan telepon pintar.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/320558680_Evaluasi_Penentuan_Posisi_dari_GPS_Cip_dan_GPS_Modul_Eksternal_Pada_Telepon_Pintar/links/59edb7eb4585151983ccf519/Evaluasi-Penentuan-Posisi-dari-GPS-Cip-dan-GPS-Modul-Eksternal-Pada-Telepon-Pintar.pdf"
+    },
+    {
+        "title": "Potensi Pemanfaatan Penginderaan Jauh Dengan Wahana Udara Nir-Awak Di Industri Tambang Dan Migas",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2015",
+        "venue": "Seminar Nasional Informatika 2012",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:qjMakFHDy7sC",
+        "publication_date": "2015/7/29",
+        "abstract": "Saat ini, kebutuhan akan energi telah mendorong meningkatnya permintaan pada produk dari industri tambang dan migas. Tulisan ini mengilustrasikan suatu sistem penginderaan jauh dengan wahana udara nir-awak yang bekerja pada industri tambang dan migas untuk tujuan survei topografi, penilaian aset dan volume, dan pemantauan Perubahan tutupan lahan. Sistem ini pada hakekatnya adalah menyederhanakan sistem pemetaan secara fotogrametri digital agar dapat dilakukan oleh personal. Arsitektur instrumentasi sistem dan sejumlah contoh kasus diberikan dalam tulusan ini. Kasus tersebut diantaranya adalah aplikasi di Unit Bisnis Nikel PT ANTAM di Maluku Utara dan lapangan minyak PT Chevron Pacific Indonesia di Riau. Sistem ini dapat menghasilkan sejumlah produk dasar yang tidak selalu untuk tujuan survei-pemetaan saja, tetapi lebih luas pada penyedia jasa informasi spasial untuk sejumlah tujuan penilaian kawasan. Kualitas informasi geometrik yang dihasilkan dapat mencapai tingkat akurasi sub-meter atau < 50cm. Dimasa mendatang dengan semakin majunya sensor optik-elektrik, sistem tele-kontrol, dan sistem auto-pilot, maka diharapkan pekerjaan survei pemetaan berbasis fotogrametri akan semakin mudah dan murah",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Pengukuran Plant Satellite Nilam 2 Pt. Vico Indonesia Menggunakan Laser Scanner Scanstation 2 Dengan Registrasi Metode Target To Target",
+        "authors": [
+            "HARYO W WIBOWO",
+            "Catur A Rokhmana"
+        ],
+        "cited_by": "2",
+        "year": "2013",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:9yKSN-GCB0IC",
+        "publication_date": "2013",
+        "abstract": "VICO atau Virginia Indonesia Company, merupakan salah satu perusahaan Kontraktor Kontrak Kerja Sama (KKKS) ditunjuk BPMIGAS untuk melakukan proses pengeboran minyak dan gas bumi. Vico berencana untuk memodifikasi beberapa produksi lapangan antara lain untuk iventarisasi pipa dan model 3 dimensi pipa yang berlokasi di Plant Satellite Nilam 2, untuk menunjang pekerjaan ini dipilihlah teknologi terrestrial laser scanner dengan menggunakan alat Scanstation 2 dari Leica Geosytems. Laser scanner merupakan alat peyiaman yang mampu menghasilkan suatu kenampakan dari obyek yang diukur dalam bentuk 3 dimensi. Tujuan dari pekerjaan ini adalah pengukuran Plant Satellite Nilam 2 dengan mengunakan laser scanner scanstation 2 sehingga objek terekam sebagai kumpulan data point cloud yang terletak dalam sistem koordinat 3 dimensi. Pada peyiaman Plant Satellite Nilam 2 digunakan Terrestrial Laser Scanner Scanstation 2 hal yang dilakukan yaitu: Survei pendahuluan, survey pendahuluan merupakan kegiatan dimana melakukan suatu pekerjaan survei lapangan dan orientasi scanner. Desain Pengukuran dimana dalam pekerjaan ini mempunyai beberapa pekerjaan meliputi, pendirian alat scanner pada posisi yang telah ditentukan, pembuatan database pekerjaan yang akan dilakukan dan koneksi software cyclone 7.0 ke scanner. Pemasangan titik target, target yang digunakan adalah target berupa planar cyrax yang berjumlah 4 buah titik target. Penentuan titik tengah target, disini titik tengah target diperlukan sebagai titik ikat pada proses registrasi. Proses Scanning (penyiaman), Scanning adalah proses …",
+        "total_citations": "Cited by 2"
+    },
+    {
+        "title": "Visualization of a Digital Elevation Model using Advanced Image Processing",
+        "authors": [
+            "Jayashree Prasad",
+            "Apurv Vidhate",
+            "Durva Patiyat"
+        ],
+        "cited_by": "2",
+        "year": "",
+        "venue": "International Journal for Research in Applied Science & Engineering Technology (IJRASET)",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:rO6llkc54NcC",
+        "abstract": "Advancements in the field of satellite technologies have made it available to us to acquire the latest imagery, but due to a lack of visualization techniques it becomes very difficult for a person to ascertain the actual situation from a remote place. In this paper we have discussed an attempt to better ascertain satellite imagery with the help of rasters and topographical tools.",
+        "total_citations": "Cited by 2",
+        "pdf_link": "https://www.academia.edu/download/89813244/Visualization_of_a_Digital_Elevation_Model_using_Advanced_Image_Processing.pdf"
+    },
+    {
+        "title": "Some enhancement of aerial and terrestrial photo for 3d modeling of texture-less object surface",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Hanif Muhammad Fauzi"
+        ],
+        "cited_by": "1",
+        "year": "2021",
+        "venue": "Springer International Publishing",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:nb7KW1ujOQ8C",
+        "publication_date": "2021/4/2",
+        "abstract": "Today, the combination of Aerial and Terrestrial photos has been more implemented for 3D modelling purposes. This 3D modelling technique getting popular because it is supporting with photogrammetry structure from motion algorithm (SFM). The SFM algorithm makes automation in the processing step. One of the main problems that will occur in the automation of 3D modelling objects with the SFM algorithm is whether objects have texture-less surfaces. The purpose of this research is to evaluate some enhancement processes that were applied before running the SFM algorithm for 3D modelling. Some pre-processing enhancements are a combination Contrast-Limited Adaptive Histogram Equalization (CLAHE) from Fiji-ImageJ and JPEG to RAW Ai artefact algorithm from Topaz Labs. Two sample objects are tested which are a heritage object that has a texture-less wall surface object and a paddy field that has a …",
+        "total_citations": "Cited by 1"
+    },
+    {
+        "title": "Ekstraksi Citra Sentinel 1A Dengan Metode Dekomposisi Polarimetrik Untuk Pemetaan Hutan di Provinsi Sumatera Selatan",
+        "authors": [
+            "Rahma Anisa",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "1",
+        "year": "2019",
+        "venue": "Elipsoida",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:KxtntwgDAa4C",
+        "publication_date": "2019",
+        "abstract": "Hutan di Indonesia merupakan ekosistem yang luas, banyak didominasi di wilayah yang jauh dari perkotaan seperti di Provinsi Sumatera Selatan, Provinsi Riau, Provinsi Jambi dan juga Pulau Kalimantan. Pemetaan dan pemantauan hutan umumnya dilakukan menggunakan pendekatan penginderaan jauh satelit optik, akan tetapi penggunaan data satelit penginderaan jauh optik memiliki liputan awan yang cukup banyak hal itu yang menimbulkan kendala dalam pengolahannya. Penggunaan data satelit penginderaan jauh Synthetic Aperture Radar (SAR) menjadi salah satu solusi untuk pemetaan dan pemantauan kawasan hutan karena memberikan persepektif baru yang dapat melengkapi kekurangan keterbatasan citra optik dalam melakukan pengolahan salah satunya dengan memanfaatkan teknologi polarisasi citra radar. Metode yang digunakan untuk mengindentifikasi seberapa besar teknologi polarisasi SAR dalam membantu pemetaan hutan yaitu metode polarimetrik dengan menggunakan metode dekomposisi H-Alpha berfungsi untuk mengeksploitasi secara optimal informasi yang terkandung dalam data polarimetrik-SAR berdasarkan analisis eigenvalue untuk mendapatkan parameter anistrophy, entropy dan alpha angle dan klasifikasi hutan menggunakan Unsupervised Wishart Classification. Hasil pengolahan polarimetrik diketahui bahwa luasan hutan pengolahan polarimetrik sebesar 493906, 15 ha dan non-hutan sebesar 4004558, 1 ha akan tetapi secara umum metode polarimetrik dengan klasifikasi tak terbimbing Unsupervised Wishart Classification ini dapat mewakili keadaan sebenernya berdasarkan tingkat …",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.academia.edu/download/91712026/2901.pdf"
+    },
+    {
+        "title": "Kajian penggunaan gps modul pada penentuan posisi exposure dalam misi UAV",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Dedi Atunggal"
+        ],
+        "cited_by": "1",
+        "year": "2016",
+        "venue": "FIT-ISI dan CGISE",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:r0BpntZqJG4C",
+        "publication_date": "2016",
+        "abstract": "Aplikasi UAV (Unmanned Aerial Vehicle) sebagai wahana pemotretan udara, baik untuk surveillance maupun survei pemetaan semakin banyak diterapkan. Pada umumnya system penentuan posisi pada wahana UAV cukup menggunakan GPS type navigasi dalam bentuk GPS modul yang dibawa dalam sistem avionik UAV. Dilain pihak, dalam pemrosesan foto secara fotogrametri diperlukan nilai pendekatan parameter orientasi luar posisi titik eksposur kamera. Saat ini tersedia sejumlah tipe GPS modul yang mampu merekam data fasa GPS, sehingga memungkinkan untuk melakukan penentuan posisi GPS kinematic dengan akurasi sub-meter. Makalah ini membahas tentang penggunaan GPS modul untuk penentuan posisi titik eksposur kamera dalam misi UAV. Kajian dilakukan untuk membandingkan hasil akurasi penentuan posisi mode absolut positioning, dan kinematic dengan post processing. Hasil perbandingan menunjukkan pada penentuan posisi mode absolut atau GPS navigasi stabil di akurasi< 10m, sedangkan mode GPS kinematik stabil di akurasi sub-meter untuk komponen posisi Horizontal. Dimasa mendatang keberadaan sejumlah stasiun CORS sebagai Base-point akan sangat membantu berjalannya sistem GPS modul untuk penentuan posisi eksposur.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://www.researchgate.net/profile/Dedi-Atunggal/publication/332012445_Kajian_Penggunaan_GPS_Modul_pada_Penentuan_Posisi_Exposure_dalam_Misi_UAV/links/5c9af83a299bf1116949a520/Kajian-Penggunaan-GPS-Modul-pada-Penentuan-Posisi-Exposure-dalam-Misi-UAV.pdf"
+    },
+    {
+        "title": "Upaya Peningkatan Kualitas Geometrik Citraupaya Peningkatan Kualitas Geometrik Citra Lapan-Tubsat Pada Aplikasi Surveilen",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Chusnul Tri Judianto"
+        ],
+        "cited_by": "1",
+        "year": "2011",
+        "venue": "Indonesian Journal of Aerospace",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:zYLM7Y9cAGgC",
+        "publication_date": "2011",
+        "abstract": "Indonesia has developed and operates the LAPAN-TUBSAT micro satellite since 2007 for supporting the surveillance application to observe the earth surface. LAPAN-TUBSAT satellite carried a video camera as an imaging sensor with 5 m ground resolution and 3.5 km swath. Data from this camera still have a weak geometric. This paper will reviews regarding LAPAN-TUBSAT data processing from video recordings as an effort to increase the geometric quality of the LAPAN-TUBSAT image. The correction model rectification of a simple single photograph is used for geometric correction. While the using of super resolution operator for increasing the video image resolution. The correction model rectification of a simple single photograph is used for geometric correction. While the super resolution operator attempted to efforts to increase the resolution of the video image. The experimental results shows geo-reference image with better geometric quality. The evaluation of LAPAN-TUBSAT performance should be carried out In the near future especially for providing Altitude information (Z). This is related to satellite manoeuvre ability to generate a stereo image with better B/H ratio",
+        "total_citations": "Cited by 1",
+        "pdf_link": "https://ejournal.brin.go.id/ijoa/article/download/12414/9721"
+    },
+    {
+        "title": "Some aspects on developing a truly low-cost mapping system using handheld gps and camcorder",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "1",
+        "year": "2006",
+        "venue": "Proc., XXIII FIG Congress",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:_kc_bZDykSQC",
+        "publication_date": "2006",
+        "abstract": "There are some characteristics for the mapping systems that need to be developing which are low-cost, easy in operation, fast in production, and the appropriate quality. The aerial videography (AV) is one of the interesting low-cost systems. Further, this paper explains some aspect on hardware, processing, and operation. These explanation aspects are include: video camera, airborne platform, handheld GPS, the information extraction, and practical implementation.Some aspects of the processing function such as: ortho-mosaic, stereo-mosaic, motion extraction, and georegistration will explained. Some aspects on using the handheld GPS for sub-meter accuracy are showed. Some of operational aspects show the effectiveness coverage volume and the production time. It is suggested to implement the AV system for producing an ortho-mosaic and DTM with coverage area less than 5000Ha. Both of combinations camcorder and handheld GPS can be fulfilled to produce accuracy up to map scale 1/5000.",
+        "total_citations": "Cited by 1",
+        "pdf_link": "http://www.fig.net/pub/fig2006/papers/ts73/ts73_03_rokhmana_0820.pdf"
+    },
+    {
+        "title": "Analysis of sentinel-1 SAR image polarization combination for updating land cover map",
+        "authors": [
+            "Catur Aries Rokhmana, Akbar",
+            "Johan Ariyantoni"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "AIP Conference Proceedings",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:uWQEDVKXjbEC",
+        "publication_date": "2025/2/7",
+        "abstract": "The existence of a 1/50,000 scale RBI (Rupa Bumi Indonesia) map from the https://tanahair.indonesia.go.id/ site is quite complete. However, the thematic information or layer on the map is not updated, especially the land covertheme. Remote sensing technology with SAR (Synthetic Aperture Radar) sensors is suitable for conditions in Indonesia where there is always a limitation from cloud coverage. Sentinel-1 SAR imagery can be a solution for medium-scalethematic production of maps. Sentinel-1 SAR imagery has polarization data that can be explored to enrich image classification capabilities. This study evaluates which polarization combination is the most optimal for thematic landcover. There are six polarization combination schemes evaluated, which are: (VV, VH, VV), (VH/VV, VV, VH), (VV, VH, VV/VH), (VV+VH, VH, VV/VH), (VV-VH/VV+VH, VH, VV+VH/2), (VV, VH, VV-VH). Each polarization scheme provides …",
+        "pdf_link": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0227783/20384804/030012_1_5.0227783.pdf"
+    },
+    {
+        "title": "Perbandingan Algoritma Macro dan Cloth Simulation Filtering untuk Penyaringan Data Point Cloud dari Foto Udara pada Area dengan Dominasi Vegetasi",
+        "authors": [
+            "Yohananda Maria Mendhieta"
+        ],
+        "cited_by": "",
+        "year": "2025",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:u9iWguZQMMsC",
+        "publication_date": "2025",
+        "abstract": "PT Timah merupakan perusahaan pertambangan timah yang memiliki segmen usaha mulai dari kegiatan eksplorasi, penambangan, pengolahan hingga pemasaran. Kegiatan eksplorasi PT Timah dimaksudkan untuk mencari cadangan sumber daya timah. Kegiatan tersebut membutuhkan Digital Terrain Model (DTM) untuk pemodelan geologi dan perhitungan cadangan sumber daya timah. Salah satu area yang akan dieksplorasi adalah area dengan dominasi vegetasi di Desa Kota Kapur. Penyaringan data point cloud pada area dengan dominasi vegetasi untuk menghasilkan DTM menjadi permasalahan. PT Timah masih menemukan keterbatasan dalam penggunaan algoritma Macro untuk penyaringan data point cloud dari foto udara pada kondisi tersebut. Sementara itu, algoritma Cloth Simulation Filtering (CSF) yang lebih efisien dari segi biaya belum pernah diterapkan sehingga kinerjanya belum diketahui. Kebutuhan akan susunan Macro yang lebih efektif dan algoritma CSF yang lebih efisien menunjukkan perlunya pengujian. Proyek akhir ini bermaksud membandingkan algoritma Macro dan CSF untuk penyaringan data point cloud dari foto udara. Perbandingan berfokus pada area dengan dominasi vegetasi di Izin Usaha Pertambangan (IUP) PT Timah di Desa Kota Kapur.Proyek akhir ini menggunakan data sekunder berupa point cloud, ortofoto, dan 20 titik uji. Data tersebut berada di IUP PT Timah di Desa Kota Kapur. Data point cloud kemudian dibagi menjadi tiga area. Proses penyaringan dilakukan menggunakan algoritma Macro dan CSF dengan parameter yang disesuaikan karakteristik medan dan tutupan lahan ketiga area …",
+        "pdf_link": "https://etd.repository.ugm.ac.id/penelitian/detail/268714"
+    },
+    {
+        "title": "Analisis Ketelitian Data Airborne LiDAR Dalam Pemodelan Tiga Dimensi Bangunan Gedung Tingkat Level Of Detail 2",
+        "authors": [
+            "Taufik Yulianto"
+        ],
+        "cited_by": "",
+        "year": "2024",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:SP6oXDckpogC",
+        "publication_date": "2024",
+        "abstract": "Teknologi survei dan pemetaan terus berkembang dengan inovasi yang berkelanjutan, termasuk teknologi pemetaan wilayah tiga dimensi. Produk 3D menjadi semakin penting dalam arsitektur, perencanaan kota, dan pemetaan. Airborne LiDAR dianggap sebagai metode paling efektif dalam pemodelan tiga dimensi bangunan dan gedung tinggi untuk penataan kawasan kota yang baik. Akan tetapi, pengkajian ulang terhadap data Airborne LiDAR untuk pemodelan tiga dimensi masih diperlukan guna menentukan apakah tingkat ketelitiannya mencapai LOD 2 untuk bangunan gedung. Oleh karena itu, penelitian ini bertujuan untuk mengevaluasi ketelitian data Airborne LiDAR dalam pembuatan model tiga dimensi bangunan gedung dengan ketelitian LOD2. Parameter yang diuji yaitu membandingkan tinggi bangunan dan model bentuk atap hasil pemodelan tiga dimensi dari Airborne LiDAR.Pemodelan tiga dimensi dari data Airborne LiDAR pada gedung Balairung, Perpustakaan, dan Grha Sabha Pramana UGM dilakukan dengan tingkat detail LOD 2. Sebelum pemodelan, data point cloud dari Airborne LiDAR harus diklasifikasikan secara otomatis atau manual untuk memisahkan titik-titik yang memiliki karakteristik, sifat, dan persebaran yang serupa menjadi beberapa kelas sesuai dengan informasi yang sesungguhnya lapangan. Diperlukan data penunjang berupa orthophoto untuk membantu pada saat klasifikasi point cloud LiDAR. Pemodelan menggunakan metode Vectorize building dengan perangkat lunak Microstation Connect karena metode ini memungkinkan pemodelan tiga dimensi secara otomatis. Hasil pemodelan bangunan …",
+        "pdf_link": "https://etd.repository.ugm.ac.id/penelitian/detail/241979"
+    },
+    {
+        "title": "Some Enhancement of Aerial and Terrestrial Photo for 3D Modeling of Texture-Less Object Surface",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Hanif Muhammad Fauzi"
+        ],
+        "cited_by": "",
+        "year": "2023",
+        "venue": "Proceedings of UASG 2021: Wings 4 Sustainability: Unmanned Aerial System in Geomatics",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:p2g8aNsByqUC",
+        "publication_date": "2023/3/15",
+        "abstract": "Today, the combination of Aerial and Terrestrial photos has been more implemented for 3D modelling purposes. This 3D modelling technique getting popular because it is supporting with photogrammetry structure from motion algo-rithm (SFM). The SFM algorithm makes automation in the processing step. One of the main problems that will occur in the automation of 3D modelling objects with the SFM algorithm is whether objects have texture-less surfaces. The purpose of this research is to evaluate some enhancement processes that were applied before running the SFM algorithm for 3D modelling. Some pre-processing enhancements are a combination Contrast-Limited Adaptive Histogram Equalization (CLAHE) from Fiji-ImageJ and JPEG to RAW Ai artefact algorithm from Topaz Labs. Two sample objects are tested which are a heritage object that has a texture-less wall surface object and a paddy field that has a similar object pattern. Some aerial and terrestrial photos have been enhanced before processing in 3D modelling. The result shows that applying preprocessing enhancement can improve the completeness of the object, especially in texture-less wall surface area. Pre-processing enhancement improves the geometric accuracy and number of vertex and surfaces also. In the future, the combination of the Jpeg to Raw Ai and the CLAHE enhancement should be explored for the best 3D model solution."
+    },
+    {
+        "title": "Front Page Geomatika Vol. 28 No. 1 Tahun 2022",
+        "authors": [
+            "Sekretariat Redaksi Geomatika",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2022",
+        "venue": "Geomatika",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:f2IySw72cVMC",
+        "publication_date": "2022/6/29",
+        "abstract": "Penelitian ini bertujuan memetakan area potensi banjir yang berada di Kecamatan Cigudeg Kabupaten Bogor berdasarkan data dari DEMNAS (Digital Elevation Model Nasional). Indeks TWI Kecamatan Cigudeg memiliki rentang kelembaban sebesar 9,657-22,185 RH. Nilai indeks tersebut menunjukkan daerah potensi bahaya banjir sangat tinggi dengan cakupan luas, 1% dari luas wilayah yang dipetakan dalam penelitian ini yaitu 184.176, 314 ha."
+    },
+    {
+        "title": "Sharpening of Sentinel-2 imagery for updating thematic layer of base maps",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Dany Puguh Laksono"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "Seventh Geoinformation Science Symposium 2021",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:ldfaerwXgEUC",
+        "publication_date": "2021/12/22",
+        "abstract": "Currently, the Geospatial Information Agency of Indonesia has provided a relatively complete Base Maps RBI (Rupa Bumi Indonesia) on the map scale of 1/25,000 to 1/50,000. This Base maps data that can be downloaded for free via the https://tanahair.indonesia.go.id/. However, some of the RBI Maps were produced in 2001. Therefore, it is necessary to update the Maps. The existence of access to medium-resolution image data such as the Sentinel-2 satellite imagery can be a low-cost solution. However, the Sentinel-2 imagery should be enhanced for better visual interpretation. This research tries to sharpen Sentinel-2 imagery. The results can be used to update the existing themes in the RBI Map. This study takes the case of the Sleman district in the province of Yogyakarta area which is developing quite rapidly. The Sentinel-2 level 2A data from 2 epochs was used for sharpening. The process of sharpening is …"
+    },
+    {
+        "title": "Detection of surface deformation in opak fault Yogyakarta using quasi persistent scatter interferometry synthetic aperture radar",
+        "authors": [
+            "M Yudinugroho",
+            "CA Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "IOP Conference Series: Earth and Environmental Science",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:vV6vV6tmYwMC",
+        "publication_date": "2021/4/1",
+        "abstract": "The Opak Fault is an active fault located in Yogyakarta. As an active fault, it leads to natural disasters, one of them being the Yogyakarta earthquake in 2006. Since then, Opak Fault surface deformation has not reoccured; hence measurement to detect this movement is essential. A widely used method in surface deformation measurement is Persistent Scatter Interferometry Synthetic Aperture Radar. A refined version of the PSI technique, the QPSI method, allows identifying and estimating targets undergoing movement through the reflectivity and amplitude stability of SAR waves. This study analyzed multi temporal Sentinel-1 Ascending and Descending data to analyze the Quasi-PSI performance in detecting surface deformation surrounding the Opak Fault. Results showed subsidence of the Opak Fault with a displacement accumulation up to -50mm throughout a period of 6 years. A majority of the surface …",
+        "pdf_link": "https://iopscience.iop.org/article/10.1088/1755-1315/739/1/012089/pdf"
+    },
+    {
+        "title": "ASESMEN SENSITIVITAS SYNTHETIC APERTURE RADAR BAND-C UNTUK IDENTIFIKASI POTENSI KEKERINGAN",
+        "authors": [
+            "HIKMAH FAJAR ASSIDIQ"
+        ],
+        "cited_by": "",
+        "year": "2021",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:zA6iFVUQeVQC",
+        "publication_date": "2021",
+        "abstract": "Kekeringan merupakan salah satu bencana krusial dan kompleks yang dapat menimbulkan kerugian material dan immaterial. Kerugian akibat dampak kekeringan dapat dirasakan diberbagai sektor, salahsatunya sektor pertanian. Pertanian mengalami penurunan produktivitas akibat tidak mencukupinya kebutuhan air untuk masa tanam. Kondisi tersebut akan berpengaruh pada ketersediaan bahan pangan sehingga diperlukan tindakan preventif. Tindakan preventif dilakukan dengan cepat, efektif dan efisien sehingga pendekatan dengan pola dinamis sangat diperlukan. Pendekatan pola dinamis dilakukan dengan metode yang dapat dilakukan setiap waktu. Penggunaan penginderaan jauh sensor aktif dapat menjadi solusi melalui pemantauan setiap waktu. Salah satunya satelit dengan sensor aktif yang dapat diakses setiap saat dan opensource, yaitu Sentinel 1A. Penelitian ini bertujuan untuk mengkaji sensitivitas data SAR Band C untuk identifikasi potensi kekeringan. Metode yang digunakan yaitu Radar Vegetation Index. RVI dikembangkan dari algoritma NDVI yang dimodifikasi agar dapat diterapkan pada Sentinel 1A melalui kombinasi polarisasi. Sentinel 1A memiliki dual-polarization yang terdiri dari VV dan VH. Penelitian ini dilakukan melalui beberapa tahapan meliputi tahap persiapan, tahap pengumpulan data spasial/non spasial, dan tahap pengolahan data. Tahapan pengolahan data dilakukan pada Sentinel 1A, Landsat 8 dan menghitung neraca air melalui Metode Thornthwaite Mather. Data yang diolah kemudian dilakukan pengujian sensitivitas kekeringan RVI melalui tabel confusion matrix. Confusion matrix …"
+    },
+    {
+        "title": "ANALISIS PERBANDINGAN MODEL TIGA DIMENSI BENDA CAGAR BUDAYA MENGGUNAKAN KAMERA DSLR DAN ZED DEPTH CAMERA (STUDI KASUS: CANDI GEBANG)",
+        "authors": [
+            "RAHMAN NURABRIANSYAH"
+        ],
+        "cited_by": "",
+        "year": "2018",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:ZHo1McVdvXMC",
+        "publication_date": "2018",
+        "abstract": "Undang-Undang nomor 11 Tahun 2010 Pasal 1 Ayat 1 memaparkan bahwa cagar budaya membutuhkan upaya pelestarian agar terlindungi dan keberadaannya tetap terjaga. Salah satu upayanya yaitu pendokumentasian dengan cara pembuatan model tiga dimensi sehingga dapat diperoleh data spasial cagar budaya tersebut. Salah satu metode untuk mendapatkan model tiga dimensi yaitu fotogrametri jarak dekat. Metode fotogrametri jarak dekat dapat menghasilkan informasi data spasial cagar budaya. Metode fotogrametri jarak dekat dapat menggunakan berbagai jenis kamera sebagai alat akuisisinya, salah satu contohnya yaitu kamera DSLR yang telah lazim digunakan untuk keperluan fotografi dan ZED depth camera yang dapat memperoleh model tiga dimensi saat akuisisi secara langsung. Penelitian ini membandingkan model tiga dimensi objek candi yang dihasilkan oleh kamera DSLR dengan ZED depth camera. Lokasi penelitian berada di Candi Gebang, Dusun Gebang, Desa Wedomartani, Kecamatan Ngemplak, Kabupaten Sleman, Provinsi Daerah Istimewa Yogyakarta. Cakupan objek penlitian yaitu bagian sisi utara dan timur dari candi. Proses akuisisi terbagi menjadi tiga yaitu pemindaian menggunakan ZED depth camera, pemotretan objek menggunakan kamera DSLR dan pengukuran ukuran dimensi geometri. Pengolahan data pada ZED depth camera meliputi filtering dan registrasi model tiga dimensi objek menggunakan software MeshLab. Sedangkan pada kamera DSLR pengolahan data meliputi orientasi kamera, filtering, pendefinisian ukuran geometri, dan pembentukan model tiga dimensi menggunakan …"
+    },
+    {
+        "title": "EVALUASI HASIL KOMBINASI SPHERICAL PHOTOGRAMMETRY DAN PEMOTRETAN UDARA MENGGUNAKAN UNMANNED AERIAL VEHICLE UNTUK PEMODELAN TIGA DIMENSI",
+        "authors": [
+            "TAUFIQ IHSANUDIN"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:1sJd4Hv_s6UC",
+        "publication_date": "2017"
+    },
+    {
+        "title": "EVALUASI PENGGUNAAN MODUL GPS SINGLE FREQUENCY UNTUK PENENTUAN POSISI TITIK EKSPOSUR FOTO UDARA",
+        "authors": [
+            "I GEDE SUKMA NATA PERMANA"
+        ],
+        "cited_by": "",
+        "year": "2017",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:EUQCXRtRnyEC",
+        "publication_date": "2017",
+        "abstract": "Kegiatan georeferencing berserta pengestimasian posisi titik eksposur data foto udara yang diperoleh dengan menggunakan UAV, tidak dapat dilakukan dengan efisien jika hanya bergantung dari proses bundle adjustment yang memerlukan GCP (Ground Control Point) dalam jumlah besar. Hal tersebut dikarenakan pengadaan GCP yang akurat dengan jumlah yang memadai di setiap area pertampalan foto udara membutuhkan biaya operasional yang besar dan waktu yang cukup lama. Salah satu alternatif yang menjadi jawaban atas permasalahan pengadaan GCP ini adalah dengan menambahkan informasi posisi (koordinat) titik eksposur ke dalam EXIF metadata foto udara melalui proses yang disebut geotagging. Koordinat titik eksposur tersebut diukur secara langsung dengan memanfaatkan teknologi modul GPS yang dipasang pada UAV. Secara teori, foto udara yang telah memiliki informasi posisi titik eksposur yang diukur secara langsung, telah ter-georeference tanpa perlu melalui proses triangulasi udara (pengadaan GCP tidak diperlukan). Akan tetapi, modul GPS yang umumnya terpasang di UAV memiliki keterbatasan dari segi akurasi sehingga penggunaannya untuk kegiatan penentuan posisi titik eksposur secara langsung perlu dikaji lebih mendalam. Penelitian ini mencoba mengevaluasi penggunaan sebuah modul GPS single frequency (modul GPS Skytrak NS-RAW) yang dipasang pada UAV untuk kegiatan penentuan posisi titik eksposur foto udara secara langsung. Modul GPS tersebut mampu merekam data kode sekaligus data fase yang disimpan dalam bentuk RAW data, sehingga selanjutnya dapat diolah secara …"
+    },
+    {
+        "title": "THE EFFECT OF GAMELAN AS A MUSIC THERAPY TO DECREASE THE STRESS LEVELS OF THE ELDERLY IN LAWANGAN–LAMONGAN",
+        "authors": [
+            "Rokhman Abdul"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:SeFeTyx0c_EC",
+        "publication_date": "2016/4/8",
+        "abstract": "Introduction Stress can be experienced by everyone, including the elderly. Stress cannot be eliminated from a person's life, but everyone can make efforts to lower the stress levels. The purpose of this study was to analyze the effect of gamelan as a music therapy to decrease the stress levels of the elderly in Lawangan – Lamongan. MethodThis study used pre-experimental design with one group pretest and posttest.  Simple random sampling was used and the sample size was 38 elderly from total population of 42 elderly. The data of this study was taken using questionnaire and observation. After being tabulated, the data were analyzed using Wilcoxon Rank Signal Test with significance level p =<0.05. Result The results showed that before giving treatment gamelan music therapy, elderly people experiencing moderate stress were 81.6 percent and 18.4 percent experiencing severe stress. After being given …"
+    },
+    {
+        "title": "EVALUASI KETELITIAN PENGGUNAAN ACTION CAMERA UNTUK PEMODELAN TIGA DIMENSI DENGAN METODE FOTOGRAMETRI JARAK DEKAT",
+        "authors": [
+            "ROSITA ANDARI EKA PUTRI"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:xtRiw3GOFMkC",
+        "publication_date": "2016",
+        "abstract": "Penggunaan action camera untuk pengumpulan data geospasial menjadi sesuatu yang penting dan menjadi populer. Action camera merupakan kamera digital yang memiliki karakteristik ringan, berdimensi kecil, tahan air, dan field of view (FOV) yang lebar. Pada dasarnya action camera dikembangkan untuk digunakan dalam kegiatan olahraga maupun fotografi dasar laut. Berdasarkan karakteristiknya, penggunaan action camera mulai meluas untuk kegiatan pengumpulan data menggunakan Unmanned Aerial Vehicle (UAV), mobile mapping system maupun kegiatan fotogrametri lainnya (Teo, 2015). Penggunaan action camera untuk pengumpulan data dapat diterapkan untuk pengambilan data model tiga dimensi. Pemodelan tiga dimensi menggunakan data hasil akuisisi action camera menghasilkan model yang berbeda dengan bentuk asli objek di lapangan. Hasil pemodelan yang berbeda terjadi akibat tingkat distorsi lensa action camera yang tinggi. Hal ini dapat mengurangi ketelitian dari model tiga dimensi. Evaluasi penggunaan action camera dalam pembuatan model tiga dimensi dengan metode fotogrameteri jarak dekat dilakukan untuk mengetahui tingkat ketelitian hasil pemodelan. Pengambilan data untuk model tiga dimensi dilakukan dengan perekaman video terhadap objek penelitian yaitu Candi Gebang. Perekaman dilakukan menggunakan dua kamera yang berbeda, yaitu action camera Xiaomi Yi dan kamera DSLR Canon 600D. Data video yang diperoleh dikoreksi dengan tujuan memperoleh video yang stabil. Video yang telah dikoreksi diekstrak menjadi frame foto. Foto yang dihasilkan dikoreksi menggunakan …"
+    },
+    {
+        "title": "PEMETAAN DISTRIBUSI TANAMAN TERINDIKASI PENYAKIT MENGGUNAKAN FOTO UDARA MULTI SPEKTRAL (DAERAH KAJIAN MUARA WAHAU, KALIMANTAN TIMUR)",
+        "authors": [
+            "MADE NGURAH ADHIWANGSA WIGRAHA"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:NhqRSupF_l8C",
+        "publication_date": "2016",
+        "abstract": "Kelapa sawit merupakan salah satu komoditas utama dalam bidang perkebunan di Indonesia. Dalam rangka konservasinya guna mempertahankan kualitas, diperlukan penanganan yang cepat untuk melihat sawit yang terindikasi penyakit. Melalui foto udara multispektral 4 band yang diakuisisi dengan menggunakan kamera format sedang digital Leica RCD30 pada pesawat Pilatus Porter PC6, distribusi kelompok-kelompok tanaman sawit yang terindikasi penyakit akan nampak jelas terlihat secara visual dalam waktu yang singkat dan jangkauan area yang luas. Dengan dibekali resolusi 60 Megapiksel, kamera ini mampu menghasilkan foto udara dengan resolusi spasial sampai dengan 0, 15 meter, sehingga memiliki kapasitas untuk pengamatan tiap satuan tanaman sawit secara jelas. Proyek ini memiliki tujuan untuk memetakan distribusi area tanaman sawit yang terindikasi penyakit pada daerah kajian Muara Wahau, Kalimantan timur. Data yang diperlukan adalah raw data foto udara multispektral dan point cloud lidar dengan cakupan area 900 hektar. Total foto udara yang digunakan adalah sebanyak 187 foto yang nantinya akan dibuat orto dan dimosaik. Tahapan dalam proyek ini adalah pemilihan areal kajian; ekstraksi dan seleksi raw foto pada areal kajian; pemrosesan EO; Triangulasi udara secara otomatis; Pemrosesan ortofoto dan mosaik foto; Identifikasi warna sawit sehat dan sakit; dan Klasifikasi hasil dari operasi NDVI. Hasil interpretasi warna secara visual pada komposit band 4 2 3 atau CIR adalah warna merah dikategorikan sebagai sawit yang sehat sedangkan warna pucat keabuan dikategorikan sebagai sawit yang …"
+    },
+    {
+        "title": "Kajian Keandalan Depth Camera untuk Membuat Model Candi dan Kawasan Sekitarnya",
+        "authors": [
+            "SP Asbintar"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:abG-DnoFyZgC",
+        "publication_date": "2016"
+    },
+    {
+        "title": "PEMANFAATAN DATA POINT CLOUD HASIL PENGUKURAN MOBILE MAPPING SYSTEM UNTUK PEMBUATAN PENAMPANG MELINTANG JALAN",
+        "authors": [
+            "GALIH YUDHA WAHYU SAPUTRA"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:fPk4N6BV_jEC",
+        "publication_date": "2016",
+        "abstract": "Salah satu kegiatan yang dilakukan dalam pengadaan data spasial dari objek jalan adalah pengukuran dan pembuatan penampang melintang. Kegiatan tersebut selama ini dilakukan menggunakan alat Total Station dan receiver GNSS tipe Geodetik dengan kebutuhan skala dari penampang melintang jalan di antara 1: 100 hingga 1: 500. Pengukuran menggunakan alat tersebut umumnya membutuhkan waktu yang relatif lama dan memiliki risiko terkait keamanan akibat aktivitas lalu lintas yang sedang berlangsung. Pada kegiatan ini akan dilakukan pembuatan penampang melintang jalan dengan memanfaatkan data point clouds hasil pengukuran Mobile Mapping System (MMS). Pembuatan penampang melintang jalan dilakukan dengan menggunakan data point cloud hasil pengukuran alat Leica Pegasus Two pada Jalan Raya Gading Kirana, Kecamatan Kelapa Gading, Kota Jakarta Utara, Daerah Khusus Ibukota Jakarta. Point cloud tersebut diperoleh melalui proses georeferensi data mentah hasil penyiaman laser scanner dengan trajectory yang merupakan hasil integrasi data Global Navigation Satellite System (GNSS) dan Inertial Measurement Unit (IMU) menggunakan perangkat lunak Inertial Explorer. Melalui proses tersebut diperoleh data point cloud tergeoreferensi. Pada tahapan selanjutnya, dilakukan produksi Digital Elevation Model (DEM) melalui interpolasi TIN pada data point cloud kelas ground. Melalui DEM tersebut, dilakukan pembuatan penampang melintang jalan setiap rentang 20 meter yang tegak lurus dengan as jalan. DEM yang dihasilkan memiliki nilai RMS error 0, 0524 m dan nilai standar deviasi 0, 0512 m …"
+    },
+    {
+        "title": "PEMODELAN 3D WAHANA PERMAINAN AIR MENGGUNAKAN DATA TERRESTRIAL LASER SCANNING",
+        "authors": [
+            "ILHAM SATRIA"
+        ],
+        "cited_by": "",
+        "year": "2016",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:HoB7MX3m0LUC",
+        "publication_date": "2016",
+        "abstract": "The Jugle Adventure Waterpark merupakan salah satu tempat rekreasi permainan air di kota Bogor, Jawa Barat. Salah satu wahana permainan air yang disediakan adalah water drop kids pool. Wahana permainan air ini terdiri dari berbagai paduan logam dan plastik. Kerusakan sangat rawan terjadi pada konstruksi wahana ini, terutama korosi pada bagian logam. Kegiatan monitoring wahana permainan air diperlukan untuk memantau kerusakan pada konstruksi wahana. Dalam ilmu geodesi kegiatan monitoring wahana permainan air bisa dilakukan dengan kegiatan pemodelan 3D dengan alat pengukuran lapangan terrestrial laser scanner. Tujuan kegiatan pemodelan 3D adalah membuat model 3D dari data terrestrial laser scanning. Hasil pengukuran menggunakan alat terrestrial laser scanner adalah data berbentuk point clouds yang menjadi acuan dalam pembentukan model 3D. Prinsip pengukuran alat terrestrial laser scanner menggunakan pemanfaatan sinar laser aktif yang dipancarkan oleh alat. Sinar laser tadi dipantulkan oleh obyek kemudian dikembalikan ke sistem penerima pada alat. Proses tersebut membuat alat dapat mengetahui posisi koordinat dari obyek-obyek yang terkena sinar laser. Alat utama dalam pemodelan 3D wahana permainan air ini menggunakan terrestrial laser scanner Leica c 10. Proses penggabungan data hasil pengukuran atau registrasi menggunakan metode target to target. Tahapan berikutnya setelah registrasi data adalah pembentukan model 3D dan texturing wahana permainan air. Model 3D yang terbentuk dilakukan uji kualitas secara geometri dan semantik untuk mendapatkan hasil yang …"
+    },
+    {
+        "title": "Kajian Sebaran Kekeringan Lahan Pertanian Kabupaten Demak dengan Algoritma Tasseled Cap",
+        "authors": [
+            "BANDI SASMITO",
+            "Andri Suprayogi"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:D03iK_w7-QYC",
+        "publication_date": "2015/11/19",
+        "abstract": "Indonesia adalah negara yang terletak di kawasan tropis, kekeringan merupakan sebuah fenomena yang hampir setiap tahun dialami. Kabupaten Demak merupakan salah satu Kabupaten yang ada di Jawa Tengah yang memiliki sistem pertanian yang sudah baik dan menjadi pendukung komoditas pertanian di wilayah Jawa Tengah. Kementrian Pertanian melalui situs Badan Litbang Pertanian mempublikasikan Kalender Tanam (Katam) Terpadu tentang rekomendasi waktu tanam serta komoditasnya",
+        "pdf_link": "https://eprints.undip.ac.id/67378/1/2015_FIT_ISI_1_OK.pdf"
+    },
+    {
+        "title": "INTEGRASI SENSOR KAMERA DENGAN GPS BERBASIS SISTEM WAKTU",
+        "authors": [
+            "AHMAD ARVY FACHRULLY"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:bFI3QPDXJZMC",
+        "publication_date": "2015",
+        "abstract": "Kegiatan mobile mapping memegang peranan penting dalam dunia pemetaan. Kegiatan ini memerlukan seperangkat alat yang dirancang khusus dengan menggabungkan berbagai sensor di dalamnya. Sensor-sensor tersebut harus bisa melakukan fungsi positioning selain akuisisi data yang lain. Alat-alat tersebut telah beredar di pasaran dengan berbagai fungsi dan berbagai variasi harga. Namun, alat-alat tersebut tidak dapat ditambahkan fungsi lain ataupun ditingkatkan kualitasnya. Alat yang paling sederhana adalah gabungan antara sensor kamera dengan GPS. Penggabungan kedua sensor ini memerlukan sinkronisasi sistem waktu. Tujuan dari kegiatan ini adalah mencoba mengintegrasikan antara sensor kamera yang terpisah dengan GPS menggunakan sistem waktu. Produk dari kegiatan integrasi ini adalah data foto yang memiliki atribut posisi titik exposure. Data foto tersebut kemudian akan di plot pada basemap (Panoramio dan Geosetter) dan software (Agisoft), serta akan dihitung jarak antar posisi titik exposure yang sama. Manfaat dari kegiatan integrasi ini adalah dapat dirancangnya alat yang lebih dinamis atau fleksibel dibandingkan alat dengan fungsi dan komponen yang statis, kemudian data hasil integrasi nantinya diperlukan untuk membantu mempermudah dalam kegiatan post processing photogrammetry tahap selanjutnya. Pada kegiatan ini digunakan modul GPS, mikrokontroler, dan sensor kamera yang telah ditanam GPS didalamnya. Modul GPS digunakan untuk akusisi data posisi koordinat lintang dan bujur. Mikrokontroler digunakan sebagai alat untuk mengaktifkan modul GPS dan mengatur sistem recording …"
+    },
+    {
+        "title": "PERBANDINGAN METODE FUSI CITRA HSV, BROVEY, DAN PCA PADA CITRA GEOEYE-1 YANG DIGUNAKAN UNTUK IDENTIFIKASI PENUTUP LAHAN",
+        "authors": [
+            "IBNU LISTIAN KAUTSARTAMA"
+        ],
+        "cited_by": "",
+        "year": "2015",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:W7OEmFMy1HYC",
+        "publication_date": "2015",
+        "abstract": "Kemajuan teknologi penginderaan jauh mampu menyediakan citra yang mempunyai resolusi spasial, resolusi spectral dan resolusi temporal yang cukup tinggi. Beberapa satelit penginderaan jauh mampu memberikan citra dengan informasi multispektral yang dapat membedakan fitur secara spectral tetapi tidak secara spasial, begitu pula sebaliknya. Fusi citra atau pan-sharpening adalah salah satu teknik yang tepat untuk menggabungkan detil geometri (spasial) dan detil warna (spektral) pada pasangan citra awal sehingga didapatkan citra multispectral baru dengan informasi spasial dan spektral yang lebih tajam. Penelitian ini akan membandingkan hasil fusi dari tiga metode image pansharpening yaitu Hue Saturation Value (HSV), Brovey, dan Principal Component Analysis (PCA). Tujuan penelitian ini adalah mengetahui metode mana yang memberikan hasil citra yang paling mudah untuk diinterpretasi secara visual guna identifikasi penutup lahan. Citra yang digunakan pada penelitian ini adalah Citra GeoEye-1 Multispektral dan Citra GeoEye-1 Pankromatik. Komposit citra yang digunakan adalah Band 4 (Red), Band 2 (Green), dan Band 1 (Blue). Komposit citra multi spectral tersebut digunakan karena pada kombinasi band tersebut memberikan informasi yang lebih mudah untuk identifikasi penutup lahan. Proses selanjutnya adalah melakukan image pansharpening pada data citra GeoEye-1 dengan menggunakan tiga metode fusi yaitu HSV, Brovey, dan PCA. Citra hasil fusi ketiga metode image pansharpening tersebut kemudian dianalisis untuk mengetahui metode mana yang memberikan hasil fusi citra yang paling mudah untuk …"
+    },
+    {
+        "title": "Penilaian Cepat Perubahan Lingkungan Pasca Kejadian Bencana dengan Wahana Udara Tanpa Awak",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "Jurnal Sains & Teknologi Lingkungan",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:YOwf2qJgpHMC",
+        "publication_date": "2014",
+        "abstract": "Kombinasi kondisi wilayah Indonesia yang berbentuk kepulauan, infrastruktur yang terbatas, kekayaan sumber daya alam, dan kerawanan bencana merupakan tantangan bagi kegiatan penilaian lingkungan. Saat ini, penilaian kawasan dengan teknologi penginderaan jauh (inderaja) masih menjadi pilihan yang efisien. Sehingga perlu dibangun sistem inderaja yang mandiri dengan karakteristik yang sesuai dengan kondisi Indonesia. Riset ini bertujuan untuk menguji sistem inderaja dengan wahana udara tanpa awak (WUTA) untuk penilaian secara cepat perubahan lingkungan pasca kejadian bencana. Fokus penilaian secara cepat dimaksudkan untuk aplikasi respon terhadap kejadian bencana (tahap tanggap darurat), dan melihat perubahan aset obyek buatan manusia.. Citra yang dihasilkan juga harus memiliki resolusi spasial yang tajam (< 25cm) agar mudah menilai obyek buatan manusia. Riset ini telah dicobakan dalam melihat perubahan lingkungan pasca kejadian bencana erupsi Gunung Merapi, dan Bencana Gempa Bumi di Aceh Tengah. Pengalaman dari kedua kasus tersebut menunjukkan bahwa sistem inderaja memanfaatkan WUTA memiliki karakteristik biaya operasional rendah, mudah dijalankan oleh operator lokal, kecepatan perolehan hasil, akurasi yang memadai, dan efektif untuk luasan lebih kecil 5000Ha.",
+        "pdf_link": "https://journal.uii.ac.id/JSTL/article/download/3499/3092"
+    },
+    {
+        "title": "TEKNIK PENYARINGAN DATA MODEL PERMUKAAN DIGITAL MENJADI DATA MODEL TERAIN DIGITAL PADA AREA VEGETASI DAN AREA PEMUKIMAN",
+        "authors": [
+            "MONZERI DESILVA"
+        ],
+        "cited_by": "",
+        "year": "2014",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:IjCSPb-OGe4C",
+        "publication_date": "2014"
+    },
+    {
+        "title": "PEMBUATAN PETA FOTO DAN PETA GARIS MENGGUNAKAN WAHANA UDARA TANPA AWAK, LOKASI PULAU BATEK, NUSA TENGGARA TIMUR",
+        "authors": [
+            "ARYS SETYA GUSMANA"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:dfsIfKJdRG4C",
+        "publication_date": "2013",
+        "abstract": "Sampai saat ini, teknologi fotogrametri terus mengalami perkembangan, baik dalam segi pengumpulan data maupun pemrosesannya. Hal ini ditandai dengan adanya teknik pengumpulan data dengan wahana tanpa awak sebagai media pembawa sensor fotogrametri. Keuntungan penggunaan teknologi tersebut adalah efektif dan efisien baik dari segi waktu dan biaya untuk pemetaan pada daerah yang tidak terlalu luas, serta dapat menghasilkan gambar yang lebih jelas, karena tinggi terbang wahana Ãƒï¿ ½Ã ‚Â±300 meter diatas permukaan laut sehingga pada saat pemotretan tidak mengalami ganguan awan. Penggunaan metode alternative tersebut tanpa mengurangi kualitas dan keakuratan produk yang dihasilkan, hal ini disebabkan perlu adanya perencanaan sebelum melaksanakan pemotretan, seperti pembuatan jalur terbang, pemilihan pesawat model sesuai kondisi area pemotretan, pengaturan kamera disesuaikan dengan jenis pesawat model, pembuatan premark, dan pengukuran titik control tanah. Proyek ini dilaksanakan di Pulau Batek, Kecamatan Afoan Timur, Kabupaten Kupang, Provinsi Nusa Tenggara Timur, dengan luas Ãƒï¿ ½Ã ‚Â±17 hektar. Sensor yang digunakan adalah kamera non metric digital. Proses pengolahan menggunakan perangkat lunak Agisoft PhotoScan. Proses yang dilakukan pada perangkat lunak yaitu: alignment merupakan proses identifikasi titik sekutu secara otomatis, hitungan bundle adjustment untuk menentukan orientasi luar kamera, pembuatan model geometri 3 dimensi, dan pemberian tekstur pada model. Setelah tahap pembentukan tekstur dilakukan pada seluruh foto, tahap selanjutnya …"
+    },
+    {
+        "title": "PEMODELAN 3 DIMENSI KILANG BERDASARKAN DATA POINT CLOUD MENGGUNAKAN BENTUK GEOMETRI OBJEK SEDERHANA",
+        "authors": [
+            "AGUS SUKMA YOGISWARA",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2013",
+        "venue": "Text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:Se3iqnhoufwC",
+        "publication_date": "2013"
+    },
+    {
+        "title": "UPAYA PENINGKATAN KUALITAS GEOMETRIK CITRA",
+        "authors": [
+            "LAPAN-TUBSAT PADA APLIKASI SURVEILEN"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "Jurnal Teknologi Dirgantara Vol",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:pyW8ca7W8N0C",
+        "publication_date": "2011/6",
+        "abstract": "Indonesia telah membangun dan mengoperasikan sistem satelit-mikro LAPANTUBSAT sejak tahun 2007 guna mendukung aplikasi surveilen atau pemantauan cepat obyek di permukaan Bumi. LAPAN-TUBSAT membawa sistem kamera video utama sebagai sensor pencitraan dengan resolusi 5 m dan lebar cakupan 3.5 km tetapi masih memiliki kelemahan geometrik. Tulisan ini mengulas sejumlah hal yang terkait dengan pemrosesan data hasil rekaman video LAPAN-TUBSAT sebagai upaya untuk meningkatkan kualitas geometrik dari citra LAPAN-TUBSAT. Model koreksi rektifikasi foto tunggal sederhana digunakan untuk koreksi geometrik. Sedangkan operator super-resolusi dicobakan untuk upaya peningkatan resolusi citra video. Hasil percobaan dapat menghasilkan citra bergeoreferensi dengan kualitas geometrik yang lebih baik. Di masa mendatang, perlu dilakukan percobaan untuk mengevaluasi kemampuan LAPAN-TUBSAT dalam menghasilkan informasi ketinggian (Z). Hal ini terkait dengan kemampuan manuver dari satelit untuk menghasilkan citra stereo dengan nilai B/H rasio yang lebih baik.",
+        "pdf_link": "https://www.academia.edu/download/95567927/1467.pdf"
+    },
+    {
+        "title": "ESTIMASI BIAYA DAUR HIDUP DAN OPTIMISASI HARGA PESAWAT TERBANG",
+        "authors": [
+            "Rais Zain",
+            "Odi Ahyarsi"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "Indonesian Journal of Aerospace",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:_xSYboBqXhAC",
+        "publication_date": "2011",
+        "abstract": "Since the conceptual design phase, the estimate of airplane life cycle cost (LCC) is carried out to support a decision making process. The LCC consist of research, development, testing, and evaluation cost, where an airplane estimated price (AEP) is a part of this calculation. Furthermore, AEP is employed as a non linear objective funtion for developing a constrained optimization algorthm. Rosen’s gradient projection is applyed in the development of computer program named Cost Analysis implementing object oriented approach on Microsoft Visual C++ 6.0. In order to verify the application, some data of Ourania jet airplane were utilized for carrying out a case study. The result of Cost Analysis shows that the estimated LCC are similar to the reference. Also, the optimization problems can be solved by Rosen’s algorithm less than ten iterations."
+    },
+    {
+        "title": "EVALUASI KETELITIAN GEOMETRIK MOSAIK TERKONTROL (STUDI KASUS FOTO UDARA FORMAT KECIL DAERAH PANGKALAN UDARA TNI AU)",
+        "authors": [
+            "Sony Setiawan"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:3s1wT3WcHBgC",
+        "publication_date": "2011"
+    },
+    {
+        "title": "EVALUASI KETELITIAN GEOMETRIK MOSAIK TERKONTROL (STUDI KASUS FOTO UDARA FORMAT KECIL DAERAH PANGKALAN UDARA TNI AU)",
+        "authors": [
+            "Sony Setiawan",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2011",
+        "venue": "Text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:2osOgNQ5qMEC",
+        "publication_date": "2011"
+    },
+    {
+        "title": "Kajian penggunaan citra IKONOS untuk pemetaan penggunaan tanah daerah perdesaan:: Studi kasus di Desa Sidorejo Kecamatan Godean Kabupaten Sleman Daerah Istimewa Yogyakarta",
+        "authors": [
+            "Linda Falentina PURNAMA",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2009",
+        "venue": "Text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:ufrVoPGSRksC",
+        "publication_date": "2009"
+    },
+    {
+        "title": "Pemanfaatan citra satelit Ikonos untuk pembuatan peta dasar pendaftaran pada kantor pertanahan Kota Pontianak:: Studi kasus Kelurahan Sungai Bangkong, Kec. Pontianak Kota, Kota …",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "Text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:WF5omc3nYNoC",
+        "publication_date": "2008"
+    },
+    {
+        "title": "Penyajian tematik penggunaan bidang tanah pada peta pendaftaran tanah dari hasil interpretasi citra QuickBird:: Studi kasus Kelurahan Muja Muju Kecamatan Umbulharjo Kota …",
+        "authors": [
+            "Umran RINDO",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "Text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:eQOLeE2rZwMC",
+        "publication_date": "2008"
+    },
+    {
+        "title": "Pemanfaatan citra Landsat 7 ETM+ untuk pendataan PBB sektor perkebunan, perhutanan dan pertambangan di Kabupaten Donggala Sulawesi Tengah",
+        "authors": [
+            "Ronald PETERSON",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "Text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:YsMSGLbcyi4C",
+        "publication_date": "2008"
+    },
+    {
+        "title": "Analisis perubahan penggunaan tanah untuk industri dengan memanfaatkan citra satelit QuickBird dan IKONOS:: Studi kasus kawasan industri di bagian wilayah Kota X Semarang",
+        "authors": [
+            "Natalia Wiwik KRISBIYANTI"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:Y0pCki6q_DkC",
+        "publication_date": "2008"
+    },
+    {
+        "title": "Perancangan sistem kearsipan gambar ukur analog ke dalam bentuk digital:: Studi kasus hasil pengukuran tanah secara sporadik di Kecamatan Ngaglik",
+        "authors": [
+            "Nur RAHMANTO",
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2008",
+        "venue": "Text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:UeHWp8X0CEIC",
+        "publication_date": "2008"
+    },
+    {
+        "title": "Evaluasi luas bidang tanah pada peta blok PBB hasil proses konversi peta analog ke data digital dengan kamera digital",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2007",
+        "venue": "Text",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:LkGwnXOMwfcC",
+        "publication_date": "2007"
+    },
+    {
+        "title": "Aerial videography: low-cost, simple, fast and appropriate. Aerial mapping by consumer camcorders.",
+        "authors": [
+            "CA Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2005",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:dshw04ExmUIC",
+        "publication_date": "2005/3/9",
+        "abstract": "This paper describes aerial videography mapping based on consumer camcorders. It is shown that this low-cost, simple, fast and appropriate technique meets mapping requirements."
+    },
+    {
+        "title": "Perbaikan Distribusi Anomali Free-air di Pulau Jawa dengan Metode Kolokasi Kuadrat Terkecil.",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2001",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:Tyk-4Ss8FVUC",
+        "publication_date": "2001",
+        "abstract": ": Studies in geoid-gravimetric modeling conclude that one of the problems in precise geoid modeling in Indonesia is the condition of the gravity data. The main problem within the data is its distribution and the data quality. Alternatively, the data improvement can be done by prediction at location that have not been surveyed. Prediction makes possibility to rearrange a better data distribution and quality.Prediction on the gravity anomaly data was done by least squares collocation. The earth geopotential model EGM96 was used as a systematic part in the collocation. The covariance function of the gravity anomaly was derived from the Hirvonen function. The result from the prediction was evaluated by empirical testing with the calculation of difference values between the data observation and the prediction."
+    },
+    {
+        "title": "Prediksi anomali gayaberat di darat dengan metode kolokasi kuadrat terkecil: studi kasus Pulau Jawa.",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "2000",
+        "venue": "Universitas Komputer Indonesia",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:a0OBvERweLwC",
+        "publication_date": "2000",
+        "abstract": "Beberapa studi pemodelan geoid-gravimetrik menyimpulkan bahwa kondisi data anomali gayaberat yang ada menjadi salah satu kendala bagi upaya pemodelan medan gayaberat teliti di Indonesia. Prosedur prediksi dengan metode yang lebih baik dapat membuka kemungkinan untuk melakukan penyusunan ulang data anomali gaya berat yang lebih baik dari kondisi sebelumnya.Proses prediksi dilakukan pada data anomali gaya berat di pulau Jawa dengan metode kolokasi kuadrat terkecil. Data anomali gayaberat diperoleh dari hasil prosedur reduksi pada data gayaberat absolut hasil observasi. Tiga alternatif proses reduksi guna memperhalus bidang prediksi dilakukan dengan membentuk besaran anomali free-air residu dan anomali Bouguer residu. Anomali residu tersebut diperoleh dengan menghilangkan bagian gelombang panjang dengan model geopotensial EGM96 atau persamaan polinomial 2D. Hasil proses prediksi diuji secara empirik dengan mencari selisih nilai hasil observasi dengan nilai hasil prediksi.Hasil prediksi berupa data anomali Bouguer komplit, dan Blok anomali free-air yang berkisi 2’x2’, beserta data DTM berkisi 30”x30” hasil perbaikan. Pengujian empirik pada nilai anomali Bouguer komplit memberikan hasil terbaik pada prosedur alternatif-1 dengan selisih rata-rata –2.270mGal dengan simpangan baku 5.486mGal, sementara pada nilai anomali free-air (alternatif-2) memberikan selisih rata-rata –0.007mGal dengan simpangan baku 5.948mGal. Penggunaan alternatif-3 memberikan nilai selisih anomali Bouguer komplit rata-rata –2.346mGal dengan simpangan baku 5.911mGal. Hasil ini lebih baik …"
+    },
+    {
+        "title": "Data efemerik teliti dari internet untuk pemrosesan jarak basis.",
+        "authors": [
+            "Catur Aries Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "1999",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:roLk4NBRz8UC",
+        "publication_date": "1999",
+        "abstract": "Recently, the Precise Ephemeris (PE) data can be downloaded freely from internet at specific address. This paper is purposed to describe the implementation of precise ephemeris that obtained from internet for baseline processing. This research tries to process the baseline that it close to the second-orde specification of The National Cadastral Control Point (NCCN), in which the baseline length is about ten kilometers."
+    },
+    {
+        "title": "Studi Penggunaan Transformasi Untuk Merubah Tinggi GPS Menjadi Tinggi Supat Datar",
+        "authors": [
+            "Catur ASRies Rokhmana"
+        ],
+        "cited_by": "",
+        "year": "1997",
+        "venue": "Media Teknik",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:0EnyYjriUFMC",
+        "publication_date": "1997",
+        "abstract": ": Surveying with GPS produces ellipsoid height, however for the practical purposes, orthometic height is used rather than ellipsoid height. Meanwhile leveling height is closer to orthometric height sistem. Ellipsoid height can be reduced to orthometric height if geoid undulation is known. Geoid undulation data can be obtained from a geoid model. In Indonesia, the working to calculate the geoid model is still in progress. Due to above, this research assumes the geoid as a pure geometric plane, so that a simple geomatric model such\" as transformation conform can be applied to connect the geoid and ellipsoid reference.This research changes GPS height become close to leveling height by transformation technique. Transformation was done at two locations with difference on terrain conditions. At both locations, leveling height and GPS height were available."
+    },
+    {
+        "title": "KnE Engineering",
+        "authors": [
+            "Catur A Rokhmana",
+            "Martinus E Tjahjadi",
+            "Fransisca D Agustina"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:OU6Ihb5iCvQC",
+        "abstract": "Orthophoto maps are believed by mapping communities as a favorable media to generate land parcel boundaries for cadaster survey related projects. However, since burgeoning off-the-shelf cameras mounted on the unmanned aerial vehicle (UAV) are commonly utilized for photographing such boundaries, unreliable and unstable intrinsic parameters of these non-metric cameras impede good quality orthophoto productions. This paper presents an alternative method to measure the boundaries reliably without an existence of the orthophoto. A degraded quality of the orthophoto can be circumvented by our newly proposed method so called direct visual referencing. This method comprises two stages. The first step is to perform on the fly camera calibration to minimize instabilities of the intrinsic components of the non-metric camera. Modifying common and widely known flying paths for aerial photogrammetry …"
+    },
+    {
+        "title": "Reviewer",
+        "authors": [
+            "A Min Tjoa",
+            "Agung Fatwanto",
+            "Uin Sunan Kalijaga-Indonesia",
+            "Agus Harjoko",
+            "Aina Musdholifah",
+            "Albertus Santoso",
+            "Anastasia Widiarti",
+            "Andi Dharmawan",
+            "Anindita Septiarini",
+            "Univeristas Mulawarman-Indonesia",
+            "Anny Sari",
+            "Anto Nugroho Bppt-Indonesia",
+            "Ary Noviyanto",
+            "Ary Prihatmanto",
+            "Azhari Sn",
+            "Bayu Hendradjaya",
+            "Benhard Sitohang",
+            "David Taniar",
+            "Dhomas Hatta Fudholi",
+            "Djati Mardiatno"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:CHSYGLWDkRkC"
+    },
+    {
+        "title": "Konferensi Teknik dan Sains Informasi Geospasial ke-1",
+        "authors": [
+            "Pembangunan Nasional yang Berkelanjutan"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:4OULZ7Gr8RgC",
+        "abstract": "17. Metode Cepat, Ekonomis, dan Akurat Penentuan Deformasi Struktur Material Jembatan Baja dengan Kamera SLR [Refereed Paper]",
+        "pdf_link": "https://www.researchgate.net/profile/Yanto-Budisusanto/publication/281089991_Purwarupa_Sistem_InformasiKadaster_3_Dimensi_Berbasis_Desktop/links/55d44e9208ae0b8f3ef95c85/Purwarupa-Sistem-InformasiKadaster-3-Dimensi-Berbasis-Desktop.pdf"
+    },
+    {
+        "title": "ICST 2020",
+        "authors": [
+            "Rohayu Che Omar Universiti Tenaga Nasional",
+            "Malaysia Prof Dr Ir Fitri Yuli",
+            "ST Zulkifli",
+            "Josaphat Tetuko Sri Sumantyo",
+            "Japan Dr Ika Dewi Ana",
+            "Eng Ahmad Kusumaatmaja",
+            "Ratih Fitria Putri",
+            "Muhammad Rafieiy",
+            "I Wayan Mustika",
+            "Eng Titis Wijayanto",
+            "Mutiah Amini"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:pqnbT2bcN3wC",
+        "abstract": "Provides a listing of current committee members and society officers.",
+        "pdf_link": "https://ieeexplore.ieee.org/iel7/9732631/9732775/09732818.pdf"
+    },
+    {
+        "title": "Koreksi Geometrik pada Citra Raw Data Spacecam Satelit Lapan-A2 untuk Tujuan Interpretasi Visual Geometric Correction on Raw Data Image of Spacecam LAPAN-A2 Satellite for …",
+        "authors": [
+            "Catur Aries Rokhmana",
+            "Ela Novalinda Ar"
+        ],
+        "cited_by": "",
+        "year": "",
+        "venue": "N/A",
+        "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z5OOseEAAAAJ&cstart=20&pagesize=80&citation_for_view=Z5OOseEAAAAJ:TQgYirikUcIC",
+        "abstract": "Pada September 2016, Lembaga Penerbangan dan Antariksa Nasional (LAPAN) meluncurkan satelit buatan ilmuwan Indonesia pertama yang diberi nama satelit LAPAN-A2/ORARI. Satelit LAPAN-A2 membawa kamera SpaceCam untuk misi pengamatan bumi (survellance). Kamera SpaceCam hanya memiliki sensor optik-elektrik tunggal, yang dilapisi dengan sebuah Color Filter Array (CFA) untuk memberi informasi warna. Raw data citra hasil rekaman kamera SpaceCam perlu dikoreksi agar dapat digunakan untuk interpretasi citra yang lebih akurat. Algoritma Demosaicing Bayer (Debayer) dengan pola BGGR yang tambahan operator adaptive smoothing citra paling optimal digunakan untuk menghasilkan citra berwarna (RGB) natural color. Program open source seperti ImageJ menyediakan algoritma Debayer tersebut. Sedangkan koreksi geometrik menggunakan model persamaan proyektif dengan 4 …"
+    }
+]
