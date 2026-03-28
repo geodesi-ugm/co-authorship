@@ -44,6 +44,16 @@ export function SpecialtiesChart({ nodes }: SpecialtiesChartProps) {
     const svg = d3.select(svgRef.current);
     svg.selectAll('*').remove();
 
+    const zoomRoot = svg.append('g');
+    const root = zoomRoot.append('g');
+
+    const zoom = d3.zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.5, 8])
+      .on('zoom', (event) => {
+        zoomRoot.attr('transform', event.transform);
+      });
+    svg.call(zoom as any);
+
     const hierarchy = d3
       .hierarchy<RootDatum | SpecialtyDatum>({ children: data })
       .sum(d => ('count' in d ? d.count : 0))
@@ -60,7 +70,6 @@ export function SpecialtiesChart({ nodes }: SpecialtiesChartProps) {
       (t: number) => d3.interpolateBlues(0.25 + t * 0.65)
     ).domain(citDomain);
 
-    const root = svg.append('g');
     const bubble = root.selectAll('g').data(packed.leaves()).join('g')
       .attr('transform', d => `translate(${d.x},${d.y})`);
 

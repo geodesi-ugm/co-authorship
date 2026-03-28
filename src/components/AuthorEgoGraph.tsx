@@ -62,7 +62,15 @@ export function AuthorEgoGraph({ centerNode, coauthors, selectedNodeId, onNodeCl
     const coauthorRadius = d3.scaleSqrt<number, number>()
       .domain([0, maxCitations]).range([7, 18]);
 
-    const graph = svg.append('g').attr('transform', `translate(${cx},${cy})`);
+    const zoomRoot = svg.append('g');
+    const graph = zoomRoot.append('g').attr('transform', `translate(${cx},${cy})`);
+    const zoom = d3.zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.5, 8])
+      .on('zoom', (event) => {
+        zoomRoot.attr('transform', event.transform);
+      });
+    svg.call(zoom as any);
+
     const angleStep = coauthors.length ? (Math.PI * 2) / coauthors.length : 0;
 
     const positioned = coauthors.map((coauthor, i) => {

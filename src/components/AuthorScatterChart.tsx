@@ -49,7 +49,16 @@ export function AuthorScatterChart({ nodes, selectedNodeId, onNodeClick }: Autho
 
     const svg = d3.select(svgRef.current);
     svg.selectAll('*').remove();
-    const g = svg.append('g').attr('transform', `translate(${margin.left},${margin.top})`);
+
+    const zoomRoot = svg.append('g');
+    const g = zoomRoot.append('g').attr('transform', `translate(${margin.left},${margin.top})`);
+
+    const zoom = d3.zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.5, 8])
+      .on('zoom', (event) => {
+        zoomRoot.attr('transform', event.transform);
+      });
+    svg.call(zoom as any);
 
     g.append('g')
       .call(d3.axisLeft(y).ticks(5).tickSize(-innerWidth))
@@ -94,7 +103,10 @@ export function AuthorScatterChart({ nodes, selectedNodeId, onNodeClick }: Autho
         .attr('stroke-width', node.id === selectedNodeId ? 2 : 0.8);
       updateOpacity();
     })
-    .on('click', (_event: MouseEvent, d) => onNodeClick(d));
+    .on('click', (event: MouseEvent, d) => {
+      event.stopPropagation();
+      onNodeClick(d);
+    });
 
     dots.append('title')
       .text(d => `${d.name}\nPapers: ${d.paper_count}\nCitations: ${d.citations}\nDegree: ${d.degree || 0}`);
@@ -109,6 +121,10 @@ export function AuthorScatterChart({ nodes, selectedNodeId, onNodeClick }: Autho
       .attr('transform', 'rotate(-90)')
       .attr('text-anchor', 'middle').attr('fill', '#64748b').attr('font-size', 11)
       .text('Citations');
+
+    svg.on('click', () => {
+      onNodeClick(null);
+    });
 
   }, [nodes, onNodeClick, selectedNodeId]);
 

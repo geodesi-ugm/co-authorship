@@ -52,8 +52,17 @@ export function AdjacencyMatrixChart({ nodes, edges, metric, selectedNodeId, onN
     const chartWidth = cellSize * matrixNodes.length;
     const chartHeight = cellSize * matrixNodes.length;
 
-    const chart = svg.append('g')
+    const zoomRoot = svg.append('g');
+    const chart = zoomRoot.append('g')
       .attr('transform', `translate(${margin.left + (innerWidth - chartWidth) / 2},${margin.top + (innerHeight - chartHeight) / 2})`);
+
+    const zoom = d3.zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.5, 8])
+      .on('zoom', (event) => {
+        zoomRoot.attr('transform', event.transform);
+      });
+
+    svg.call(zoom as any);
 
     const colorScale = d3.scaleSequential(d3.interpolateBlues).domain([0, maxWeight]);
     const selectedIndex = selectedNodeId ? indexById.get(selectedNodeId) : undefined;
@@ -84,7 +93,8 @@ export function AdjacencyMatrixChart({ nodes, edges, metric, selectedNodeId, onN
         return d.row === selectedIndex || d.col === selectedIndex ? 1 : 0.4;
       })
       .style('cursor', d => d.weight > 0 ? 'pointer' : 'default')
-      .on('click', (_event: MouseEvent, d) => {
+      .on('click', (event: MouseEvent, d) => {
+        event.stopPropagation();
         if (d.weight <= 0) return;
         const rowNode = matrixNodes[d.row];
         const colNode = matrixNodes[d.col];
@@ -104,7 +114,7 @@ export function AdjacencyMatrixChart({ nodes, edges, metric, selectedNodeId, onN
       .attr('font-weight', d => d.id === selectedNodeId ? 700 : 400)
       .text(d => d.name.length > 15 ? `${d.name.slice(0, 15)}…` : d.name)
       .style('cursor', 'pointer')
-      .on('click', (_event: MouseEvent, d) => onNodeClick(d));
+      .on('click', (event: MouseEvent, d) => { event.stopPropagation(); onNodeClick(d); });
 
     chart.selectAll('text.col-label').data(matrixNodes).join('text')
       .attr('class', 'col-label')
@@ -117,8 +127,13 @@ export function AdjacencyMatrixChart({ nodes, edges, metric, selectedNodeId, onN
       .attr('font-weight', d => d.id === selectedNodeId ? 700 : 400)
       .text(d => d.name.length > 15 ? `${d.name.slice(0, 15)}…` : d.name)
       .style('cursor', 'pointer')
-      .on('click', (_event: MouseEvent, d) => onNodeClick(d));
+      .on('click', (event: MouseEvent, d) => { event.stopPropagation(); onNodeClick(d); });
 
+
+
+    svg.on('click', () => {
+      onNodeClick(null);
+    });
   }, [edges, metric, nodes, onNodeClick, selectedNodeId]);
 
   return <svg ref={svgRef} className="h-full w-full" />;

@@ -61,7 +61,16 @@ export function SpecialtyChordChart({ nodes, edges, selectedNodeId, onSpecialtyC
 
     const svg = d3.select(svgRef.current);
     svg.selectAll('*').remove();
-    const chart = svg.append('g').attr('transform', `translate(${width / 2},${height / 2})`);
+
+    const zoomRoot = svg.append('g');
+    const chart = zoomRoot.append('g').attr('transform', `translate(${width / 2},${height / 2})`);
+
+    const zoom = d3.zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.5, 8])
+      .on('zoom', (event) => {
+        zoomRoot.attr('transform', event.transform);
+      });
+    svg.call(zoom as any);
 
     const colorScale = d3.scaleOrdinal<string>().domain(topSpecs).range(SPECIALTY_COLORS);
 
@@ -91,7 +100,10 @@ export function SpecialtyChordChart({ nodes, edges, selectedNodeId, onSpecialtyC
       .attr('stroke', '#ffffff')
       .attr('stroke-width', d => selectedSpec && topSpecs[d.index] === selectedSpec ? 2 : 1)
       .style('cursor', 'pointer')
-      .on('click', (_event: MouseEvent, d) => onSpecialtyClick(topSpecs[d.index]))
+      .on('click', (event: MouseEvent, d) => {
+        event.stopPropagation();
+        onSpecialtyClick(topSpecs[d.index]);
+      })
       .append('title')
       .text(d => `${topSpecs[d.index]}\nCollaborative weight: ${Math.round(d.value)}`);
 
@@ -115,7 +127,14 @@ export function SpecialtyChordChart({ nodes, edges, selectedNodeId, onSpecialtyC
         return label.length > 18 ? `${label.slice(0, 18)}…` : label;
       })
       .style('cursor', 'pointer')
-      .on('click', (_event: MouseEvent, d) => onSpecialtyClick(topSpecs[d.index]));
+      .on('click', (event: MouseEvent, d) => {
+        event.stopPropagation();
+        onSpecialtyClick(topSpecs[d.index]);
+      });
+
+    svg.on('click', () => {
+      onSpecialtyClick('');
+    });
 
   }, [edges, nodes, onSpecialtyClick, selectedNodeId]);
 

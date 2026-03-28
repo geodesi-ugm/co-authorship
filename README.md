@@ -1,14 +1,14 @@
 # Co-Authorship Dashboard
 
-An interactive, responsive dashboard for visualizing and analyzing Google Scholar co-authorship networks. This repository consists of a Python-based data cleaning pipeline and a modern React + D3 frontend.
+A Co-authorship dashboard for Geodetic Engineering UGM's lecturers. Interactive, responsive visualization and analysis of Google Scholar co-authorship networks.
 
-## 🗂️ Project Structure
+## Project Structure
 
 - `/data_pipeline`: The Python backend utilities. Converts messy, raw Google Scholar JSONs into clean, deduplicated, and graph-ready `nodes.csv` and `edges.csv` files. Extrapolates citation counts and specialities.
 - `/src`: The Vite + React frontend code. Houses all the interactive D3.js layers (`src/components/NetworkGraph.tsx`, etc) and `shadcn/ui` components for an elegant dark-themed interface.
 - `/public/data`: Holds the static CSV datasets read by the dashboard.
 
-## 🚀 Quickstart
+## Quickstart
 
 ### 1. Generating Data
 If you update the raw Scholar `.json` dumps or add new aliases to `/data_pipeline/raw/combined_authors.csv`, re-run the pipeline to clean the data:
@@ -38,7 +38,7 @@ npm run dev
 
 Navigate your browser to `http://localhost:5173/` to view the interactive network graph.
 
-## 🛠️ Tech Stack & Key Features
+## Tech Stack & Key Features
 - **Frontend Environment**: React + TypeScript + Vite.
 - **Visualizations**: Direct `d3.js` DOM manipulation mapped via standard React `useRef` hooks to ensure peak physics performance without rendering bottlenecks.
   - **Force-Directed Graph**: Drag, pin, pan, and zoom the network. Visual node scaling based on Papers, Citations, or Connections.
