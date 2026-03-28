@@ -39,6 +39,42 @@ edges = pd.DataFrame([
     for pair, count in edge_counts.items()
 ])
 
+# Compute stable, precomputed layout positions (normalized 0..1)
+# Use jittered grid positions to fill the whole space well.
+import math
+import random
+
+n = len(nodes)
+if n > 0:
+    random.seed(12345)
+    # padded grid so nodes are spread and not crumpled in the center
+    gridSize = max(2, math.ceil(math.sqrt(n * 1.3)))
+    cellJitter = 0.4 / gridSize
+
+    gridPositions = []
+    for i in range(gridSize):
+        for j in range(gridSize):
+            centerX = (i + 0.5) / gridSize
+            centerY = (j + 0.5) / gridSize
+            x = min(max(centerX + random.uniform(-cellJitter, cellJitter), 0.02), 0.98)
+            y = min(max(centerY + random.uniform(-cellJitter, cellJitter), 0.02), 0.98)
+            gridPositions.append((x, y))
+
+    random.shuffle(gridPositions)
+
+    # Keep order by degree descending to get highest-importance in spread region too
+    node_order = nodes.sort_values(by='paper_count', ascending=False).index.tolist()
+    coords = {}
+    for idx, node_idx in enumerate(node_order):
+        x, y = gridPositions[idx % len(gridPositions)]
+        coords[node_idx] = { 'x': x, 'y': y }
+
+    nodes['x'] = [coords[i]['x'] for i in nodes.index]
+    nodes['y'] = [coords[i]['y'] for i in nodes.index]
+else:
+    nodes['x'] = []
+    nodes['y'] = []
+
 # Save
 nodes.to_csv('../processed/nodes.csv', index=False)
 edges.to_csv('../processed/edges.csv', index=False)

@@ -1,0 +1,1070 @@
+paper_id,title,year,venue,cited_by,author_count
+1,Utilizing a game engine for interactive 3D topographic data visualization,2019,ISPRS International Journal of Geo-Information,88,2
+2,Testing spatial data deliverance in SQL and NoSQL database using NodeJS fullstack web app,2018,2018 4th International Conference on Science and Technology (ICST),36,1
+3,3D cadastre web map: Prospects and developments,2011,"Proceedings of the 2nd International Workshop on 3D Cadastres, Delft, The Netherlands",23,2
+4,Visualization of 3D survey data for strata titles,2020,ISPRS International Journal of Geo-Information,19,4
+5,Comprehensive integration system of saltwater environment on Rote Island using a multidisciplinary approach,2018,Journal of Degraded and Mining Lands Management,18,1
+6,Hasil Studi Pola Kebakaran Lahan Gambut melalui Citra Satelit Sentinel-2 dengan Pengimplementasian Machine Learning Metode Random Forest: Kajian Literatur,2021,J. Geospatial Inf. Sci. Eng,10,1
+7,Crowdsourced hotspot validation and data visualisation for location-based haze mitigation,2019,Journal of Location Based Services,9,2
+8,A usability evaluation of a 3D map display for pedestrian navigation,2018,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",9,4
+9,LOD 1: 3D CityModel for Implementing SmartCity Concept,2017,Proceedings of the 2017 International Conference on Information Technology,8,2
+10,Open source stack for Structure from Motion 3D reconstruction: A geometric overview,2016,2016 6th International Annual Engineering Seminar (InAES),8,1
+11,Interactive 3D city visualization from structure motion data using game engine,2019,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",7,2
+12,Expedition Oe: A visual-storytelling map on Rote Island’s Lakes,2018,JGISE: Journal of Geospatial Information Science and Engineering,7,1
+13,"I-SRI, an SDI Readiness Index for Local Government in Indonesia",2014,FIG World Conference,7,5
+14,THE LATEST BATHYMETRY AND TOPOGRAPHY EXTRACTION OF LAKE LEDULU FROM MULTI-SOURCE GEOSPATIAL DATA,2023,Geographia Technica,5,1
+15,Geogame on the peat: Designing effective gameplay in geogames app for haze mitigation,2018,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",5,2
+16,"3D modelling, validation and visualization of 3D parcels in first registration for 3D cadastre-Indonesia case",2021,"7th International FIG Workshop on 3D Cadastres, New York, USA",4,6
+17,The Misclassification Likelihood Matrix: Some Classes Are More Likely To Be Misclassified Than Others,2024,arXiv preprint arXiv:2407.07818,3,1
+18,The development of WebGIS for the cultural sites in Kotagede Sub-District combined with 360 photosphere visualization,2020,IOP Conference Series: Earth and Environmental Science,3,3
+19,Survey Pemetaan Batas Bidang Tanah Kolaboratif Lintas Ruang dan Lintas Waktu dengan Piranti AR/VR,2019,N/A,3,3
+20,CloudSfM: 3D Reconstruction using structure from motion web service,2016,N/A,3,1
+21,Sistem Penentuan Posisi dan Navigasi,2014,DISKUSI KELOMPOK: KONSEP SISTEM NAVIGASI,3,1
+22,The 15-minute city of mass public transportation in yogyakarta: case of trans jogja bus,2024,Eighth Geoinformation Science Symposium 2023: Geoinformation Science for Sustainable Planet,2,3
+23,Pemanfaatan Citra Sentinel-5P untuk Pembuatan Peta Perbandingan Konsentrasi NO2 Selama Pandemi COVID-19 di DKI Jakarta Menggunakan Google Earth Engine,2020,N/A,2,1
+24,VisUnit: Literate Visualisation Studies Assembled from Reusable Test-Suites,2025,Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems,1,1
+25,Gridded-glyphmaps for supporting Geographic Multicriteria Decision Analysis,2024,EuroVisShort2024,1,1
+26,Konsep Aupb Untuk Keamanan Data Dalam Standardisasi Dan Sistem Geocoding Alamat Perkotaan Dan Perdesaan Indonesia,2023,Refleksi Hukum: Jurnal Ilmu Hukum,1,5
+27,"NATURAL COMPOUNDS AQUATIC PLANT BIODIVERSITY OF LAKE LEDULU, ROTE DEAD SEA AREA-INDONESIA FOR RECOMMENDATIONS OF CONSERVATION.",2022,International Journal of Conservation Science,1,1
+28,Evaluasi Daerah Layanan Rumah Sakit di Yogyakarta dengan Perangkat Lunak Open Source,2015,Prosiding Seminar Nasional Teknologi Terapan SV UGM,1,2
+29,Steering the Transition: A Visual Analytics Approach to Interactive Energy Scenario Modeling,2026,Preprint - SSRN,0,1
+30,Interactive Visual Analytics for Local Decarbonisation Planning: Empowering Policy-Aligned Scenario Exploration,2025,Computer Graphics & Visual Computing (CGVC) 2025,0,1
+31,Exploring the Evolution of Decarbonisation Scenarios with Gridded-glyphmaps Visualisations,2025,N/A,0,1
+32,Exploring the Evolution of Decarbonisation Scenarios with Gridded-glyphmaps Visualisations,2024,EG UK Computer Graphics & Visual Computing,0,1
+33,One Stop Investment and Services,2024,Penerbit Lakeisha,0,1
+34,Developing Address Model and Geocoding Framework for Urban Area in Indonesia,2023,"PROCEEDING OF SOUTH EAST ASIA WORKSHOP ON GEODETIC DATA SCIENCES, GEOINFORMATICS AND LAND ADMINISTRATION (GEO-LAND-SEA) 2023",0,4
+35,Sharpening of Sentinel-2 imagery for updating thematic layer of base maps,2021,Seventh Geoinformation Science Symposium 2021,0,2
+36,Realizing the Dead Sea Lakes Region in Rote Islands to be a geopark using multidisciplinary spatial information approach,2020,IOP Conference Series: Earth and Environmental Science,0,1
+37,ANALITIS VISUAL GASETIR GEONAMES INDONESIA MENGGUNAKAN CARTO JS,2017,N/A,0,1
+38,"Present-day crustal deformation revealed active tectonics in Yogyakarta, Indonesia inferred from GPS observations",2020,Geodesy and Geodynamics,30,7
+39,GPS study for resolving the stability of Borobudur temple site,2006,N/A,26,1
+40,Analisis Pergeseran Titik Jaring Pemantau Candi Borobudur Mengacu ke ITRF 2008 Berdasarkan Data Pengamatan GPS pada Tahun 2003 dan 2012,2020,JGISE: Journal of Geospatial Information Science and Engineering,10,1
+41,Analisis Stabilitas Candi Borobudur Berdasar Integrasi Data Pengamatan GPS dan Terestris Jaring Pemantau Deformasi Candi,2015,N/A,6,1
+42,Estimasi Potensi Gempa Tektonik di Wilayah Sesar Opak Berdasarkan Data Pengamatan GPS,2022,Journal of Geodesy and Geomatics,1,5
+43,Comparison of Horizontal Displacement from Horizontal Control Network Adjustment Result  Using Observation Model and Time-Variant Methods (Case Study: Horizontal Control …,2018,Journal of Geospatial Information Science and Engineering,0,1
+44,Time Variant Adjustment for The Solution of Control Point Unstability in Deformation Analysis of Borobudur Vertical Deformation Network,2018,Journal of Geospatial Information Science and Engineering,0,2
+45,Studi Deformasi pada Candi Borobudur dengan Pendekatan Geodetik,2000,text,0,2
+46,Impact of biophysical mechanisms on urban heat island associated with climate variation and urban morphology,2019,Scientific Reports,77,1
+47,Evaluation of evapotranspiration using energy-based and water balance hydrological models,2024,Journal of Water and Climate Change,2,1
+48,The potential of UAV-based remote sensing for supporting precision agriculture in Indonesia,2015,Procedia Environmental Sciences,312,1
+49,Utilizing UAV-based mapping in post disaster volcano eruption,2016,2016 6th International Annual Engineering Seminar (InAES),36,2
+50,Linear quadratic regulator controller (LQR) for AR. Drone's safe landing,2019,2019 International Conference on Sustainable Information Engineering and Technology (SIET),31,3
+51,Geometric accuracy assessments of orthophoto production from uav aerial images,2019,KnE Engineering,23,1
+52,Spatiotemporal analysis for COVID-19 delta variant using GIS-based air parameter and spatial modeling,2022,International Journal of Environmental Research and Public Health,20,3
+53,The low-cost UAV-based remote sensing system capabilities for large scale cadaster mapping,2016,IOP Conference Series: Earth and Environmental Science,20,1
+54,Identifikasi fase pertumbuhan padi menggunakan citra sar (synthetic aperture radar) sentinel-1,2021,Elipsoida: Jurnal Geodesi dan Geomatika,15,2
+55,Percepatan Pemetaan Kadaster Memanfaatkan Teknologi Wahana Udara Tanpa Awak,2013,Bhumi: Jurnal Agraria dan Pertanahan,13,1
+56,Evaluasi polarisasi citra SAR (SYHTHETIC APERTURE RADAR) untuk klasifikasi obyek tutupan lahan,2020,Elipsoida: Jurnal Geodesi dan Geomatika,11,1
+57,The Potential Applications of Balloon Photogrammetry For Cadastre Mapping,2009,"Proceeding SEASC, Bali",9,1
+58,Some Notes on Using Balloon Photography For Modeling The Landslide Area,2008,Presented at Map Asia,9,1
+59,Cadastral surveys with non-metric camera using UAV: a feasibility study,2019,KnE Engineering,8,1
+60,Rapid mapping of landslide disaster using UAV-photogrammetry,2018,journal of physics: conference series,7,2
+61,Ekstraksi Permukiman dari Kombinasi Citra Sentinel-2 dan Sentinel-1 dengan Pendekatan Object-Based Image Analysis,2024,JGISE: Journal of Geospatial Information Science and Engineering,6,1
+62,Telemedicine technology application for COVID-19 patient tracing using smartphone gnss,2022,International Journal of Geoinformatics,6,2
+63,Assessing stability performance of non-metric camera’s lens distortion model during uav flight missions,2019,KnE Engineering,6,1
+64,Evaluation on the performance of single and dual frequency low cost GPS module observation using geodetic antenna,2018,Communications in Science and Technology,13,3
+65,Pemodelan kondisi bangunan candi Borobudur pasca erupsi merapi dengan UAV-Based Fotogrametri,2012,Jurnal Dialog Penanggulangan Bencana,6,2
+66,The low cost monitoring system for landslide and volcano with digital photogrammetry,2007,"Proceeding Joint Convention HAGI, IAGI, IATMI",6,1
+67,Hubungan Dual Polametric SAR Band–C dan Landsat 8 untuk Identifikasi Potensi Kekeringan,2021,Geoid,5,1
+68,Potential use of uav-based mapping system to accelerate the production of parcel boundary map in Indonesia,2019,KnE Engineering,5,1
+69,Detection of vertical deformation in Jakarta-Bandung high speed train route using X sar and sentinel,2019,Geodesy and Cartography,5,1
+70,Modification of pocket camera as a sensor for uav-based plant health detection system,2019,2019 5th International Conference on Science and Technology (ICST),5,1
+71,Application of Low Cost RTK GPS Module for Precise Geotagging using Smartphone,2017,"Jakarta, sn",5,3
+72,Some technical notes on using UAV-based remote sensing for post disaster assessment,2017,AIP Conference Proceedings,5,2
+73,Studi Awal Penggunaan Modul GPS Murah untuk Pengukuran RTK NTRIP,2015,Seminar Nasional FIT ISI,7,3
+74,Pemanfaatan Unmanned Aerial Vehicle (UAV) Tipe Quadcopter Untuk Percepatan Pengukuran Bidang Tanah Pertanian,2021,N/A,4,1
+75,Aerial Mapping by Consumer Camcorders,2005,GIM International,4,1
+76,Filtering DSM extraction from Worldview-3 images to DTM using open source software,2020,IOP Conference Series: Earth and Environmental Science,3,1
+77,Pemetaan Pelabuhan Perikanan Pantai Sadeng Kabupaten Gunungkidul Menggunakan Uav,2015,Prosiding Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI),3,3
+78,Sistem Pemantauan Tata Ruang dengan Wahana Udara Nir-Awak Sebagai Penyedia Foto Udara Murah,2010,Makalah. Yogyakarta: Universitas Gadjah Mada,3,1
+79,Sistem Pemantauan Tata Ruang Kota dengan Wahana Udara Nirawak sebagai Penyedia Foto Udara Murah,2010,"Prosiding Seminar Nasional Tata Ruang Wilayah, Institut Teknologi Malang. Malang",3,1
+80,Membangun Sistem Pemetaan dari Udara Berbiaya rendah dengan Wahana Udara Nir-awak Mini,2010,Jurnal Ilmiah Geomatika,3,1
+81,Borobudur temple wall stability monitoring using robotic total station during the COVID-19 pandemic,2023,AIP Conference Proceedings,2,2
+82,DTM generation from aerial photo and Worldview-3 images by using different DSM filtering methods,2019,Sixth Geoinformation Science Symposium,2,1
+83,Evaluation on the performance of NTRIP RTK positioning using multi-frequency low-cost GPS module in areas with different telecommunication signal strength,2019,2019 5th International Conference on Science and Technology (ICST),2,2
+84,Aplikasi RTK GPS menggunakan Receiver OEM GPS untuk Penentuan Posisi Lajur Perum USV dalam Survei Batimetri,2016,AES,2,3
+85,Evaluasi Penentuan Posisi dari GPS Cip dan GPS Modul Eksternal Pada Telepon Pintar,2016,Joint 3rd CGISE and FIT ISI,2,2
+86,Potensi Pemanfaatan Penginderaan Jauh Dengan Wahana Udara Nir-Awak Di Industri Tambang Dan Migas,2015,Seminar Nasional Informatika 2012,2,1
+87,Pengukuran Plant Satellite Nilam 2 Pt. Vico Indonesia Menggunakan Laser Scanner Scanstation 2 Dengan Registrasi Metode Target To Target,2013,N/A,2,1
+88,Visualization of a Digital Elevation Model using Advanced Image Processing,,International Journal for Research in Applied Science & Engineering Technology (IJRASET),2,1
+89,Some enhancement of aerial and terrestrial photo for 3d modeling of texture-less object surface,2021,Springer International Publishing,1,1
+90,Ekstraksi Citra Sentinel 1A Dengan Metode Dekomposisi Polarimetrik Untuk Pemetaan Hutan di Provinsi Sumatera Selatan,2019,Elipsoida,1,1
+91,Kajian penggunaan gps modul pada penentuan posisi exposure dalam misi UAV,2016,FIT-ISI dan CGISE,1,2
+92,Upaya Peningkatan Kualitas Geometrik Citraupaya Peningkatan Kualitas Geometrik Citra Lapan-Tubsat Pada Aplikasi Surveilen,2011,Indonesian Journal of Aerospace,1,1
+93,Some aspects on developing a truly low-cost mapping system using handheld gps and camcorder,2006,"Proc., XXIII FIG Congress",1,1
+94,Analysis of sentinel-1 SAR image polarization combination for updating land cover map,2025,AIP Conference Proceedings,0,1
+95,Perbandingan Algoritma Macro dan Cloth Simulation Filtering untuk Penyaringan Data Point Cloud dari Foto Udara pada Area dengan Dominasi Vegetasi,2025,N/A,0,1
+96,Analisis Ketelitian Data Airborne LiDAR Dalam Pemodelan Tiga Dimensi Bangunan Gedung Tingkat Level Of Detail 2,2024,N/A,0,1
+97,Some Enhancement of Aerial and Terrestrial Photo for 3D Modeling of Texture-Less Object Surface,2023,Proceedings of UASG 2021: Wings 4 Sustainability: Unmanned Aerial System in Geomatics,0,1
+98,Front Page Geomatika Vol. 28 No. 1 Tahun 2022,2022,Geomatika,0,1
+99,Detection of surface deformation in opak fault Yogyakarta using quasi persistent scatter interferometry synthetic aperture radar,2021,IOP Conference Series: Earth and Environmental Science,0,1
+100,ASESMEN SENSITIVITAS SYNTHETIC APERTURE RADAR BAND-C UNTUK IDENTIFIKASI POTENSI KEKERINGAN,2021,N/A,0,1
+101,ANALISIS PERBANDINGAN MODEL TIGA DIMENSI BENDA CAGAR BUDAYA MENGGUNAKAN KAMERA DSLR DAN ZED DEPTH CAMERA (STUDI KASUS: CANDI GEBANG),2018,N/A,0,1
+102,EVALUASI HASIL KOMBINASI SPHERICAL PHOTOGRAMMETRY DAN PEMOTRETAN UDARA MENGGUNAKAN UNMANNED AERIAL VEHICLE UNTUK PEMODELAN TIGA DIMENSI,2017,N/A,0,1
+103,EVALUASI PENGGUNAAN MODUL GPS SINGLE FREQUENCY UNTUK PENENTUAN POSISI TITIK EKSPOSUR FOTO UDARA,2017,N/A,0,1
+104,THE EFFECT OF GAMELAN AS A MUSIC THERAPY TO DECREASE THE STRESS LEVELS OF THE ELDERLY IN LAWANGAN–LAMONGAN,2016,N/A,0,2
+105,EVALUASI KETELITIAN PENGGUNAAN ACTION CAMERA UNTUK PEMODELAN TIGA DIMENSI DENGAN METODE FOTOGRAMETRI JARAK DEKAT,2016,N/A,0,1
+106,"PEMETAAN DISTRIBUSI TANAMAN TERINDIKASI PENYAKIT MENGGUNAKAN FOTO UDARA MULTI SPEKTRAL (DAERAH KAJIAN MUARA WAHAU, KALIMANTAN TIMUR)",2016,N/A,0,2
+107,Kajian Keandalan Depth Camera untuk Membuat Model Candi dan Kawasan Sekitarnya,2016,N/A,0,1
+108,PEMANFAATAN DATA POINT CLOUD HASIL PENGUKURAN MOBILE MAPPING SYSTEM UNTUK PEMBUATAN PENAMPANG MELINTANG JALAN,2016,N/A,0,1
+109,PEMODELAN 3D WAHANA PERMAINAN AIR MENGGUNAKAN DATA TERRESTRIAL LASER SCANNING,2016,N/A,0,1
+110,Kajian Sebaran Kekeringan Lahan Pertanian Kabupaten Demak dengan Algoritma Tasseled Cap,2015,N/A,0,1
+111,INTEGRASI SENSOR KAMERA DENGAN GPS BERBASIS SISTEM WAKTU,2015,N/A,0,1
+112,"PERBANDINGAN METODE FUSI CITRA HSV, BROVEY, DAN PCA PADA CITRA GEOEYE-1 YANG DIGUNAKAN UNTUK IDENTIFIKASI PENUTUP LAHAN",2015,N/A,0,1
+113,Penilaian Cepat Perubahan Lingkungan Pasca Kejadian Bencana dengan Wahana Udara Tanpa Awak,2014,Jurnal Sains & Teknologi Lingkungan,0,1
+114,TEKNIK PENYARINGAN DATA MODEL PERMUKAAN DIGITAL MENJADI DATA MODEL TERAIN DIGITAL PADA AREA VEGETASI DAN AREA PEMUKIMAN,2014,N/A,0,1
+115,"PEMBUATAN PETA FOTO DAN PETA GARIS MENGGUNAKAN WAHANA UDARA TANPA AWAK, LOKASI PULAU BATEK, NUSA TENGGARA TIMUR",2013,N/A,0,1
+116,PEMODELAN 3 DIMENSI KILANG BERDASARKAN DATA POINT CLOUD MENGGUNAKAN BENTUK GEOMETRI OBJEK SEDERHANA,2013,Text,0,1
+117,UPAYA PENINGKATAN KUALITAS GEOMETRIK CITRA,2011,Jurnal Teknologi Dirgantara Vol,0,1
+118,ESTIMASI BIAYA DAUR HIDUP DAN OPTIMISASI HARGA PESAWAT TERBANG,2011,Indonesian Journal of Aerospace,0,1
+119,EVALUASI KETELITIAN GEOMETRIK MOSAIK TERKONTROL (STUDI KASUS FOTO UDARA FORMAT KECIL DAERAH PANGKALAN UDARA TNI AU),2011,N/A,0,2
+120,Kajian penggunaan citra IKONOS untuk pemetaan penggunaan tanah daerah perdesaan:: Studi kasus di Desa Sidorejo Kecamatan Godean Kabupaten Sleman Daerah Istimewa Yogyakarta,2009,Text,0,2
+121,"Pemanfaatan citra satelit Ikonos untuk pembuatan peta dasar pendaftaran pada kantor pertanahan Kota Pontianak:: Studi kasus Kelurahan Sungai Bangkong, Kec. Pontianak Kota, Kota …",2008,Text,0,1
+122,Penyajian tematik penggunaan bidang tanah pada peta pendaftaran tanah dari hasil interpretasi citra QuickBird:: Studi kasus Kelurahan Muja Muju Kecamatan Umbulharjo Kota …,2008,Text,0,1
+123,"Pemanfaatan citra Landsat 7 ETM+ untuk pendataan PBB sektor perkebunan, perhutanan dan pertambangan di Kabupaten Donggala Sulawesi Tengah",2008,Text,0,1
+124,Analisis perubahan penggunaan tanah untuk industri dengan memanfaatkan citra satelit QuickBird dan IKONOS:: Studi kasus kawasan industri di bagian wilayah Kota X Semarang,2008,N/A,0,1
+125,Perancangan sistem kearsipan gambar ukur analog ke dalam bentuk digital:: Studi kasus hasil pengukuran tanah secara sporadik di Kecamatan Ngaglik,2008,Text,0,1
+126,Evaluasi luas bidang tanah pada peta blok PBB hasil proses konversi peta analog ke data digital dengan kamera digital,2007,Text,0,1
+127,"Aerial videography: low-cost, simple, fast and appropriate. Aerial mapping by consumer camcorders.",2005,N/A,0,1
+128,Perbaikan Distribusi Anomali Free-air di Pulau Jawa dengan Metode Kolokasi Kuadrat Terkecil.,2001,Media Teknik,0,1
+129,Prediksi anomali gayaberat di darat dengan metode kolokasi kuadrat terkecil: studi kasus Pulau Jawa.,2000,Universitas Komputer Indonesia,0,1
+130,Data efemerik teliti dari internet untuk pemrosesan jarak basis.,1999,Media Teknik,0,1
+131,Studi Penggunaan Transformasi Untuk Merubah Tinggi GPS Menjadi Tinggi Supat Datar,1997,Media Teknik,0,1
+132,KnE Engineering,,N/A,0,1
+133,Reviewer,,N/A,0,3
+134,Konferensi Teknik dan Sains Informasi Geospasial ke-1,,N/A,0,1
+135,ICST 2020,,N/A,0,2
+136,Koreksi Geometrik pada Citra Raw Data Spacecam Satelit Lapan-A2 untuk Tujuan Interpretasi Visual Geometric Correction on Raw Data Image of Spacecam LAPAN-A2 Satellite for …,,N/A,0,1
+137,"Comparison between averaged and localised subsidence measurements for coastal floods projection in 2050 Semarang, Indonesia",2021,Urban Climate,38,1
+138,Drone LiDAR application for 3D city model,2022,Journal of Applied Geospatial Information,12,2
+139,Study of sea level rise using tide gauge data year 1996 to 2015 at semarang and prigi stations,2018,2018 4th International Conference on Science and Technology (ICST),7,2
+140,Utilization of Tide Observation and Satellite Altimetry Data for Detecting Land Vertical Movement,2018,JGISE: Journal of Geospatial Information Science and Engineering,2,3
+141,Understanding Vertical Land Motion in Eastern Indonesia and Its Implications to Regional Sea Level Rise,2025,FIG Working Week 2025,0,1
+142,PEMANFAATAN TEKNOLOGI UAV UNTUK PEMETAAN PELABUHAN PERIKANAN ADIKARTO,2024,Vierendeel Journal,0,4
+143,Bathymetry and photogrammetry measurements of Opak river segment of Sumberagung village in Yogyakarta to support tourist village planning,2023,AIP Conference Proceedings,0,5
+144,ANALISIS BATIMETRI SUNGAI SERANG UNTUK MENDUKUNG PENGEMBANGAN INFRASTRUKTUR YOGYAKARTA,2020,Geoid,0,3
+145,"PEMODELAN NILAI TANAH DI DAERAH EKSKLAVE (Studi Kasus di Desa Gawanan, Kecamatan Colomadu, Kabupaten Karanganyar, Jawa Tengah)",2018,Seminar Nasional Geomatika 2018,0,1
+146,Kajian Pergerakan Vertikal Tanah menggunakan Data Satelit Altimetri dan Pasang Surut dengan Kontrol Data GNSS pada Stasiun Pasut Semarang dan Prigi,2016,N/A,0,1
+147,Integrating spatial planning and disaster risk reduction at the local level in the context of spatially enabled government,2010,"Spatially enabling society: Research, emerging trends and critical assessment",97,1
+148,Disaster risk reduction using acceptable risk measures for spatial planning,2013,Journal of Environmental Planning and Management,46,1
+149,Sistem informasi pertanahan partisipatif untuk pemetaan bidang tanah,2018,Majalah Ilmiah Globe,44,2
+150,An integrated approach for disaster risk reduction using spatial planning and SDI platform,2009,Proceedings of the surveying & spatial sciences institute biennial international conference,38,1
+151,Geographic information system based suitable temporary shelter location for Mount Merapi eruption,2023,Sustainability,25,1
+152,"Smart city and geospatial information availability, current status in Indonesian cities",2016,Procedia-Social and Behavioral Sciences,22,2
+153,"Spatial modeling of the impact of land subsidence and sea level rise in a coastal urban setting, case study: Semarang, Central Java, Indonesia",2002,International Institute for Geo-information Science and Earth Observation (ITC). MSc,21,1
+154,Predicting land use affected by land subsidence in semarang based on topographic map of scale 1: 5.000 and leveling data,2005,"Proceedings of the Map Asia 2005 Conference (in CDRom), Jakarta",19,2
+155,Spatial planning support system for an integrated approach to disaster risk reduction,2012,"University of Melbourne, Department of Infrastructure Engineering",17,1
+156,Analisis Hasil Penetapan Batas Desa Di Kabupaten Gunungkidul Provinsi Daerah Istimewa Yogyakarta,2020,Geomatika,14,4
+157,Evaluasi Penetapan Batas Desa Terhadap Segmen Batas Daerah di Kabupaten Tabalong Provinsi Kalimantan Selatan,2021,JGISE: Journal of Geospatial Information Science and Engineering,13,1
+158,The level of community participation in land registration activities in Indonesia,2020,"Bhumi Jurnal Agraria dan Pertanahan, vol 6 no 1",11,2
+159,Issues and challenges in developing geocoded address in Indonesia,2016,AIP Publishing LLC,10,1
+160,"Preliminary assessment of the impact of land subsidence and sea level rise in Semarang, Central Java, Indonesia",2003,"Ilwis exercise handbook, Refreshing course in geo-information for hazard and disaster management, Gadjah Mada University, Yogyakarta, Indonesia and International institute for geo-information sciences and earth observation. ITC, Enschede",10,1
+161,Optimising agrivoltaic systems: Identifying suitable solar development sites for integrated food and energy production,2024,"Journal of Power, Energy, and Control",9,2
+162,"Bibliometric analysis for site selection problems using geographic information systems, multi-criteria decision analysis and fuzzy method",2019,Journal of Physics: Conference Series,9,1
+163,Pengayaan Infrastruktur Data Spasial Menggunakan Data dari Crowd Untuk Tanggap Darurat Bencana,2019,Majalah Ilmiah Globe,9,2
+164,Evaluation of participatory mapping to develop parcel-based maps for village-based land registration purpose,2018,International Journal of Geoinformatics,9,2
+165,"Sistem Informasi Pertanahan Partisipatif Untuk Pemetaan Bidang Tanah Sebuah Tinjauan Pustaka Komprehensif. Majalah Ilmiah Globë, 20 (1), 1–12",2018,N/A,8,2
+166,SOUND LEVEL MAPPING USING GEOGRAPHIC INFORMATION SYSTEM (GIS) TO OPTIMIZE A GREEN CAMPUS ENVIRONMENT QUALITY,2016,N/A,8,1
+167,Geospatial Information Utilization in Indonesian  Local Government,2018,2018 4th International Conference on Science and Technology (I,6,2
+168,Analyzing Stakeholders and Their Roles in Geospatial Information Utilization in local Government using Social Network Analysis Method,2017,Semin. Nas. Geomatika 2017 Inov. Teknol. Penyedia Inf. Geospasial untuk Pembang. Berkelanjutan,6,2
+169,Developing Local Government Capacity for SDI  Development in Indonesia,2014,FIG World Conference,6,1
+170,"Implementing spatially enabled government (SEG) concept in Indonesian local government, challenges and opportunities",2010,Contribution matters! Insights of Indonesian students in Australia,6,2
+171,PGIS for tiered participatory development planning,2025,International Review for Spatial Planning and Sustainable Development,5,2
+172,"Geographic information system-based suitable temporary shelter location for Mount Merapi eruption. Sustainability, 15 (3), 2073",2023,N/A,5,1
+173,„Analisis Pemangku Kepentingan Dan Peranannya Dalam Pemanfaatan Informasi Geospasial Di Pemerintah Daerah Menggunakan Metode Social Network Analysis‟,2018,Seminar Nasional Geomatika,5,2
+174,Towards SDI services for crowdsourcing spatial data in disaster response,2017,2017 7th International Annual Engineering Seminar (InAES),5,2
+175,Sistem Informasi Geografis Partisipatif (SIG-P) untuk menuntaskan pemetaan bidang tanah: peluang dan tantangan,2014,"Menuju Pengelolaan Informasi Secara Spasial: Fondasi, Evaluasi dan Implementasi (Issue September). https://doi. org/10.5281/zenodo",5,2
+176,Calculation of rice field embankment coefficient using high-resolution satellite imagery,2020,IOP Conference Series: Earth and Environmental Science,4,1
+177,"Assessment of the impact of land subsidence, sea level rise and coastal change in the city of Semarang, Java, Indonesia",2003,"Proceedings of the FIG e-Working Week 2021, Smart Surveyors for Land and Water Management-Challenges in a New Reality, Virtual Conference",4,1
+178,Worldwide Status of Geoportal and Geospatial Data Completeness at National Geoportals,2023,IOP Conference Series: Earth and Environmental Science,3,2
+179,An Initial Model to Assess SDI Readiness of The Indonesian Local Governments,2023,"PROCEEDING OF SOUTH EAST ASIA WORKSHOP ON GEODETIC DATA SCIENCES, GEOINFORMATICS AND LAND ADMINISTRATION (GEO-LAND-SEA) 2023",3,2
+180,Mapping the distribution network of a government non-cash food assistance in Kulon Progo Regency using geospatial information system,2019,IOP Conference Series: Earth and Environmental Science,3,1
+181,"Perubahan Jumlah Segmen Batas dan Luas Desa Hasil Penetapan di Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",2018,Prosiding Simposium Infrastruktur Informasi Geospasial 2018,3,1
+182,Implementation of Intelligent Transport Systems in Indonesian Cities,2015,22nd ITS World CongressERTICO-ITS EuropeEuropean CommissionITS AmericaITS Asia-Pacific,3,1
+183,Studying Spatial Plan in Coastal Urban Environment facing global threat and adapting to local condition,2010,"Ian BISHOP, FIG Congress",3,1
+184,Impediments in e-planning in local government-Indonesian case study,2010,Proceedings of Fèdèration Internationale des Gèometres (FIG) Congress,3,1
+185,An evaluation on the use of internet for spatial data dissemination in Indonesian local government websites,2008,Jurnal Ilmiah Geomatika,3,1
+186,Tipologi alamat di perkotaan dan perdesaan Indonesia dalam proses standardisasi pengalamatan,2022,Majalah Geografi Indonesia,2,3
+187,Pemanfaatan SIG untuk Pemetaan Area Layanan dan Indeks Aksesibilitas Fasilitas Pelayanan Kesehatan di Kabupaten Kulon Progo,2021,MAjalah Ilmiah Globe,2,1
+188,Menggunakan Metode Social Network Analysis (Analyzing Stakeholders and Their Roles in Geospatial Information Utilization in local Government using Social Network Analysis …,2018,no. February,2,2
+189,"Diyono, Sugeng Prijadi, Yenny Elfrida Hutasoit, Sri Tampomas L",2018,"Tobing, Asep Sofyan, Agus Setiawan, Mahardika Ega N., Siska Rusdi Ningsih, Iwan Setiawan, Sigit Sujalmo, Sigit Inda, TDS",2,2
+190,Evaluasi Pemanfaatan Aplikasi MapIt GIS Sebagai Alat Pengumpul Data Pertanahan untuk Pendaftaran Tanah,2018,"Yogyakarta, Simposium Infrastruktur Informasi Geospasial",2,2
+191,"RA (2016). Smart City and Geospatial Information Availability, Current Status in Indonesian Cities",,Procedia-Social and Behavioral Sciences,2,2
+192,Harmonisation of Geospatial Data in the Process Evaluation of Land Utilisation Suitability Based on Cadastral Land Parcel,2025,International Journal of Geoinformatics,1,4
+193,Perubahan Nama Jalan dan Konstruksi Identitas Kota: Sebuah Tinjauan Analitis,2024,Media Komunikasi Geografi,1,1
+194,"Survei dan Pembuatan Sistem Informasi Geografis Alamat Berkode Lokasi (Geocoded Address) Untuk Wilayah Kalurahan Mantrijeron, Kota Yogyakarta",2024,N/A,1,1
+195,PEMBANGUNAN PURWARUPA SISTEM INFORMASI PADI BERBASIS WEBGIS DI KABUPATEN SRAGEN,2023,Jurnal Swarnabhumi: Jurnal Geografi dan Pembelajaran Geografi,1,2
+196,Pengaruh Perubahan Batas Desa Terhadap Alokasi Formula Dana Desa di Kabupaten Melawi,2022,Geoid,1,1
+197,Visualisasi 3D Rencana Detail Tata Ruang Kota Yogyakarta dengan Cesium,2020,Elipsoida: Jurnal Geodesi dan Geomatika,1,1
+198,"Calculation of the number of peaks in The Gunung Sewu area using DEMNAS, focal maximum function and slope position classification method",2019,IOP Conference Series: Earth and Environmental Science,1,1
+199,Pengembangan Sistem Pelaporan dan Pemetaan Kerusakan Infrastruktur Berbasis Android Menggunakan Metode Volunteered Geographic Information (VGI),2019,Elipsoida: Jurnal Geodesi dan Geomatika,1,1
+200,Methods to reduce noise level due to environmental changes: A case study in Universitas Gadjah Mada,2018,Journal of Physics: Conference Series,1,1
+201,Outdoor traffic noise effect in indoor sound distribution,2018,Journal of Physics: Conference Series,1,1
+202,Petunjuk Teknis Pembangunan Simpul Jaringan,2018,Bogor: Badan Informasi Geospasial,1,1
+203,Perbandingan Beberapa Metode Interpolasi untuk Pembentukan Digital Terrain Model dari Peta Topografi Skala Besar,2009,Documentation Teknik Geodesi,1,2
+204,Model Kota 3 Dimensi Kawasan Simpang Lima untuk Eksplorasi Kota secara Virtual,2008,Media Teknik,1,1
+205,A Prototype of SVG Map of Land and Building Tax Objects in Indonesia,2004,FIG Working Week. Diakses dari https://www. fig. net/resources/proceedings/fig_proceedings/jakarta/papers/ts_21/ts_21_2_sutanta_sularno_ppt. pdf,1,1
+206,Deriving RRR Elements from the Integration of Land Registration and Spatial Planning,2025,Land,0,2
+207,A Model for Implementing the UN-IGIF in Geospatial Information Infrastructure Development for Indonesian Local Governments,2025,International Journal of Geoinformatics,0,1
+208,Utilizing Technology Acceptance Model (TAM) to Evaluate Data Sharing Facility of Spatial Data Infrastructures (SDIs) at the Local Government Level in Indonesia,2022,Advances in Science and Technology,0,1
+209,Review of Optimization Model for Natural Disaster Shelter Location,2021,International Conference on Global Optimization and Its Applications 2021,0,1
+210,"STANDARDISASI ALAMAT DI INDONESIA: KONDISI, URGENSI,   DAN TANTANGANNYA",2021,Seminar Nasional Geomatika 2020,0,3
+211,Identifikasi Pola Persebaran Air Lindi (Leachate) di TPST Piyungan Menggunakan Metode Geolistrik dan Pemetaan Topografi,2021,"Simposium Nasional Teknologi Infrastruktur Abad ke-21, Inovasi Teknologi Infrastruktur Menuju Masyarakat yang Maju dan Tangguh",0,1
+212,Peta Bidang Tanah dalam Penyusunan Rencana Detail Tata Ruang,2019,Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI) 2019,0,2
+213,Penetapan Batas Wilayah Adat Kenegerian Batu Songgan Kecamatan Kampar Kiri Hulu Kabupaten Kampar Provinsi Riau,2018,Prosiding Simposium Infrastruktur Informasi Geospasial 2018,0,1
+214,Desain dan Rencana Pembuatan Aplikasi Spasialisasi Usulan Musrenbang,2018,Prosiding Simposium Infrastruktur Informasi Geospasial 2018,0,1
+215,Pengembangan Metode Pemantauan Geoportal Secara Otomatis Menggunakan Crawler,2017,5th Geoinformation Science Symposium 2017,0,2
+216,State of SDI Readiness in Indonesian Local Government,2016,GSDI 15 World Conference,0,2
+217,Analisis Tutupan Lahan Kota Jayapura Tahun 2014 Dengan Memanfaatkan Citra Wordview 2 Dan Landsat 8 LDCM,2015,Prosiding Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2015,0,2
+218,Evaluasi Kesiapan Infrastruktur Data Spasial di Pemerintah Daerah Kabupaten/Kota Menuju Spatially-enabled Government,2014,Departemen Teknik Geodesi FT UGM,0,2
+219,Petunjuk Teknis Pembangunan Simpul Jaringan,2014,N/A,0,4
+220,Panduan Pembangunan Simpul Jaringan,2013,N/A,0,3
+221,"SPATIAL@ LOCALGOV. GO. ID, A CENSUS ON THE SPATIAL DATA AVAILABILITY",2013,Asian Conference on Remote Sensing,0,1
+222,Urban Sensing & and Management for Urban Poverty & Risk Reduction in Web 2.0 Era: A Call for Developing a Collaborative Land Information Infrastructure,2011,The Ninth International Symposium on Mitigation of Geo-disasters in Asia,0,2
+223,"Assessment of the Impact of Land Subsidenc, Sea Level Rise and Coastal Change in the City of Semarang, Semarang, Java, Indonesia. 1–19",2003,N/A,0,1
+224,"Morphological characters of kepel (Stelechocarpus burahol) from Kulon Progo, Yogyakarta, Indonesia",,N/A,0,2
+225,Evaluation of participatory maps use to build parcel-based map for land registration purpose,,N/A,0,2
+226,PENGEMBANGAN APLIKASI SISTEM INFORMASI PERTANAHAN PARTISIPATIF UNTUK MENDUKUNG PENDAFTARAN TANAH,,N/A,0,2
+227,"Pembuatan Peta dan Sistem Informasi Geospasial Lahan Pertanian di Kecamatan Sentolo, Kabupaten Kulonprogo, Yogyakarta",,Jurnal Pengabdian Kepada Masyarakat (Indonesian Journal of Community Engagement),11,3
+228,Perhitungan Kecepatan Sedimentasi Melalui Pendekatan Usle dan Pengukuran Kandungan Tanah dalam Air Sungai yang Masuk ke dalam Waduk Sermo,2017,Jurnal Nasional Teknologi Terapan (JNTT),9,2
+229,Penyusunan Model Konsepsual Basisdata untuk Sistem Informasi Kadaster Multiguna.,2003,Forum Teknik,9,2
+230,Understanding the Urgency for 3D Cadastre in Indonesia: Development & Visualization of a Hybrid 3D Cadastre Model,2009,10th South East Asian Survey Congress,4,5
+231,Perhitungan Volume dan Sebaran Sedimentasi Waduk Sermo Berdasarkan Kondisi Awal Pembangunan dan Keadaan Terkini di Tahun 2016,2017,N/A,1,2
+232,The analysis of monitoring control point displacement of Sermo Dam based on the 2015-2016 GNSS data,2017,AIP Conference Proceedings,1,5
+233,"Pengukuran Laju Sedimentasi Waduk Sermo Berdasarkan Analisa Data Pengukuran Batimetri, Kandungan Tanah dalam Air Sungai, serta Analisa Sedimentasi Dasar Waduk",2016,N/A,0,4
+234,Uji Kualitas Data Pengukuran Titik Kontrol Pemantauan Waduk Sermo Tahun 2016,2016,N/A,0,5
+235,Digital transformation of land services in indonesia: A readiness assessment,2021,Land,85,3
+236,Economic sustainability in a wider context: Case study of considerable ICT sector sub-divisions,2018,Sustainability,32,1
+237,Pemetaan Objek Reforma Agraria dalam Kawasan Hutan (Studi Kasus di Kabupaten Banyuasin),2020,"Bhumi Jurnal Agraria dan Pertanahan, Vol. 6 No. 2",29,1
+238,DEM classifications: opportunities and potential of its applications,2019,Journal of Degraded and Mining Lands Management,18,1
+239,"Digital transformation of land services in Indonesia: A readiness assessment. Land, 10 (2), 120",2021,N/A,9,3
+240,"Digital transformation of land services in Indonesia: A readiness assessment. Land, 10 (2), 1–16",2021,N/A,9,3
+241,Perbandingan volume stockpile batu bara hasil uav fotogrametri dan UAV lidar,2022,JGISE: Journal of Geospatial Information Science and Engineering,8,1
+242,Evaluasi Hasil Integrasi Berbagai Ketelitian Data Model Elevasi Digital,2018,Geomatika,5,2
+243,Literature Review: Pengaruh Administrasi Pertanahan dalam Penilaian Tanah,2023,Geoid,4,1
+244,Model pengadaan tanah untuk pembangunan perumahan di kabupaten sleman,2022,Jgise Journal of Geospatial Information Science and Engineering,3,2
+245,Analisis Perbandingan Ketelitian Model 3D Menggunakan Lensa Normal dan Lensa Fisheye,2021,JGISE: Journal of Geospatial Information Science and Engineering,3,1
+246,Analisis Pengaruh Perubahan Kerapatan Vegetasi Terhadap Suhu Permukaan Karena Kegiatan Pertambangan Menggunakan Citra Satelit Multiwaktu (studi kasus: PT. AMMAN MINERAL NUSA …,2020,JGISE: Journal of Geospatial Information Science and Engineering,3,1
+247,Transaction cost and landownership constraints in the supply of brown field sites in Kuala Lumpur,2010,Pacific Rim Property Research Journal,3,2
+248,THE ROLE OF LAND RIGHTS IN URBAN HERITAGE MANAGEMENT–THE EXPLANATORY POWER OF INSTITUTIONAL ECONOMICS ANALYSIS IN THE RECONSTRUCTION OF CULTURAL HERITAGE OF KOTAGEDE YOGYAKARTA …,2009,Theoretical and Empirical Researches in Urban Management,3,2
+249,Transaction cost analysis in redeveloping indigenous lands in Malaysia,2009,Economia. Seria Management,3,2
+250,"Klasifikasi Digital Tutupan Lahan Berbasis Objek menggunakan Integrasi Data Lidar dan Citra Satelit di Kawasan Tamalanrea Indah, Kota Makassar",2021,N/A,2,1
+251,Analisis Nilai Tanah Pertanian dan Permukiman di Kecamatan Magelang Selatan,2022,JGISE: Journal of Geospatial Information Science and Engineering,1,2
+252,"Digital Transformation of Land Services in Indonesia: A Readiness Assessment. Land 2021, 10, 120",2021,s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affil-iations.,1,3
+253,DESAIN KONFIGURASI JARING GPS UNTUK PEMANTAUAN DEFORMASI SESAR SERMO:(GPS Network Configuration Design for Deformation Monitoring of Sermo Fault),2021,Geomatika,0,3
+254,"Pemetaan Transaksi Jual Beli Tanah Tahun 2015, 2017, dan 2019 di Kabupaten Sleman",2021,N/A,0,2
+255,Strengthening the Institutional Structure of Urban Development Land Market in Malaysia,2007,Faculty of Geoinformation Science And Engineering,0,2
+256,Pembuatan Dem Dari Sumber Data Citra Aster,2005,Media Teknik,0,2
+257,Preliminary assessment of the geometric performance of satellite data imaged by avnir-adeos,1998,Forum Teknik,0,3
+258,Coordinates Transformation On Satellite Imagery: A Digital Photogrammetry Aproach,1997,Media Teknik,0,3
+259,Pembentukan Jaring Segitiga dari Data Acak Digital Terrain Model untuk Perhitungan Volum,1989,Fakultas Teknik Universitas Gadjah Mada,0,1
+260,Management Management,,N/A,0,2
+261,Transaction cost analysis in redeveloping indigenous lands in Malaysia Analiza costurilor de tranzacţie în reamenajarea terenurilor indigene în Malaezia,,N/A,0,2
+262,"Strengthening the Structure of Development Land Market in Kampong Baru, Kuala Lumpur–Transcaction Cost of Institutional Economics Analysis Perspective",2012,Universiti Teknologi Malaysia (UTM),7,2
+263,Penentuan Kecepatan Sedimentasi Waduk Berdasarkan Data Pengukuran Batimetri dan Analisa Kandungan Sedimen Dalam Air,2015,"Conference Proceedings. Forum Ilmiah Tahunan, Ikatan Surveyor Indonesia",4,2
+264,Analisis Pola Pengadaan Tanah Untuk Pembangunan Perumahan Di Kecamatan Banguntapan Kabupaten Bantul,2015,Skripsi. Yogyakarta: Universitas Gadjah Mada,2,1
+265,Kajian Proses Ortorektifikasi Citra Satelit Resolusi Tinggi untuk Pemetaan Skala Besar,2016,N/A,0,1
+266,ANALISIS FAKTOR PENYEBAB TANAH TERLANTAR DI DAERAH TRANSMIGRASI DESA WAODE ANGKALO KABUPATEN BUTON UTARA,2016,N/A,0,1
+267,Pemetaan Pertumbuhan Kawasan Industri Di Kabupaten Sragen Berdasar Data Perubahan Penggunaan Tanah Industri,2015,N/A,0,1
+268,Evaluasi Perubahan Penggunaan Lahan Perumahan di Kota Palembang Tahun 2011 s/d 2014,2015,N/A,0,1
+269,ANALISIS PASAR TANAH UNTUK IDENTIFIKASI PERTUMBUHAN WILAYAH KABUPATEN SRAGEN,2014,N/A,0,1
+270,EVALUASI HASIL KONSOLIDASI TANAH DI DESA NGADIRGO KECAMATAN MIJEN KOTA SEMARANG JAWA TENGAH,2014,N/A,0,1
+271,"PEMUTAKHIRAN PETA PENGGUNAAN DAN PEMANFAATAN TANAH KOTA YOGYAKARTA (Studi Kasus: Kota Yogyakarta, Daerah Istimewa Yogyakarta)",2014,N/A,0,1
+272,"PEMETAAN POTENSI PENGGUNAAN TANAH SULTAN GROUND DI KABUPATEN BANTUL, DAERAH ISTIMEWA YOGYAKARTA",2014,N/A,0,1
+273,"EVALUASI PENGGUNAAN TANAH TERHADAP RENCANA TATA RUANG WILAYAH (Studi Kasus: Kecamatan Karanganyar, Kabupaten Karanganyar, Jawa Tengah)",2014,N/A,0,1
+274,PERTUMBUHAN WILAYAH KABUPATEN KEBUMEN BERDASARKAN POLA PASAR TANAH,2013,N/A,0,1
+275,ANALISIS POLA NILAI TANAH DI KAWASAN PASAR BUKATEJA KABUPATEN PURBALINGGA JAWA TENGAH,2013,N/A,0,2
+276,PENYEDIAAN TANAH UNTUK PEMUKIMAN DI KABUPATEN KENDAL STUDI KASUS PENGKAPLINGAN TANAH DI KELURAHAN LANGENHARJO,2010,Makalah Seminar Nasional,0,1
+277,"PENGGUNAAN ANALYTICAL HIERARCHY PROCESS UNTUK MENENTUKAN PRIORITAS SYARAT LOKASI PENDAFTARAN TANAH SISTEMATIK AJUDIKASI LMPDP (Studi Kasus di Kabupaten kulon Progo, DI yogyakarta)",2010,Makalah Seminar Nasional,0,2
+278,Pendekatan neo klasik dalam menghurai halangan penawaran tanah di bandar,2008,N/A,0,1
+279,Pemanfaatan Citra Landsat 7 ETM+ multi waktu untuk penentuan prioritas wilayah pendataan objek pajak:: Studi kasus di wilayah pelayanan PBB Bogor,2005,Text,0,1
+280,Pemanfaatan foto udara format kecil daerah datar untuk pengukuran luas bidang tanah guna pendataan objek pajak bumi dan bangunan:: Studi kasus di wilayah kerja Kantor Pelayanan …,2004,N/A,0,2
+281,Evaluasi Ketelitian Geometri Citra Ikonos Level Geo Dearah Datar Terhadap Peta Orthofoto Skala 1: 2500,2004,Media Teknik,0,1
+282,Pemanfaatan teknologi Wireless Application Protocols dalam rangka pengumpulan data atribut Pajak Bumi dan Bangunan,2004,N/A,0,1
+283,Pemanfaatan citra satelit Ikonos untuk penentuan prioritas pendataan PBB di Kota Semarang,2004,N/A,0,1
+284,Identifikasi jenis peruntukan dan luas objek pajak khusus menggunakan Citra IKONOS untuk pendataan objek pajak bumi dan bangunan:: Studi kasus kawasan Pelabuhan Benoa,2004,N/A,0,1
+285,Pembuatan model penilaian bumi untuk penentuan nilai jual obyek pajak dengan memperhatikan faktor spasial lokasi dan fisik tanah dari citra Ikonos,2003,N/A,0,1
+286,Pemilihan lokasi Kantor Pelayanan Pajak Bumi dan Bangunan dengan memanfaatkan Sistem Informasi Geografis (SIG):: Studi kasus di Kantor Pelayanan PBB Surabaya Tiga,2003,Text,0,3
+287,Penentuan geometri obyek arkeologi/arsitektur dengan sistem video,1997,Forum Teknik,0,1
+288,Penentuan deformasi geometrik hasil pemotretan kamera non-metrik,1997,Forum Teknik,0,1
+289,Pengukuran Tinggi Muka Dasar Perairan Secara Fotogrametri,1996,Media Teknik,0,1
+290,Pemanfaatan program paket autocad dalam bidang pemetaan,1991,Media Teknik,0,1
+291,"Hitungan Koordinat (X, Y, Z) poligon tertutup cara Bowditch pada lembar kerja Lotus 123",1989,Media Teknik,0,1
+292,"The 2022 Mw 6.1 Pasaman Barat, Indonesia earthquake, confirmed the existence of the Talamau segment fault based on teleseismic and satellite gravity data",2022,Quaternary,32,1
+293,Earthquake early warning system using ncheck and hard-shared orthogonal multitarget regression on deep learning,2021,IEEE Geoscience and Remote Sensing Letters,23,2
+294,"Evaluation of global geopotential model and its application on local geoid modelling of Java Island, Indonesia",2016,AIP conference proceedings,15,1
+295,Simulation of the Indonesian land gravity data using a digital terrain model data,2004,"Earth, planets and space",15,1
+296,Anomaly detection on displacement rates and deformation pattern features using tree-based algorithm in Japan and Indonesia,2023,Geodesy and Geodynamics,10,3
+297,Multi-target regression using convolutional neural network-random forests (CNN-RF) for early earthquake warning system,2021,2021 9th International Conference on Information and Communication Technology (ICoICT),10,2
+298,"Perhitungan nilai chart datum stasiun pasang surut jepara berdasarkan periode pergerakan bulan, bumi, dan matahari menggunakan data pasut tahun 1994 sd 2013",2014,Jurnal Geospasial Indonesia,9,1
+299,Geologi gempa bumi Indonesia,2024,UGM PRESS,8,5
+300,"Spatiotemporal variation of vertical displacement driven by seasonal hydrological water storage changes in Kalimantan, Indonesia from GPS observation",2020,Geodesy and Geodynamics,8,3
+301,Analisis geosite dan geomorphosite kawasan Karsbiduk-Biduk sebagai potensi geowisata Indonesia,2017,Proceeding Seminar Nasional Kebumian ke-10 peran penelitian ilmu kebumian dalam pembangunan infrastuktur di Indonesia,8,1
+302,Deep learning for real-time P-wave detection: A case study in Indonesia's earthquake early warning system,2024,Applied Computing and Geosciences,7,3
+303,A comparison of geologic structure detection of Sumatera Island using goce satellite gravity data and Sgg-Ugm-2 data,2022,"Journal of Geoscience, Engineering, Environment, and Technology",6,1
+304,Integrating Multi-Hazard Risk Analysis into Spatial Planning for Small Island: Study Case of Sangihe Island,2021,IOP Conference Series: Earth and Environmental Science,6,4
+305,Geoid determination with Hotine’s integral based on terrestrial gravity data in Semarang city,2019,Journal of Physics: Conference Series,6,2
+306,"Sensitivity analysis of moment magnitude (Mw) spectral fitting parameters based on orthogonal design: using aftershocks of the 2019 Mw 6.5 Ambon, Indonesia …",2023,Bulletin of Earthquake Engineering,5,2
+307,Importance of Tropospheric Correction to C-band InSAR Measurements: Application in the 2018 Palu Earthquake,2022,Indonesian Journal of Geography,5,2
+308,Recent GPS-based long wavelength crustal deformation revealed active postseismic deformation due to the 2006 Yogyakarta earthquake,2022,Journal of Applied Geodesy,5,3
+309,Pemodelan Geoid Lokal D.I. Yogyakarta menggunakan Metode Fast Fourier Transformation dan Least Square Collocation,2014,The 2nd Conference on Geospatial Information Science and Engineering,5,3
+310,"Strain accumulation in the Mentawai Forearc Sliver, Indonesia, inferred from continuous GNSS-derived strain rate",2025,Geodesy and Geodynamics,4,3
+311,Determination of a local hybrid geoid as a height reference system for 3D cadastre,2021,Indonesian journal of geography,4,3
+312,A possible opak fault segment that caused the 2006 mw 6.3 yogyakarta earthquake and its future implication,2021,IOP Conference Series: Earth and Environmental Science,4,5
+313,"Evaluation of GOCE’s global geopotential model to the accuration of local geoid (Case Study: Java Island, Indonesia)",2014,FIG Congress,4,1
+314,"Preprocessing of coastal satellite altimetry, tide gauges, and GNSS data: Towards the possibility of detected vertical deformation of South Java island",2013,Procedia Environmental Sciences,4,2
+315,Mean sea level and sea surface variability of Indonesian waters from TOPEX/Poseidon,2002,Springer Berlin Heidelberg,4,1
+316,Variasi strain di sekitar Sesar Baribis berdasarkan data pengamatan GPS kontinyu (2016-2018),2020,Elipsoida: Jurnal Geodesi dan Geomatika,3,1
+317,Sistem referensi vertikal di wilayah land subsidence (studi kasus: Kota Semarang),2018,"Disertasi, Universitas Gadjah Mada, Yogyakarta",3,2
+318,Evaluation of global geopotential model and digital terrain model to the accuration of local geoid model: Case study in work field of PT Pertamina EP Asset 4 Field Cepu,2017,2017 7th International Annual Engineering Seminar (InAES),3,1
+319,Trends and seasonal to annual sea level variations of North Java Sea derived from tide gauges data,2016,"Proceedings of the First International Conference on Technology Innovations Society, Padang, West Sumatra, Indonesia",3,2
+320,Pengaruh Densitas Topografi terhadap Ketelitian Model Geoid (Studi Kasus Pulau Sulawesi),2024,Journal of Geospatial Information Science and Engineering,2,1
+321,Deformation rate variation along Baribis Fault based on continuous geodetic observation,2019,2019 5th International Conference on Science and Technology (ICST),2,3
+322,Crustal Deformation Pattern across Yogyakarta Special Region Revealed by a Dense Geodetic Measurements,2019,2019 5th International Conference on Science and Technology (ICST),2,5
+323,Analysis of Sangihe Islands Movements derived from Recent GPS Observation,2019,Journal of Geospatial Information Science and Engineering,2,2
+324,GPS Technology Implementation for Sangihe Islands’ Movement Monitoring in 2017-2019,2019,Journal of Geospatial Information Science and Engineering,2,6
+325,"An evaluation of the use of SRTM data to the accuracy of local GeOID determination: A case study of Yogyakarta Region, Indonesia",2014,12th Biennial Conference of Pan Ocean Remote Sensing Conference (PORSEC 2014),2,2
+326,Multi-epoch GNSS Data Analysis on Geodynamics Study of Central Java,2014,Procedia Environmental Sciences,2,2
+327,On the Influence of Sea Surface Height Variability on Satellite Altimeter Derived Gravity,2001,Marine Geodesy,2,1
+328,Correlation Analysis of Chlorophyll-a and Sea Surface Temperature with Fish Production in Baron Beach Gunungkidul Using Remote Sensing Technology,2025,Engineering Headway,1,1
+329,"Spatial correlation between GRACE-based total water level fluctuation and GNSS-derived dilatation rate of peatland area in Kalimantan, Indonesia",2025,Applied Geomatics,1,3
+330,Tata Kelola dan Sosial Ekonomi Budaya Garam Rakyat,2024,UGM PRESS,1,1
+331,Advanced Geoid Modeling in Sulawesi and Accuracy Verification Strategies for Accommodating Diverse MSL Vertical Datums,2024,N/A,1,1
+332,"Peningkatan Jumlah dan Kompetensi Nelayan Melalui Program Sosialisasi dan Magang, di Kalurahan Poncosari, Srandakan Bantul di Yogyakarta",2023,Aksiologiya: Jurnal Pengabdian Kepada Masyarakat,1,3
+333,Long and Short Wavelength of Geodetic Strain Rate Tapering Earthquake Potential in Western Java,2021,IOP Conference Series: Earth and Environmental Science,1,3
+334,GPS-Derived Secular Velocity Field around Sangihe Island and its Implication to the Molucca Sea Seismicity,2020,GEOMATIKA Учредители: Geospatial Information Agency of The Republic of Indonesia,1,5
+335,Gravity Disturbance Derived from Airborne Gravity and Its Geodynamics Interpretation of Sulawesi Island,2020,2020 6th International Conference on Science and Technology (ICST),1,1
+336,"Perbandingan Pergerakan Titik Pantau Deformasi Kepulauan Sangihe Menggunakan Metode Perhitungan Periodik dan Simultan Berdasarkan Data GNSS Tahun 2014, 2015, dan 2016",2020,JGISE: Journal of Geospatial Information Science and Engineering,1,1
+337,Quality Analysis of the Geodetic Control Networks for Purposes of Geodynamics Study of Sangihe Island,2018,2018 4th International Conference on Science and Technology (ICST),1,2
+338,"Combination of gravity disturbances and gravity anomalies for geoid determination: a case study in Semarang city, Central Java, Indonesia",2018,2018 4th International Conference on Science and Technology (ICST),1,2
+339,Pemanfaatan Data Multi Satelit Altimetri untuk Kajian Kenaikan Muka Air Laut Perairan Pulau Jawa dari Tahun 1995 sd 2014,2014,"Universitas Gadjah Mada, Yogyakarta",1,2
+340,The evaluation of the result of post-processing envisat satellite altimetry data used for coastal area potential flood mapping (case study: coastal area of Buleleng Regency …,2014,Procedia Environmental Sciences,1,1
+341,"Sistem Tinggi Dalam Realisasi Kadaster 3D Di Indonesia: Tantangan, Permasalahan dan Alternatif Solusi",2013,BHUMI: Jurnal Agraria dan Pertanahan,1,2
+342,Dinamika Fisis Perairan Indonesia dari Data Altimeter,2009,Proseding Seminar Nasional Revitalisasi data dan Informasi Keruangan (Geospasial) untuk Meningkatkan Efisiensi Pengelolaan Potensi Sumber Daya Daerah,1,1
+343,Evaluasi model geoid global di Pulau Jawa,2008,Media Teknik,1,1
+344,"Precise Indonesian gravity eld determination from a combination of surface gravity, altimeter and digital terrain model data",2002,Gravity and Geoid,1,1
+345,Perbandingan perhitungan geoid Pulau Jawa dengan integral Stokes dan integral Hotine,,journal-article.[Online]. Available: https://geodesi. ft. undip. ac. id/wp-content/uploads/2018/02/Jurnal_Geodesi_LMS. pdf,1,2
+346,A case study of geoid modeling in Sulawesi and accuracy verification strategies for accommodating diverse MSL vertical datums,2026,"Terrestrial, Atmospheric and Oceanic Sciences",0,1
+347,"Integrated gravity, GNSS, and seismic analysis for fault mapping in sulawesi island: Insights into the Palu-Koro Fault",2025,Geodesy and Geodynamics,0,3
+348,"Investigation the impact of active fault-induced vertical displacement on land subsidence rates using GNSS CORS data in northern coastal cities of Central Java, Indonesia",2025,Journal of Applied Geodesy,0,4
+349,Geodesy and Geodynamics,2024,N/A,0,5
+350,"Development and Institutionalization of Community Education for Climate Change Adaptation and Mitigation in Small Island Areas Based on Local Wisdom in North Tabukan, Sangihe …",2023,AIJR Proceedings,0,2
+351,Long-Short Rupture Boundary of Coseismic Displacement Estimation Based on 30-Seconds GNSS Observation,2023,Journal of the Earth and Space Physics,0,2
+352,Pemodelan Quasigeoid Lokal Bali dari Data Gayaberat Teristris Menggunakan Formula Hotine,2023,Geoid,0,2
+353,Aspek Geografis: Analisis Potensi Lokasi Produksi Garam,2023,Pustaka Pelajar,0,2
+354,Implementasi Data Tinggi Global Navigation Satellite System (GNSS) Continuously Operating Reference Stations (CORS) dalam Pengembangan Kadaster 3 Dimensi (3D) di Indonesia,2022,Jurnal Pertanahan,0,2
+355,Geodesy and Geodynamics,2022,N/A,0,3
+356,Estimasi Perubahan Nilai Simpanan Air di Wilayah Pulau Kalimantan Berdasarkan Kombinasi Data Gayaberat Satelit Grace Dan Grace Follow-On,2021,Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI),0,1
+357,"PENENTUAN POSISI TITIK–TITIK PEMANTAUAN BANJIR DI DESA SEGOROYOSO, KECAMATAN PLERET, KABUPATEN BANTUL, PROVINSI DIY",2021,Jurnal Pengabdian dan Pengembangan Masyarakat,0,7
+358,EVALUASI VARIAN DATA MODEL TERAIN DIGITAL DALAM PENENTUAN MODEL GEOID LOKAL Studi kasus: DI Yogyakarta:(Evaluation of Digital Terrain Models for Local Geoid Determination a …,2021,Geomatika,0,1
+359,Preliminary result for crustal properties derivation related to tectonics for hazard mitigation in Eastern Indonesia using Teleseismic P Coda,2021,E3S Web of Conferences,0,2
+360,Comparison of Destriping Methods of GRACE Satellite for Total Water Storage Calculation in Peatland Borneo Island,2019,KnE Engineering,0,1
+361,Crustal Deformation Changes due to M4 Class Earthquake Near Kendeng Thrust Detected by Geodetic Data,2019,2019 5th International Conference on Science and Technology (ICST),0,3
+362,Determination of Displacement Rate Along Cisadane Fault Inferred from Continuous Geodetic Observation,2019,2019 5th International Conference on Science and Technology (ICST),0,3
+363,Crustal Movement Estimation along Opak Fault Based on GNSS Data using Kalman Filtering,2019,2019 5th International Conference on Science and Technology (ICST),0,5
+364,EVALUASI MODEL DATA SATELIT GRACE UNTUK ESTIMASI TOTAL SIMPANAN AIR DI WILAYAH LAHAN GAMBUT PULAU KALIMANTAN,2019,Elipsoida: Jurnal Geodesi dan Geomatika,0,1
+365,Kajian Teknologi GNSS-CORS dalam Pengukuran dan Pemetaan Pendaftaran Tanah Sistematis Lengkap,2018,Forum Ilmiah Tahunan Ikatan Surveyor Indonesia,0,2
+366,Redefinition of the Indonesia Land Agencyâ s GNSS CORS Coordinate for Cadastral Survey Control,2018,The 4th International Conference on Science dan Technology,0,2
+367,Temporal Gravity Gradient of South Kalimantan Region,2018,2018 4th International Conference on Science and Technology (ICST),0,1
+368,Redefinition of the Indonesia Land Agency's GNSS CORS Coordinate for Cadastral Survey Control Points,2018,2018 4th International Conference on Science and Technology (ICST),0,2
+369,Yogyakarta Region's Temporal Variation of Earth Gravity Field from Goce Satellite Gravity Data,2018,The 12th SEATUC Symposium,0,2
+370,Analisis Kenaikan Tinggi Muka Air Laut dari Data Multi-Satelit Altimetri Tahun 1996 hingga 2015 pada Stasiun Pasut Semarang dan Prigi,2016,CGISE ke-3 dan FIT ISI 2016,0,2
+371,Evaluation of the influence of the Global Geopotential Model resolution on the accuracy of local geoid models:(Case study: DI Yogyakarta Province),2016,2016 6th International Annual Engineering Seminar (InAES),0,1
+372,Kajian Kenaikan Muka Air Laut di Pelabuhan Perikanan Pantai Sadeng Yogyakarta Berdasarkan Data Multi Satelit Altimetri,2016,SEMINAR NASIONAL PENGINDERAAN JAUH 2016,0,2
+373,PEMANFAATAN DATA MULTI SATELIT ALTIMETRI UNTUK KAJIAN KENAIKAN MUKA AIR LAUT PERAIRAN PULAU JAWA DARI TAHUN 1995 S.D 2014,2015,Simposium Nasional Sains Geinformasi IV 2015,0,2
+374,Deformation Analysis of the Borobudur Based on Multi Epoch Geodetic Observation Data,2014,The 2nd International Conference on Sustainable Civil Engineering Structures and Construction Materials,0,2
+375,Analisis Deformasi Horisontal Candi Borobudur Berdasarkan Data Pengamatan Teristis Multi Tahun,2013,Forum Ilmiah Tahunan ISI : Peran Geospasial Dalam Pengelolaan Sumberdaya Agraria Secara Berkelanjutan (Dalam Rangka Peringatan Tahun Emas Pendidikan Tinggi Agraria).,0,2
+376,"ANALISIS DAN PREDIKSI GERAKAN MASSA TANAH DI KM 15, 9 SALURAN INDUK KALIBAWANG KABUPATEN KULON PROGO DENGAN MENGGUNAKAN MODEL KINEMATIK",2008,Documentation Teknik Geodesi,0,2
+377,ESTIMASI PENGAR1UH VARIASI TINGGI MUKA LAUT PADA PENENTUAN ANOLAMI GAYABERAT DARI DATA SATELIT ALTIMETER,2008,Media Teknik,0,1
+378,"Determination of the Indonesian gravity fields from combination of surface gravity, satellite altimeter and digital terrain model data",2003,N/A,0,1
+379,EVALUASI VARIAN DATA MODEL TERAIN DIGITAL DALAM PENENTUAN MODEL GEOID LOKAL,,N/A,0,1
+380,Applied Computing and Geosciences,,N/A,0,3
+381,A Study of accuracy estimation of satellite altimeter derived gravity anomaly around the coastal and shallow areas,,N/A,0,1
+382,"Gravity Mapping in and around Indonesian Island Using Satellite Altimeter, Ship-borne and Surface Gravity Data",,N/A,0,1
+383,"Determination of Indonesian gravity fields from combination of surface gravity, satellite altimeter and digital terrain model data",,N/A,0,1
+384,Implementasi Metode Convolutional Neural Network Untuk Klasifikasi Tanaman Pada Citra Resolusi Tinggi,2018,Jurnal Ilmiah Geomatika,179,1
+385,Indonesian DEMNAS: DSM or DTM?,2019,"2019 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)",40,1
+386,Identifikasi Genangan Banjir di Wilayah DKI Jakarta Menggunakan Citra Satelit Sentinel-1,2021,JGISE: Journal of Geospatial Information Science and Engineering,25,1
+387,Current land subsidence in Jakarta: a multi-track SBAS InSAR analysis during 2017–2022 using C-band SAR data,2024,Geocarto International,21,1
+388,Integration of the latest digital terrain model (DTM) with Synthetic aperture radar (SAR) bathymetry,2021,Journal of Degraded and Mining Lands Management,18,3
+389,"Multidimensional displacement analysis of Semeru Volcano, Indonesia following December 2021 eruption from multitrack InSAR observation",2024,Earth Science Informatics,13,1
+390,Analisis Kehandalan Ekstraksi Garis Tepi Bangunan dari Data Foto Udara Menggunakan Pendekatan Deep Learning Berbasis Mask R-CNN,2022,Geoid,10,1
+391,PEMANFAATAN TEKNOLOGI UAV (UNMANNED AERIAL VEHICLE) UNTUK IDENTIFIKASI DAN KLASIFIKASI JENIS-JENIS KERUSAKAN JALAN,2020,Rekayasa Sipil,10,1
+392,Dynamics topography monitoring in peatland using the latest digital terrain model,2022,Journal of Applied Engineering Science,9,3
+393,FREE GLOBAL DEM: CONVERTING DSM TO DTM AND ITS APPLICATIONS.,2019,"International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences",9,1
+394,Implementation of convolutional neural network methods for plant classification in high-resolution imagery,2018,Geomatika,9,1
+395,Improved deep learning segmentation of outdoor point clouds with different sampling strategies and using intensities,2024,Open Geosciences,8,2
+396,Pembuatan Model 3D Bangunan LoD3 Dengan Pemanfaatan Foto Udara dan Fotogrametri Terrestris,2023,Geoid,8,1
+397,The latest DTM using InSAR for dynamics detection of Semangko fault-Indonesia,2021,Geodesy and Cartography,8,3
+398,Automatic point cloud segmentation using RANSAC and DBSCAN algorithm for indoor model,2023,TELKOMNIKA (Telecommunication Computing Electronics and Control),7,2
+399,Pemodelan Bangunan 3D Menggunakan Footprint Bangunan Hasil Ekstraksi Mask R-CNN Dan Dense Point Cloud Dari Foto Udara UAV,2021,Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI),7,1
+400,Analisis konversi ruang terbuka hijau menjadi penggunaan perumahan di Kecamatan Tembalang Kota Semarang,2008,Media Teknik,7,1
+401,Integration PS-InSAR and MODIS PWV Data to Monitor Land Subsidence in Semarang City 2015–2018,2019,KnE Engineering,6,1
+402,Ekstraksi Fitur Bangunan Secara Cepat pada Foto UAV Menggunakan Metode Deep Residual Neural Network Berbasis FCN,2019,Elipsoida: Jurnal Geodesi dan Geomatika,6,1
+403,"Assessment of low cost small format aerial photogrammetry for cadastral mapping (Case study in Klaten Regency, Central Java, Indonesia)",2009,"7th FIG Regional Conference on Spatial Data Serving People: Land Governance and the Environment-Building the capacity. Hanoi, Vietnam",6,2
+404,Integration of Cloud Score+ with Sentinel-2 Harmonized for land use and land cover classification using machine learning algorithms,2024,Geomatics International Conference,5,2
+405,Analysis and Evaluation of PointNet for Indoor Office Point Cloud Semantic Segmentation,2023,"International Journal on Advanced Science, Engineering and Information Technology",5,2
+406,Precise coseismic displacement related to the 2022 Pasaman earthquake using multi-geometry of Sentinel-1 InSAR,2023,AIP Conference Proceedings,5,1
+407,Vertical accuracy evaluation of digital terrain model (Dtm) alos palsar-2 in rote dead sea area–Indonesia,2021,Geodetski list,5,3
+408,Evaluasi Penerapan Mini Bundle Block Adjustment pada Foto Udara Format Kecil,2008,Media Teknik,5,2
+409,Pembuatan Model Prediksi Lahan Terbangun di Kabupaten Kulon Progo dengan Citra Satelit Penginderaan Jauh,2023,Geoid,4,1
+410,Utilization of sentinel satellite for vertical deformation monitoring in Semangko Fault - Indonesia,2019,"The 40th Asian Conference on Remote Sensing (ACRS 2019) October 14-18, 2019/Daejeon Convention Center (DCC), Daejeon",4,1
+411,PEMBUATAN MODEL ELEVASI DIGITAL DARI STEREOPLOTTING INTERAKTIF FOTO UDARA FORMAT SEDANG DENGAN KAMERA DIGICAM,2013,Jurnal Ilmiah Geomatika,4,1
+412,Klasifikasi berorientasi obyek pada citra satelit QuickBird,2009,Makalah Seminar Nasional,4,1
+413,EVALUASI PEMBUATAN MOSAIK FOTO UDARA FORMAT KECIL TIDAK TERKONTROL MENGGUNAKAN PERANGKAT LUNAK DESAIN GRAFIS KOMERSIAL,2008,Media Teknik,4,3
+414,The application of mask R-CNN for building extraction,2023,AIP Conference Proceedings,3,2
+415,Kajian keandalan true orthophoto untuk pemetaan skala besar 1: 5.000,2021,Geoid,3,1
+416,Utilization of DSM and DTM for Spatial Information in Lake Border,2020,IOP Conference Series: Earth and Environmental Science,3,1
+417,"Indonesian DEMNAS: DSM or DTM? AGERS 2019–2nd IEEE Asia-Pacific Conference on Geoscience, Electronics, and Remote Sensing Technology: Understanding and Forecasting the Dynamics …",2019,Proceeding. doi,3,1
+418,Perbandingan ragam input model ketinggian untuk pembentukan true orthophoto di wilayah urban,2018,Jurnal Ilmiah Geomatika,3,1
+419,Evaluasi Ketelitian Penentuan Kedalaman Perairan Dangkal Menggunakan Citra Satelit Pleiades,2017,N/A,3,2
+420,Uneven Land Subsidence Patterns Along Java's Northern Urban Corridor (Pantura Route) from 2.5 D SBAS InSAR Approach.,2025,Indonesian Journal on Geoscience,2,1
+421,"Analysis of Water Quality Dynamics of Sentarum Lake, Indonesia, with Water Index Application and Water Parameter Algorithm Methods Using Google Earth Engine",2025,6th International Conference on Environmental Resources Management in Global Region,2,1
+422,Comparative Analysis of the Semantic Conditions of LoD3 3D Building Model Based on Aerial Photography and Terrestrial Photogrammetry,2023,Journal of Applied Geospatial Information,2,1
+423,Vegetation Height Estimation using Satellite Remote Sensing in Peat Land of Central Kalimantan,2021,Journal of Environmental Analysis and Progress,2,1
+424,"Deteksi Area Bekas Kebakaran Hutan dan Lahan Menggunakan Citra Landsat 8 Tahun 2018–2020 (Studi Kasus: Pulau Rupat, Bengkalis)",2020,Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI),2,1
+425,Comparison of the Latest DTM with DEM Pleiades in Monitoring the Dynamic Peatland,2020,2020 3rd International Seminar on Research of Information Technology and Intelligent Systems (ISRITI),2,2
+426,KAJIAN TEKNIK STEREO PLOTTING PADA FOTO UDARA FORMAT KECIL UNTUK MENGHASILKAN DATA DTM,2020,Jurnal Ilmiah Geomatika,2,1
+427,Kajian Kehandalan Hasil Ekstraksi Bangunan Secara Otomatis Menggunakan Data Ortofoto dan LiDAR di Kota Pontianak,2019,Elipsoida: Jurnal Geodesi dan Geomatika,2,1
+428,Integration PS-InSAR and MODIS PWV data to monitor land subsidence in Semarang city 2015–2018. KnE Eng 2019: 66–76,2019,N/A,2,1
+429,"Pemodelan Virtual Bangunan Arkeologi Candi Kelir di Taman Wisata Candi Prambanan Menggunakan Kamera Amatir Digital,",2008,Media Teknik,2,3
+430,Penyatuan Bidang-Bidang Tanah Melayang Menggunakan Citra Quickbird Untuk Pembuatan Peta Pendaftaran Tanah,2008,Media Teknik,2,1
+431,Ekstraksi otomatis tapak bangunan (building footprint) pada ortofoto menggunakan Segment Anything Model (SAM),2025,Elipsoida: Jurnal Geodesi dan Geomatika,1,1
+432,Investigating the Impact of Enhanced Images on 3D Reconstruction of non Lambertian Object Using Neural Radiance Fields,2025,"7th International Conference on Earth Science, Mineral and Energy (ICEMINE)",1,1
+433,Penggunaan Generic Atmospheric Correction Online Service For InSAR (GACOS) Pada Pemantauan Penurunan Muka Tanah di Kota Semarang Metode Persistent Scatterer Interferometric …,2019,Elipsoida: Jurnal Geodesi dan Geomatika,1,1
+434,Pengaruh sistem referensi tinggi Digital Elevation Model (MED) pada hasil ortorektifikasi citra satelit resolusi tinggi untuk mendukung pemetaan skala besar,2019,N/A,1,1
+435,"Pemanfaatan Citra Satelit Resolusi Tinggi, DGPS, dan SIG Untuk mendeteksi Kondisi Penggunaan Lahan Di Kota Yogyakarta",2006,Media Teknik,1,3
+436,Kajian Pemanfaatan Jaringan Saraf Tiruan Untuk Klasifikasi Jenis Tanaman Pertanian Pada Foto Udara Format Kecil,2006,Media Teknik,1,1
+437,Evaluation of Google Earth Engine Embedding Dataset for Remote Sensing Image Classification,2026,Geoid,0,2
+438,Assessment of 3D Videogrammetry Modeling using SfM-MVS and NeRF Algorithms to Support Interoperability Heritage BIM,2026,Studies in Digital Heritage,0,1
+439,Performance Analysis of Point Cloud Classification Techniques Using UAV LiDAR Data,2025,"The 2025 IEEE Asia-Pacific Geosciences, Electronics, and Remote Sensing Technology Conference (AGERS)",0,2
+440,Unveiling Climate-Driven Water Surface Dynamics in the Largest Tropical Lake in Borneo: A Machine Learning Approach Using Multi-Source Satellite Imagery,2025,Artificial Intelligence in Geosciences,0,2
+441,Analysis of Ground Filtering Techniques for UAV LiDAR Point Cloud Data in DTM Generation,2025,The 3rd International Conference of Geoscience and Remote Sensing Technology (IC-GEOREST),0,2
+442,Change Detection of Topographic Features using Iteratively Reweighted Multivariate Alteration Detection and Random Forest Classification for Partial Updating of Indonesian …,2025,GEOID,0,1
+443,Development of Three JS-based 3D Scene with Seamless Visualization of Gaussian Splatting and Transformation to Global Coordinates,2025,GEOID,0,1
+444,Multi-Sensor LiDAR Integration and Interactive Web Visualization of 3D Point Cloud Data,2025,Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2025 (FIT ISI 2025),0,2
+445,Analisis ketelitian horizontal dan vertikal data LiDAR menggunakan wahana Unmanned Aerial Vehicle (UAV) di area tambang,2024,Seminar Nasional Keinsinyuran,0,2
+446,Assessing Three-Dimensional Displacement in the Low Latitude Area from Multi-Geometry Sentinel-1 InSAR: Case Study Palu City,2023,The 8th Asia-Pasific Conference on Synthetic Aperture Radar (APSAR 2023),0,1
+447,Improving UAV Image Acquisition Efficiency and Orthophoto Positional Accuracy Without the Need for Ground Control Points for Cadastral Mapping,2023,"THE SOUTH EAST ASIA WORKSHOP ON GEODETIC DATA SCIENCES, GEOINFORMATICS AND LAND ADMINISTRATION (GEO-LAND-SEA) 2023",0,3
+448,ANALISIS PENURUNAN MUKA TANAH MENGGUNAKAN CITRA SENTINEL 1A DENGAN METODE DINSAR TAHUN 2019-2021 (STUDI KASUS: PEMBANGUNAN JALAN TOL SEMARANG DEMAK),2022,Elipsoida: Jurnal Geodesi dan Geomatika,0,1
+449,Procjena visinske točnosti digitalnog modela terena (DMT) ALOS PALSAR-2 u području Rote Dead Sea–Indonezija,2021,Geodetski list,0,3
+450,Vertical Accuracy Evaluation of Digital Terrain Model (DTM) ALOS PALSAR-2 in Rote Dead Sea Area–Indonesia; Procjena visinske točnosti digitalnog modela TERENA (DMT) ALOS PALSAR …,2021,N/A,0,3
+451,Utilization of UAV (Unmanned Aerial Vehicle) Technology for Identification and Classification of Types of Road Damage,2020,Rekayasa Sipil,0,1
+452,Harintaka. Indonesian DEMNAS: DSM or DTM,2019,"Proceedings of the 2019 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS), Jakarta, Indonesia",0,1
+453,Pemetaan Tingkat Bahaya Erosi Menggunakan Metode RUSLE (Revised Universal Soil Loss Equation) dan SIG di Sub DAS Kali Progo Hulu,2018,Prosiding Simposium Infrastruktur Informasi Geospasial,3,2
+454,Analysis of object oriented classification on high resolution images,2016,2016 6th International Annual Engineering Seminar (InAES),0,2
+455,Identifikasi Permasalahan Batas Daerah di Lapangan dan Kontribusi Teknologi Geoinformasi untuk Membantu Penyelesaiannya,2011,Pertemuan Ilmiah dan FIT ISI 2011 - Semarang,0,1
+456,Kajian Fotogrametri Jarak Dekat Menggunakan Kamera DSLR Non-Metrik Untuk Hitungan Volume Material,2011,Simposium Nasional Geoinformasi II Fakultas Geografi UGM,0,2
+457,Pemanfaatan Citra Satelit ALOS AVNIR-2 Untuk Identifikasi Tanah Terlantar Hak Guna Usaha Untuk Perkebunan,2011,Seminar Nasional Geospasial dalam Pembangunan Wilayah dan Daerah dan PIT MAPIN 2011 di UNDIP - Semarang,0,3
+458,Pemodelan 3D Bangunan Arkeologi Besar Menggunakan Teknologi Terrestrial Laser Scanner,2011,Seminar Nasional Geospasial dalam Pembangunan Wilayah dan Daerah dan PIT MAPIN 2011 di UNDIP - Semarang,0,2
+459,Kajian Pemanfaatan Citra Satelit Resolusi Tinggi Untuk Mendukung Perencanaan Awal Jalan Raya,2010,Prosiding Seminar Nasional FTSP ITN Malang - Malang,0,1
+460,Permasalahan Ekstraksi Ketinggian Secara Otomatis Pada Foto Udara Format Kecil Pada Daerah Campuran,2010,Prosiding PIT Mapin 2010 - Bogor,0,1
+461,"Kajian Penggunaan Citra Satelit Quickbird untuk Pemetaan Penggunaan Tanah di Kelurahan Kutoarjo, Kecamatan Kutoarjo, Kabupaten Purworejo",2010,Pertemuan Ilmiah dan FIT ISI 2010 - Pekanbaru Riau,0,1
+462,Pemodelan Ketidakstabilan Kamera Dan Gerakan Pesawat Pada Saat Pemotretan Foto Udara Format Kecil,2009,Seminar Nasional Revitalisasi Data dan Informasi Keruangan untuk Meningkatkan Efisiensi Pengelolaan Potensi Sumberdaya Daerah,0,2
+463,Validation and collaborative mapping to accelerate quality assurance of land registration,2021,Land Use Policy,52,5
+464,Participatory land administration in Indonesia: Quality and usability assessment,2020,Land,44,4
+465,Dissemination of tidal flood risk map using online map in Semarang,2015,Procedia Environmental Sciences,34,2
+466,Pemetaan Risiko Bencana Banjir Rob Kota Semarang,2012,The 1st Conference on Geospatial Information Science and Engineering,18,2
+467,Evaluation of Satellite Image Correction Methods Caused by Differential Terrain Illumination,2016,Forum Geografi,16,1
+468,Estimation of RUSLE EI30 based on 10 min interval rainfall data and GIS-based development of rainfall erosivity maps for Hitotsuse basin in Kyushu Japan,2010,2010 18th international conference on geoinformatics,16,1
+469,Analisis geospasial perubahan penggunaan lahan dan kesesuaiannya terhadap RTRW Kabupaten Purworejo Tahun 2011-2031,2020,JGISE: Journal of Geospatial Information Science and Engineering,15,1
+470,Spatial analysis of Kulon Progo District development from 2007-2030 with cellular automata markov model,2019,KnE Engineering,13,1
+471,Evaluasi Penggunaan Lahan Mengacu pada Indeks Potensi Lahan dan Kesesuaiannya Terhadap Rencana Tata Ruang Wilayah di Kabupaten Wonosobo,2023,JGISE: Journal of Geospatial Information Science and Engineering,10,1
+472,"Estimating Land Value Change Post Land Consolidation of Gadingsari Village, Bantul Regency, Special Region of Yogyakarta, Indonesia",2019,JGISE - Journal of Geospatial Information Science and Engineering,10,1
+473,Analisis Geospasial Perubahan Ruang Terbuka Hijau Wilayah Kota Purwokerta dari Tahun 2013 sampai 2020,2022,JGISE: Journal of Geospatial Information Science and Engineering,9,1
+474,Analisis Spasial Bencana Longsor Bukit Telogolele Kabupaten Banjarnegara Menggunakan Data Foto Udara UAV,2017,Jurnal Nasional Teknologi Terapan (JNTT),8,2
+475,Network analysis to determine the optimal route for firefighters in Makassar City,2021,IOP conference series: Earth and environmental science,7,1
+476,Visualisasi Data Statistik Kabupaten Banyumas Menggunakan Peta Interaktif,2021,Geoid,7,1
+477,Analisis geospasial perubahan penggunaan lahan dan kesesuaiannya terhadap RTRW Kabupaten Purworejo Tahun 2011-2031. JGISE: Journal of Geospatial Information Science and …,2020,"Analisis geospasial perubahan penggunaan lahan dan kesesuaiannya terhadap RTRW Kabupaten Purworejo Tahun 2011-2031. JGISE: Journal of Geospatial Information Science and Engineering, 3 (2), 152VA Saputra, PB Santosa - 2020Cited by 6 Related articles",6,1
+478,Cybersecurity Risk-Management to Maintain Integrity Land Data Transactions: Application to Indonesian and French Land Administration Systems,2022,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",5,2
+479,"Evaluasi Pemanfaatan Citra Tegak Satelit Resolusi Tinggi untuk Percepatan Pembuatan Peta Blok Pajak Bumi dan Bangunan (PBB-P2) secara Partisipatif di Desa Triharjo, Kabupaten …",2020,JGISE: Journal of Geospatial Information Science and Engineering,5,3
+480,"Analisis Spasial Penggunaan Lahan dan Kesesuaian Terhadap Rencana Tata Ruang Wilayah di Kecamatan Kejajar, Kabupaten Wonosobo",2022,Majalah Ilimaih Globe,4,1
+481,Evaluasi Kualitas Data Spasial dalam Kegiatan Pemutakhiran Data PBB-P2 di Kabupaten Pacitan,2020,Elipsoida: Jurnal Geodesi dan Geomatika,4,1
+482,Spatial autocorrelation analysis of tuberculosis cases (2016-2018) in Kebumen,2019,KnE Engineering,4,2
+483,The Implementation of LADM Versioned-object Class for Representing Spatio-Temporal of Cadastre 4D Objects,2018,BHUMI: Jurnal Agraria dan Pertanahan,4,2
+484,Analisis Kriteria Jamak dan AHP untuk Evaluasi Kesesuaian Lokasi Pengembangan Kawasan Industri di Kabupaten Wonogiri,2024,JGISE: JOURNAL OF GEOSPATIAL INFORMATION SCIENCE AND ENGINEERING Учредители: Universitas Gadjah Mada,3,1
+485,Perancangan dan Evaluasi Aplikasi Peringatan Rawan Kecelakaan Lalu Lintas berbasis Android,2023,JGISE: Journal of Geospatial Information Science and Engineering,3,1
+486,Influence of Spatial Abilities on Spatial Data Quality in Participatory Mapping,2022,The Indonesian Journal of Geography,3,1
+487,Drought Hazard Modelling of Klaten Regency Central Java Using AHP and TOPSIS Method,2021,IOP Conference Series: Earth and Environmental Science,3,1
+488,Progo Watershed Deliniation and River Network Analysis Using SRTM DEM and Contour DEM Hypsography of RBI 1: 25000,2018,2018 4th International Conference on Science and Technology (ICST),3,1
+489,Development of Spatio-Temporal Database Prototype For Management of 4-Dimensional Cadastre Object In Indonesia,2018,Journal of Geospatial Information Science and Engineering (JGISE),3,2
+490,The spatial suitability evaluation of networked minimarket locations according to Bupati Bantul Regulation No. 35/2013,2018,JGISE: Journal of Geospatial Information Science and Engineering,3,1
+491,The use of Location Based Instagram Data for Tourism Potential Analysis in Kabupaten Gunung Kidul,2018,JGISE: Journal of Geospatial Information Science and Engineering,3,1
+492,Pemuktahiran dan Uji Kualitas Data Geospasial Pajak Bumi dan Bangunan Munggunakan Peta Pendaftaran Tanah,2017,FORUM ILMIAH TAHUNAN IKATAN SURVEYOR INDONESIA 2017,3,1
+493,Automatic DTM and Building Footprint Extraction from Imageries and Point Clouds in Indonesia’s Land Registration Drone Survey: A Roadmap Towards Reconstruction of LOD1 3D …,2024,N/A,2,5
+494,A Methodological Approach towards Cyber Risk Management in Land Administrations Systems,2023,Land,2,2
+495,Desain sistem informasi bencana kota semarang untuk pengelolaan data bencana,2019,Elipsoida: Jurnal Geodesi dan Geomatika,2,1
+496,Penatakelolaan dan Berbagi Data dan Informasi Geospasial Komunitas dengan Openstreetmap dan JOSM Editor,2012,Konferensi Teknik dan Sains Informasi Geospasial ke-1,2,1
+497,River flow prediction and floodplain mapping using Artificial Neural Networks and GIS,2006,"International Symposium & Exhibition on Geoinformation 2006, Malaysia",2,1
+498,THE ROLE OF GIS FOR FLOOD DISASTER MANAGEMENT,2006,Pertemuan Ilmiah Tahunan ke-3 Teknik Geomatika ITS,2,1
+499,Flood Vulnerability Using Multi-Criteria Analysis in West Jakarta,2025,Journal of Applied Geospatial Information,1,1
+500,Design of Mixed Reality Applications for Visualizing Integrated 3D Land Information Services,2024,"Proceedings of the 12th International FIG Workshop on LADM & 3D LA, Kuching, Malaysia",1,5
+501,Evaluasi Pergerakan Titik Kontrol Pemantauan Waduk Sermo Untuk Mendukung Mitigasi Multidisaster,2021,Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI),1,4
+502,Analisis Spasial Bencana Longsor Menggunakan Data Foto Udara UAV,2017,Jurnal Dialog dan Penanggulangan Bencana,1,2
+503,"Geospatial Analysis and Turbidity Measurement for Monitoring Suspended Solid of Hitotsuse Dam in Miyazaki Prefecture, Kyushu, Japan",2016,Indonesian Journal of Spatial and Regional Analysis,1,1
+504,The use of Artificial Neural Networks and GIS for flood modeling,2005,Proc. of the International Map Asia Conference 2005,1,1
+505,CASCADE-3D: A GUI-Driven Framework for Automated 3D Building Model Reconstruction,2026,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,0,5
+506,Exploring Cyber Threat Intelligence into Land Administration Systems for Enhanced Cyber Resilience,2025,Journal of Geographic Information System,0,2
+507,Development of Block Adjustment Application for The Spatial Data Quality Improvement Purpose of Registered Land Parcel,2023,"SOUTH EAST ASIA WORKSHOP ON GEODETIC DATA SCIENCES, GEOINFORMATICS AND LAND ADMINISTRATION (GEO-LAND-SEA) 2023",0,4
+508,DESAIN KONFIGURASI JARING GPS UNTUK PEMANTAUAN DEFORMASI SESAR SERMO,2021,GEOMATIKA,0,3
+509,Pemodelan Banjir dan Visualisasi Genangan Banjir untuk Mitigasi Bencana di Kali Kasin Kelurahan Bareng Kota Malang,2021,Journal of Geospatial Information Science and Engineering,0,1
+510,Proses Bisnis dan Perancangan Aplikasi Mobile GIS Berbasis Android untuk Updating Data Pajak Bumi dan Bangunan,2018,Prosiding Simposium Infrastruktur Informasi Geospasial 2018,0,1
+511,Deliniasi Dan Analis Pola Spasial Hidrologic Response Units (HRU) PADA DAS Progo Berdasarkan Multitemporal Penggunaan Lahan,2018,Prosiding Simposium Infrastruktur Informasi Geospasial 2018,0,1
+512,Analisis Tingkat Kerawanan Kemiskinan di Kota Banda Aceh dengan Metode Analytical Hierachy Process (AHP),2018,Prosiding Konferensi Teknik dan Sains Informasi Geospasial ke-4,0,1
+513,Analisis Sensitifitas Jaring GPS untuk Keperluan Pemantauan Deformasi,2018,Forum Ilmiah Tahunan-Ikatan Surveyor Indonesia 2018,0,2
+514,Penggunaan Nilai Faktor C dari Berbagai Indeks Vegetasi: Studi dan Tahapan Evaluasinya dalam Pemodelan Erosi Berbasis RUSLE,2017,Forum Ilmiah Tahunan - Ikatan Surveyor Indonesia 2017,0,2
+515,Evaluasi Kesiapan SDM dan Teknologi Informasi Pada Pelayanan Pajak Bumi Dan Bangunan,2016,Seminar Nasional CGISE dan FIT ISI 2016,0,3
+516,"Pilot project pembangunan geospasial pertanahan untuk menunjang one map policy (rural),",2015,"Laporan akhir pilot project pembangunan geospasial pertanahan untuk menunjang one map policy (rural), Departemen Teknik Geodesi Universitas Gadjah Mada, Yogyakarta bekerjasama dengan Kementerian ATR/BPN",0,2
+517,Pembuatan Sistem Informasi Perumahan Kecamatan Mlati Menggunakan Sistem Operasi Android,2014,Konferensi Teknik dan Sains Informasi Geospasial ke-2,0,1
+518,Pembuatan SIstem Informasi Persebaran Stasiun Pasang Surut Laut di Indonesia berbasis Web,2014,Konferensi Teknik dan Sains Informasi Geospasial ke-2,0,1
+519,Penyajian Informasi Benda Cagar Budaya di D.I. Yogyakarta dengan GIS Cloud,2013,Seminar Nasional Dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2013,0,1
+520,Analisis kriteria majemuk untuk pemilihan lokasi pengembangan perumahan di wilayah Sleman,2013,Seminar Nasional Dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2013,0,2
+521,Migrasi metadata spasial nasional dari SNI 7335:2008 ke metadata nasional berbasis ISO 19115,2012,Konferensi Teknik dan Sains Informasi Geospasial ke-1,0,2
+522,Image fusion methods for land cover classification and its potential for slope failure detection on a mountainous terrain,2009,"30th Asian Conference on Remote Sensing 2009, ACRS 2009",0,1
+523,Collaborative Geospatial Infrastructure: A Coordinative Approach in Disaster Management,2006,"9th PUDSEA Network Conference, 20-21 November 2006, Yogyakarta.",0,5
+524,Usability issues in applying participatory mapping for neighborhood infrastructure planning,2010,Transactions in GIS,94,1
+525,LADM implementation prototype for 3D cadastre information system of multi-level apartment in Indonesia,2013,5th Land Administration Domain Model Workshop,32,2
+526,Visualisasi Risiko Bencana di Atas Peta,2010,Yogyakarta: Fakultas Teknik Geodesi Universitas Gadjah Mada,29,1
+527,A search interface for an SDI: implementation and evaluation of metadata visualization strategies,2007,Transactions in GIS,28,1
+528,LADM-compliant field data collector for cadastral surveyors,2021,Land use policy,24,2
+529,The national atlas as a metaphor for improved use of a national geospatial data infrastructure,2007,N/A,24,1
+530,The legal element of fixing the boundary for indonesian complete cadastre,2021,Land,23,4
+531,Geospatial data infrastructure portals: Using the national atlas as a metaphor,2006,Cartographica: the international journal for geographic information and geovisualization,22,1
+532,Geovisual analytics of spatio-temporal earthquake data in Indonesia,2019,Journal of Geospatial Information Science and Engineering,20,4
+533,"A local spatial data infrastructure to support the Merapi volcanic risk management: a case study at Sleman Regency, Indonesia",2011,Indones. J. Geogr,20,1
+534,Chaining distributed GIS services,2003,Prosiding Pertemuan Ilmiah Tahunan XII,19,1
+535,Pemetaan Risiko Bencana Banjir Rob,2012,The 1st Conference on Geospatial Information Science and Engineering,18,2
+536,Reengineering the geoportal: Applying HCI and geovisualization disciplines,2005,"Proceedings of the 11th EC-GI & GIS Workshop, Alghero, Italy",18,1
+537,"Desain sistem kadaster multiguna (studi kasus Kecamatan Serengan, Kota Surakarta)",2022,JGISE: Journal of Geospatial Information Science and Engineering,16,1
+538,Channelling participation into useful representation: Combining digital survey app and collaborative mapping for national slum-upgrading programme,2020,Applied Geomatics,16,1
+539,"Understanding the impacts of recurrent peat fires in Padang Island–Riau Province, Indonesia",2018,Jurnal Ilmu Kehutanan,16,1
+540,The potential of a national atlas as integral part of the spatial data infrastructure exemplified by the new dutch national atlas,2009,SDI convergence,14,1
+541,Perencanaan dan penyelesaian masalah infrastruktur perkotaan melalui integrasi sig kolaboratif dan sig partisipasi publik,2009,Geomatika,14,1
+542,Aim4GDI: facilitating the synthesis of GDI resources through mapping and superimpositions of metadata summaries,2007,Geoinformatica,14,1
+543,The least square adjustment for estimating the tropical peat depth using LiDAR data,2020,Remote Sensing,13,2
+544,3D modelling and visualization of drinking water supply system using 3D GIS,2017,2017 7th International Annual Engineering Seminar (InAES),10,1
+545,Geoportals and the GDI Accessibility,2009,IGI Global Scientific Publishing,9,1
+546,A usable local geospatial data infrastructure for improved public participation and collaborative efforts in enhancing community preparedness and mitigation,2008,International Conference on Tsunami Warning (ICTW),9,1
+547,Pembuatan Sistem Informasi Irigasi dan Kebutuhan Air dengan Standar dan Mekanisme Akses Berbasis Infrastruktur Data Geospasial untuk Irigasi Pertanian di Kabupaten Karanganyar,2021,JGISE: Journal of Geospatial Information Science and Engineering,8,1
+548,Perancangan Aplikasi Layanan Informasi Pertanahan untuk PPAT Berbasis Web Services,2009,BHUMI-Jurnal Ilmiah Pertanahan STPN Yogyakarta,8,1
+549,Semantic extension of Geo Web service descriptions with ontology languages,2003,"6th AGILE Conference on Geographic Information Science, AGILE 2003: The science behind infrastructure",8,1
+550,Visualisasi Peta Skematik dan Story Map MRT dan LRT Jakarta,2021,JGISE: Journal of Geospatial Information Science and Engineering,7,1
+551,Visualisasi Pemodelan Hasil Analisis Jaringan Angkutan Umum Di Kabupaten Kulon Progo,2020,Geomatika,7,2
+552,The land administration domain model: advancement and implementation,2020,(Cancelled) Annual World Bank Conference on Land and Poverty 2020: Institutions for Equity&Resilience,6,1
+553,The Role of Positioning Infrastructure and Mapping Surveys in 3D Cadastre Implementation for Mass Rapid Transport Infrastructures–Indonesia Case,2021,7th International FIG Workshop on 3D Cadastres,5,3
+554,Analitik Geovisual Pengaruh Pandemi COVID-19 Terhadap Pola Dan Kecenderungan Kriminalitas Di Daerah Istimewa Yogyakarta,2023,JGISE J. Geospatial Inf. Sci. Eng,4,1
+555,Cadastre Typology as a baseline for incremental improvement of spatial Cadastre in Jakarta: towards a complete cadastre,2022,Land,4,4
+556,"The determination of priority areas for the restoration of degraded tropical peatland using hydrological, topographical, and remote sensing approaches",2022,Land,4,2
+557,The Implementation Of Ladm Versionedobject Class For Representing Spatio-Temporal Of Cadastre 4d Objects,2018,BHUMI: Jurnal Agraria dan Pertanahan,4,2
+558,Collaborative mapping of detailed geospatial data for disaster and climate resilience in Indonesia,2017,N/A,4,1
+559,Advancing a national atlas-based portal for improved use of a geospatial data infrastructure: Applying scenario-based development,2009,Proceedings of Map Asia,4,1
+560,"Participatory Mapping-Why Maps and GIS Matter-Local knowledge and public participation are essential for infrastructure management and relief. Maps, GIS and web mapping are …",2008,GIM international,4,1
+561,"Analitik geovisual pola kejadian dan pergerakan kriminalitas berbasis data media sosial 1, 2",2019,Pros. Semin. Nas. GEOTIK,3,1
+562,Multi-sensors remote sensing for mapping and monitoring canals on tropical peatland,2018,2018 4th International Conference on Science and Technology (ICST),3,1
+563,Development of Structure–based Topology of 3D Spatial Databases for Storing and Querying 3D Cadastre Cases,2014,Proceedings of the FIG Congress,3,1
+564,"Making sense of local spatial data infrastructure in volcanic disaster risk management: a case study at Sleman regency, Indonesia",2010,GSDI 12 World Conference 2010: Realizing Spatially Enabled Societies,3,1
+565,The atlas as a portal for data discovery in the GDI: prospects and developments,2005,"Proceedings 22nd International Cartographic Conference, A Coruña. CD-ROM",3,1
+566,Developing a usable geo-portal for the GDI by using the atlas as a metaphor,2004,proceedings GIN-2004,3,1
+567,Visualizing Title Uncertainty and Quality Issues in the Digital Era of Land  Administration,2023,FIG COMMISSION 7 ANNUAL MEETING 2023,2,1
+568,Analitik Visual Deteksi Dampak Pemanfaatan Lahan Terhadap Kemacetan Lalu Lintas Melalui Crowdsourced dan Citra Penginderaan Jauh Di Kawasan Peri-Urban Kota Yogyakarta,2022,Geoid,2,2
+569,Pendekatan Otomatisasi Evaluasi Kualitas Kelengkapan pada Informasi Geospasial,2021,Jurnal Geosaintek,2,1
+570,A National Atlas Metaphor in the Access to the GDI,2004,"PROCEEDINGS OF THE 7 TH INTERNATIONAL CONFERENCE: GLOBAL SPATIAL DATA INFRASTRUCTURE GSDI, Bangalore–India",2,1
+571,The Application of Random Forest Prediction in Developing a Systematic Land Parcel Value in the Urban Area,2025,International Journal of Geoinformatics,1,2
+572,Evaluating 3-D positioning infrastructure quality and utilization: The potential improvement with multi-GNSS methods,2024,Communications in Science and Technology,1,3
+573,"Cadastre forensics, para surveyor and mobile app for land registration",2022,Coordinates,1,1
+574,Evaluasi Posisi Geometrik Model 3D Candi Prambanan pada Aplikasi Augmented Reality berbasis GPS,2020,JGISE J. Geospatial Inf. Sci. Eng,1,1
+575,Visualisasi Permintaan Penumpang Angkutan Umum Hasil Analisis Analytical Hierarchy Process (AHP) di Kabupaten Kulon Progo,2018,Seminar Infrastruktur Informasi Geospasial,1,2
+576,Peluang dan Tantangan Integrasi Peta dan Aplikasi Geospasial Melalui Pemetaan Kolaboratif Berbasis SRGI 2013,2014,Seminar dan Workshop ISI SRGI,1,1
+577,Penyusunan Geoportal Jaringan Jalan Nasional untuk Memfasilitasi Analisis Visual Guna Mendukung Aktivitas Penyelenggaraan Jalan Nasional,2010,Jurusan Teknik Geodesi Fakultas Teknik UGM & Pusat pemetaan Rupabumi dan Toponim Badan Informasi Geospasial,1,1
+578,Collaboration Mechanics with AR/VR for Cadastral Surveys—A Conceptual Implementation for an Urban Ward in Indonesia,2025,Geomatics,0,3
+579,Advancing Geospatial Technology to Construct Fit-for-Purpose Land Administration and Land Management in ASEAN Countries,2023,CRC Press,0,1
+580,Modelling above-ground biomass estimation using combination of vegetation height and forest canopy density at secondary peat swamp forest of Kalimantan,2023,IOP Conference Series: Earth and Environmental Science,0,1
+581,"Cadastre Typology as a Baseline for Incremental Improvement of Spatial Cadastre in Jakarta: Towards a Complete Cadastre. Land 2022, 11, 1732",2022,s Note: MDPI stays neu-tral with regard to jurisdictional claims in published maps and institu-tional affiliations.,0,3
+582,Journal of Geospatial Information Science and Engineering,2022,"Journal of Geospatial Information Science and EngineeringASP Budiyono, T Aditya - 2022Related articles",0,1
+583,Mobile App to Accelerate Land Administration in Indonesia,2021,GIM Magazine,0,1
+584,Analitis Geovisual Okupansi Halte dan Pergerakan Penumpang Transjakarta,2020,JGISE: JOURNAL OF GEOSPATIAL INFORMATION SCIENCE AND ENGINEERING Учредители: Universitas Gadjah Mada,0,1
+585,Acknowledgement to Reviewers of Infrastructures in 2017,2018,"Acknowledgement to Reviewers of Infrastructures in 2017TO Adekunle, T Aditya, D Alexander, M Arastounia… - 2018Related articles",0,1
+586,Peta Interaktif untuk Penyajian Data dan Multimedia Geopasial Hasil Indentifikasi dan Validasi Pemetaan Kekumuhan,2016,Annual Enginering Seminar,0,1
+587,Collaborative Disaster Risk Management in Kali Code,2014,Areca Books,0,1
+588,"Development of landslide early wa rning system by online GPS in Central Java, Indonesia",2010,N/A,0,1
+589,Facilitating the synthesis of GDI resources through mapping and superimpositions of metadata summaries,2007,GeoInformatica,0,1
+590,Designing visual attention and user interaction for a geoportal using SVG,2005,"4th Annual Conference on Scalable Vector Graphics, SVG Open 2005",0,1
+591,"A national atlas metaphor in the access to the GDI, GSD17",2004,Media Partners/Geospatial Today,0,1
+592,Article Index to Volumes 26-41 (1989-2006),,N/A,0,1
+593,Peer Review Board,,Spatially Enabling Society,0,1
+594,Jurnal Ilmu Kehutanan,,N/A,0,1
+595,Implementing Semantic Web Queries on a Geoportal using the Atlas Narrative Structure,,N/A,0,1
+596,"DRIVERS OF RECURRENT PEATFIRE IN RIAU AND SOUTH SUMATERA, INDONESIA",,N/A,0,1
+597,Development and definition of prambanan temple deformation monitoring control points,2018,Journal of Geospatial Information Science and Engineering,19,3
+598,Pengembangan jaring kontrol geodesi pemantau Waduk Sermo,2015,GEOMATIKA,7,3
+599,Correlation of GNSS Observation Data Quality Resulted from TEQC Checking and Coordinate’s Precision,2018,JGISE: Journal of Geospatial Information Science and Engineering,6,2
+600,The Effect of Baseline Component Correlation on the Design of GNSS Network Configuration for Sermo Reservoir Deformation Monitoring,2019,The Indonesian Journal of Geography,5,2
+601,Calculation of Sedimentation at Sempor Reservoirs in 2018 Using Modified Universal Soil Loss Equation Method (MUSLE),2019,Journal of Geospatial Information Science and Engineering. Yogyakarta,5,2
+602,Pengaruh sudut vertikal terhadap hasil ukuran jarak dan beda tinggi metode trigonometris menggunakan total station nikon DTM 352,2010,Forum Teknik,3,1
+603,Strain Accumulation Along the Eastern Java Back–Arc Thrust System Inferred from a Dense Global Navigation Satellite System Network,2024,Geosciences,2,3
+604,"Lineament Trend Analysis for Designing of Fault Deformation Monitoring Network in the Sermo Reservoir Area, Yogyakarta, Indonesia",2020,"International Journal on Advanced Science, Engineering and Information Technology",2,2
+605,Estimasi Koordinat Titik Kontrol Pemantauan Deformasi Bendungan Sermo dengan Metode Parameter Bertahap dari Data Baseline Hasil Pengolahan GAMIT,2016,Jurnal Geografi Gea,2,2
+606,Analisis Perubahan Nilai Tanah Akibat Gempa Bumi 27 Mei 2006 Di Kecamatan Bantul Dan Kecamatan Jetis Kabupaten Bantul,2008,Media Teknik,2,1
+607,Time Variant Adjustment for The Solution of Control Point Unstability in Deformation Analysis of Borobudur Vertical Deformation Monitoring Network,2018,Journal of Geospatial Information Science and Engineering (JGISE),1,2
+608,The effect of weights observation to estimate the monitoring control point coordinate at sermo dam,2019,Journal of Physics: Conference Series,0,2
+609,Determination of Boiler Building Verticality in Power Plant Construction using Terrestrial Laser Scanner (TLS),2019,N/A,0,3
+610,Analisis Uji Beban Jembatan Menggunakan Metode Levelling,2021,Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI),5,1
+611,Analisis Deformasi Gunung Merapi Dengan Metode Geodetik GPS,2001,Institut Teknologi Bandung,5,1
+612,Evaluasi Kesiapan Pemasangan Sistem Pemantauan Pintar Menggunakan TS Robotik di Candi Borobudur,2019,Conference: SIIG,3,3
+613,Pembuatan Sistem Pemantauan Pergerakan Titik Hasil Penentuan Posisi Metode NTRIP RTK Menggunakan Komunikasi Data Berbasis TCP-IP,2010,Prosiding Seminar Nasional GNSS-CORS Pengembangan dan Aplikasinya di Indonesia,3,3
+614,Penetapan Dan Penegasan Batas Wilayah Desa Kauffman Kecamatan Karangrejo Provinsi Jawa Timur,,Jurusan Tehnik Geodesi FT UGM,3,1
+615,Pendefinisian Jaring Kontrol Sistem Cerdas Candi Borobudur ke dalam Datum SRGI 2013,2022,JGISE: Journal of Geospatial Information Science and Engineering,2,2
+616,Evaluasi Hasil Penentuan Tinggi Titik Dasar Teknik Menggunakan Model Geoid SRGI 2013 Studi Kasus: Daerah Istimewa Yogyakarta,2021,Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI),2,3
+617,"Analisis Kawasan Risiko Bencana Banjir Dan Tanah Longsor Di Kampung Code Utara, Kota Yogyakarta",2021,Prosiding Forum Ilmiah Tahunan (FIT)-Ikatan Surveyor Indonesia (ISI),2,3
+618,Pemanfaatan CORS GNSS Bakosurtanal untuk Pemetaan Situasi,2011,N/A,2,2
+619,Analisis deformasi gunungapi Merapi dengan metode geodetik-GPS.,2001,Universitas Komputer Indonesia,2,1
+620,"Optimasi Geometri Jaring GNSS dan RTS untuk Pemantauan Deformasi Kontinu Saluran Induk Kalibawang di Jembatan Talang Bowong, Kabupaten Kulon Progo",2021,N/A,1,2
+621,"PEMBUATAN PETA SITUASI DIGITAL SKALA BESAR DUSUN PENGASIH, DESA PENGASIH, KECAMATAN PENGASIH, KABUPATEN KULON PROGO, PROVINSI DAERAH ISTIMEWA YOGYAKARTA",2016,N/A,0,1
+622,DESAIN RUTE PEMASANGAN KABEL LAUT JALUR TRANSMISI 150 KV ANTARA LANDING POINT KARIANGAU-PENAJAM,2014,N/A,0,2
+623,PEMBUATAN PETA SITUASI SKALA 1: 500 DUSUN PANDANREJO DAN DUSUN TEGALMIRI DESA BANYURIPAN KECAMATAN BAYAT KABUPATEN KLATEN PROVINSI JAWA TENGAH,2014,N/A,0,1
+624,PENENTUAN JARING KONTROL VERTIKAL PADA KATEGORI KELAS PENGUKURAN LD DENGAN MENGGUNAKAN METODE DIFFERENSIAL GNSS,2014,N/A,0,1
+625,PEMBUATAN PETA SITUASI SKALA 1: 500 DUSUN BANARAN DAN TRUKAN DESA BANYURIPAN KECAMATAN BAYAT KABUPATEN KLATEN PROPINSI JAWA TENGAH,2014,N/A,0,1
+626,"Status of GNSS CORS GMU1 at Geodetic Department Faculty of Engineering, Gadjah Mada University",2009,Documentation Teknik Geodesi,0,3
+627,"PEMBANGUNAN EMPATPULUH TITIK KERANGKA DASAR KADASTRAL NASIONAL (KDKN) ORDE-3 DI KABUPATEN KULONPROGO, PROPINSI DIY",2009,Ducumentation,0,1
+628,Analisis teknik pengolahan baseline secara baseline-per-baseline dan sesi-per-sesi pada perataan jaring GPS,2009,N/A,0,1
+629,ANALISIS HASIL PENENTUAN KOORDINAT TITIK DASAR TEKNIK MENGACU SRGI 2013 DAN BUKU TUGU BPN,,N/A,0,3
+630,Aplikasi GPS Tipe Pemetaan BAP Precision S852P untuk Pengukuran dan Pemetaan Bidang Tanah pada Daerah dengan Obstruksi Bervariasi,,N/A,0,2
+631,Evaluasi Penggunaan Data Satelit Beidou Untuk Meningkatkan Kecepatan Dan Ketelitian Pada Penentuan Posisi Metode RTK,,N/A,0,2
+632,Pemanfaatan UAV dengan sensor kamera dan LiDAR untuk pemetaan situs cagar budaya kawasan Candi Prambanan,2022,Geoid,8,1
+633,Three-dimensional digital documentation for the conservation of the Prambanan temple cluster using guided multi-sensor techniques,2025,Heritage,5,1
+634,Evaluasi Perubahan dan Kesesuaian Penggunaan Lahan Tahun 2019 Terhadap Rencana Tata Ruang Wilayah (RTRW) di Kabupaten Bekasi,2023,Journal of Geospatial Science and Technology,2,1
+635,Kombinasi Survei Terestrial dan Satelit Navigasi untuk Pendefinisian Koordinat Titik Pemantauan Candi Prambanan,2024,Jurnal Spatial Wahana Komunikasi dan Informasi Geografi,1,2
+636,Penyediaan Data Spasial Bangunan di Sekolah Vokasi UGM dalam Sebuah Basisdata 3D,2020,Geoid,1,1
+637,Pembuatan Model 3D dengan Memanfaatkan Teknologi Drone Lidar Untuk Pemetaan Situs Cagar Budaya Candi Garuda,2020,Yogyakarta: Angkasa Jurnal Ilmiah Bidang Teknologi,1,1
+638,Pembuatan Informasi Geospasial Sarana dan Prasarana Kelurahan Wates Kabupaten Kulon Progo pada Skala 1: 15.000,2020,JURNAL PENGABDIAN DAN PENGEMBANGAN MASYARAKAT Учредители: Universitas Gadjah Mada,1,2
+639,Pembuatan Peta Dasar Kalurahan Kaliagung Menggunakan Foto Udara dari Wahana Terbang Nir-Awak: Creation of Kaliagung Village Base Map Utilizing Aerial Photographs from Unmanned …,2024,Komatika: Jurnal Pengabdian Kepada Masyarakat,0,1
+640,PEMANFAATAN TEKNOLOGI TERRESTRIAL LASER SCANNER DALAM UPAYA KONSERVASI BANGUNAN CAGAR BUDAYA,2024,Jurnal Pangripta Sembada,0,1
+641,EVALUASI CARA PENGIKATAN KE TITIK TETAP PADA PENENTUAN POSISI DENGAN GNSS,2019,GEOMATIKA,0,1
+642,PEMETAAN RISIKO DAN PENILAIAN KERUSAKAN AKIBAT BENCANA BANJIR DI KOTA MARTAPURA,2017,N/A,0,1
+643,"PEMBUATAN AS BUILT DRAWING DARI DATA MODEL PRIMITIF 3D LASER SCANNING STUDI KASUS KILANG UTILITIES REFINERY UNIT III PT, PERTAMINA BLOK PLAJU",2016,N/A,0,1
+644,Pembuatan Plugin Delimitasi Garis Batas Pengelolaan Laut Daerah dengan Menggunakan Metode Equdistant Line pada Perangkat Lunak QGIS,2015,N/A,0,1
+645,Desain Geoportal untuk Mendukung Penataan Ruang Kabupaten Sleman,2015,N/A,0,2
+646,PEMBUATAN PETA SITUASI SKALA 1: 500 DUSUN SIDOMULYO DESA BELUK DAN BANYURIPAN KECAMATAN BAYAT KABUPATEN KLATEN PROPINSI JAWA TENGAH,2014,N/A,0,1
+647,Pembuatan Model Permukaan Digital Dan Orthoimage Digital Dari Sumber Citra Alos,2010,Forum Teknik,0,2
+648,Pemanfaatan Sistem Informasi Geografik untuk Penentuan Bank Tempat Pembayaran Pajak Bumi dan Bangunan Pelaksana Payment Online System.,2003,Forum Teknik,0,1
+649,VISUALISASI GEDUNG TJAHJONO ADI DALAM VIRTUAL REALITY MENGGUNAKAN DATA PENGUKURAN TERRESTRIAL LASER SCANNER,,N/A,0,1
+650,PEMANTAUAN TITIK KONTROL UNTUK MONITORING DEFORMASI CANDI PRAMBANAN BERBASIS TEKNOLOGI SATELIT NAVIGASI,,N/A,0,1
+651,"Penentuan Daerah Rawan Kebakaran dengan Sistem Informasi Geografik (Kasus Pooncarie Region, New South Wales, Australia)",,N/A,0,1
+652,DETEKSI OTOMATIS GARIS PANTAI MENGGUNAKAN TEKNOLOGI MACHINE LEARNING DENGAN COASTSAT,2021,Prosiding Paper Competition Sriwijaya Geology Festival (SGF) 2021,2,1
+653,The Palu-Koro fault behaviour monitoring associated with the 2018 Palu earthquake based on the multi-temporal planetscope and Landsat 8 satellite images,2025,Remote Sensing Applications: Society and Environment,1,1
+654,Analysis of green open space availability in Surabaya city using Google earth engine,2025,AIP Conference Proceedings,0,2
+655,Segmentasi Semantik Point Cloud untuk Pemodelan Ruang dengan PointNet,2023,N/A,0,1
+656,ANALISIS PERGESERAN DINDING CANDI BOROBUDUR MENGGUNAKAN ROBOTIC TOTAL STATION (RTS),2022,Jurnal Konservasi Cagar Budaya,0,1
+657,MONITORING POINT OF BOROBUDUR TEMPLE WALL DEFORMATION ANALYSIS USING ROBOTIC TOTAL STATION (RTS),2022,Jurnal Konservasi Cagar Budaya,0,1
+658,Opak fault deformation monitoring using sentinel-1 insar data from 2016-2019 in Yogyakarta Indonesia,2020,Elipsoida: Jurnal Geodesi dan Geomatika,7,1
+659,"PEMODELAN TIGA DIMENSI (3D) SALURAN IRIGASI MENGGUNAKAN DATA AIRBORNE LIDAR BATHYMETRY (ALB) DI BENDUNG PEJENGKOLAN, KEBUMEN",2019,Elipsoida: Jurnal Geodesi dan Geomatika,0,1
+660,Extracting Wood Point Cloud from Terrestrial Laser Scanner Data of a Giant Tree,2024,The 45th Asian Conference on Remote Sensing,0,1
+661,Sugar Apple Fruit Bags Detection using Geometric Feature in MLS Point Cloud Data,2024,The 45th Asian Conference on Remote Sensing,0,1
+662,Coseismic displacement accumulation between 1996 and 2019 using A global empirical law on Indonesia continuously operating reference station (InaCORS),2019,JGISE J Geospatial Inf Sci Eng,12,3
+663,PENGABDIAN KEPADA MASYARAKAT MELALUI KEGIATAN DONASI TERHADAP KORBAN BENCANA BANJIR DAN LONGSOR DI KABUPATEN PEKALONGAN,2025,Jurnal Pengabdian Masyarakat,3,4
+664,The Evolution of Geospatial Aspects in the Law on the Establishment of New Regions (Autonomy) Pre and Post Broad Autonomy in Indonesia,2019,GEOSPATIAL INFORMATION,1,1
+665,GeoShapley-based interpretation of older adult pedestrian fatal vs injury crash frequency in dense urban environments,2026,Accident Analysis & Prevention,0,1
+666,Identifying environmental factors related to motorcyclist crash rates: variable selection using spatial Random Forest with network distance and barriers,2026,Accident Analysis & Prevention,0,1
+667,Utilizing High-Definition Maps and Simulation Software to Enhance Autonomous Vehicle Safety,2025,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",0,1
+668,Pemodelan Variabel Gempa Bumi sebagai Sarana Edukasi untuk Mitigasi Bencana di Indonesia,2019,Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2019,0,3
+669,Visual analytics for railway network in Java Island,2019,Sixth Geoinformation Science Symposium,0,1
+670,Interpretable Machine Learning for Crash Severity Analysis of Food Delivery Motorcyclists,,N/A,0,1
+671,PEMBUATAN SISTEM INFORMASI KONDISI JALAN PADA RUAS JALAN DI KABUPATEN INDRAGIRI HULU,,N/A,0,2
+672,Perancangan Sistem Informasi Penilaian Tanah Berbasis Web untuk Efektivitas dan Aksesibilitas yang Lebih Baik,2024,Tunas Agraria,5,1
+673,Analisis Geostatistik untuk Pemetaan Perubahan Kualitas Air Tanah Kawasan Karst Kabupaten Gunungkidul,2020,Elipsoida: Jurnal Geodesi dan Geomatika,3,1
+674,Analisis Kesesuaian Lokasi Stasiun Pengisian Kendaraan Listrik Umum (SPKLU) di Kota Surabaya,2024,Geoid,1,1
+675,"Optimized Artificial Intelligence-Based Algorithm for Groundwater Potential Mapping in Trenggalek Regency, Indonesia",2025,Forum Geografi,0,1
+676,Implementasi Data Geospasial Bidang Tanah dalam Standar Administrasi Pertanahan,2024,Jurnal Pertanahan,0,1
+677,Pengembangan Sistem Informasi Lokasi Kejahatan Jalanan di Daerah Istimewa Yogyakarta,2024,JGISE: Journal of Geospatial Information Science and Engineering,0,1
+678,Pemetaan Lokasi Potensi Kawasan Peruntukan Industri Kabupaten Purbalingga,2024,N/A,0,1
+679,Metode Penilaian Kematangan Infrastruktur Informasi Geospasial Pemerintah Daerah di Indonesia Menggunakan Capability Maturity Model Integration (CMMI) dan Geospatial Maturity …,2023,JGISE: Journal of Geospatial Information Science and Engineering,0,1
+680,Evaluasi Kesesuaian Pemanfaatan Ruang di Kecamatan Payakumbuh Barat Tahun 2022,2023,N/A,0,1
+681,Kesiapan Penyelenggara Informasi Geospasial Daerah untuk Membangun Metadata,2016,6th International Annual Engineering Seminar (InAES),0,2
+682,MODEL ASESMEN INTEROPERABILITAS DATA GEOSPASIAL DALAM PENGEMBANGAN INFRASTRUKTUR INFORMASI PERTANAHAN DI INDONESIA,2015,N/A,0,1
+683,"Aditya, T., Subaryono, Waljiyanto, Istarno, Diyono, Raharja, U., Muryamto, R., dan Iswanto, F., 2009,“Understanding the Urgency for 3D Cadastre in Indonesia: Development …",2010,Policy,0,1
+684,"PENGEMBANGAN METODE PEMODELAN SPASIAL UNTUK MEMPREDIKSI PENGARUH PENURUNAN TANAH DENGAN TEKNOLOGI GEO-INFORMASI: Studi Kasus Kota Semarang, Jawa Tengah",2003,text,0,2
+685,Transient rheology of the oceanic asthenosphere following the 2012 Indian Ocean Earthquake inferred from geodetic data,2017,Journal of Asian Earth Sciences,31,1
+686,"The 2019 Mw 7.0 Banten, Indonesia, intraslab earthquake: investigation of the coseismic slip, tsunami modelling and Coulomb stress change",2022,Geoenvironmental Disasters,22,2
+687,"Postseismic deformation following the 2 July 2013 Mw 6.1 Aceh, Indonesia, earthquake estimated using GPS data",2019,Journal of Asian Earth Sciences,21,1
+688,Evaluation of the 2012 Indian Ocean coseismic fault model in 3-D heterogeneous structure based on vertical and horizontal GNSS observation,2018,AIP Conference Proceedings,13,1
+689,Active tectonics of the eastern java based on a decade of recent continuous geodetic observation,2022,Geodesy and Geodynamics,11,1
+690,Vertical deformation model on postseismic phase using exponential and logarithmic function based on InSAR,2023,Geodesy and Geodynamics,8,1
+691,"The western extension of the Balantak Fault revealed by the 2021 earthquake cascade in the central arm of Sulawesi, Indonesia",2024,Geoscience Letters,7,1
+692,Data-driven of time series decomposition on estimating geodetic secular motion around palu-koro fault zone,2020,2020 8th International Conference on Information and Communication Technology (ICoICT),6,1
+693,"The Investigation of Viscoelastic Relaxation Following the 2018 Mw 6.2 Situbondo, Indonesia, Earthquake",2023,Geotechnical and Geological Engineering,5,1
+694,Factors determining the welfare of the sunda strait tsunami victim’s family. A mechanism disaster impact on SDGs in family level,2022,IOP Conference Series: Earth and Environmental Science,4,1
+695,"A green scenario for sustainable landscape planning: the case study in Sintang Regency, West Kalimantan Province",2019,IOP Conference Series: Earth and Environmental Science,4,1
+696,"Disaster risk reduction communication during the Mount Semeru eruption in East Java, Indonesia",2025,Jàmbá-Journal of Disaster Risk Studies,3,1
+697,"Disaster Risk Reduction Communication and Local Community Engagement during the Mount Semeru Eruption in East Java, Indonesia",2023,Indonesia,3,1
+698,Analysis of damage to buildings affected by the tsunami in the Palu coastal area using deep learning,2020,"2020 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)",3,1
+699,Spatiotemporal postseismic due to the 2018 Lombok earthquake based on insar revealed multi mechanisms with long duration afterslip,2024,Journal of Applied Geodesy,2,3
+700,Estimation of Slip Rate and the Opak Fault Geometry Based on GNSS Measurement,2022,IOP Conference Series: Earth and Environmental Science,2,2
+701,Velocity Variation of Opak Fault GNSS Observation Station 2006 Yogyakarta Post-Earthquake,2021,IOP Conference Series: Earth and Environmental Science,2,2
+702,B-value and slip rate sensitivity analysis for PGA value in Lembang fault and Cimandiri fault area,2017,AIP Conference Proceedings,2,1
+703,"Availability of Human Resources as a Determinant of Health Service Quality in Multihazard Disasters in Palu City, Indonesia",2024,Texila International Journal of Public Health,1,2
+704,Recent development of seismic source and hazard maps of Indonesia for earthquake resistant design,2024,International Association for Earthquake Engineering,1,1
+705,Estimation of Deformation Parameters to Separate Postseismic Effect After The 2006 Yogyakarta Earthquake Based on Geodetic Observation,2021,IOP Conference Series: Earth and Environmental Science,1,2
+706,Estimation of Strain Rate in the Opak Fault with Postseismic Correction After the 2006 Yogyakarta Earthquake,2020,2020 6th International Conference on Science and Technology (ICST),1,2
+707,Inhomogeneous spherical-earth finite element model of coseismic offset due to the 2012 Indian Ocean earthquake,2017,AIP Conference Proceedings,1,1
+708,"Geodetic slip rate and seismogenic depth of unmapped active faults in Yogyakarta, Indonesia, inferred from dense Global Navigation Satellite System campaign observation",2025,Geodesy and Geodynamics,0,3
+709,Spatiotemporal postseismic deformation due to the 2018 Palu-Donggala earthquake revealed the relative importance of viscoelastic relaxation and the afterslip distribution …,2025,Journal of Applied Geodesy,0,1
+710,"Integrated seismo-geodetic observatory network for monitoring the Lembang Fault, West Java, Indonesia",2025,Earth and Planetary Physics,0,1
+711,Health Disaster Capacity and Preparedness in the Case of Tsunami and Earthquake Disaster,2025,Texila International Journal of Public Health,0,2
+712,Coseismic slip model of the 14 January 2021 Mw 6.2 Mamuju-Majene earthquake based on static and kinematic GNSS solution,2024,Journal of Applied Geodesy,0,1
+713,Sunda Strait Tsunami’s Impact on SDGs. A Change in The Welfare of The Tsunami Survivor’s Family,2024,IOP Conference Series: Earth and Environmental Science,0,1
+714,2.5 D Time Series of Postseismic Deformation Following the 2018 Mw 7.5 Palu Earthquake Using Sentinel-1 InSAR,2023,IOP Conference Series: Earth and Environmental Science,0,1
+715,Anomaly detection on displacement rates and deformation pattern features using tree-based algorithm in Japan and Indonesia,2022,N/A,0,3
+716,Effect of 3-D heterogeneous-earth on rheology inference of postseismic model following the 2012 Indian Ocean earthquake,2017,AGU Fall Meeting Abstracts,0,1
+717,Monte Carlo simulation for slip rate sensitivity analysis in Cimandiri fault area,2015,AIP Conference Proceedings,0,1
+718,Transient rheology model of the oceanic asthenosphere inferred from the 2012 Indian Ocean earthquake using a finite element method,,(No Title),0,1
+719,Indonesia beyond the water's edge: managing an archipelagic state,2009,Institute of Southeast Asian Studies,105,1
+720,Batas maritim antarnegara: sebuah tinjauan teknis dan yuridis,2018,UGM PRESS,84,1
+721,East Timor: beyond independence,2007,Deakin University,74,1
+722,"Indonesia's ascent: Power, leadership, and the regional order",2015,Palgrave Macmillan,64,1
+723,Made Andi,2007,Deliniasi Batas Landas Kontinen Ekstensi Indonesia: Status dan Permasalahannya,31,1
+724,"Made Andi, 2007",,"Batas Maritim Antarnegara, Sebuah Tinjauan Teknis dan Yuridis",27,1
+725,Beyond the limits?: outer continental shelf opportunities and challenges in East and Southeast Asia,2009,Institute of Southeast Asian Studies (ISEAS),24,1
+726,"Beyond the archipelagic outlook: The law of the sea, maritime security and the great powers",2015,Palgrave Macmillan UK,20,1
+727,Indonesia and the Law of the Sea: Beyond the archipelagic outlook,2014,INDONESIA AT HOME AND ABROAD,19,1
+728,Good fences make good neighbours: challenges and opportunities in finalising maritime boundary delimitation in the Malacca Strait between Indonesia and Malaysia,2014,Indonesian J. Int'l L.,19,1
+729,Closing the loop: Indonesia’s revised archipelagic baselines system,2009,Australian Journal of Maritime & Ocean Affairs,17,1
+730,Indonesia’s “Invisible” border with China,2014,Routledge,16,1
+731,Challenges and opportunities in the delimitation of Indonesia's maritime boundaries: a legal and technical approach,2014,N/A,14,1
+732,The Delimitation of Maritime Boundaries: A Matter of Life or Death for East Timor?,2007,University of Wollongong,12,1
+733,Made Andi. 2011,2018,Insiden Selat Malaka,11,1
+734,Penyelesaian Sengketa Ambalat dengan Delimitasi Maritim: Kajian Geo-spasial dan Yuridis,2010,Jurnal Ilmiah Fakultas Ilmu Sosial dan Ilmu Politik,11,1
+735,Imaginary islands?: options to preserve maritime jurisdictional entitlements and provide stable maritime limits in the face of coastal instability,2010,University of Wollongong,10,1
+736,Climate change and the limits of maritime jurisdiction,2012,Edward Elgar Publishing,7,1
+737,Indonesia-Malaysia deal is good news for fishermen,2012,Jakarta Post,6,1
+738,Sebuah Tinjauan Teknis dan Yuridis,2007,Yogyakarta: Gadjah Mada University Press,6,1
+739,Sumaryo. 2006.“,,Delimitasi Batas Maritim antara Provinsi Bali dan Provinsi Nusa Tengga Barat: Sebuah Kajian Teknis”. Yogyakarta: Jurusan Teknik Geodesi dan Geomatika FT UGM,6,1
+740,Settling Timor-Leste’s international limits and boundaries,2019,Routledge,5,1
+741,"Urban Studies: Border and Mobility: Proceedings of the 4th International Conference on Urban Studies (ICUS 2017), December 8-9, 2017, Universitas Airlangga, Surabaya, Indonesia",2018,Routledge,5,1
+742,"Abd. Rahman Hamid, Sejarah Maritim Indonesia. Yogyakarta: Penerbit Ombak, 2013, xiii+ 248 pp. ISBN 9786027544840. Price: IDR 50,000 (paperback).",2013,"Bijdragen tot de Taal-, Land-en Volkenkunde",5,1
+743,Panduan Mengenai Proposal Penelitian,2012,Catakan,5,1
+744,Mending the imaginary wall between Indonesia and Malaysia; The case of maritime delimitation in the waters off Tanjung Berakit,2011,"Wacana, Journal of the Humanities of Indonesia",5,1
+745,The application of GIS in maritime boundary delimitation: a case study on the Indonesia-East Timor maritime boundary delimitation,2006,University of Wollongong,5,1
+746,Made Andi and Clive Schofield.(2013),,Indonesia’s “Invisible” Border with China,5,1
+747,Sejarah dan Politik Maritim Indonesia,2019,"S. Widjaja dan Kadarusman (eds), Seri Buku Besar Maritim Indonesia. Jakarta: Amafrad Pres",4,1
+748,The Sinking of Sovereignty and Sovereign Rights? Mitigating the Impacts of Climate Change to Maritime Jurisdiction and a Proposal for Solutions,2013,Indon. L. Rev.,4,1
+749,Ambalat: A spatial perspective,2005,The School of Surveying & Spatial Information Systems,4,1
+750,The Unsettled Agreement of the 2019 Re-Demarcation of the Indonesia-Malaysia Boundary Line’s Impact,2023,Indonesian Journal of Multidisciplinary Science,3,1
+751,Menuju Penyelesaian Sengketa Ambalat: Sebuah Kajian Teknis dan Yuridis,2009,"Proceeding Olimpiade Karya Tuns Inovatif (OKTI), Jurusan Tehnik Geodesi, Fakultas Tehnik Universitas Gajah Mada, Yogyakarta",3,1
+752,Aplikasi Google Maps API untuk Pembuatan Sistem Informasi Geografis Batas Maritim Indonesia Berbasis Internet,2008,URL: http://scribd. com/doc/2900728/Aplikasi-Google-Maps-API,3,1
+753,Indonesia has much to gain from extension of continental shelf,2006,The Jakarta Post,3,1
+754,The application of GIS in maritime boundary delimitation,2006,Springer Berlin Heidelberg,3,1
+755,Ambalat revised: The way forward?,2005,The Jakarta Post,3,1
+756,"Made Andi, and Clive Schofield. 2012.‘Indonesia’s “Invisible” Border With China’",,Beijing’s Power and China’s Borders: Twenty Neighbors in Asia,3,1
+757,The Dilemma Of Operationalizing The Enterprise Under UNCLOS 1982,2023,Brawijaya Law Journal,2,1
+758,Kajian terhadap aspek geospasial kabupaten dan kota yang bercirikan kepulauan di Indonesia,2023,Geoid,2,1
+759,Examining the Negotiation Model of the Disputed Boundary Between Indonesia and Malaysia on Sebatik Island,2023,Indonesian J. Int'l L.,2,1
+760,Equity interest scheme in polymetallic nodules deep seabed mining: The positives and negatives,2022,Jurnal Media Hukum,2,1
+761,Understanding the Malacca Strait Incident,2011,The Jakarta Post,2,1
+762,"Watch out, the ocean might “shrink”",2011,Jakarta Post,2,1
+763,29. The Outer Continental Shelf In The Asia-Pacific Region: Progress And Prospects,2010,Brill Nijhoff,2,1
+764,Beyond borders: Multi dimensions of the Indonesian borders,2009,"Department of Geodetic Engineering, Universitas Gadjah Mada",2,1
+765,The Delineation Of Indonesia’s Outer Limits Of Its Extended Continental Shelf And Preparation For Its Submission: Status And Problems,2007,"paper for the UN-Nippon Fellowship, New York",2,1
+766,Gosong Niger: Is it Another Ambalat?,2006,Geopolitical Boundaries,2,1
+767,Chris Rizos & Clive Schofield,2006,"The Application of GIS In Matime Boundary Delimitation, A Case Study on the Indonesia-East Timor Maritime Boundary Delimitation. Australia: University of Wollongong Research Online",2,1
+768,"Made Andi, and Clive Schofield. 2005. Berhala: Another Sipadan and Ligitan if We're Still Ignorant",2005,The Jakarta Post,2,1
+769,Closing the loop: Indonesia's revised archipelagic baselines system'(2009) 1 (2),,Australian Journal of Maritime & Ocean Affairs,2,1
+770,"Made Andi (2011), Understanding the Malacca Strait Incident",,Jakarta Post,2,1
+771,Made Andi. 2010.“The settlement of the Ambalat block case through maritime delimitation; A geospatial and legal approach [in Indonesian]”,,Jurnal Ilmiah Widya Sosiopolitika,2,1
+772,Studi Literatur Penarikan Garis Penutup Mulut Sungai untuk Penetapan Perairan Pedalaman,2021,Geoid,1,1
+773,"Made Andi, Farid Yuniar & Sumaryo (2010). Geospatial aspects of maritime boundary delimitation in the Singapore strait involving Indonesia, Malaysia and Singapore",2010,FIG Congress,1,1
+774,Indonesia’s Submission of the Extended Continental Shelf: Status and Problems,2009,N/A,1,1
+775,Extended Continental Shelf under UNCLOS 1982: A Comprehensive Analysis of State Submissions,,Geoplanning: Journal of Geomatics and Planning,1,2
+776,"Made Andi, F. Yuniar, and Sumaryo. 2010.“Geospatial aspects of maritime boundary delimitation in the Singapore Strait involving Indonesia, Malaysia, and Singapore”",,"Proceeding of the IV FIG International Congress-Facing the Challenges, Building the Capacity, Sydney, 11-16 April",1,1
+777,Made Andi and Clive H. Schofield. 2009.“Extending Indonesia? Opportunities and challenges related to the definition of Indonesia’s extended continental shelf rights”,,Indonesia beyond the water’s edge,1,1
+778,Maritime limits and boundaries in the Arctic Ocean: agreements and disputes,2026,Edward Elgar Publishing,0,1
+779,Development of “Deteksi Dini Tanahku” Land Information System to Accelerating Spatial Analysis at Land Services Counter,2025,IOP Conference Series: Earth and Environmental Science,0,1
+780,Study on the Quality of Land Data Utilised in Land Policy Making around the International Borders in Sebatik Island,2025,Engineering Headway,0,1
+781,China Declares Straight Baselines around Scarborough Reef,2025,The International Journal of Marine and Coastal Law,0,1
+782,Tantangan Prabowo-Gibran Mencari Titik Temu di Laut China Selatan,2024,https://www.kompas.id/baca/opini/2024/11/17/tantangan-prabowo-gibran-mencari-titik-temu-di-laut-china-selatan?open_from=Search_Result_Page,0,1
+783,Prabowo government’s strategies for fencing Indonesia’s ocean,2024,https://www.thejakartapost.com/opinion/2024/11/04/prabowo-governments-strategies-for-fencing-indonesias-ocean.html,0,1
+784,"Exporting sand, thinking of reclamation and maritime boundaries",2024,https://www.thejakartapost.com/opinion/2024/10/04/exporting-sand-thinking-of-reclamation-and-maritime-boundaries.html,0,1
+785,Drawing the Dragon’s Claw: China Declares Territorial Sea Baselines in the Gulf of Tonkin,2024,Asia-Pacific Journal of Ocean Law and Policy,0,1
+786,The United States Announcement on Extended Continental Shelf Outer Limits: Implications for the Asia-Pacific?,2024,Asia-Pacific Journal of Ocean Law and Policy,0,1
+787,Kajian Delimitasi Batas ZEE Bagian Selatan Pulau Papua dan Papua Nugini menggunakan metode Pendekatan Tiga Tahap,2024,N/A,0,2
+788,"One step foward, never a step back",2023,The Star,0,1
+789,GADJAH MADA MUDA KELILING DUNIA# 2: Catatan Perjalanan para Exchangers dari Universitas Gadjah Mada,2021,UGM PRESS,0,1
+790,ANALISA ASPEK LEGAL DAN GEOSPASIAL FORWARD POSITION BATAS MARITIM INDONESIA PADA PETA NKRI 2017 DI LAUT CINA SELATAN,2018,GEOMATIKA,0,1
+791,Indonesia-Singapore [Report Number 5-11 (2)],2012,N/A,0,1
+792,"Adding further complexity?: Extended Continental Shelf Submissions in East and Southeast Asia ((NBR Special Report no. 37, pp61-78)",2012,N/A,0,1
+793,Mending the imaginary wall between Indonesia and Malaysia,2011,Wacana,0,1
+794,Extending Indonesia?: opportunities and challenges related to the definition of Indonesia's extended continental shelf rights,2009,University of Wollongong,0,1
+795,Delineasi Batas Terluar Landas Kontinen Ekstensi Indonesia: Status dan Permasalahannya,2008,Yogyakarta: Jurusan Teknik Geodesi Fakultas Teknik Universitas Gajahmada,0,1
+796,Delimitasi Batas Maritim antara Provinsi Bali dan Provinsi Nusa Tenggara Barat: Sebuah Kajian Teknis,2007,"skripsi, Universitas Gadjah Mada, Yogyakarta",0,1
+797,Critical study on the technical aspects of the maritime boundary delimitations,2006,N/A,0,1
+798,Menetapkan Kewenangan Daerah di Wilayah Laut: Sebuah PR dalam Pilkada 2005,2005,http://www. kompas. com/kompas-cetak/0506/23/ilpeng/1823809. htm,0,1
+799,CRITICAL STUDY ON THE TECHNICAL ASPECTS OF THE MARITIME BOUNDARY DELIMITATIONS,2004,N/A,0,1
+800,"Made Andi (2009, February 09). Mapping a good fence with Singapore",,The Jakarta Post,0,1
+801,285 Settling Timor-Leste’s international limits and boundaries,,Routledge,0,1
+802,Home> Geospatial Application Papers> Environment> Planning & Policy,,N/A,0,1
+803,Maritime & Ocean Affairs,,N/A,0,1
+804,ANALISIS ASPEK LEGAL DAN GEOSPASIAL FORWARD POSITION BATAS ZEE (ZONA EKONOMI EKSKLUSIF) INDONESIA PADA PETA NKRI 2017 DI LAUT CHINA SELATAN,,N/A,0,1
+805,Indonesia's Submission of the Extended Continental Shelf: Status and Problems Published in:(Map Asia 2007),,N/A,0,1
+806,Kajian kedaulatan atas Kepulauan Paracel dan dampaknya terhadap delimitasi batas maritim antara Cina dan Vietnam di Laut Cina Selatan,,Majalah Geografi Indonesia,0,1
+807,Developing GUI-Based Software to Generate RINEX File from Several GPS Receivers: A Review on its Technical Programming and Cost Efficiency Impact,,"Developing GUI-Based Software to Generate RINEX File from Several GPS Receivers: A Review on its Technical Programming and Cost Efficiency ImpactDA SP, IMA Arsana, UT PETRONASRelated articles",0,2
+808,The combination of terrestrial Lidar and UAV photogrammetry for interactive architectural heritage visualization using unity 3D game engine,2019,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",28,2
+809,Sistem Pendukung Keputusan Pemilihan Obyek Wisata di Kota Balikpapan Menggunakan Metode Profile Matching,2018,Jurnal Rekayasa Teknologi Informasi (JURTI),19,1
+810,Close-range photogrammetric data for landslide monitoring on slope area,2012,"2012 IEEE Colloquium on Humanities, Science and Engineering (CHUSER)",9,1
+811,"Estimasi Volume Sedimentasi Waduk Sermo Menggunakan Metode RUSLE, Batimetri, dan Angkutan Sedimen",2020,Journal of Geospatial Information Science and Engineering,6,1
+812,Seabed classification using multibeam echosounder measurement data,2022,IOP Conference Series: Earth and Environmental Science,5,1
+813,"Istarno; Djurdjani; Ramadhan, GR; Tuntas, S. The combination of terrestrial LiDAR and UAV photogrammetry for interactive architectural heritage visualization using unity 3D …",2019,Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci,5,2
+814,Media pembelajaran pengenalan Binatang dengan konsep game edukasi untuk PAUD berbasis macromedia flash,2017,Jurnal Rekayasa Teknologi Informasi (JURTI),5,1
+815,Klasifikasi Jenis dan Sebaran Sedimen Menggunakan Data Multibeam Echosounder Multi-Temporal di Alur Pelayaran Barat dan Timur Surabaya,2021,Journal of Geospatial Information Science and Engineering,4,1
+816,3D modeling and volume estimation of riverbed layers based on sub bottom profiler measurement data,2019,Journal of Geospatial Information Science and Engineering,4,1
+817,The Updating of the Nautical Chart Number 69 on Java Sea Area for Safety Navigation of Sailing,2019,JGISE: Journal of Geospatial Information Science and Engineering,4,1
+818,Quality assessment of DTM generated from RTK GPS data on area with various sky views,2008,Proceedings of the 21st International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS 2008),4,3
+819,Leveraging machine learning and open accessed remote sensing data for precise rainfall forecasting,2025,Communications in Science and Technology,3,2
+820,Pembuatan Model Tiga Dimensi Candi Gebang Menggunakan Metode Fotogrametri Jarak Dekat,2014,N/A,3,1
+821,Landslide Detection on Slope Area by Using Close-Range Photogrammetric Data,2009,"Prosiding Seminar Nasional Revitalisasi Data dan, Sains-Teknik, Prosiding Seminar/Lokakarya/Konferensi, http://lib. ugm. ac. id/digitasi/index. php",3,3
+822,Perencanaan Rute dan Desain Lendutan Kabel Listrik untuk Jalur Transmisi dari PLTS Apung Kutai Lama ke Gardu Induk PLN Sambutan Samarinda,2022,JGISE: Journal of Geospatial Information Science and Engineering,2,1
+823,Pemodelan 3D Lapisan Dasar Laut dan Identifikasi Ketebalan Sedimen Berdasarkan Kombinasi Data Pengukuran Sub-Bottom Profiler dan Single Beam Echosounder (Studi Kasus: Alur …,2021,Journal of Geospatial Information Science and Engineering,2,1
+824,Sistem Manajemen Kartu Rencana Studi Mahasiswa Universitas Mulawarman,2020,J. Rekayasa Teknol. Inf,2,1
+825,IMPLEMENTASI SEAMLESS MULTIPROTOCOL LABEL SWITCHING (MPLS) PADA JARINGAN MPLS,2017,Prosiding SENIATI,2,1
+826,Identifikasi Posisi Matahari saat Terbit Fajar Shadiq,2012,Yogyakarta: Laporan Akhir Penelitian Jurusan Teknik Geodesi Fakultas Teknik UGM,2,1
+827,Generating 3D model of instable open slope area from 2D photographs using commercial pocket camera,2008,Proc. Int. Conf. Construct. Build. Technol.(ICCBT),2,3
+828,Digital Terrain Modeling by Real Time Kinematic GPS,2007,Map Asia,4,3
+829,A Geospatial Big Data Approach for Web Mapping of Water Balance & Dry Days in Indonesia's Peatlands,2024,2024 IEEE International Conference on Aerospace Electronics and Remote Sensing Technology (ICARES),1,1
+830,"Pemetaan Batimetri Hasil Pengukuran Multibeam Echosounder untuk Penentuan Jalur Kabel Laut Ina Tews di Rangko, Labuan Bajo",2021,N/A,1,1
+831,Penentuan Kecepatan Sedimentasi Waduk Sermo dengan Pendekatan USLE dan Pengukuran Kandungan Tanah dalam Air yang Masuk ke dalam Waduk,2017,N/A,1,1
+832,PERHITUNGAN VOLUME DAN SEBARAN SEDIMENTASI WADUK SERMO BERDASARKAN KONDISI AWAL PEMBANGUNAN DAN KEADAAN TERKINI DI TAHUN 2016,2016,"Universitas Gadjah Mada, Indonesia From: https://repository. ugm. ac. id/274369/1/FullPap er_PerhitunganVolumeDanSebaranSedimenta siWadukSermoBerdasarkanKondisiAwalPem bangunanDanKeadaanTerkiniDiTahun2016_ BambangKun-Waljiyanto-Oktavinno-2. pdf",1,2
+833,Evaluasi Kemampuan Alat Fish Finder Garmin MapSounder 178C Dan EchoSounder ODOM Hydrotrac II Untuk Pengukuran Batimetri,2014,Annual Engineering Seminar,1,2
+834,LEAST-SQUARES ADJUSTMENT IN DETERMINING ZERO ERROR (Zo) OF REFLECTOR-LESS TOTAL STATION FOR VARIOUS MATERIAL TARGETS,2008,Media Teknik,1,3
+835,"Design of Shipping Channels, Berthing Areas and Turning Basin by Utilizing Bathymetry and Side Scan Sonar Data at the Branta Harbor, East Java",2025,Engineering Headway,0,1
+836,Detached Hexareef Breakwater Configuration Design to Reduce the Effect of Ocean Waves at Eco-Resort Area Raja Ampat,2025,Engineering Headway,0,1
+837,Evaluation of Water Depth Extraction Using Empirical Method with Sentinel 2 Image on Google Earth Engine in South Sea Island of Bangka Belitung,2025,Engineering Headway,0,1
+838,"Pemanfaatan Data Batimetri untuk Identifikasi Perubahan Dasar Laut pada Area Pertambangan Timah di Laut Penyusuk, Pulau Bangka",2025,Journal of Geospatial Science and Technology,0,1
+839,Kajian Pengukuran Kedalaman Menggunakan Metode Satellite Derived Bathymetry di Area Perairan Tidak Jernih,2021,N/A,0,1
+840,PERHITUNGAN VOLUME PENGERUKAN AWAL BERDASARKAN DATA PENGUKURAN SINGLEBEAM ECHOSOUNDER PADA AREA KOLAM PUTAR DAN ALUR AKSES PELABUHAN BAGIAN DALAM DI PELABUHAN PATIMBAN KAB …,2021,N/A,0,1
+841,Identifikasi Pengaruh Penggunaan Bidang Referensi Vertikal terhadap Perubahan Arah Aliran Air Permukaan dan Luas Area Genangan Pasang Surut di Daerah Gambut,2021,N/A,0,1
+842,"PERBANDINGAN ANALISIS HARMONIK PASANG SURUT LAUT MENGGUNAKAN METODE ADMIRALTY DAN LEAST SQUARE DI WILAYAH PERAIRAN SELAT NASIK, BANGKA BELITUNG",2020,N/A,0,1
+843,"PENGUJIAN KUALITAS DATA DIGITAL TERRAIN MODEL HASIL PENGUKURAN LIDAR DI AREA LAHAN GAMBUT (Studi Kasus: Kesatuan Hidrologis Gambut Pulau Padang, Kabupaten Kepulauan Meranti …",2020,N/A,0,1
+844,Analisis Keterkaitan Tutupan Lahan dan Suhu Permukaan di Kabupaten Sleman Tahun 2019 Menggunakan Citra Landsat 8,2020,N/A,0,1
+845,Penggunaan Metode Random Forest Dalam Estimasi Kedalaman Gambut Memanfaatkan Data DTM Hasil Pengukuran LiDAR,2019,N/A,0,2
+846,PEMETAAN SITUASI SKALA 1: 500 SECARA TERESTRIS DUSUN BABADAN DESA BELUK KECAMATAN BAYAT KABUPATEN KLATEN PROVINSI JAWA TENGAH,2019,N/A,0,1
+847,"IDENTIFIKASI MODEL GEOPOTENSIAL GLOBAL YANG PALING SESUAI DALAM PENENTUAN SISTEM REFERENSI TINGGI (Studi Kasus: Pulau Padang, Riau)",2019,N/A,0,1
+848,"KEGIATAN PEMETAAN DAN PEMBUATAN PETA SITUASI SKALA BESAR DENGAN METODE TERISTRIS, DAERAH DUKUH CUNGKRUNGAN DESA BELUK KECAMATAN BAYAT KABUPATEN KLATEN PROVINSI JAWA TENGAH",2019,N/A,0,1
+849,PEMBUATAN WEBGIS SITUS BUDAYA DI KECAMATAN KOTAGEDE DENGAN VISUALISASI FOTO SFERIS 360 DERAJAT,2019,N/A,0,1
+850,Kajian Spasial Alur Laut Kepulauan Indonesia (ALKI) Timur-Barat di Laut Jawa,2018,N/A,0,1
+851,PERBANDINGAN MSL LOKAL PULAU SUMATRA DENGAN BERBAGAI MODEL GEOPOTENSIAL GLOBAL,2018,N/A,0,1
+852,Klasifikasi Dasar Laut Menggunakan Data Pengukuran Multibeam Echosounder,2018,N/A,0,1
+853,PEMODELAN 3D DAN PERHITUNGAN VOLUME LAPISAN DASAR SUNGAI BERDASARKAN DATA HASIL PENGUKURAN SUB BOTTOM PROFILER,2018,N/A,0,1
+854,Pembaharuan Peta Laut Nomor 69 Area Laut Jawa untuk Keselamatan Navigasi Pelayaran,2018,N/A,0,1
+855,PENGUJIAN KUALITAS DATA HASIL PEMETAAN MENGGUNAKAN WAHANA UAV PADA TITIK ICP HASIL PENGUKURAN GNSS UNTUK KEPERLUAN PEMETAAN TOPOGRAFI PADA AREA LUAS,2017,N/A,0,1
+856,Pengukuran Batimetri Waduk Sermo Menggunakan Alat Odom Hydrotrac Ii Dan RTK GNSS dengan Perangkat Lunak Hydropro,2017,N/A,0,1
+857,PEMETAAN BATIMETRI BERDASARKAN DATA HASIL PENGUKURAN MBES ELAC SEABEAM MENGGUNAKAN PERANGKAT LUNAK HDP 4061,2017,N/A,0,1
+858,Perhitungan Volume Dan Sebaran Sedimentasi pada Waduk Sermo Berdasarkan Kondisi Awal Pembangunan dan Keadaan Terkini,2017,N/A,0,1
+859,PENGARUH KOREKSI KECEPATAN GELOMBANG SUARA DALAM AIR LAUT PADA DATA PENGUKURAN MULTIBEAM ECHOSOUNDER,2017,N/A,0,1
+860,PENENTUAN CHART DATUM SUNGAI BARITO BERDASARKAN DATA PENGAMATAN PASANG SURUT DI TIGA STASIUN,2017,N/A,0,1
+861,Pemodelan Tiga Dimensi (3D) Jalan Gading Kirana Berdasarkan Data Mobile Laser Scanning,2016,N/A,0,1
+862,PEMBUATAN PETA LAUT NAVIGASI ELEKTRONIK UNTUK ALUR MASUK PELABUHAN TANJUNGBARA (SANGATA),2016,N/A,0,1
+863,PEMODELAN TIGA DIMENSI MONUMEN NASIONAL MENGGUNAKAN MULTISTAION LEICA NOVA MS50,2015,N/A,0,1
+864,PENGOLAHAN DATA MULTIBEAM ECHOSOUNDER MENGGUNAKAN SOFTWARE CARIS HIPS AND SIPS PADA PEMETAAN BATIMETRI,2015,N/A,0,1
+865,PENGOLAHAN DATA MULTIBEAM ECHOSOUNDER MENGGUNAKAN SOFTWARE MB-SYSTEM,2015,N/A,0,1
+866,Pengembangan dan Konstruksi Purwarupa Autonomous Remotely Operated Surface Vessel (AROSsel) yang murah untuk Pengukuran dan Pemantauan Batimetri Perairan Spesifik,2014,N/A,0,1
+867,Analisis Perbandingan Data Batimetri Hasil Pengukuran Multibeam Echosounder dan Singlebeam Echosounder Untuk Wilayah Perairan Dangkal,2014,N/A,0,1
+868,Prediksi Kecepatan Sedimentasi Waduk Sermo Berdasarkan Data Pengukuran Batimetri Multi Temporal,2014,N/A,0,1
+869,"PEMBUATAN SOFTWARE APLIKASI PERHITUNGAN ASENSIOREKTA MATAHARI, DEKLINASI MATAHARI, SETENGAH DIAMETER MATAHARI DAN AZIMUT MATAHARI",2014,N/A,0,1
+870,PEMETAAN KONDISI DASAR LAUT MENGGUNAKAN DATA HASIL PENGUKURAN SIDE SCAN SONAR DAN MULTIBEAM ECHOSOUNDER,2014,N/A,0,1
+871,Digital Elevation Modeling oflnaccessible Slope by Using Close-range Photogrammetric Data,2013,N/A,0,1
+872,ANALISIS PERBANDINGAN DATA HASIL PENGUKURAN BATIMETRI MENGGUNAKAN ALAT SINGLEBEAM ECHOSOUNDER ODOM HYDROTRAC II DAN FISH FINDER GARMIN MAP SOUNDER 178 C,2013,N/A,0,1
+873,MASS MOVEMENT MONITORING ON SLOPE OF SIMPANG PULAI-LOGING HIGHWAY USING TERRESTRIAL SURVEY DATA,2011,EACEF-International Conference of Civil Engineering,0,3
+874,Pemanfaatan Prototip ROV (Remotely Operated Vehicle) dan Aplikasi Antarmuka untuk Visualisasi Jalur Perum dalam Survei Batimetri,,N/A,0,2
+875,Analisis Ketelitian Pergeseran Titik Pantau Terhadap Variasi Resolusi Foto Pada Teknik Fotogrametri Jarak Dekat,,N/A,0,2
+876,APPLICATION OF SPOT5 SATELLITE IMAGE AND GIS FOR UPDATING ROAD NETWORK: TOWARDS BUILDING LANDSLIDE SPATIAL DATABASE,,N/A,0,2
+877,CHARACTERIZING ACCURACY OF DEM DERIVED FROM CLOSE-RANGE PHOTOGRAMMETRIC,,N/A,0,3
+878,Estimating the Quality of Digital Terrain Model Generated from RTK GPS Data on Terrain with Various Sky of Views,,N/A,0,2
+879,"Pemantauan Perubahan Kedalaman dan Persebaran Sedimentasi Bendungan Berdasarkan Data Pengukuran Batimetri (Studi kasus: Waduk Sermo, Kec. Kokap Kab. Kulonprogo–DIY)",,N/A,0,2
+880,ANALISIS DEFORMASI ASPEK GEOMETRIK SEGMEN MENTAWAI AKIBAT GEMPA TEKTONIK 10 JULI 2013,2015,N/A,8,2
+881,Pemanfaatan Citra Side Scan Sonar untuk Identifikasi Objek Bawah Laut,2020,JGISE: Journal of Geospatial Information Science and Engineering,6,1
+882,Analysis of the July 10th 2013 Tectonic Earthquake effect on the Coordinates Changes of Mentawai Segment Monitoring Station,2018,JGISE: Journal of Geospatial Information Science and Engineering,4,2
+883,Analisis Deformasi Segmen Mentawai Fase Post-Seismic 10 Juli 2013,2019,Seminar Nasional Geomatika,2,2
+884,PERBANDINGAN 7 PARAMETER TRANSFORMASI DATUM DARI ITRF 2008 KE ITRF 2005 METODE MOLODENSKY-BADEKAS DENGAN PARAMETER GLOBAL IERS (Studi Kasus: CORS BPN DIY),2014,N/A,2,1
+885,EULER ROTATION PARAMETER ESTIMATION IN BANDA ARC REGION,2022,South East Asian Surveyor Congress 2022,0,1
+886,ANALISIS PENGARUH GEMPA TEKTONIK 10 JULI 2013 TERHADAP PERUBAHAN KOORDINAT STASIUN PANTAU SEGMEN MENTAWAI,2020,JURNAL NASIONAL TEKNOLOGI TERAPAN Учредители: Universitas Gadjah Mada,0,2
+887,Evaluasi Perbedaan Koordinat Jaring Kontrol Horizontal pada Datum SRGI 2013 dan WGS’84,2018,Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2018,0,2
+888,Penentuan Posisi Anjungan Minyak Lepas Pantai dengan Titik Ikat GPS Regional dan Global,2012,N/A,24,1
+889,Deformation Analysis of Offshore Platform using GPS Technique and its Application in Structural Integrity Assessment,2010,N/A,21,1
+890,"GNSS monitoring network optimization case study: Opak Fault Deformation, Yogyakarta",2018,JGISE J. Geospatial Inf. Sci. Eng,11,1
+891,3D TOMOGRAPHY OF IONOSPHERIC ANOMALIES AFTER THE 2020 TURKEY EARTHQUAKE AND TSUNAMI USING GNSS-TEC.,2021,Science of Tsunami Hazards,10,1
+892,Analisis tingkat ketersediaan dan cakupan dari continuously operating reference station (CORS) di Pulau Jawa,2021,Journal of Geospatial Information Science and Engineering,10,2
+893,Model Permukaan Digital,2006,Universitas Gajah Mada. Yogyakarta,7,2
+894,Analisis Deformasi–Status Geometrik Dua Dimensi dengan Pendekatan Generalisasi Matriks Kebalikan,1997,N/A,5,1
+895,The systematic disaster management approach to assessing early warning systems in South Sulawesi: A review,2025,"Engineering, Technology & Applied Science Research",4,1
+896,Geometric aspects evaluation of GNSS control network for deformation monitoring in the Jatigede Dam Region,2018,International Journal of Remote Sensing and Earth Sciences,4,2
+897,Evaluation of GPS Data for Offshore Platform Subsidence,2009,"7th Asia Pacific Structural Engineering and Construction Conference (APSEC 2009) & 2nd European Asian Civil Engineering Forum (EACEF 2009), Langkawi, Malaysia",4,1
+898,Pipeline Modeling using UAV LiDAR Technology,2024,GEOID Учредители: Lembaga Penelitian dan Pengabdian kepada Masyarakat ITS,2,1
+899,Displacement velocity and strain analysis of Opak Fault monitoring stations,2021,IOP Conference Series: Earth and Environmental Science,2,1
+900,Optimal design of the Sermo Fault deformation monitoring network using sensitivity criteria based on geological information,2021,Arabian Journal of Geosciences,2,2
+901,"Analisis Pergerakan Vertikal Titik Pantau Jembatan Penggaron, Kabupaten Semarang, Propinsi Jawa Tengah",2020,JUTEKS: Jurnal Teknik Sipil,2,1
+902,Observation Duration and Multipath Analysis on Yogyakarta Opak Fault Monitoring Stations,2018,2018 4th International Conference on Science and Technology (ICST),2,2
+903,Analisis Geometrik Deformasi pada Kerangka Dasar Relatif,2000,Media Teknik,2,1
+904,Analysis of Damage due to the M6. 4 Tuban-Bawean Earthquake using Remote Sensing,2025,BIO Web of Conferences,1,1
+905,Study of Orthophotos Spatial Quality from Integrated Physical Data Collection in Samarinda City,2024,IOP Conference Series: Earth and Environmental Science,1,1
+906,The Role of Geomatics Discipline to Support Langsa Complex Restoration Program: 3D Visualization of Subsurface and Existing Subsea Facilities Geospatial Data,2024,Indonesian Petroleum Association,1,2
+907,IONOSPHERIC TSUNAMI POWER INDEX (ITPI) TESTING FOR TSUNAMI DETECTION.,2021,Science of Tsunami Hazards,1,1
+908,PENENTUAN NILAI PERGERAKAN VERTIKAL PADA TITIK PANTAU DEFORMASI DI KOMPLEK CANDI PRAMBANAN,2021,Kokoh,1,1
+909,Evaluation of Global Positioning System Data for Offshore Platform Deformation,2011,American Journal of Engineering and Applied Sciences,1,2
+910,Analisis Pergeseran Horisontal di Bendungan Panglima Besar Soedirman,2005,Media Teknik,1,2
+911,Analysis of plasma bubble phenomena and their geomagnetic dependencies using GNSS-TEC with 3D tomography investigation,2026,Journal of Applied Geodesy,0,2
+912,"Spatial Quality Study of Land Parcels Resulting from Integrated Physical Data Collection in Samarinda City, Indonesia",2025,Engineering Headway,0,1
+913,Capabilities of UAV Photo Technology for Detailed Mapping of Pipelines,2025,Engineering Headway,0,1
+914,Pergerakan Vertikal Titik GNSS CORS Pantai Utara Jawa Tengah dan Sekitarnya Tahun 2021-2023 Menggunakan Pengolahan Metode Precise Point Positioning (PPP),2024,Journal of Geospatial Information Science and Engineering,0,1
+915,72-Hours Ahead Prediction of Ionospheric TEC using Radial Basis Function Neural Networks,2021,"2021 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)",0,1
+916,Sea High-Level Determination using Pseudorange Range Difference of Carrier Phase and Code between GPS Reflection and Directly Signal,2020,"2020 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)",0,1
+917,PPP method with Kalman filter for detection of shifting GNSS observation points due to the Palu 2018 earthquake,2020,AIP Conference Proceedings,0,1
+918,PERFORMA METODE PRECISE POINT POSITIONING (PPP) DENGAN KOREKSI IONOSFER ORDE 1,2019,Elipsoida: Jurnal Geodesi dan Geomatika,0,1
+919,Pemodelan Deformasi Metode Least Square Collocation Berdasarkan Data GNSS Tahun 2013 sd 2018,2019,Simposium Infrastruktur Informasi Geospasial,0,1
+920,GNSS Processing Data Result with Sequential Adjustment Method to Estimate the Monitoring Control Point Coordinate at Sermo Dam,2019,IOP Conference Series: Earth and Environmental Science,0,2
+921,Pendefinisian Koordinat 3D Stasiun Gayaberat Teknik Geodesi dengan Teknologi GNSS,2018,Simposium Infrastruktur Informasi Geospasial,0,2
+922,SURVEI GNSS DENGAN METODE REAL TIME PRECISE POINT POSITIONING (RT-PPP) UNTUK PEMETAAN SITUASI SKALA 1: 1000 KAWASAN EDU WISATA SIRNAJAYA,2017,N/A,0,1
+923,Pengolahan Ukuran Gayaberat Relatif dengan Metode Perataan Kuadrat Terkecil dengan Solusi Bertahap,2016,Seminar Kontribusi Fisika 2015 Institut Teknologi Bandung,0,2
+924,Geoid Determination with Integral of Hotine Based on Terrestrial Gravity Data in Semarang City,2016,The 6th International Conference on Mathematics and Natural Sciences 2016,0,2
+925,Evaluation of Combining Land and Waters Data on Local Gravimetric Geoid Modelling (Case Study D.I. Yogyakarta Coastal Area),2016,The International Conference on Science dan Technology 2016,0,2
+926,Evaluasi Sistem Tinggi dalam Pengadaan Jaring Kontrol Vertikal dengan Metode Sipat Datar di Kota Semarang,2016,Konferensi Teknik dan Sains Informasi Geospasial ke-3 dan FIT ISI 2016,0,2
+927,Analisis Deformasi Aspek Geometrik 3D pada Titik Kontrol Pemantauan Bendungan Waduk Sermo,2016,Konferensi Teknik dan Sains Informasi Geospasial ke-3 dan FIT ISI 2016,0,2
+928,Pengaruh Bobot Pengukuran pada Perhitungan Perataan Bertahap dari Data Hasil Pengamatan GNSS,2016,Konferensi Teknik dan Sains Informasi Geospasial ke-3 dan FIT ISI 2016,0,2
+929,"Pengukuran Laju Sedimentasi Waduk Sermo Berdasarkan Analisa Data Pengukuran Batimetri, Kandungan Tanah dalam Air Sungai, serta Analisa Sedimen Dasar Waduk",2016,Konferensi Teknik dan Sains Informasi Geospasial ke-3 dan FIT ISI 2016,0,5
+930,Analisis Data GNSS pada Jaring TGD dan SGY Pematauan Patahan Opak Tahun 2015 dan 2016,2016,Konferensi Teknik dan Sains Informasi Geospasial ke-3 dan FIT ISI 2016,0,3
+931,Analisis Gerakan Stasiun Pemantauan Patahan Opak,2016,"Annual Engineering Seminar, Engineering Faculty, UGM, Indonesia, 2016",0,1
+932,Evaluasi Ketelitian Koordinat pada Stasiun GNSS Pemantauan Sesar Opak,2015,"Seminar Nasional dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI) 2015, Malang",0,1
+933,Penentuan Koordinat Titik Kontrol Pemantauan Deformasi Bendungan Sermo dengan Teknologi GNSS,2015,"Seminar Nasional dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI) 2015, Malang",0,2
+934,Pengaruh Pembobotan dalam Perataan Jaring Gayaberat terhadap Akurasi Geoid Kota Semarang,2015,"Seminar Nasional dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI) 2015, Malang",0,2
+935,Analisis Kecepatan Pergeseran Horizontal Segmen Mentawai Akibat Gempa Tektonik 10 Juli 2013,2015,"Seminar Nasional dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI) 2015, Malang",0,2
+936,Analisis Deformasi Bendungan Waduk Sermo,2015,"Seminar Nasional dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI) 2015, Malang",0,2
+937,Pemantauan Pergeseran Tubuh Bendungan pada Waduk Sermo secara Geometrik 3D,2015,"Seminar Nasional Teknologi Terapan (SNTT) 2015, UGM",0,2
+938,Analisis Vektor Pergeseran Horizontal di Wilayah Kepulauan Mentawai Menggunakan Data Stasiun Aktif dengan Rentang Waktu Tahun 2011 sampai dengan Tahun 2013,2015,"Seminar Nasional Teknologi Terapan (SNTT) 2015, UGM",0,1
+939,Penentuan Koordinat Titik Pantau untuk Studi Geodinamik di Patahan Opak,2015,Annual Engineering Seminar (AES) 2015,0,1
+940,ANALISIS DEFORMASI ASPEK GEOMETRIK 3D PADA TITIK KONTROL PEMANTAUAN BENDUNGAN WADUK SERMO,2015,N/A,0,2
+941,EVALUASI KOMPONEN TINGGI GAMBAR SITUASI SKALA BESAR HASIL UKURAN METODE GNSS/GPS REAL TIME KINEMATIK (RTK) BERBASIS NTRIP,2015,N/A,0,1
+942,PEMBUATAN PETA SITUASI SKALA 1: 500 LOKASI 12 DUSUN GULEN DESA BANYURIPAN KECAMATAN BAYAT KABUPATEN KLATEN PROVINSI JAWA TENGAH,2015,N/A,0,1
+943,Evaluasi Koordinat Titik BM Hasil Pengukuran Terestris dengan Hitungan Perataan Kendala Minimum,2014,"Seminar Nasional Teknologi Terapan (SNTT) 2014, UGM",0,1
+944,Kajian Pergeseran Titik Pemantauan Deformasi Candi Prambanan,2014,Konferensi Teknik dan Sains Informasi Geospasial ke-2,0,1
+945,Strategi dalam Desain Jaring Kontrol GPS untuk Studi Geodinamik di Patahan Opak,2014,Annual Engineering Seminar (AES) 2014,0,1
+946,EVALUASI KOORDINAT TDT ORDE 3 HASIL UKURAN RECEIVER GNSS CORS RTK NTRIP,2014,N/A,0,2
+947,PENENTUAN PERGESERAN HORISONTAL CANDI PRAMBANAN,2014,N/A,0,1
+948,OPTIMASI DESAIN JARING GPS WILAYAH KAMPUS UGM,2014,N/A,0,1
+949,Pemodelan Geoid Lokal DI Yogyakarta sebagai Referensi Tinggi Survei Kadastral 3D,2014,N/A,0,3
+950,Pendefinisian Stasiun Aktif GMU1 Tahun 2012 dengan Titik Ikat GPS Regional dan Global,2014,N/A,0,1
+951,"ANALISIS PERGESERAN TITIK-TITIK PANTAU TAILING DAM UTAMA (Studi Kasus PT. Aneka Tambang (Persero) Tbk. Unit Bisnis Pertambangan Emas, Pongkor)",2014,N/A,0,1
+952,Penentuan Pergerakan Lereng Tambang dengan Hitungan Kuadrat Terkecil dan Hitungan Software GEOMOS,2013,"Seminar Nasional dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI) 2013, Yogyakarta",0,1
+953,Pendefinisian Ulang Stasiun GNSS CORS GMU1,2013,"Seminar Nasional dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI) 2013, Yogyakarta",0,1
+954,Model Geoid Lokal DIY sebagai Bidang Referensi Tinggi Ideal,2013,"Seminar Nasional Teknologi Terapan (SNTT) 2013, UGM",0,2
+955,Penentuan Kecepatan Pergerakan Titik Kontrol Geodesi di Pulau Jawa,2013,"Seminar Nasional Teknologi Terapan (SNTT) 2013, UGM",0,1
+956,Evaluasi Kekuatan Jaring Pemantauan Deformasi Horizontal Candi Borobudur,2013,Annual Engineering Seminar (AES) 2013,0,2
+957,Pembuatan Peta Situasi Skala 1: 500 Desa Beluk dan Banyuripan Kecamatan Bayat Kabupaten Klaten Provinsi Jawa Tengah,2013,Text,0,1
+958,Penentuan Ppergerakan Lereng Menggunakan Hitungan Kuadrat Terkecil Metode Parameter dan Hitungan Software Geomos,2013,N/A,0,1
+959,Pengaruh Penggunaan Titik Ikat GPS untuk Penentuan Posisi Offshore Platform,2012,"The 1st Conference on Geospatial Information Science and Engineering, Indonesia, 2012",0,1
+960,Pemanfaatan GNSS CORS untuk Penentuan Titik Dasar Teknik Kadaster Orde 3 Menggunakan Metode Rapid Statik Moda Radial,2012,"The 1st Conference on Geospatial Information Science and Engineering, Indonesia, 2012.",0,1
+961,Model Simulasi Jaringan Perpipaan Transmisi Gas dengan Metode Successive Substitution,2012,"Seminar Nasional Perkembangan Riset dan Teknologi di Bidang Industri ke-18, Pusat Studi Iilmu Teknik, Yogyakarta, Indonesia, 2012",0,1
+962,Analisis Integritas Struktur pada Anjungan Minyak Lepas Pantai dengan Data GPS,2011,Seminar Nasional dan Forum Ilmiah Tahunan 2011 Ikatan Surveyor Indonesia (ISI Optimalisasi Peran Pemerintah Daerah dan Swasta untuk Percepatan Pemetaan dan Pembangunan 24-11-2011 (ISI dan UNDIP),0,1
+963,GPS Calibration Using Based-Line Length,2009,"1st Geoinformation Science Symposium, Puspics, Fakultas Geografi, Universitas Gadjah Mada, Yogyakarta, Indonsia, 2009",0,4
+964,Toward GPS Data Implementation for Structural Integrity Check of Offshore Platform,2009,"34st Annual Meeting, Himpunan Ahli Geofisika Indonesia, Yogyakarta, Indonesia, 2009",0,1
+965,Preliminary Offshore Platform Structural Integrity Check using GPS Deformation Analysis,2009,"7th Asia Pacific Structural Engineering and Construction Conference (APSEC 2009) & 2nd European Asian Civil Engineering Forum (EACEF 2009), Langkawi, Malaysia",0,1
+966,Mass Movement Monitoring on Slope Of Simpang Pulai-Loging Highway Using Terrestrial Survey Data,2009,"7th Asia Pacific Structural Engineering and Construction Conference (APSEC 2009) & 2nd European Asian Civil Engineering Forum (EACEF 2009), Langkawi, Malaysia",0,2
+967,Processing of GPS Data for Offshore Platform Subsidence,2009,"Conference of National Postgraduate, Universiti Teknologi PETRONAS, Malaysia, 2009",0,1
+968,Calibration of Reflectorless Total Station for Various Material Targets,2008,"7th International Symposium and Exhibition on Geoinformation, Kuala Lumpur, Malaysia",0,2
+969,Differential Precise Positioning by using Low Cost GPS,2008,"7th International Symposium and Exhibition on Geoinformation, Kuala Lumpur, Malaysia",0,4
+970,Potential Use of GPS Data for Offshore Platform Monitoring Utilizing Scientific Software,2008,"7th International Conference and Exhibition on Geographical Information Technology and Application, MAP ASIA 2008, Kuala Lumpur, Malaysia",0,1
+971,Effect of Reference Station Configuration for GPS Long Baseline Processing,2008,"International Conference of Construction and Building Technology, Kuala Lumpur, Malaysia, 2008",0,1
+972,Evaluation of GPS Data Processing for Platform Network Simulation using Commercial Software,2008,"Conference of National Postgraduate, Universiti Teknologi PETRONAS, Malaysia, 2008",0,1
+973,Perlukah Memperhitungkan Kesalahan TDT Orde 3 pada Perhitungan Koordinat TDT Orde 4 dan Perapatannya?,2007,Media Teknik Edisi Agustus 2007,0,2
+974,"Perbandingan Ketelitian Pengukuran Jarak dengan Alat Ukur Disto Classic, Pita Ukur Fiberglass, dan Total Station (the Precise Comparison of Distance Maesurement using Disto …",2006,Media Teknik Edisi Nopember 2006,0,1
+975,Deformasi vertikal Wilayah Bendungan Panglima Besar Soedirman (Modelling of Vertical Deformation of the Panglima Besar Soedirman Dan Area),2006,Media Teknik,0,2
+976,Application of Finite Difference Methods in Developing Land Value Maps,2004,"3rd International Federation of Surveyor (FIG) Regional Conference for Asia and the Pacific, Jakarta 2004",0,2
+977,Penggunaan Metode Inner Constraint untuk Analisis Titik Stabil pada Studi Deformasi,2004,Prosiding Dies Natalis ke-45 Teknik Geodesi FT-UGM,0,1
+978,Analisis Sensifitas Ketelitian Parameter Hasil Hitung Kuadrat Terkecil,2004,Media Teknik,0,2
+979,Deteksi Kesalahan Besar dengan Kombinasi Tes Statistik dan Evaluasi Besaran Redundansi,2004,Media Teknik,0,2
+980,Pengadaan Jaring Kontrol Deformasi dengan Menggunakan GPS di Kawasan Candi Borobudur,2001,Surveying & Geodesi,0,2
+981,Studi Penentuan Gerakan Vertikal pada Candi Borobudur,2000,Media Teknik,0,1
+982,Penentuan Letak Kesalahan Besar Menggunakan Metode Robust pada Perataan Jaring Sifat Datar,2000,Forum Teknik,0,1
+983,Penyelesaian Jaring Kontrol Horisontal (Pseudoinvers vs Minimal Constraint),1999,"Konggres Forum Ilmiah Tahunan X Ikatan Surveyor Indonesia, Yogyakarta",0,1
+984,PERFORMA METODE PRECISE POINT POSITIONING (PPP) DENGAN KOREKSI IONOSFER ORDE 1 PADA DATA PENGAMATAN STASIUN CORS BIG,,N/A,0,1
+985,Fuzzy information representation and processing in conventional GIS software: database design and application,1990,International Journal of Geographical Information System,262,1
+986,Comparison of Boolean and fuzzy classification methods in land suitability analysis by using geographical information systems,1992,Environment and Planning A,169,1
+987,"Pemanfaatan Citra Satelit Resolusi Tinggi, DGPS, dan Sig Untuk mendeteksi Kondisi Penggunaan Lahan Di Kota Yogyakarta",2003,text,1,3
+988,PENYEDIAAN DATA DAN INFORMASI DARI CITRA SATELIT QUICKBIRD UNTUK PENGELOLAAN PAJAK BUMI DAN BANGUNAN PERKOTAAN= Utilizing Data and Information from QuickBird Satellite Imaging …,2004,Teknosains,0,2
+989,Penerapan Konsep Data Warehouse Untuk Pemantauan PeneiImaan PBB,2003,Teknosains,0,2
+990,PEMANFAATAN CITRA LANDSAT 7 ETM+ UNTUK EVALUASI PENGGUNAAN LAHAN DALAM RENCANA UMUM TATA RUANG WILAYAH KABUPATEN TIMOR TENGAH SELATAN,,N/A,0,2
+991,Developing Android Application for Precise Geotagging Using RTK GPS Module,2018,2018 4th International Conference on Science and Technology (ICST),16,2
+992,Suitability level analysis of Google Map’s travel time and traffic density classification,2019,JGISE J Geospat Inf Sci Eng,3,1
+993,Pembuatan Sistem Pemantauan Pergerakan Titik Hasil Penentuan Posisi Metode NTRIP RTK Mengunakan Komunikasi Data Berbasis TCP-IP,2010,Seminar Nasional GNSS-CORS 2010,3,3
+994,Development of Land Geospatial Information for Supporting One Map Policy in Rural Areas: Pilot Project,2015,Cooperation Unit of Faculty of Engineering (LKFT) UGM in Cooperation with Ministry of Agrarian & Spatial Planning/National Land Agency of Indonesia (BPN),2,5
+995,Derivation 3D Model of Instable Open Slope Area from 2D Photographs Using Commercial Pocket Camera,2008,International Conference of Concrete and Building Technology,2,3
+996,SIMULASI PENERAPAN SISTEM ESTIMATED TIME OF ARRIVAL (ETA) PADA MODA TRANSPORTASI KERETA API MENGGUNAKAN DATA MODUL GPS,2017,N/A,1,1
+997,Real time kinematic-GNSS methods for monitoring subsidence of offshore platform,2016,"Engineering Challenges for Sustainable Future-Proceedings of the 3rd International Conference on Civil, offshore and Environmental Engineering, ICCOEE",1,1
+998,LEAST-SQUARES ADJUSTMENT IN DETERMINING ZERO ERROR (Zo) OF REFLECTOR-LESS TOTAL STATION FOR VARIOUS MATERIAL TARGETS,2009,N/A,1,4
+999,Sistem Perekomendasi Penentuan Posisi 3D untuk Infrastruktur Penentuan Posisi Indonesia,2025,N/A,0,1
+1000,Analisis Rute Navigasi Google Maps berdasarkan Klasifikasi Kepadatan Lalu Lintas dan Waktu Tempuh (Studi Kasus: Rute Lokasi Wisata di Daerah Istimewa Yogyakarta),2024,N/A,0,1
+1001,"PERENCANAAN DESAIN GEOMETRIK JALAN YANG MEMADUKAN JALUR PEJALAN KAKI DAN PESEPEDA (STUDI KASUS: JALAN SUMBU KEBANGSAAN SISI BARAT, IBU KOTA NEGARA NUSANTARA)",2024,N/A,0,1
+1002,ANALISIS PERBANDINGAN MODEL 3D RUANGAN DI STASIUN MRT BLOK M JAKARTA DARI DATA TERESTRIAL LASER SCANNER DAN AS-BUILT DRAWING,2022,Semnas Geomatika 2021,0,2
+1003,ANALISIS PERBANDINGAN MODEL 3D RUANGAN DI STASIUN MRT JAKARTA DARI DATA TERESTRIAL LASER SCANNER DAN AS-BUILT DRAWING (Studi Kasus: Stasiun MRT Bundaran Hotel Indonesia dan …,2021,N/A,0,2
+1004,PEMBUATAN PETA SITUASI SKALA 1: 500 DI DUSUNDEGAN l DAN DEGAN ll DESA BANJARARUM KECAMATAN KALIBAWANG KABUPATEN KULON PROGO PROVINSI DI YOGYAKARTA,2019,N/A,0,1
+1005,KOMPARASI KEPRESISIAN HASIL PENGUKURAN MODUL GPS ORIGINAL EQUIPMENT MANUFACTURER (OEM) MENGGUNAKAN ANTENA QUADRIFILAR HELIX DAN ANTENA MICROSTRIP,2018,N/A,0,1
+1006,Pemetaan Dan Pembuatan Peta Situasi Metode Terestris Skala 1: 500 Dusun Degan Ii Desa Banjararum Kecamatan Kalibawang Kabupaten Kulon Progo Provinsi DI Yogyakarta,2017,N/A,0,1
+1007,ANALISIS HASIL PENGUKURAN POSISI HORIZONTAL KAPAL USV AROSSEL (Autonomous Remotely Operated Surface Vessel) MENGACU STANDAR IHO UNTUK PEMETAAN BATIMETRI SKALA BESAR,2016,N/A,0,2
+1008,"SURVEI JALUR TRANSMISI 70 KV DARI KECAMATAN GIRI MULYA SAMPAI KECAMATAN KETAHUN, KABUPATEN BENGKULU UTARA, PROVINSI BENGKULU",2014,N/A,0,1
+1009,Optimasi Jaring Kontrol Geodinamik dengan Menggunakan GPS di Kawasan Sesar Opak,2013,Yogyakarta,0,1
+1010,Modeling Deformation at Sunda Strait Base On GPS Observation of Year 2006-2011,2012,The 1 st Conference on Geospatial Information Science and Engineering,0,1
+1011,Analisis Persebaran Sedimentasi Waduk Berdasarkan Data Multi Epoch Hasil Pengukuran Bathymetry yang Terikat Pada Stasiun GNSS-CORS,2012,Konferensi Teknik dan Sains Informasi Geospasial ke-1 (The 1st Conference on Geospatial Information Science and Engineering),0,2
+1012,ATR/BPN.,2010,Universitas,0,5
+1013,Kalibrasi Alat DGPS dengan Metode Uji Panjang Baseline,2009,N/A,0,4
+1014,Digital Terrain Modeling by Using Real Time Kinematic GPS Data,2008,N/A,0,1
+1015,"Study of regional monsoonal effects on landslide hazard zonation in Cameron Highlands, Malaysia",2012,Arabian Journal of Geosciences,57,1
+1016,Utilisation of Sentinel-1 SAR imagery for oil spill mapping: a case study of Balikpapan Bay oil spill,2018,Journal of Geospatial Information Science and Engineering,47,1
+1017,"Uji performa citra Worldview 3 dan Sentinel 2A untuk pemetaan kedalaman laut dangkal (studi kasus di Kepulauan Karimunjawa, Jawa Tengah)",2020,JGISE: Journal of Geospatial Information Science and Engineering,17,1
+1018,Deteksi tumpahan minyak di Selat Makassar dengan penginderaan jauh sensor aktif dan pasif,2019,Elipsoida: Jurnal Geodesi dan Geomatika,15,1
+1019,"Evaluating ACOMP, FLAASH and QUAC on Worldview-3 for satellite derived bathymetry (SDB) in shallow water",2020,Geodesy and Cartography,13,1
+1020,"Landslide susceptibility modelling under environmental changes: A case study of Cameron Highlands, Malaysia",2012,N/A,10,1
+1021,APPLICATION OF LAND USE CHANGES DETECTION FOR IDENTIFICATION OF LANDSLIDE RISK AREAS IN PULAU PENANG USING A DECADE OF LANDSAT 7 ETM+ IMAGES,2010,MRSS 6th INTERNATIONAL REMOTE SENSING & GIS CONFERENCE AND EXHIBITION,9,1
+1022,"Evaluation of landslide causative factors towards efficient landslide susceptibility modelling in the Cameron Highlands, Malaysia",2012,WIT Transactions on Engineering Sciences,8,1
+1023,Benthic habitat classification using multiscale GEOBIA on orthophoto images of Karimunjawa waters,2021,Communications in Science and Technology,7,1
+1024,Aerosol optical depth (AOD) retrieval for atmospheric correction in Landsat-8 imagery using second simulation of a satellite signal in the solar spectrum-vector (6SV),2019,Communications in Science and Technology,6,1
+1025,"The effect of sunglint correction for estimating water depth using rationing, thresholding, and mean value algorithms",2021,Rekayasa,5,1
+1026,Kontribusi Konstanta Pasang Surut Perairan Dangkal Terhadap Pasang Surut di Sekitar Pulau Jawa,2015,Prosiding Forum Ilmiah Tahunan Ikatan Surveyor Indonesia (FIT ISI),5,1
+1027,Pemodelan Spasial Landaan Tsunami Menggunakan Variasi Lokasi Sumber dan Magnitud Gempa Studi Kasus Kota Padang,2012,Conference on Geospatial Science and Engineering. Yogyakarta,5,1
+1028,Detecting Oil spill on Sentinel-1 imagery based on texture analysis and instantaneous wind speed estimation,2019,2019 5th International Conference on Science and Technology (ICST),4,1
+1029,"Perbandingan Metode Roberts’ Filter, Segmentasi dan Band Ratio Pada Citra Landsat 8 untuk Analisis Garis Pantai",2021,Rekayasa,3,1
+1030,Shallow Water Depth Mapping Using Single Band and Band Ratio on High-Resolution Imagery,2020,Seminar Nasional Geomatika,3,1
+1031,Past landslide at Post Slim: evaluation of its causative factors using geospatial and remote sensing data,2010,"International Conference on Sustainable Building and Infrastructure (ICSBI2010), Kuala Lumpur, Malaysia",3,1
+1032,SAR Bathymetry Review and Its Possibility Implementation in Indonesia,2023,Journal of Geospatial Information Science and Engineering,2,1
+1033,Uji Kualitas Data Pengukuran Batimetri Singlebeam Echosounder Berdasarkan SNI-7647 Tahun 2010 (Studi Kasus Survei Batimetri Menggunakan Hi-Target HD 370 di Laguna Pantai Glagah …,2022,JGISE: Journal of Geospatial Information Science and Engineering,2,1
+1034,Analisis Kandungan Total Suspended Solid (Tss) Menggunakan Citra Satelit Worldview 3 Diperairan Karimunjawa,2020,Elipsoida: Jurnal Geodesi dan Geomatika,2,2
+1035,"Model validation and error estimation of tsunami runup using high resolution data in Sadeng Port, Gunungkidul, Yogyakarta",2017,AIP Conference Proceedings,2,1
+1036,Hubungan Konstanta Atenuasi dengan Konstituen Air pada Perairan Pelabuhan Karimnunjawa,2019,Elipsoida,1,2
+1037,Implementation and Validation of Online Tidal Analysis,2025,Journal of Geospatial Information Science and Engineering (JGISE),0,1
+1038,"Evaluating Influencing Factors on Liqui-InSAR Derived Bathymetry in Dynamic Aquatic Environments: A Case Study of Lake Limboto, Indonesia",2024,2024 IEEE International Conference on Aerospace Electronics and Remote Sensing Technology (ICARES),0,1
+1039,"Dual-channel model for shallow water depth retrieval from Worldview-3 imagery a case study of Karimunjawa waters, Central Java, Indonesia",2022,Geodesy and Cartography,0,2
+1040,PEMETAAN HABITAT BENTIK PERAIRAN DANGKAL MENGGUNAKAN WAHANA UAV DI PULAU KARIMUNJAWA PROVINSI JAWA TENGAH,2021,Prosiding Seminar Nasional Perikanan dan Kelautan,0,1
+1041,Cirrus Cloud Correction in Landsat 8 Image Using Combined Image-Based Approach and Various Classification Schemes,2020,2020 6th International Conference on Science and Technology (ICST),0,1
+1042,Bathymetry extraction of empirical models using SPOT 7 satellite imagery,2020,IOP Conference Series: Earth and Environmental Science,0,2
+1043,"Cirrus Cloud Correction in Landsat 8 Image Using the Image-Based Approach: A Case Study in Sumba Island, Indonesia",2018,2018 4th International Conference on Science and Technology (ICST),0,1
+1044,Perbandingan Beberapa Metode Klasifikasi Dasar Laut Menggunakan Data Backscatter Multi-Beam Echosounder,2018,Simposium Infrastruktur Informasi Geospasial 2018,0,1
+1045,Pengadaan Data Spasial untuk Pemodelan Run Up Tsunami di Wilayah Pesisir Kulon Progo,2018,Simposium Infrastruktur Informasi Geospasial 2018,0,1
+1046,Perkembangan Metode Penentuan Kedalaman Menggunakan Citra Satelit,2016,Seminar Nasional 3rd CGISE dan FIT ISI (Forum Ilmiah Tahunan Ikatan Surveyor Indonesia) 2016,0,1
+1047,"Analisis Tingkat Kerawanan Tsunami di Desa Karangsewu, Kecamatan Galur, Kabupaten Kulon Progo",2016,Seminar Nasional 3rd CGISE dan FIT ISI (Forum Ilmiah Tahunan Ikatan Surveyor Indonesia) 2016,0,2
+1048,Pengembangan dan Konstruksi Autonomous Remotely Surface Vessel(AROSSEL) untuk Pemetaan Batimetri Perairan Spesifik,2015,THE 5TH ANNUAL ENGINEEERING SEMINAR (AES 2015),0,3
+1049,Kajian Datum Pasang Surut di Pelabuhan Sadeng dan Kaitannya dengan Keselamatan Pelabuhan,2015,THE 5TH ANNUAL ENGINEEERING SEMINAR (AES 2015),0,2
+1050,"Pengolahan Citra ALOS PALSAR untuk Identifikasi Mangrove sebagai Data Pendukung Pengelolaan Wilayah Pesisir Suaka Margasatwa Sembilang, Sumatera Selatan",2013,Seminar Nasional dan Forum Ilmiah Tahunan Ikatan Surveyor Indonesia 2013 (FIT-ISI 2013),0,1
+1051,KAJIAN PERUBAHAN LAHAN MENGGUNAKAN CITRA ALOS PALSAR DAN LANDSAT 7 ETM+ MODE SLC-OFF UNTUK WILAYAH PESISIR KAB. SEMARANG-DEMAK,2013,SEMINAR NASIONAL TEKNOLOGI TERAPAN (SNTT) 2013,0,2
+1052,"Kajian Perubahan Kawasan Pesisir Menggunakan Citra Radar dan Optik (Studi Kasus Wilayah Pesisir Kabupaten Semarang-Demak, Jawa Tengah)",2013,SEMINAR NASIONAL TEKNOLOGI TERAPAN 2013,0,2
+1053,Beberapa Aspek Penting dalam Pemanfaatan Data Satelit Altimetri untuk Studi Pasang Surut Laut,2011,Forum Ilmiah Tahunan (FIT) 2011I dan Seminar Nasional,0,1
+1054,KALIBRASI ALAT GPS DENGAN METODE UJI PANJANG BASIS,2009,Simposium Nasional Sains Geoinformasi ke-1,0,4
+1055,Pengkajian Kemampuan Gabungan Wild Teodolit TI Dan Leica Distotm Classic Untuk Survei 3 Dimensi,2005,Media Teknik,0,1
+1056,PARAMETER OPTIMAL DALAM PENERAPAN ALGORITMA MULTI-RESOLUTION SEGMENTATION PADA FOTO UDARA UNTUK KLASIFIKASI PENUTUP LAHAN BERBASIS OBJEK,,N/A,0,2
+1057,The use of UAV remote sensing for observing lava dome emplacement and areas of potential lahar hazards: An example from the 2017–2019 eruption crisis at Mount Agung in Bali,2021,Journal of Volcanology and Geothermal Research,25,1
+1058,Lava dome changes detection at Agung mountain during high level of volcanic activity using UAV photogrammetry,2019,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",14,1
+1059,Determination of potential secondary lahar hazard areas based on pre-and post-eruption UAV DEMs: Automatic identification of initial lahar starting points and supplied lahar volume,2022,International Journal of Applied Earth Observation and Geoinformation,9,1
+1060,Perbandingan Perhitungan Volume Stockpile Batu Bara Menggunakan Data Terrestrial Laser Scanner (TLS) dan Data Foto Udara Unmanned Aerial Vehicle (UAV),2017,Jurnal. Yogyakarta: Program Studi Sarjana Teknik Geodesi. Departemen Teknik Geodesi Fakultas Teknik. Universitas Gadjah Mada,9,1
+1061,"Multitemporal UAV photogrammetry for sandbank morphological change analysis: evaluations of camera calibration methods, co-registration strategies, and the reconstructed DSMs",2022,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,6,1
+1062,Landslide deformation monitoring by three-camera imaging system,2019,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",5,1
+1063,Kombinasi Data Laser Scanning dan Fotogrametri Digital Untuk Pemodelan Candi Borobudur,2010,N/A,3,1
+1064,Post-eruption lava dome emplacement measured by UAV photogrammetry: An investigation one year after the 2017–2019 Mt. Agung eruptions,2022,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",2,1
+1065,Kombinasi Data Laser Scanning dan Fotogrametri Digital untuk Pemodelan Tiga Dimensi Candi Borobudur,2010,N/A,2,1
+1066,Pengukuran dan Pemetaan Berbasis Partisipasi Masyarakat untuk Pendaftaran Tanah Sistematik Lengkap,2024,Buku referensi,0,5
+1067,UAV Based Photogrammetry for Cadastral Mapping: an Evaluation of Horizontal Positional Accuracy based on Camera Parameters and Imaging Configuration,2023,The Annual Scientific Forum of Indonesian Surveyor Association (FIT ISI),0,1
+1068,The Combination of Multi-Resolution Segmentation and Machine Learning for Building Footprint and Roof Structure Extraction,2023,International Conf: The Annual Scientific Forum of Indonesian Surveyor Association (FIT ISI) 2023,0,5
+1069,Observations and analysis of Beimen sandbank surface change using multi-temporal UAV datasets,2020,"40th Asian Conference on Remote Sensing: Progress of Remote Sensing Technology for Smart Future, ACRS 2019",0,1

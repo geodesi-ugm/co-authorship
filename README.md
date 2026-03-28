@@ -1,73 +1,50 @@
-# React + TypeScript + Vite
+# Co-Authorship Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive, responsive dashboard for visualizing and analyzing Google Scholar co-authorship networks. This repository consists of a Python-based data cleaning pipeline and a modern React + D3 frontend.
 
-Currently, two official plugins are available:
+## 🗂️ Project Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- `/data_pipeline`: The Python backend utilities. Converts messy, raw Google Scholar JSONs into clean, deduplicated, and graph-ready `nodes.csv` and `edges.csv` files. Extrapolates citation counts and specialities.
+- `/src`: The Vite + React frontend code. Houses all the interactive D3.js layers (`src/components/NetworkGraph.tsx`, etc) and `shadcn/ui` components for an elegant dark-themed interface.
+- `/public/data`: Holds the static CSV datasets read by the dashboard.
 
-## React Compiler
+## 🚀 Quickstart
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. Generating Data
+If you update the raw Scholar `.json` dumps or add new aliases to `/data_pipeline/raw/combined_authors.csv`, re-run the pipeline to clean the data:
 
-## Expanding the ESLint configuration
+```bash
+cd data_pipeline/scripts
+# Clean, link, and export the datasets
+python3 cleanup_data.py
+python3 create_graph_data.py
+python3 verify_cleanup.py
+```
+After successfully running the pipeline, copy the generated `.csv` files from `data_pipeline/processed/` into `/public/data/` for the dashboard to read.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### 2. Running the Dashboard
+The dashboard is built using Vite, React, and Tailwind CSS v3. Ensure you have Node.js installed.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+```bash
+# Return to root directory
+cd ../..
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+# Install required dependencies
+npm install
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+# Start the local development server
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Navigate your browser to `http://localhost:5173/` to view the interactive network graph.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 🛠️ Tech Stack & Key Features
+- **Frontend Environment**: React + TypeScript + Vite.
+- **Visualizations**: Direct `d3.js` DOM manipulation mapped via standard React `useRef` hooks to ensure peak physics performance without rendering bottlenecks.
+  - **Force-Directed Graph**: Drag, pin, pan, and zoom the network. Visual node scaling based on Papers, Citations, or Connections.
+  - **Bar Charts**: Author contribution timelines and top specialities.
+- **Styling**: `tailwindcss` combined with `shadcn/ui` for premium, clean UI elements. Dark mode by default.
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## ⚙️ Modifying the UI
+The network graph visualization physics (charge repulsion, collision radius, and color scheme) can be easily tweaked inside `/src/components/NetworkGraph.tsx`. 
+To add or modify the standard UI elements (Search inputs, filters, tables), see `/src/App.tsx`.
