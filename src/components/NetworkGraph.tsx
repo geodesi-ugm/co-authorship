@@ -102,15 +102,27 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery
         {
           selector: 'edge',
           style: {
-            'width': (ele: any) => 1.5 + Math.sqrt(ele.data('weight')) * 0.5,
+            // Increased thickness scale so connectivity is visually more pronounced.
+            'width': (ele: any) => 2 + Math.sqrt(ele.data('weight')) * 2.5,
             'line-color': '#cbd5e1',
             'curve-style': 'bezier',
             'control-point-step-size': 20,
-            'opacity': 0.35,
+            'opacity': 0.45,
             'overlay-opacity': 0,
             'z-index': 1,
             'transition-property': 'line-color, opacity, width',
             'transition-duration': 250,
+            // Hide edge labels by default; they are shown for highlighted/selected node neighborhoods.
+            'label': '',
+            'font-size': '8px',
+            'text-rotation': 'autorotate',
+            'text-margin-y': -4,
+            'text-background-color': '#f8fafc',
+            'text-background-opacity': 0.7,
+            'text-background-padding': 2,
+            'text-border-color': '#cbd5e1',
+            'text-border-width': 1,
+            'text-border-opacity': 0.8,
           } as any
         },
         {
@@ -129,6 +141,16 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery
             'line-color': '#3b82f6',
             'width': (ele: any) => 2 + Math.sqrt(ele.data('weight')) * 1.5,
             'z-index': 50,
+            'label': 'data(weight)',
+            'font-size': '9px',
+            'text-rotation': 'autorotate',
+            'text-margin-y': -4,
+            'text-background-color': '#f8fafc',
+            'text-background-opacity': 0.9,
+            'text-background-padding': 2,
+            'text-border-color': '#3b82f6',
+            'text-border-width': 1,
+            'text-border-opacity': 1,
           } as any
         },
         {

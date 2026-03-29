@@ -45,6 +45,4 @@ Navigate your browser to `http://localhost:5173/` to view the interactive networ
   - **Bar Charts**: Author contribution timelines and top specialities.
 - **Styling**: `tailwindcss` combined with `shadcn/ui` for premium, clean UI elements. Dark mode by default.
 
-## ⚙️ Modifying the UI
-The network graph visualization physics (charge repulsion, collision radius, and color scheme) can be easily tweaked inside `/src/components/NetworkGraph.tsx`. 
-To add or modify the standard UI elements (Search inputs, filters, tables), see `/src/App.tsx`.
+
