@@ -14,9 +14,10 @@ interface NetworkGraphProps {
   selectedNodeId: string | null;
   searchQuery?: string;
   onNodeClick: (node: Node | null) => void;
+  onNodeHover?: (node: Node | null) => void;
 }
 
-export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery, onNodeClick }: NetworkGraphProps) {
+export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery, onNodeClick, onNodeHover }: NetworkGraphProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const cyRef = useRef<cytoscape.Core | null>(null);
 
@@ -227,7 +228,10 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery
     cy.on('mouseover', 'node', (evt) => {
       const node = evt.target;
       node.addClass('hover');
-      
+      if (onNodeHover) {
+        onNodeHover(node.data() as Node);
+      }
+
       // If something is selected, we don't want hover to completely override it
       // but rather "sub-highlight" within the current context or provide temporary focus
       const neighborhood = node.neighborhood().add(node);
@@ -241,6 +245,9 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery
       const node = evt.target;
       node.removeClass('hover');
       cy.elements().removeClass('hover-highlight').removeClass('hover-faded');
+      if (onNodeHover) {
+        onNodeHover(null);
+      }
     });
 
     return () => {

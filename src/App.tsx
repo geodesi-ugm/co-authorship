@@ -38,6 +38,7 @@ function App() {
   const { data, loading, error } = useDashboardData();
   const [metric, setMetric] = useState<Metric>('paper_count');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
+  const [hoveredCoauthorId, setHoveredCoauthorId] = useState<string | null>(null);
   const [search, setSearch] = useState('');
   const [selectedYear, setSelectedYear] = useState<number | null>(null);
 
@@ -106,6 +107,30 @@ function App() {
       .sort((a, b) => b.weight - a.weight)
       .slice(0, 16);
   }, [data, selectedNodeId]);
+
+  const hoveredCoauthor = useMemo(() => {
+    if (!data || !hoveredCoauthorId) return null;
+    return data.nodes.find(n => n.id === hoveredCoauthorId) || null;
+  }, [data, hoveredCoauthorId]);
+
+  const selectedCoauthoredPapers = useMemo(() => {
+    if (!data || !selectedNodeId || !hoveredCoauthorId) return [];
+
+    const selectedPapers = new Set(
+      data.links.filter(l => l.author_id === selectedNodeId).map(l => l.paper_id)
+    );
+
+    const sharedPapers = new Set(
+      data.links
+        .filter(l => l.author_id === hoveredCoauthorId && selectedPapers.has(l.paper_id))
+        .map(l => l.paper_id)
+    );
+
+    return data.papers
+      .filter(p => sharedPapers.has(p.paper_id))
+      .filter(p => (selectedYear ? p.year === selectedYear : true))
+      .sort((a, b) => (b.year || 0) - (a.year || 0));
+  }, [data, selectedNodeId, hoveredCoauthorId, selectedYear]);
 
   const globalStats = useMemo(() => {
     if (!data) return null;
@@ -258,11 +283,14 @@ function App() {
                     </div>
                     <div>
                       <p className="text-[11px] font-medium uppercase tracking-wider text-muted-foreground mb-2">
-                        Papers {selectedYear ? `in ${selectedYear}` : '(all years)'} · {authorPapers.length}
+                        {hoveredCoauthor
+                          ? `Co-authored papers with ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
+                          : `Papers ${selectedYear ? `in ${selectedYear}` : '(all years)'}`}
+                        · {(hoveredCoauthor ? selectedCoauthoredPapers : authorPapers).length}
                       </p>
                       <ScrollArea className="h-[320px]">
                         <div className="space-y-1 pr-2">
-                          {authorPapers.map(p => (
+                          {(hoveredCoauthor ? selectedCoauthoredPapers : authorPapers).map(p => (
                             <div
                               key={p.paper_id}
                               className="p-2.5 rounded-md hover:bg-accent/60 transition-colors"
@@ -312,7 +340,11 @@ function App() {
                     metric={metric}
                     selectedNodeId={selectedNodeId}
                     searchQuery={search}
-                    onNodeClick={node => setSelectedNodeId(node?.id || null)}
+                    onNodeClick={node => {
+                      setSelectedNodeId(node?.id || null);
+                      setHoveredCoauthorId(null);
+                    }}
+                    onNodeHover={node => setHoveredCoauthorId(node?.id || null)}
                   />
                 </CardContent>
               </Card>
@@ -370,7 +402,10 @@ function App() {
                   <AuthorScatterChart
                     nodes={filteredNodes}
                     selectedNodeId={selectedNodeId}
-                    onNodeClick={node => setSelectedNodeId(node?.id || null)}
+                    onNodeClick={node => {
+                      setSelectedNodeId(node?.id || null);
+                      setHoveredCoauthorId(null);
+                    }}
                   />
                 </CardContent>
               </Card>
@@ -389,7 +424,10 @@ function App() {
                     edges={filteredEdges}
                     metric={metric}
                     selectedNodeId={selectedNodeId}
-                    onNodeClick={node => setSelectedNodeId(node?.id || null)}
+                    onNodeClick={node => {
+                      setSelectedNodeId(node?.id || null);
+                      setHoveredCoauthorId(null);
+                    }}
                   />
                 </CardContent>
               </Card>

@@ -17,9 +17,10 @@ interface AuthorEgoGraphProps {
   coauthors: CoauthorLink[];
   selectedNodeId: string | null;
   onNodeClick: (node: Node | null) => void;
+  onNodeHover?: (node: Node | null) => void;
 }
 
-export function AuthorEgoGraph({ centerNode, coauthors, selectedNodeId, onNodeClick }: AuthorEgoGraphProps) {
+export function AuthorEgoGraph({ centerNode, coauthors, selectedNodeId, onNodeClick, onNodeHover }: AuthorEgoGraphProps) {
   const svgRef = useRef<SVGSVGElement>(null);
 
   useEffect(() => {
@@ -91,7 +92,9 @@ export function AuthorEgoGraph({ centerNode, coauthors, selectedNodeId, onNodeCl
       .attr('class', 'coauthor')
       .attr('transform', d => `translate(${d.x},${d.y})`)
       .style('cursor', 'pointer')
-      .on('click', (event: MouseEvent, d) => { event.stopPropagation(); onNodeClick(d.node); });
+      .on('click', (event: MouseEvent, d) => { event.stopPropagation(); onNodeClick(d.node); })
+      .on('mouseover', (_event: MouseEvent, d) => { if (onNodeHover) onNodeHover(d.node); })
+      .on('mouseout', () => { if (onNodeHover) onNodeHover(null); });
 
     nodesG.append('circle')
       .attr('r', d => coauthorRadius(d.node.citations))
