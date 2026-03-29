@@ -95,9 +95,9 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
             'text-outline-color': '#ffffff',
             'text-outline-width': 1.5,
             'text-wrap': 'ellipsis',
-            'text-max-width': '80px',
+            'text-max-width': '120px',
             'z-index': 10,
-            'transition-property': 'background-color, border-width, border-color, opacity, width, height',
+            'transition-property': 'background-color, border-width, border-color, opacity, width, height, font-size, text-margin-y',
             'transition-duration': 250,
           } as any
         },
@@ -134,6 +134,9 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
             'border-color': '#3b82f6',
             'background-color': '#1d4ed8',
             'z-index': 100,
+            'font-size': '14px',
+            'text-margin-y': 6,
+            'text-outline-width': 2,
           } as any
         },
         {
@@ -197,32 +200,50 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
           style: {
             'border-width': 3,
             'border-color': '#64748b',
+            'font-size': '13px',
+            'text-margin-y': 6,
+            'text-outline-width': 2,
           } as any
         }
       ],
-      layout: {
-        name: 'cose',
-        idealEdgeLength: 180, // larger bone length for more separation
-        nodeOverlap: 20,
-        refresh: 20,
-        fit: true,
-        padding: 40,
-        randomize: true,
-        componentSpacing: 180,
-        nodeRepulsion: 1250000,
-        edgeElasticity: 120,
-        nestingFactor: 5,
-        gravity: 0.75,
-        numIter: 1200,
-        initialTemp: 220,
-        coolingFactor: 0.94,
-        minTemp: 0.8,
-        // positive x- and y-spacing bias by increasing springLength and elasticity
-        // cytoscape cose doesn't have direct horizontal-only bias, but this encourages wider spread
-      } as any
+      layout: undefined
     });
 
     cyRef.current = cy;
+
+    // Establish layout with more spacing and run once.
+    const layout = cy.layout({
+      name: 'cose',
+      idealEdgeLength: 220,
+      nodeOverlap: 30,
+      refresh: 20,
+      fit: true,
+      padding: 40,
+      randomize: true,
+      componentSpacing: 220,
+      nodeRepulsion: 2000000,
+      edgeElasticity: 150,
+      nestingFactor: 5,
+      gravity: 0.75,
+      numIter: 1200,
+      initialTemp: 220,
+      coolingFactor: 0.94,
+      minTemp: 0.8,
+    });
+
+    const horizontalStretch = 1.3;
+    const applyHorizontalStretch = () => {
+      cy.batch(() => {
+        cy.nodes().forEach((node: any) => {
+          const pos = node.position();
+          node.position({ x: pos.x * horizontalStretch, y: pos.y });
+        });
+      });
+      cy.fit(undefined, 40);
+    };
+
+    cy.on('layoutstop', applyHorizontalStretch);
+    layout.run();
 
     const handleResize = () => {
       if (cyRef.current) {
