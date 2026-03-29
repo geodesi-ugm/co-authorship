@@ -1,14 +1,15 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { AdjacencyMatrixChart } from './components/AdjacencyMatrixChart';
 import { useDashboardData } from './hooks/useDashboardData';
 import { AuthorEgoGraph } from './components/AuthorEgoGraph';
 import { AuthorScatterChart } from './components/AuthorScatterChart';
+import { Maximize2Icon, Minimize2Icon, FileText, TrendingUp, Link2, XCircle } from 'lucide-react';
 import { NetworkGraph } from './components/NetworkGraph';
 import { SpecialtyChordChart } from './components/SpecialtyChordChart';
 import { TimelineChart } from './components/TimelineChart';
 import { SpecialtiesChart } from './components/SpecialtiesChart';
 import { Badge } from './components/ui/badge';
-import { Card, CardContent, CardHeader, CardTitle } from './components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle, CardAction } from './components/ui/card';
 import { Input } from './components/ui/input';
 import { ScrollArea } from './components/ui/scroll-area';
 import { Node } from './lib/data';
@@ -44,6 +45,32 @@ function App() {
   const [hoveredPaperAuthorIds, setHoveredPaperAuthorIds] = useState<string[]>([]);
   const [search, setSearch] = useState('');
   const [selectedYear, setSelectedYear] = useState<number | null>(null);
+  const [isNetworkFullscreen, setIsNetworkFullscreen] = useState(false);
+  const networkCardRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const onFullScreenChange = () => {
+      setIsNetworkFullscreen(document.fullscreenElement === networkCardRef.current);
+    };
+
+    document.addEventListener('fullscreenchange', onFullScreenChange);
+    return () => document.removeEventListener('fullscreenchange', onFullScreenChange);
+  }, []);
+
+  const toggleNetworkFullscreen = async () => {
+    const card = networkCardRef.current;
+    if (!card) return;
+
+    try {
+      if (document.fullscreenElement === card) {
+        await document.exitFullscreen();
+      } else {
+        await card.requestFullscreen();
+      }
+    } catch (error) {
+      console.error('Fullscreen toggle failed', error);
+    }
+  };
 
   const selectedNode = useMemo(() => {
     if (!data || !selectedNodeId) return null;
@@ -268,39 +295,6 @@ function App() {
                     </button>
                   )}
                 </div>
-                <div>
-                  <p className="text-xs font-medium text-muted-foreground mb-2">Node size encodes</p>
-                  <div className="flex gap-1">
-                    {METRIC_OPTIONS.map(m => (
-                      <button
-                        key={m.key}
-                        onClick={() => setMetric(m.key)}
-                        className={`px-3 py-1.5 rounded-md text-xs font-medium transition-colors ${
-                          metric === m.key
-                            ? 'bg-primary text-primary-foreground shadow-sm'
-                            : 'text-muted-foreground hover:bg-accent hover:text-foreground'
-                        }`}
-                      >
-                        {m.label}
-                      </button>
-                    ))}
-                  </div>
-                </div>
-                {(selectedYear || search || selectedNodeId) && (
-                  <button
-                    onClick={() => {
-                      setSelectedYear(null);
-                      setSearch('');
-                      setSelectedNodeId(null);
-                    }}
-                    className="w-full text-xs py-1.5 rounded-md border border-dashed border-primary/50 text-primary hover:bg-primary/5 transition-colors font-medium"
-                  >
-                    Clear All Filters
-                  </button>
-                )}
-                <p className="text-[11px] text-muted-foreground leading-relaxed">
-                  Color = dominant specialty. Size = {metricLabel}. Click a year on the timeline to filter. Click a node to inspect.
-                </p>
               </CardContent>
             </Card>
 
@@ -418,21 +412,73 @@ function App() {
           <div className="flex flex-col gap-5">
             {/* Top Row: Network graph & Specialty Chord */}
             <div className="grid gap-5 lg:grid-cols-[1.6fr_1fr]">
-              <Card>
+              <Card ref={networkCardRef} className={isNetworkFullscreen ? 'h-full' : ''}>
                 <CardHeader className="pb-2">
-                  <div className="flex items-center justify-between">
-                    <CardTitle className="text-sm font-medium">
-                      Collaboration Network
-                      {selectedYear && (
-                        <span className="text-muted-foreground font-normal ml-2">· {selectedYear}</span>
-                      )}
-                    </CardTitle>
-                    <span className="text-[11px] text-muted-foreground">
-                      {filteredNodes.length} authors · {filteredEdges.length} links
-                    </span>
+                  <div className="flex items-center justify-between gap-1">
+                    <div>
+                      <CardTitle className="text-sm font-medium">
+                        Collaboration Network
+                        {selectedYear && (
+                          <span className="text-muted-foreground font-normal ml-2">· {selectedYear}</span>
+                        )}
+                      </CardTitle>
+                      {/* <span className="text-[11px] text-muted-foreground">
+                        {filteredNodes.length} authors · {filteredEdges.length} links
+                      </span> */}
+                    </div>
+                    <CardAction>
+                      <button
+                        onClick={toggleNetworkFullscreen}
+                        title={isNetworkFullscreen ? 'Exit full page' : 'Full page'}
+                        className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-border bg-background text-muted-foreground hover:bg-muted hover:text-foreground transition"
+                      >
+                        {isNetworkFullscreen ? (
+                          <Minimize2Icon className="size-4" />
+                        ) : (
+                          <Maximize2Icon className="size-4" />
+                        )}
+                      </button>
+                    </CardAction>
                   </div>
                 </CardHeader>
-                <CardContent className="h-[540px]">
+                <div className="flex flex-wrap items-center justify-between  px-4  text-xs">
+                  <div className="flex items-center gap-1">
+                    <span className="text-muted-foreground">Node size:</span>
+                    {METRIC_OPTIONS.map(m => (
+                      <button
+                        key={m.key}
+                        onClick={() => setMetric(m.key)}
+                        title={`Use ${m.label}`}
+                        className={`inline-flex items-center gap-1 rounded-md border px-2 py-1 text-xs font-medium transition ${
+                          metric === m.key
+                            ? 'border-primary bg-primary text-primary-foreground shadow-sm'
+                            : 'border-border text-muted-foreground hover:border-primary hover:text-foreground hover:bg-muted'
+                        }`}
+                      >
+                        {m.key === 'paper_count' && <FileText className="size-3" />}
+                        {m.key === 'citations' && <TrendingUp className="size-3" />}
+                        {m.key === 'degree' && <Link2 className="size-3" />}
+                        <span className="sm:inline hidden">{m.label}</span>
+                      </button>
+                    ))}
+                  </div>
+                  <button
+                    onClick={() => {
+                      setSelectedYear(null);
+                      setSearch('');
+                      setSelectedNodeId(null);
+                    }}
+                    className="inline-flex items-center gap-1 rounded-md border border-dashed border-primary/50 px-2 py-1 text-xs font-medium text-primary hover:bg-primary/5 transition"
+                    title="Clear all filters"
+                  >
+                    <XCircle className="size-3" />
+                    <span className="sm:inline hidden">Clear</span>
+                  </button>
+                </div>
+                {/* <div className="px-4 pt-2 text-[11px] text-muted-foreground">
+                  Color = dominant specialty. Size = {metricLabel}. Click a year on the timeline to filter. Click a node to inspect.
+                </div> */}
+                <CardContent className={isNetworkFullscreen ? 'h-full' : 'h-[540px]'}>
                   <NetworkGraph
                     nodes={filteredNodes}
                     edges={filteredEdges}
