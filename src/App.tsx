@@ -247,13 +247,16 @@ function App() {
       {/* ── Header ── */}
       <header className="border-b bg-card px-6 py-4">
         <div className="max-w-[1920px] mx-auto flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
-          <div>
-            <h1 className="text-xl font-semibold tracking-tight text-foreground">
-              Co-Authorship Network
-            </h1>
-            <p className="text-sm text-muted-foreground mt-0.5">
-              Explore collaboration patterns, specialties, and publication dynamics
-            </p>
+          <div className="flex items-start gap-3">
+            <img src="/logo.jpg" alt="Logo" className="h-10 w-10 object-contain shrink-0" />
+            <div>
+              <h1 className="text-xl font-semibold tracking-tight text-foreground leading-tight">
+                Co-Authorship Network
+              </h1>
+              <p className="text-sm text-muted-foreground mt-0.5">
+                Explore collaboration patterns, specialties, and publication dynamics within Geodesi UGM Lecturers.
+              </p>
+            </div>
           </div>
           <div className="flex items-center gap-6 text-sm">
             <Stat label="Authors" value={globalStats?.authors ?? 0} />
