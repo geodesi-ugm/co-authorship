@@ -77,7 +77,7 @@ function App() {
     return data.papers
       .filter(p => paperIds.has(p.paper_id))
       .filter(p => (selectedYear ? p.year === selectedYear : true))
-      .sort((a, b) => (b.year || 0) - (a.year || 0));
+      .sort((a, b) => (b.cited_by || 0) - (a.cited_by || 0));
   }, [data, selectedNodeId, selectedYear]);
 
   const filteredNodes = useMemo(() => {
@@ -120,8 +120,12 @@ function App() {
     return data.nodes.find(n => n.id === hoveredCoauthorId) || null;
   }, [data, hoveredCoauthorId]);
 
+  const hoveredAuthorIsDifferent = Boolean(
+    selectedNodeId && hoveredCoauthorId && selectedNodeId !== hoveredCoauthorId
+  );
+
   const selectedCoauthoredPapers = useMemo(() => {
-    if (!data || !selectedNodeId || !hoveredCoauthorId) return [];
+    if (!data || !selectedNodeId || !hoveredCoauthorId || selectedNodeId === hoveredCoauthorId) return [];
 
     const selectedPapers = new Set(
       data.links.filter(l => l.author_id === selectedNodeId).map(l => l.paper_id)
@@ -139,8 +143,30 @@ function App() {
       .sort((a, b) => (b.year || 0) - (a.year || 0));
   }, [data, selectedNodeId, hoveredCoauthorId, selectedYear]);
 
-  const paperMode = hoveredCoauthor ? 'Co-authored' : selectedNode ? 'Author' : 'All';
-  const displayedPapers = hoveredCoauthor ? selectedCoauthoredPapers : selectedNode ? authorPapers : allPapers;
+  const hoveredAuthorPapers = useMemo(() => {
+    if (!data || !hoveredCoauthorId) return [];
+    const paperIds = new Set(data.links.filter(l => l.author_id === hoveredCoauthorId).map(l => l.paper_id));
+    return data.papers
+      .filter(p => paperIds.has(p.paper_id))
+      .filter(p => (selectedYear ? p.year === selectedYear : true))
+      .sort((a, b) => (b.year || 0) - (a.year || 0));
+  }, [data, hoveredCoauthorId, selectedYear]);
+
+  const paperMode = hoveredAuthorIsDifferent
+    ? 'Co-authored'
+    : hoveredCoauthor
+      ? 'Author'
+      : selectedNode
+        ? 'Author'
+        : 'All';
+
+  const displayedPapers = hoveredAuthorIsDifferent
+    ? selectedCoauthoredPapers
+    : hoveredCoauthor
+      ? hoveredAuthorPapers
+      : selectedNode
+        ? authorPapers
+        : allPapers;
 
   const globalStats = useMemo(() => {
     if (!data) return null;
@@ -323,11 +349,13 @@ function App() {
                 <ScrollArea className="h-full min-h-0 overflow-auto">
                   <div className="space-y-2">
                     <p className="text-[11px] text-muted-foreground uppercase tracking-wider">
-                      {hoveredCoauthor
+                      {hoveredAuthorIsDifferent && hoveredCoauthor
                         ? `Co-authored papers with ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
-                        : selectedNode
-                          ? `Papers by ${selectedNode.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
-                          : `All papers ${selectedYear ? `in ${selectedYear}` : '(all years)'}`}
+                        : hoveredCoauthor
+                          ? `Papers by ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
+                          : selectedNode
+                            ? `Papers by ${selectedNode.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
+                            : `All papers ${selectedYear ? `in ${selectedYear}` : '(all years)'}`}
                       · {displayedPapers.length}
                     </p>
                     {displayedPapers.map(p => (
