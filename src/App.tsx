@@ -64,6 +64,13 @@ function App() {
     return map;
   }, [data, papersById]);
 
+  const allPapers = useMemo(() => {
+    if (!data) return [];
+    return data.papers
+      .filter(p => (selectedYear ? p.year === selectedYear : true))
+      .sort((a, b) => (b.cited_by || 0) - (a.cited_by || 0));
+  }, [data, selectedYear]);
+
   const authorPapers = useMemo(() => {
     if (!data || !selectedNodeId) return [];
     const paperIds = new Set(data.links.filter(l => l.author_id === selectedNodeId).map(l => l.paper_id));
@@ -132,6 +139,9 @@ function App() {
       .sort((a, b) => (b.year || 0) - (a.year || 0));
   }, [data, selectedNodeId, hoveredCoauthorId, selectedYear]);
 
+  const paperMode = hoveredCoauthor ? 'Co-authored' : selectedNode ? 'Author' : 'All';
+  const displayedPapers = hoveredCoauthor ? selectedCoauthoredPapers : selectedNode ? authorPapers : allPapers;
+
   const globalStats = useMemo(() => {
     if (!data) return null;
     const scopedPapers = selectedYear
@@ -191,10 +201,10 @@ function App() {
         </div>
       </header>
 
-      <div className="max-w-[1920px] mx-auto p-4 lg:p-6">
-        <div className="grid gap-5 lg:grid-cols-[300px_1fr]">
+      <div className="max-w-[1920px] mx-auto p-4 lg:p-6 h-[calc(100vh-106px)] min-h-[calc(100vh-106px)]">
+        <div className="grid gap-5 lg:grid-cols-[300px_1fr] lg:items-start h-full">
           {/* ── Left sidebar ── */}
-          <aside className="flex flex-col gap-4">
+          <aside className="flex flex-col gap-4 h-full min-h-0 overflow-hidden">
             {/* Filters */}
             <Card>
               <CardHeader className="pb-3">
@@ -256,19 +266,28 @@ function App() {
             </Card>
 
             {/* Author detail */}
-            <Card className="flex-1 min-h-[400px]">
+            <Card className="h-[280px]">
               <CardHeader className="pb-3">
                 <CardTitle className="text-sm font-medium">
                   {selectedNode ? selectedNode.name : 'Author Detail'}
                 </CardTitle>
               </CardHeader>
-              <CardContent>
+              <CardContent className="h-full overflow-hidden">
                 {selectedNode ? (
                   <div className="space-y-4">
+                    <div className="flex items-center gap-3">
+                      <div className="h-16 w-16 rounded-full bg-muted/40 flex items-center justify-center text-xs text-muted-foreground">
+                        Photo
+                      </div>
+                      <div className="space-y-1">
+                        <div className="text-xs text-muted-foreground">Papers</div>
+                        <div className="text-lg font-semibold tabular-nums">{selectedNode.paper_count}</div>
+                      </div>
+                    </div>
                     <div className="grid grid-cols-3 gap-2">
-                      <MiniStat label="Papers" value={selectedNode.paper_count} />
                       <MiniStat label="Citations" value={selectedNode.citations} />
                       <MiniStat label="Degree" value={selectedNode.degree ?? 0} />
+                      <MiniStat label="Specialties" value={parseSpecialities(selectedNode.specialities).length} />
                     </div>
                     <div className="flex flex-wrap gap-1.5">
                       {parseSpecialities(selectedNode.specialities).slice(0, 6).map(spec => (
@@ -281,36 +300,55 @@ function App() {
                         </Badge>
                       ))}
                     </div>
-                    <div>
-                      <p className="text-[11px] font-medium uppercase tracking-wider text-muted-foreground mb-2">
-                        {hoveredCoauthor
-                          ? `Co-authored papers with ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
-                          : `Papers ${selectedYear ? `in ${selectedYear}` : '(all years)'}`}
-                        · {(hoveredCoauthor ? selectedCoauthoredPapers : authorPapers).length}
-                      </p>
-                      <ScrollArea className="h-[320px]">
-                        <div className="space-y-1 pr-2">
-                          {(hoveredCoauthor ? selectedCoauthoredPapers : authorPapers).map(p => (
-                            <div
-                              key={p.paper_id}
-                              className="p-2.5 rounded-md hover:bg-accent/60 transition-colors"
-                            >
-                              <p className="text-sm leading-snug line-clamp-2">{p.title}</p>
-                              <div className="flex justify-between text-[11px] text-muted-foreground mt-1">
-                                <span>{p.year || 'Unknown'}</span>
-                                <span>{p.cited_by} cit.</span>
-                              </div>
-                            </div>
-                          ))}
-                        </div>
-                      </ScrollArea>
-                    </div>
                   </div>
                 ) : (
                   <div className="flex items-center justify-center h-48 text-sm text-muted-foreground border border-dashed rounded-md">
                     Select an author from the graph
                   </div>
                 )}
+              </CardContent>
+            </Card>
+
+            {/* Papers list (global / selected author / co-authored) */}
+            <Card className="flex-1 min-h-0 overflow-hidden">
+              <CardHeader className="pb-3">
+                <div className="flex items-center justify-between gap-2">
+                  <CardTitle className="text-sm font-medium">Papers</CardTitle>
+                  <span className="rounded-full px-2 py-1 text-[10px] font-semibold bg-accent/30 text-accent-foreground">
+                    {paperMode}
+                  </span>
+                </div>
+              </CardHeader>
+              <CardContent className="h-full min-h-0 overflow-hidden">
+                <ScrollArea className="h-full min-h-0 overflow-auto">
+                  <div className="space-y-2">
+                    <p className="text-[11px] text-muted-foreground uppercase tracking-wider">
+                      {hoveredCoauthor
+                        ? `Co-authored papers with ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
+                        : selectedNode
+                          ? `Papers by ${selectedNode.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
+                          : `All papers ${selectedYear ? `in ${selectedYear}` : '(all years)'}`}
+                      · {displayedPapers.length}
+                    </p>
+                    {displayedPapers.map(p => (
+                      <div
+                        key={p.paper_id}
+                        className="p-2.5 rounded-md hover:bg-accent/60 transition-colors"
+                      >
+                        <p className="text-sm leading-snug line-clamp-2">{p.title}</p>
+                        <div className="flex justify-between text-[11px] text-muted-foreground mt-1">
+                          <span>{p.year || 'Unknown'}</span>
+                          <span>{p.cited_by} cit.</span>
+                        </div>
+                      </div>
+                    ))}
+                    {!displayedPapers.length && (
+                      <div className="text-center text-sm text-muted-foreground py-8">
+                        No papers available.
+                      </div>
+                    )}
+                  </div>
+                </ScrollArea>
               </CardContent>
             </Card>
           </aside>
