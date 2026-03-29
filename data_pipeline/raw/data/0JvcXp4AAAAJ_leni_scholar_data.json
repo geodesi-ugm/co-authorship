@@ -1074,7 +1074,7 @@
         "abstract": "Land subsidence is commonly observed along the coastal regions of Java Island, particularly in the northern part of Central Java. This phenomenon often contributes to the intensification of coastal flooding. Subsidence rates are influenced by multiple factors, which might also relate to tectonic movements associated with active fault structures. In this study, we investigate the contribution of active fault-induced deformation to land subsidence in northern coastal cities of Central Java. We modeled the surface displacements resulting from active faults using the elastic half-space approach. We analyzed geodetic data from Continuously Operating Reference Stations (CORS) situated along the northern coast, covering the period from 2015 to 2019. The analysis revealed notable land subsidence at Pekalongan and Tegal, with annual rates of −122.54 mm/year and −11.04 mm/year, respectively. Statistical testing of …"
     },
     {
-        "title": "Geodesy and Geodynamics",
+        "title": "Strain accumulation in the Mentawai Forearc Sliver, Indonesia, inferred from continuous GNSS-derived strain rate",
         "authors": [
             "Leni Sophia Heliani",
             "Bilal Ma'ruf",
@@ -1178,7 +1178,7 @@
         "publication_date": "2022/7/29"
     },
     {
-        "title": "Geodesy and Geodynamics",
+        "title": "Anomaly detection on displacement rates and deformation pattern features using tree-based algorithm in Japan and Indonesia",
         "authors": [
             "Adi Wibowo",
             "Satriawan Rasyid Purnama",
@@ -1189,7 +1189,7 @@
         ],
         "cited_by": "",
         "year": "2022",
-        "venue": "N/A",
+        "venue": "Geodesy and Geodynamics",
         "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0JvcXp4AAAAJ&cstart=20&pagesize=80&citation_for_view=0JvcXp4AAAAJ:nrtMV_XWKgEC",
         "publication_date": "2022",
         "abstract": "Research on strain anomalies and large earthquakes based on temporal and spatial crustal activities has been rapidly growing due to data availability, especially in Japan and Indonesia. However, many research works used local-scale case studies that focused on a specific earthquake characteristic using knowledgedriven techniques, such as crustal deformation analysis. In this study, a data-driven-based analysis is used to detect anomalies using displacement rates and deformation pattern features extracted from daily global navigation satellite system (GNSS) data using a machine learning algorithm. The GNSS data with 188 and 1181 continuously operating reference stations from Indonesia and Japan, respectively, are used to identify the anomaly of recent major earthquakes in the last two decades. Feature displacement rates and deformation patterns are processed in several window times with 2560 experiment scenarios to produce the best detection using tree-based algorithms. Tree-based algorithms with a single estimator (decision tree), ensemble bagging (bagging, random forest and Extra Trees), and ensemble boosting (AdaBoost, gradient boosting, LGBM, and XGB) are applied in the study. The experiment test using realtime scenario GNSSdailydatareveals high F1-scores and accuracy for anomaly detection using slope windowing 365 and 730 days of 91-day displacement rates and then 7-day deformation pattern features in tree-based algorithms. The results show the potential for medium-term anomaly detection using GNSS data without the need for multiple vulnerability assessments.© 2022 Editorial office of Geodesy and …",
@@ -1512,7 +1512,7 @@
         ],
         "cited_by": "",
         "year": "2003",
-        "venue": "N/A",
+        "venue": "2001 Japan Earth and Planetary Science Joint Meeting ",
         "citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0JvcXp4AAAAJ&cstart=20&pagesize=80&citation_for_view=0JvcXp4AAAAJ:Se3iqnhoufwC",
         "publication_date": "2003/3/24",
         "abstract": "A practice of disaster mitigation education program by using the study contents of high school geography: a case study on flood risks in the vicinity of the school district Akio MURANAKA (Hokkai-Gakuen Univ.)* and Go TANIBATA (Graduate student, Ritsumeikan Univ.",

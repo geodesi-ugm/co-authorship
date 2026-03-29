@@ -312,8 +312,17 @@ function App() {
                 {selectedNode ? (
                   <div className="space-y-4">
                     <div className="flex items-center gap-3">
-                      <div className="h-16 w-16 rounded-full bg-muted/40 flex items-center justify-center text-xs text-muted-foreground">
-                        Photo
+                      <div className="h-16 w-16 rounded-full bg-muted/40 overflow-hidden flex items-center justify-center">
+                        <img
+                          src={`/img/${selectedNode.id}.webp`}
+                          alt={`Photo of ${selectedNode.name}`}
+                          className="h-full w-full object-cover"
+                          onError={(event) => {
+                            const img = event.currentTarget;
+                            img.onerror = null;
+                            img.src = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22%23cbd5e1%22/%3E%3Ctext x=%2250%22 y=%2255%22 font-size=%2210%22 text-anchor=%22middle%22 fill=%22%23626c7a%22%3ENo photo%3C/text%3E%3C/svg%3E';
+                          }}
+                        />
                       </div>
                       <div className="space-y-1">
                         <div className="text-xs text-muted-foreground">Papers</div>
@@ -419,7 +428,7 @@ function App() {
                 <CardHeader className="pb-2">
                   <div className="flex items-center justify-between gap-1">
                     <div>
-                      <CardTitle className="text-sm font-medium">
+                      <CardTitle className="text-base sm:text-lg font-semibold">
                         Collaboration Network
                         {selectedYear && (
                           <span className="text-muted-foreground font-normal ml-2">· {selectedYear}</span>

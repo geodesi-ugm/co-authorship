@@ -80,22 +80,22 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
             'label': 'data(label)',
             'width': (ele: any) => {
               const val = ele.data('metricValue');
-              return 8 + Math.sqrt(val) * 4;
+              return 10 + Math.sqrt(val) * 5;
             },
             'height': (ele: any) => {
               const val = ele.data('metricValue');
-              return 8 + Math.sqrt(val) * 4;
+              return 10 + Math.sqrt(val) * 5;
             },
-            'font-size': '10px',
+            'font-size': '14px',
             'color': '#334155',
             'text-valign': 'bottom',
-            'text-margin-y': 4,
+            'text-margin-y': 8,
             'border-width': 1.5,
             'border-color': '#ffffff',
             'text-outline-color': '#ffffff',
             'text-outline-width': 1.5,
-            'text-wrap': 'ellipsis',
-            'text-max-width': '120px',
+            'text-wrap': 'wrap',
+            'text-max-width': '170px',
             'z-index': 10,
             'transition-property': 'background-color, border-width, border-color, opacity, width, height, font-size, text-margin-y',
             'transition-duration': 250,
@@ -134,8 +134,8 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
             'border-color': '#3b82f6',
             'background-color': '#1d4ed8',
             'z-index': 100,
-            'font-size': '14px',
-            'text-margin-y': 6,
+            'font-size': '18px',
+            'text-margin-y': 10,
             'text-outline-width': 2,
           } as any
         },
@@ -147,7 +147,7 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
             'width': (ele: any) => 2 + Math.sqrt(ele.data('weight')) * 1.5,
             'z-index': 50,
             'label': 'data(weight)',
-            'font-size': '9px',
+            'font-size': '12px',
             'text-rotation': 'autorotate',
             'text-margin-y': -4,
             'text-background-color': '#f8fafc',
@@ -200,8 +200,8 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
           style: {
             'border-width': 3,
             'border-color': '#64748b',
-            'font-size': '13px',
-            'text-margin-y': 6,
+            'font-size': '17px',
+            'text-margin-y': 10,
             'text-outline-width': 2,
           } as any
         }
