@@ -39,6 +39,9 @@ function App() {
   const [metric, setMetric] = useState<Metric>('paper_count');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [hoveredCoauthorId, setHoveredCoauthorId] = useState<string | null>(null);
+  const [hoveredPaperId, setHoveredPaperId] = useState<string | null>(null);
+  const [selectedPaperId, setSelectedPaperId] = useState<string | null>(null);
+  const [hoveredPaperAuthorIds, setHoveredPaperAuthorIds] = useState<string[]>([]);
   const [search, setSearch] = useState('');
   const [selectedYear, setSelectedYear] = useState<number | null>(null);
 
@@ -96,6 +99,16 @@ function App() {
     const visibleIds = new Set(filteredNodes.map(n => n.id));
     return data.edges.filter(e => visibleIds.has(getEdgeNodeId(e.source)) && visibleIds.has(getEdgeNodeId(e.target)));
   }, [data, filteredNodes]);
+
+  const paperAuthorMap = useMemo(() => {
+    if (!data) return new Map<string, string[]>();
+    const map = new Map<string, string[]>();
+    for (const link of data.links) {
+      if (!map.has(link.paper_id)) map.set(link.paper_id, []);
+      map.get(link.paper_id)!.push(link.author_id);
+    }
+    return map;
+  }, [data]);
 
   const selectedNodeCoauthors = useMemo(() => {
     if (!data || !selectedNodeId) return [];
@@ -358,18 +371,38 @@ function App() {
                             : `All papers ${selectedYear ? `in ${selectedYear}` : '(all years)'}`}
                       · {displayedPapers.length}
                     </p>
-                    {displayedPapers.map(p => (
-                      <div
-                        key={p.paper_id}
-                        className="p-2.5 rounded-md hover:bg-accent/60 transition-colors"
-                      >
-                        <p className="text-sm leading-snug line-clamp-2">{p.title}</p>
-                        <div className="flex justify-between text-[11px] text-muted-foreground mt-1">
-                          <span>{p.year || 'Unknown'}</span>
-                          <span>{p.cited_by} cit.</span>
+                    {displayedPapers.map(p => {
+                      const paperAuthors = paperAuthorMap.get(p.paper_id) || [];
+                      const isHovered = hoveredPaperId === p.paper_id;
+                      const isSelected = selectedPaperId === p.paper_id;
+
+                      return (
+                        <div
+                          key={p.paper_id}
+                          className={`p-2.5 rounded-md transition-colors cursor-pointer ${isSelected ? 'bg-primary/20' : ''} ${isHovered ? 'bg-primary/10' : ''}`}
+                          onMouseEnter={() => {
+                            setHoveredPaperId(p.paper_id);
+                            setHoveredPaperAuthorIds(paperAuthors);
+                          }}
+                          onMouseLeave={() => {
+                            setHoveredPaperId(null);
+                            setHoveredPaperAuthorIds([]);
+                          }}
+                          onClick={() => {
+                            setSelectedPaperId(p.paper_id);
+                            if (paperAuthors.length > 0) {
+                              setSelectedNodeId(paperAuthors[0]);
+                            }
+                          }}
+                        >
+                          <p className="text-sm leading-snug line-clamp-2">{p.title}</p>
+                          <div className="flex justify-between text-[11px] text-muted-foreground mt-1">
+                            <span>{p.year || 'Unknown'}</span>
+                            <span>{p.cited_by} cit.</span>
+                          </div>
                         </div>
-                      </div>
-                    ))}
+                      );
+                    })}
                     {!displayedPapers.length && (
                       <div className="text-center text-sm text-muted-foreground py-8">
                         No papers available.
@@ -405,10 +438,12 @@ function App() {
                     edges={filteredEdges}
                     metric={metric}
                     selectedNodeId={selectedNodeId}
+                    hoveredNodeIds={hoveredPaperAuthorIds}
                     searchQuery={search}
                     onNodeClick={node => {
                       setSelectedNodeId(node?.id || null);
                       setHoveredCoauthorId(null);
+                      setSelectedPaperId(null);
                     }}
                     onNodeHover={node => setHoveredCoauthorId(node?.id || null)}
                   />

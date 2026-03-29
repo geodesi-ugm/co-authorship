@@ -12,12 +12,13 @@ interface NetworkGraphProps {
   edges: Edge[];
   metric: 'paper_count' | 'citations' | 'degree';
   selectedNodeId: string | null;
+  hoveredNodeIds?: string[];
   searchQuery?: string;
   onNodeClick: (node: Node | null) => void;
   onNodeHover?: (node: Node | null) => void;
 }
 
-export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery, onNodeClick, onNodeHover }: NetworkGraphProps) {
+export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNodeIds, searchQuery, onNodeClick, onNodeHover }: NetworkGraphProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const cyRef = useRef<cytoscape.Core | null>(null);
 
@@ -173,6 +174,22 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery
           selector: '.hover-faded',
           style: {
             'opacity': 0.15,
+          } as any
+        },
+        {
+          selector: '.external-hover',
+          style: {
+            'border-width': 3,
+            'border-color': '#f59e0b',
+            'background-color': '#fcd34d',
+            'opacity': 1,
+            'z-index': 150,
+          } as any
+        },
+        {
+          selector: '.external-faded',
+          style: {
+            'opacity': 0.2,
           } as any
         },
         {
@@ -344,6 +361,21 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery
       });
     }
   }, [selectedNodeId, searchQuery]);
+
+  useEffect(() => {
+    const cy = cyRef.current;
+    if (!cy) return;
+
+    cy.nodes().removeClass('external-hover').removeClass('external-faded');
+    if (hoveredNodeIds && hoveredNodeIds.length > 0) {
+      const hovered = cy.nodes().filter(n => hoveredNodeIds.includes(n.id()));
+      const neighborhood = hovered.neighborhood().add(hovered);
+      cy.elements().not(neighborhood).addClass('external-faded');
+      hovered.addClass('external-hover');
+    } else {
+      cy.elements().removeClass('external-faded');
+    }
+  }, [hoveredNodeIds]);
 
   return (
     <div className="w-full h-full relative rounded-md overflow-hidden border border-border bg-muted/30">
