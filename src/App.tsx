@@ -491,7 +491,11 @@ function App() {
                   <CardTitle className="text-sm font-medium">Specialty Landscape</CardTitle>
                 </CardHeader>
                 <CardContent className="h-[340px]">
-                  <SpecialtiesChart nodes={filteredNodes} />
+                  <SpecialtiesChart
+                    nodes={filteredNodes}
+                    selectedSpecialty={search}
+                    onSpecialtyClick={specialty => setSearch(specialty)}
+                  />
                 </CardContent>
               </Card>
 
