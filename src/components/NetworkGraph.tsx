@@ -185,21 +185,23 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, searchQuery
       ],
       layout: {
         name: 'cose',
-        idealEdgeLength: 100,
-        nodeOverlap: 40,
+        idealEdgeLength: 180, // larger bone length for more separation
+        nodeOverlap: 20,
         refresh: 20,
         fit: true,
         padding: 40,
         randomize: true,
-        componentSpacing: 100,
-        nodeRepulsion: 800000,
-        edgeElasticity: 100,
+        componentSpacing: 180,
+        nodeRepulsion: 1250000,
+        edgeElasticity: 120,
         nestingFactor: 5,
-        gravity: 1,
-        numIter: 1000,
-        initialTemp: 200,
-        coolingFactor: 0.95,
-        minTemp: 1.0
+        gravity: 0.75,
+        numIter: 1200,
+        initialTemp: 220,
+        coolingFactor: 0.94,
+        minTemp: 0.8,
+        // positive x- and y-spacing bias by increasing springLength and elasticity
+        // cytoscape cose doesn't have direct horizontal-only bias, but this encourages wider spread
       } as any
     });
 
