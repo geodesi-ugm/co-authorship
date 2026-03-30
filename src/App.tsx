@@ -164,6 +164,14 @@ function App() {
     selectedNodeId && hoveredCoauthorId && selectedNodeId !== hoveredCoauthorId
   );
 
+  const selectedCoauthorEdge = useMemo(() => {
+    if (!data || !selectedNodeId || !hoveredCoauthorId || selectedNodeId === hoveredCoauthorId) return null;
+    return selectedNodeCoauthors.find(item => item.node.id === hoveredCoauthorId) || null;
+  }, [selectedNodeCoauthors, selectedNodeId, hoveredCoauthorId]);
+
+  const detailNode = hoveredAuthorIsDifferent && hoveredCoauthor ? hoveredCoauthor : selectedNode;
+  const showCollaboratorPreview = hoveredAuthorIsDifferent && selectedNode && hoveredCoauthor;
+
   const selectedCoauthoredPapers = useMemo(() => {
     if (!data || !selectedNodeId || !hoveredCoauthorId || selectedNodeId === hoveredCoauthorId) return [];
 
@@ -182,6 +190,8 @@ function App() {
       .filter(p => (selectedYear ? p.year === selectedYear : true))
       .sort((a, b) => (b.year || 0) - (a.year || 0));
   }, [data, selectedNodeId, hoveredCoauthorId, selectedYear]);
+
+  const collabPaperCount = selectedCoauthorEdge?.weight ?? selectedCoauthoredPapers.length;
 
   const hoveredAuthorPapers = useMemo(() => {
     if (!data || !hoveredCoauthorId) return [];
@@ -314,8 +324,8 @@ function App() {
                     <div className="flex items-center gap-3">
                       <div className="h-16 w-16 rounded-full bg-muted/40 overflow-hidden flex items-center justify-center">
                         <img
-                          src={`/img/${selectedNode.id}.webp`}
-                          alt={`Photo of ${selectedNode.name}`}
+                          src={`/img/${detailNode?.id}.webp`}
+                          alt={`Photo of ${detailNode?.name}`}
                           className="h-full w-full object-cover"
                           onError={(event) => {
                             const img = event.currentTarget;
@@ -324,27 +334,51 @@ function App() {
                           }}
                         />
                       </div>
+                      {!showCollaboratorPreview && (
+                        <div className="space-y-1">
+                          <div className="text-xs text-muted-foreground">Papers</div>
+                          <div className="text-lg font-semibold tabular-nums">{selectedNode.paper_count}</div>
+                        </div>
+                      )}
                       <div className="space-y-1">
-                        <div className="text-xs text-muted-foreground">Papers</div>
-                        <div className="text-lg font-semibold tabular-nums">{selectedNode.paper_count}</div>
+                        <div className="text-xs text-muted-foreground">{showCollaboratorPreview ? 'Collaborator' : 'Main author'}</div>
+                        <div className="text-sm font-medium">{detailNode?.name}</div>
                       </div>
                     </div>
-                    <div className="grid grid-cols-3 gap-2">
-                      <MiniStat label="Citations" value={selectedNode.citations} />
-                      <MiniStat label="Degree" value={selectedNode.degree ?? 0} />
-                      <MiniStat label="Specialties" value={parseSpecialities(selectedNode.specialities).length} />
+
+                    {showCollaboratorPreview && selectedNode && hoveredCoauthor && (
+                      <div className="py-1">
+                        <div className="flex items-center justify-between text-[11px] text-muted-foreground mb-1">
+                          <span>{selectedNode.name}</span>
+                          <span>{hoveredCoauthor.name}</span>
+                        </div>
+                        <div className="relative h-7">
+                          <div className="absolute inset-x-0 top-1/2 h-[1px] bg-border" />
+                          <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 bg-background px-2 text-[11px] text-muted-foreground border border-border rounded-full">
+                            {collabPaperCount} shared paper{collabPaperCount === 1 ? '' : 's'}
+                          </div>
+                        </div>
+                      </div>
+                    )}
+
+                    <div className="grid grid-cols-2 gap-2">
+                      <MiniStat label="Citations" value={detailNode?.citations ?? 0} />
+                      <MiniStat label="Degree" value={detailNode?.degree ?? 0} />
                     </div>
-                    <div className="flex flex-wrap gap-1.5">
-                      {parseSpecialities(selectedNode.specialities).slice(0, 6).map(spec => (
-                        <Badge
-                          key={spec}
-                          variant="secondary"
-                          className="text-[11px] font-normal"
-                        >
-                          {spec}
-                        </Badge>
-                      ))}
-                    </div>
+
+                    {!showCollaboratorPreview && (
+                      <div className="flex flex-wrap gap-1.5">
+                        {parseSpecialities(selectedNode.specialities).slice(0, 6).map(spec => (
+                          <Badge
+                            key={spec}
+                            variant="secondary"
+                            className="text-[11px] font-normal"
+                          >
+                            {spec}
+                          </Badge>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 ) : (
                   <div className="flex items-center justify-center h-48 text-sm text-muted-foreground border border-dashed rounded-md">
