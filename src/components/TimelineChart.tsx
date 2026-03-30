@@ -91,16 +91,6 @@ export function TimelineChart({ papers, selectedYear, onYearSelect }: TimelineCh
       .style('cursor', 'crosshair')
       .lower();
 
-    const hoverLine = g.append('line')
-      .attr('class', 'timeline-hover-line')
-      .attr('x1', 0).attr('x2', 0)
-      .attr('y1', innerHeight).attr('y2', innerHeight)
-      .attr('stroke', '#1e3a8a')
-      .attr('stroke-width', 1)
-      .attr('pointer-events', 'none')
-      .style('opacity', 0)
-      .raise();
-
     const focusCircle = g.append('circle')
       .attr('class', 'timeline-focus-circle')
       .attr('r', 5)
@@ -144,12 +134,10 @@ export function TimelineChart({ papers, selectedYear, onYearSelect }: TimelineCh
 
     overlay
       .on('mouseover', () => {
-        hoverLine.style('opacity', 1);
         focusCircle.style('opacity', 1);
         tooltipGroup.style('opacity', 1);
       })
       .on('mouseout', () => {
-        hoverLine.style('opacity', 0);
         focusCircle.style('opacity', 0);
         tooltipGroup.style('opacity', 0);
       })
@@ -163,12 +151,6 @@ export function TimelineChart({ papers, selectedYear, onYearSelect }: TimelineCh
 
         const xPos = x(d.year);
         const yPos = y(d.papers);
-
-        hoverLine
-          .attr('x1', xPos)
-          .attr('x2', xPos)
-          .attr('y1', yPos)
-          .attr('y2', innerHeight);
 
         focusCircle
           .attr('cx', xPos)
