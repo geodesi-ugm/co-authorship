@@ -41,8 +41,11 @@ export interface DashboardData {
   links: PaperLink[];
 }
 
-const dataUrl = (file: string) =>
-  new URL(`data/${file}`, import.meta.env.BASE_URL).toString()
+const dataBaseUrl = import.meta.env.BASE_URL || '/'
+const dataUrl = (file: string) => {
+  const base = dataBaseUrl.endsWith('/') ? dataBaseUrl : `${dataBaseUrl}/`
+  return new URL(`data/${file}`, base).toString()
+}
 
 export async function fetchDashboardData(): Promise<DashboardData> {
   const [rawNodes, rawEdges, rawPapers, rawLinks] = await Promise.all([
