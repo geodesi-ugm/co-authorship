@@ -35,6 +35,13 @@ function getEdgeNodeId(value: string | Node) {
   return typeof value === 'string' ? value : value.id;
 }
 
+const baseUrl = import.meta.env.BASE_URL || '/'
+const getAssetUrl = (path: string) => {
+  const base = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`
+  const cleanPath = path.startsWith('/') ? path.slice(1) : path
+  return `${base}${cleanPath}`
+}
+
 function App() {
   const { data, loading, error } = useDashboardData();
   const [metric, setMetric] = useState<Metric>('paper_count');
@@ -258,7 +265,7 @@ function App() {
       <header className="border-b bg-card px-6 py-4">
         <div className="max-w-[1920px] mx-auto flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
           <div className="flex items-start gap-3">
-            <img src="/logo.jpg" alt="Logo" className="h-10 w-10 object-contain shrink-0" />
+            <img src={getAssetUrl('/logo.jpg')} alt="Logo" className="h-10 w-10 object-contain shrink-0" />
             <div>
               <h1 className="text-xl font-semibold tracking-tight text-foreground leading-tight">
                 Co-Authorship Network
@@ -324,7 +331,7 @@ function App() {
                     <div className="flex items-center gap-3">
                       <div className="h-16 w-16 rounded-full bg-muted/40 overflow-hidden flex items-center justify-center">
                         <img
-                          src={`/img/${detailNode?.id}.webp`}
+                          src={getAssetUrl(`/img/${detailNode?.id}.webp`)}
                           alt={`Photo of ${detailNode?.name}`}
                           className="h-full w-full object-cover"
                           onError={(event) => {
