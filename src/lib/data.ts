@@ -27,6 +27,8 @@ export interface Paper {
   venue: string;
   cited_by: number;
   author_count: number;
+  url?: string;
+  abstract?: string;
 }
 
 export interface PaperLink {
@@ -90,7 +92,9 @@ export async function fetchDashboardData(): Promise<DashboardData> {
       year: isNaN(year) ? null : year,
       venue: d.venue || '',
       cited_by: parseInt(d.cited_by || '0'),
-      author_count: parseInt(d.author_count || '0')
+      author_count: parseInt(d.author_count || '0'),
+      url: d.url || undefined,
+      abstract: d.abstract || undefined
     };
   });
 

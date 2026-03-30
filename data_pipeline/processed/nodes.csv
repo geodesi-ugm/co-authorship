@@ -2,29 +2,29 @@ id,name,specialities,scholar_id,paper_count,citations,x,y
 1,Subaryono,GIS; Environment,XcyOfG8AAAAJ,34,631,0.21473547064114712,0.31693099073487874
 2,Waljiyanto,Geodesy; Geomatics; GIS; Land Valuation,bf6K4O0AAAAJ,12,43,0.3003948126577252,0.1217415432111706
 3,Harintaka,Photogrammetry; Remote Sensing; Geomatics; Geodesy,XliPgAcAAAAJ,86,506,0.5426502819565576,0.18187204917600508
-4,Prijono Nugroho Djodjomartono,Land Administration; Photogrammetry,5xOGpFkAAAAJ,59,106,0.2690055376212179,0.9565177188732611
+4,Prijono Nugroho Djodjomartono,Photogrammetry Land Administration,5xOGpFkAAAAJ,59,106,0.2690055376212179,0.9565177188732611
 5,Djurdjani Wardaya,Photogrammetry; Land Development; Remote Sensing,-0SOAIQAAAAJ,30,233,0.9408572383725721,0.8198243463470352
-6,Nurrohmat Widjajanti,Satellite Positioning; Deformation; Geodynamics; Adjustment; Computation,U-w8I4UAAAAJ,165,370,0.7377195745663072,0.8902801955533921
-7,Catur Aries Rokhmana,Photogrammetry; Remote Sensing; Low-Cost Survey,Z5OOseEAAAAJ,93,654,0.667048833578922,0.45183574249752967
+6,Nurrohmat Widjajanti,GNSS; Satellite Positioning; Deformation; Geodynamics; Adjustment; Computation,U-w8I4UAAAAJ,165,370,0.7377195745663072,0.8902801955533921
+7,Catur Aries Rokhmana,Photogrammetry; Remote Sensing; Low-Cost Survey,Z5OOseEAAAAJ,92,654,0.667048833578922,0.45183574249752967
 8,Yulaikhah,Geodesy,2vN-lF4AAAAJ,44,117,0.2689874280651897,0.2042422163359201
-9,Leni Sophia Heliani,Geodesy; Geomatics,0JvcXp4AAAAJ,108,308,0.07852325578009633,0.7484964069398551
+9,Leni Sophia Heliani,Geodesy; Geomatics,0JvcXp4AAAAJ,107,308,0.07852325578009633,0.7484964069398551
 10,Bilal Ma'ruf,GNSS,slbE0KsAAAAJ,31,83,0.32044271595697316,0.31137138660681274
 11,Trias Aditya Kurniawan M,Geoinformatics; Spatial Data Infrastructure; Cartography; Geovisualization; Land Informatics,oGizjNoAAAAJ,160,1345,0.9281218842829458,0.6068405132934563
 12,Rochmad Muryamto,Geomatics,oShZECIAAAAJ,28,97,0.3660669745561512,0.6698951102793237
-13,Diyono,Survey Mapping; Geomatics,cm7zI5cAAAAJ,33,100,0.26663597543994844,0.024719325585912576
-14,Abdul Basith,Hydrography; Geo-Marine; Ocean Remote Sensing,weadN_wAAAAJ,74,263,0.06189941400518184,0.02
-15,Heri Sutanta,Geomatics; Spatial Data Infrastructure; Spatial Planning; Spatial Governance; Disaster Risk Reduction,_D477zkAAAAJ,87,572,0.7658012379680258,0.36972446523910096
-16,Purnama Budi Santosa,GIS; Spatial Modeling; Spatial Data Infrastructure,7IR6W1IAAAAJ,88,449,0.6277431200362535,0.9489949911939446
-17,I Made Andi Arsana,Law of the Sea; Maritime Boundaries; Geospatial,x2N_jBcAAAAJ,96,696,0.19594488827404807,0.8391408524434139
-18,Ruli Andaru,Surveying; Laser Scanning; UAV,FnYEE7AAAAAJ,33,182,0.6227155115032555,0.305636482631215
+13,Diyono,Geomatics; Survey Mapping ,cm7zI5cAAAAJ,33,100,0.26663597543994844,0.024719325585912576
+14,Abdul Basith,Hydrography and Law of the Sea; Geo-Marine; Ocean Remote Sensing,weadN_wAAAAJ,74,263,0.06189941400518184,0.02
+15,Heri Sutanta,GIS; Geomatics; Spatial Data Infrastructure; Spatial Planning; Spatial Governance; Disaster Risk Reduction,_D477zkAAAAJ,87,572,0.6277431200362535,0.9489949911939446
+16,Purnama Budi Santosa,GIS; Spatial Modeling; Spatial Data Infrastructure,7IR6W1IAAAAJ,87,449,0.7658012379680258,0.36972446523910096
+17,I Made Andi Arsana, Hydrography and Law of the Sea; Maritime Boundaries; Geospatial,x2N_jBcAAAAJ,96,696,0.19594488827404807,0.8391408524434139
+18,Ruli Andaru,Photogrammetry; Surveying; Laser Scanning; UAV,FnYEE7AAAAAJ,33,182,0.6227155115032555,0.305636482631215
 19,Dwi Lestari,Geodesy,_zEKbnoAAAAJ,29,88,0.46409466969773894,0.5101266992378876
 20,Dedi Atunggal SP.,GNSS; Satellite Positioning; Geosensor; 3D Modeling; Geovisualization,jlJ_M_MAAAAJ,72,252,0.7516108132807587,0.6735835847367956
-21,Bambang Kun Cahyono,Geodetic Engineering; Geomatics Engineering,g3m5JIYAAAAJ,104,212,0.34737513925849806,0.544061310530912
-22,Dany Puguh Laksono,Geovisualization; Geoinformatics; Visual Analytics,LsZIhbcAAAAJ,38,288,0.6028882818264708,0.04047005376622277
-23,Maritsa Faridatunnisa,Geodesy; Hydrography; Oceanography,vWyXz6UAAAAJ,11,59,0.3810727357124722,0.9656953082168893
+21,Bambang Kun Cahyono,Geomatics; Geodetic Engineering,g3m5JIYAAAAJ,104,212,0.34737513925849806,0.544061310530912
+22,Dany Puguh Laksono,Geoinformatics; Geovisualization; Visual Analytics,LsZIhbcAAAAJ,38,288,0.6028882818264708,0.04047005376622277
+23,Maritsa Faridatunnisa,Hydrography and Law of the Sea; Geodesy; Oceanography,vWyXz6UAAAAJ,11,59,0.3810727357124722,0.9656953082168893
 24,Hilmiyati Ulinnuha,Geodesy,PAAVcXcAAAAJ,25,77,0.5552334460740013,0.9665377012400598
 25,Febrian Fitryanik Susanta,Geoinformatics,DWIm4joAAAAJ,18,78,0.8084070692057113,0.7921786284018069
-26,Cecep Pratama,Tectonic Geodesy; Earthquake Physics; Seismic Hazard; Seismic Risk,5YFJgTQAAAAJ,67,312,0.8155724305097587,0.06923157199948947
-27,Mohamad Bagas Setiawan,Surveying; Laser Scanning; 3D Modeling; LiDAR; Photogrammetry,D85HnqsAAAAJ,26,63,0.3265852689403895,0.7884111520188181
-28,Ressy Fitria,Remote Sensing; GIS; Land Surface Model; Climate Change,DzYo93AAAAAJ,6,82,0.0563899073701115,0.3221327256051513
+26,Cecep Pratama,Geodesy; Tectonic Geodesy; Earthquake Physics; Seismic Hazard; Seismic Risk,5YFJgTQAAAAJ,66,312,0.8155724305097587,0.06923157199948947
+27,Mohamad Bagas Setiawan,Photogrammetry; Surveying; Laser Scanning; 3D Modeling; LiDAR,D85HnqsAAAAJ,26,63,0.3265852689403895,0.7884111520188181
+28,Ressy Fitria,Remote Sensing; GIS; Land Surface Model; Climate Change,DzYo93AAAAAJ,5,82,0.0563899073701115,0.3221327256051513
 29,Calvin Wijaya,Remote Sensing; Photogrammetry; Deep Learning; LiDAR; Point Cloud,xFUhWQkAAAAJ,20,87,0.07751098120792341,0.9119887298670399

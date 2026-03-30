@@ -13,12 +13,13 @@ interface NetworkGraphProps {
   metric: 'paper_count' | 'citations' | 'degree';
   selectedNodeId: string | null;
   hoveredNodeIds?: string[];
+  pinnedNodeId?: string | null;
   searchQuery?: string;
-  onNodeClick: (node: Node | null) => void;
+  onNodeClick: (node: Node | null, isRightClick?: boolean) => void;
   onNodeHover?: (node: Node | null) => void;
 }
 
-export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNodeIds, searchQuery, onNodeClick, onNodeHover }: NetworkGraphProps) {
+export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNodeIds, pinnedNodeId, searchQuery, onNodeClick, onNodeHover }: NetworkGraphProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const cyRef = useRef<cytoscape.Core | null>(null);
 
@@ -204,6 +205,16 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
             'text-margin-y': 10,
             'text-outline-width': 2,
           } as any
+        },
+        {
+          selector: '.pinned',
+          style: {
+            'border-width': 4,
+            'border-color': '#7c3aed',
+            'background-color': '#a78bfa',
+            'z-index': 300,
+            'opacity': 1,
+          } as any
         }
       ],
       layout: undefined
@@ -255,12 +266,19 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
 
     cy.on('tap', 'node', (evt) => {
       const node = evt.target;
-      onNodeClick(node.data());
+      onNodeClick(node.data(), false);
+    });
+
+    cy.on('cxttap', 'node', (evt) => {
+      evt.preventDefault();
+      const node = evt.target;
+      // Right click always tries to pin if we have a selection
+      onNodeClick(node.data(), true);
     });
 
     cy.on('tap', (evt) => {
       if (evt.target === cy) {
-        onNodeClick(null);
+        onNodeClick(null, false);
       }
     });
 
@@ -397,6 +415,16 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
       cy.elements().removeClass('external-faded');
     }
   }, [hoveredNodeIds]);
+
+  useEffect(() => {
+    const cy = cyRef.current;
+    if (!cy) return;
+
+    cy.nodes().removeClass('pinned');
+    if (pinnedNodeId) {
+      cy.getElementById(pinnedNodeId).addClass('pinned');
+    }
+  }, [pinnedNodeId]);
 
   return (
     <div className="w-full h-full relative rounded-md overflow-hidden border border-border bg-muted/30">
