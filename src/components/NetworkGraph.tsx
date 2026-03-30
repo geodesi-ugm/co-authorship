@@ -54,7 +54,7 @@ export function NetworkGraph({ nodes, edges, metric, selectedNodeId, hoveredNode
       data: {
         id: n.id,
         name: n.name,
-        label: n.name.length > 20 ? `${n.name.slice(0, 18)}…` : n.name,
+        label: n.name,
         color: getNodeColor(n),
         metricValue: n[metric] || 0,
         ...n
