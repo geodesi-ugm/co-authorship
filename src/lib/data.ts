@@ -41,12 +41,15 @@ export interface DashboardData {
   links: PaperLink[];
 }
 
+const dataUrl = (file: string) =>
+  new URL(`data/${file}`, import.meta.env.BASE_URL).toString()
+
 export async function fetchDashboardData(): Promise<DashboardData> {
   const [rawNodes, rawEdges, rawPapers, rawLinks] = await Promise.all([
-    d3.csv('/data/nodes.csv'),
-    d3.csv('/data/edges.csv'),
-    d3.csv('/data/cleaned_papers.csv'),
-    d3.csv('/data/paper_authors_links.csv')
+    d3.csv(dataUrl('nodes.csv')),
+    d3.csv(dataUrl('edges.csv')),
+    d3.csv(dataUrl('cleaned_papers.csv')),
+    d3.csv(dataUrl('paper_authors_links.csv'))
   ]);
 
   const edges = rawEdges.map(d => ({
