@@ -3,11 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://danylaksono.is-a.dev/co-authorship",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "npm install --no-save gh-pages && npx gh-pages -d dist",
+    "lint": "eslint .",
     "sync-data": "cp data_pipeline/processed/nodes.csv public/data/nodes.csv && cp data_pipeline/processed/edges.csv public/data/edges.csv"
   },
   "dependencies": {

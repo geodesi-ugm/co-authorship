@@ -45,4 +45,61 @@ Navigate your browser to `http://localhost:5173/` to view the interactive networ
   - **Bar Charts**: Author contribution timelines and top specialities.
 - **Styling**: `tailwindcss` combined with `shadcn/ui` for premium, clean UI elements. Dark mode by default.
 
+## GitHub Pages Deployment
+
+### Setup (already done in this repo)
+- `package.json` includes:
+  - `homepage`: `https://danylaksono.is-a.dev/co-authorship`
+  - `predeploy`: `npm run build`
+  - `deploy`: `npm install --no-save gh-pages && npx gh-pages -d dist`
+- `vite.config.ts` includes:
+  - `base: process.env.VITE_BASE_URL || "/"`
+- `.env` includes:
+  - `VITE_BASE_URL=/co-authorship/`
+
+### Deploy with script
+```bash
+npm install
+npm run build
+npm run deploy
+```
+
+Then in GitHub:
+1. Settings → Pages
+2. Source: `gh-pages` branch
+3. Folder: `/ (root)`
+4. Save
+
+Your site will be available at: `https://danylaksono.is-a.dev/co-authorship`
+
+### Deploy with GitHub Actions (alternative)
+Create `.github/workflows/gh-pages.yml`:
+
+```yaml
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm ci
+      - run: npm run build
+      - run: npm install --no-save gh-pages
+      - run: npx gh-pages -d dist
+```
+
+Then set Pages source to `gh-pages` branch.
+
+### Fork / org migration
+- Update `.env`: `VITE_BASE_URL=/new-repo-name/`
+- Update `package.json.homepage` to `https://<org>.github.io/<new-repo-name>`
+- Re-run `npm run deploy` / push workflow
+
 
