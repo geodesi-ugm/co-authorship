@@ -44,7 +44,9 @@ export interface DashboardData {
 const dataBaseUrl = import.meta.env.BASE_URL || '/'
 const dataUrl = (file: string) => {
   const base = dataBaseUrl.endsWith('/') ? dataBaseUrl : `${dataBaseUrl}/`
-  return new URL(`data/${file}`, base).toString()
+  // Ensure the base is absolute for the URL constructor if we must use it,
+  // but it's simpler to just return the path string.
+  return `${base}data/${file}`
 }
 
 export async function fetchDashboardData(): Promise<DashboardData> {
