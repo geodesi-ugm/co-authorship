@@ -142,6 +142,9 @@ def run_cleanup():
                 except (ValueError, TypeError):
                     cited_by = 0
 
+                paper_url = paper.get('pdf_link') or paper.get('citation_url', '')
+                abstract = paper.get('abstract', '')
+
                 paper_info = {
                     'title': title,
                     'norm_title': norm_title,
@@ -149,7 +152,9 @@ def run_cleanup():
                     'venue': paper.get('venue', ''),
                     'cited_by': cited_by,
                     'author_ids': found_author_ids,
-                    'source_scholar_id': scholar_id
+                    'source_scholar_id': scholar_id,
+                    'url': paper_url,
+                    'abstract': abstract
                 }
                 
                 # Check for duplicates
@@ -160,6 +165,12 @@ def run_cleanup():
                     # Merge author IDs
                     existing_paper['author_ids'].update(found_author_ids)
                     existing_paper['cited_by'] = max(existing_paper.get('cited_by', 0), paper_info['cited_by'])
+                    # Update URL if existing is empty or if we found a pdf_link and existing is just a citation_url
+                    if not existing_paper['url'] or (paper.get('pdf_link') and 'scholar.google.com' in existing_paper['url']):
+                        existing_paper['url'] = paper_url
+                    # Update abstract if existing is empty
+                    if not existing_paper['abstract'] and abstract:
+                        existing_paper['abstract'] = abstract
                     is_duplicate = True
                     break
                 
@@ -171,6 +182,10 @@ def run_cleanup():
                             for idx in indices:
                                 all_papers[idx]['author_ids'].update(found_author_ids)
                                 all_papers[idx]['cited_by'] = max(all_papers[idx].get('cited_by', 0), paper_info['cited_by'])
+                                if not all_papers[idx]['url'] or (paper.get('pdf_link') and 'scholar.google.com' in all_papers[idx]['url']):
+                                    all_papers[idx]['url'] = paper_url
+                                if not all_papers[idx]['abstract'] and abstract:
+                                    all_papers[idx]['abstract'] = abstract
                                 is_duplicate = True
                                 break
                         if is_duplicate: break
@@ -194,7 +209,9 @@ def run_cleanup():
             'year': paper['year'],
             'venue': paper['venue'],
             'cited_by': paper['cited_by'],
-            'author_count': len(paper['author_ids'])
+            'author_count': len(paper['author_ids']),
+            'url': paper['url'],
+            'abstract': paper['abstract']
         })
         
         for author_id in paper['author_ids']:

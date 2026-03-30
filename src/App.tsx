@@ -3,11 +3,19 @@ import { AdjacencyMatrixChart } from './components/AdjacencyMatrixChart';
 import { useDashboardData } from './hooks/useDashboardData';
 import { AuthorEgoGraph } from './components/AuthorEgoGraph';
 import { AuthorScatterChart } from './components/AuthorScatterChart';
-import { Maximize2Icon, Minimize2Icon, FileText, TrendingUp, Link2, XCircle } from 'lucide-react';
+import { Maximize2Icon, Minimize2Icon, FileText, TrendingUp, Link2, XCircle, ExternalLink, Calendar, Flame } from 'lucide-react';
 import { NetworkGraph } from './components/NetworkGraph';
 import { SpecialtyChordChart } from './components/SpecialtyChordChart';
 import { TimelineChart } from './components/TimelineChart';
 import { SpecialtiesChart } from './components/SpecialtiesChart';
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogDescription,
+  DialogFooter,
+} from './components/ui/dialog';
 import { Badge } from './components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle, CardAction } from './components/ui/card';
 import { Input } from './components/ui/input';
@@ -47,11 +55,14 @@ function App() {
   const [metric, setMetric] = useState<Metric>('paper_count');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [hoveredCoauthorId, setHoveredCoauthorId] = useState<string | null>(null);
+  const [pinnedCoauthorId, setPinnedCoauthorId] = useState<string | null>(null);
   const [hoveredPaperId, setHoveredPaperId] = useState<string | null>(null);
   const [selectedPaperId, setSelectedPaperId] = useState<string | null>(null);
+  const [isPaperDialogOpen, setIsPaperDialogOpen] = useState(false);
   const [hoveredPaperAuthorIds, setHoveredPaperAuthorIds] = useState<string[]>([]);
   const [search, setSearch] = useState('');
   const [selectedYear, setSelectedYear] = useState<number | null>(null);
+  const [sortMode, setSortMode] = useState<'year' | 'citations'>('year');
   const [isNetworkFullscreen, setIsNetworkFullscreen] = useState(false);
   const networkCardRef = useRef<HTMLDivElement>(null);
 
@@ -79,10 +90,32 @@ function App() {
     }
   };
 
+  const paperAuthorMap = useMemo(() => {
+    if (!data) return new Map<string, string[]>();
+    const map = new Map<string, string[]>();
+    for (const link of data.links) {
+      if (!map.has(link.paper_id)) map.set(link.paper_id, []);
+      map.get(link.paper_id)!.push(link.author_id);
+    }
+    return map;
+  }, [data]);
+
   const selectedNode = useMemo(() => {
     if (!data || !selectedNodeId) return null;
     return data.nodes.find(n => n.id === selectedNodeId) || null;
   }, [data, selectedNodeId]);
+
+  const selectedPaper = useMemo(() => {
+    if (!data || !selectedPaperId) return null;
+    return data.papers.find(p => p.paper_id === selectedPaperId) || null;
+  }, [data, selectedPaperId]);
+
+  const selectedPaperAuthors = useMemo(() => {
+    if (!data || !selectedPaperId) return [];
+    const authorIds = paperAuthorMap.get(selectedPaperId) || [];
+    const nodeById = new Map(data.nodes.map(n => [n.id, n]));
+    return authorIds.map(id => nodeById.get(id)?.name || 'Unknown Author');
+  }, [data, selectedPaperId, paperAuthorMap]);
 
   const papersById = useMemo(() => {
     if (!data) return new Map<string, { year: number | null }>();
@@ -134,16 +167,6 @@ function App() {
     return data.edges.filter(e => visibleIds.has(getEdgeNodeId(e.source)) && visibleIds.has(getEdgeNodeId(e.target)));
   }, [data, filteredNodes]);
 
-  const paperAuthorMap = useMemo(() => {
-    if (!data) return new Map<string, string[]>();
-    const map = new Map<string, string[]>();
-    for (const link of data.links) {
-      if (!map.has(link.paper_id)) map.set(link.paper_id, []);
-      map.get(link.paper_id)!.push(link.author_id);
-    }
-    return map;
-  }, [data]);
-
   const selectedNodeCoauthors = useMemo(() => {
     if (!data || !selectedNodeId) return [];
     const nodeById = new Map(data.nodes.map(n => [n.id, n]));
@@ -163,32 +186,35 @@ function App() {
   }, [data, selectedNodeId]);
 
   const hoveredCoauthor = useMemo(() => {
-    if (!data || !hoveredCoauthorId) return null;
-    return data.nodes.find(n => n.id === hoveredCoauthorId) || null;
-  }, [data, hoveredCoauthorId]);
+    if (!data || (!hoveredCoauthorId && !pinnedCoauthorId)) return null;
+    const id = pinnedCoauthorId || hoveredCoauthorId;
+    return data.nodes.find(n => n.id === id) || null;
+  }, [data, hoveredCoauthorId, pinnedCoauthorId]);
 
   const hoveredAuthorIsDifferent = Boolean(
-    selectedNodeId && hoveredCoauthorId && selectedNodeId !== hoveredCoauthorId
+    selectedNodeId && (hoveredCoauthorId || pinnedCoauthorId) && selectedNodeId !== (pinnedCoauthorId || hoveredCoauthorId)
   );
 
   const selectedCoauthorEdge = useMemo(() => {
-    if (!data || !selectedNodeId || !hoveredCoauthorId || selectedNodeId === hoveredCoauthorId) return null;
-    return selectedNodeCoauthors.find(item => item.node.id === hoveredCoauthorId) || null;
-  }, [selectedNodeCoauthors, selectedNodeId, hoveredCoauthorId]);
+    if (!data || !selectedNodeId || (!hoveredCoauthorId && !pinnedCoauthorId) || selectedNodeId === (pinnedCoauthorId || hoveredCoauthorId)) return null;
+    const coauthorId = pinnedCoauthorId || hoveredCoauthorId;
+    return selectedNodeCoauthors.find(item => item.node.id === coauthorId) || null;
+  }, [selectedNodeCoauthors, selectedNodeId, hoveredCoauthorId, pinnedCoauthorId]);
 
   const detailNode = hoveredAuthorIsDifferent && hoveredCoauthor ? hoveredCoauthor : selectedNode;
   const showCollaboratorPreview = hoveredAuthorIsDifferent && selectedNode && hoveredCoauthor;
 
   const selectedCoauthoredPapers = useMemo(() => {
-    if (!data || !selectedNodeId || !hoveredCoauthorId || selectedNodeId === hoveredCoauthorId) return [];
+    if (!data || !selectedNodeId || (!hoveredCoauthorId && !pinnedCoauthorId) || selectedNodeId === (pinnedCoauthorId || hoveredCoauthorId)) return [];
 
+    const coauthorId = pinnedCoauthorId || hoveredCoauthorId;
     const selectedPapers = new Set(
       data.links.filter(l => l.author_id === selectedNodeId).map(l => l.paper_id)
     );
 
     const sharedPapers = new Set(
       data.links
-        .filter(l => l.author_id === hoveredCoauthorId && selectedPapers.has(l.paper_id))
+        .filter(l => l.author_id === coauthorId && selectedPapers.has(l.paper_id))
         .map(l => l.paper_id)
     );
 
@@ -196,18 +222,19 @@ function App() {
       .filter(p => sharedPapers.has(p.paper_id))
       .filter(p => (selectedYear ? p.year === selectedYear : true))
       .sort((a, b) => (b.year || 0) - (a.year || 0));
-  }, [data, selectedNodeId, hoveredCoauthorId, selectedYear]);
+  }, [data, selectedNodeId, hoveredCoauthorId, pinnedCoauthorId, selectedYear]);
 
   const collabPaperCount = selectedCoauthorEdge?.weight ?? selectedCoauthoredPapers.length;
 
   const hoveredAuthorPapers = useMemo(() => {
-    if (!data || !hoveredCoauthorId) return [];
-    const paperIds = new Set(data.links.filter(l => l.author_id === hoveredCoauthorId).map(l => l.paper_id));
+    if (!data || (!hoveredCoauthorId && !pinnedCoauthorId)) return [];
+    const coauthorId = pinnedCoauthorId || hoveredCoauthorId;
+    const paperIds = new Set(data.links.filter(l => l.author_id === coauthorId).map(l => l.paper_id));
     return data.papers
       .filter(p => paperIds.has(p.paper_id))
       .filter(p => (selectedYear ? p.year === selectedYear : true))
       .sort((a, b) => (b.year || 0) - (a.year || 0));
-  }, [data, hoveredCoauthorId, selectedYear]);
+  }, [data, hoveredCoauthorId, pinnedCoauthorId, selectedYear]);
 
   const paperMode = hoveredAuthorIsDifferent
     ? 'Co-authored'
@@ -217,13 +244,23 @@ function App() {
         ? 'Author'
         : 'All';
 
-  const displayedPapers = hoveredAuthorIsDifferent
-    ? selectedCoauthoredPapers
-    : hoveredCoauthor
-      ? hoveredAuthorPapers
-      : selectedNode
-        ? authorPapers
-        : allPapers;
+  const displayedPapers = useMemo(() => {
+    let papers = hoveredAuthorIsDifferent
+      ? selectedCoauthoredPapers
+      : hoveredCoauthor
+        ? hoveredAuthorPapers
+        : selectedNode
+          ? authorPapers
+          : allPapers;
+    
+    return [...papers].sort((a, b) => {
+      if (sortMode === 'citations') {
+        return (b.cited_by || 0) - (a.cited_by || 0);
+      } else {
+        return (b.year || 0) - (a.year || 0);
+      }
+    });
+  }, [hoveredAuthorIsDifferent, selectedCoauthoredPapers, hoveredCoauthor, hoveredAuthorPapers, selectedNode, authorPapers, allPapers, sortMode]);
 
   const globalStats = useMemo(() => {
     if (!data) return null;
@@ -329,27 +366,54 @@ function App() {
                 {selectedNode ? (
                   <div className="space-y-4">
                     <div className="flex items-center gap-3">
-                      <div className="h-16 w-16 rounded-full bg-muted/40 overflow-hidden flex items-center justify-center">
-                        <img
-                          src={getAssetUrl(`/img/${detailNode?.id}.webp`)}
-                          alt={`Photo of ${detailNode?.name}`}
-                          className="h-full w-full object-cover"
-                          onError={(event) => {
-                            const img = event.currentTarget;
-                            img.onerror = null;
-                            img.src = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22%23cbd5e1%22/%3E%3Ctext x=%2250%22 y=%2255%22 font-size=%2210%22 text-anchor=%22middle%22 fill=%22%23626c7a%22%3ENo photo%3C/text%3E%3C/svg%3E';
-                          }}
-                        />
-                      </div>
+                      {showCollaboratorPreview && selectedNode && hoveredCoauthor ? (
+                        <div className="flex items-center gap-2">
+                          {[selectedNode, hoveredCoauthor].map((node, idx) => (
+                            <div key={`${node.id}-${idx}`} className="h-16 w-16 rounded-full bg-muted/40 overflow-hidden flex items-center justify-center border border-border">
+                              <img
+                                src={getAssetUrl(`/img/${node.id}.webp`)}
+                                alt={`Photo of ${node.name}`}
+                                className="h-full w-full object-cover"
+                                onError={(event) => {
+                                  const img = event.currentTarget;
+                                  img.onerror = null;
+                                  img.src = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22%23cbd5e1%22/%3E%3Ctext x=%2250%22 y=%2255%22 font-size=%2210%22 text-anchor=%22middle%22 fill=%22%23626c7a%22%3ENo photo%3C/text%3E%3C/svg%3E';
+                                }}
+                              />
+                            </div>
+                          ))}
+                        </div>
+                      ) : (
+                        <div className="h-16 w-16 rounded-full bg-muted/40 overflow-hidden flex items-center justify-center">
+                          <img
+                            src={getAssetUrl(`/img/${detailNode?.id}.webp`)}
+                            alt={`Photo of ${detailNode?.name}`}
+                            className="h-full w-full object-cover"
+                            onError={(event) => {
+                              const img = event.currentTarget;
+                              img.onerror = null;
+                              img.src = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22%23cbd5e1%22/%3E%3Ctext x=%2250%22 y=%2255%22 font-size=%2210%22 text-anchor=%22middle%22 fill=%22%23626c7a%22%3ENo photo%3C/text%3E%3C/svg%3E';
+                            }}
+                          />
+                        </div>
+                      )}
+
                       {!showCollaboratorPreview && (
                         <div className="space-y-1">
                           <div className="text-xs text-muted-foreground">Papers</div>
                           <div className="text-lg font-semibold tabular-nums">{selectedNode.paper_count}</div>
                         </div>
                       )}
+
                       <div className="space-y-1">
-                        <div className="text-xs text-muted-foreground">{showCollaboratorPreview ? 'Collaborator' : 'Main author'}</div>
-                        <div className="text-sm font-medium">{detailNode?.name}</div>
+                        <div className="text-xs text-muted-foreground">
+                          {showCollaboratorPreview ? 'Main author / Collaborator' : 'Main author'}
+                        </div>
+                        <div className="text-sm font-medium">
+                          {showCollaboratorPreview && selectedNode && hoveredCoauthor
+                            ? `${selectedNode.name} · ${hoveredCoauthor.name}`
+                            : detailNode?.name}
+                        </div>
                       </div>
                     </div>
 
@@ -398,24 +462,56 @@ function App() {
             {/* Papers list (global / selected author / co-authored) */}
             <Card className="flex-1 min-h-0 overflow-hidden">
               <CardHeader className="pb-3">
-                <div className="flex items-center justify-between gap-2">
-                  <CardTitle className="text-sm font-medium">Papers</CardTitle>
-                  <span className="rounded-full px-2 py-1 text-[10px] font-semibold bg-accent/30 text-accent-foreground">
-                    {paperMode}
-                  </span>
+                <div className="flex flex-col gap-2">
+                  <div className="flex items-center justify-between gap-2">
+                    <CardTitle className="text-sm font-medium">Papers</CardTitle>
+                    <div className="flex items-center gap-1">
+                      <button
+                        onClick={() => setSortMode('year')}
+                        title="Sort by Year"
+                        className={`p-1.5 rounded-md transition ${sortMode === 'year' ? 'bg-primary/20 text-primary' : 'text-muted-foreground hover:bg-muted'}`}
+                      >
+                        <Calendar className="size-3.5" />
+                      </button>
+                      <button
+                        onClick={() => setSortMode('citations')}
+                        title="Sort by Citations"
+                        className={`p-1.5 rounded-md transition ${sortMode === 'citations' ? 'bg-primary/20 text-primary' : 'text-muted-foreground hover:bg-muted'}`}
+                      >
+                        <Flame className="size-3.5" />
+                      </button>
+                      <span className="w-2" />
+                      <span className="rounded-full px-2 py-1 text-[10px] font-semibold bg-accent/30 text-accent-foreground">
+                        {paperMode}
+                      </span>
+                      {pinnedCoauthorId && hoveredCoauthor && (
+                        <button
+                          onClick={() => setPinnedCoauthorId(null)}
+                          className="inline-flex items-center gap-1 rounded-full px-2 py-1 text-[10px] font-semibold bg-primary/20 text-primary hover:bg-primary/30 transition"
+                          title="Unpin co-author"
+                        >
+                          <span>📌</span>
+                          <span className="hidden sm:inline">Pinned</span>
+                          <span className="text-xs">×</span>
+                        </button>
+                      )}
+                    </div>
+                  </div>
                 </div>
               </CardHeader>
               <CardContent className="h-full min-h-0 overflow-hidden">
                 <ScrollArea className="h-full min-h-0 overflow-auto">
                   <div className="space-y-2">
                     <p className="text-[11px] text-muted-foreground uppercase tracking-wider">
-                      {hoveredAuthorIsDifferent && hoveredCoauthor
-                        ? `Co-authored papers with ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
-                        : hoveredCoauthor
-                          ? `Papers by ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
-                          : selectedNode
-                            ? `Papers by ${selectedNode.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
-                            : `All papers ${selectedYear ? `in ${selectedYear}` : '(all years)'}`}
+                      {pinnedCoauthorId && hoveredCoauthor
+                        ? `📌 Pinned: Co-authored papers with ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
+                        : hoveredAuthorIsDifferent && hoveredCoauthor
+                          ? `Co-authored papers with ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
+                          : hoveredCoauthor
+                            ? `Papers by ${hoveredCoauthor.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
+                            : selectedNode
+                              ? `Papers by ${selectedNode.name} ${selectedYear ? `in ${selectedYear}` : '(all years)'}`
+                              : `All papers ${selectedYear ? `in ${selectedYear}` : '(all years)'}`}
                       · {displayedPapers.length}
                     </p>
                     {displayedPapers.map(p => {
@@ -437,12 +533,24 @@ function App() {
                           }}
                           onClick={() => {
                             setSelectedPaperId(p.paper_id);
-                            if (paperAuthors.length > 0) {
-                              setSelectedNodeId(paperAuthors[0]);
-                            }
+                            setIsPaperDialogOpen(true);
                           }}
                         >
-                          <p className="text-sm leading-snug line-clamp-2">{p.title}</p>
+                          <div className="flex items-start justify-between gap-2">
+                            <p className="text-sm leading-snug line-clamp-2 flex-1">{p.title}</p>
+                            {p.url && (
+                              <a
+                                href={p.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-muted-foreground hover:text-primary p-0.5"
+                                onClick={(e) => e.stopPropagation()}
+                                title="Open paper"
+                              >
+                                <ExternalLink className="size-3.5" />
+                              </a>
+                            )}
+                          </div>
                           <div className="flex justify-between text-[11px] text-muted-foreground mt-1">
                             <span>{p.year || 'Unknown'}</span>
                             <span>{p.cited_by} cit.</span>
@@ -538,11 +646,48 @@ function App() {
                     metric={metric}
                     selectedNodeId={selectedNodeId}
                     hoveredNodeIds={hoveredPaperAuthorIds}
+                    pinnedNodeId={pinnedCoauthorId}
                     searchQuery={search}
-                    onNodeClick={node => {
-                      setSelectedNodeId(node?.id || null);
-                      setHoveredCoauthorId(null);
-                      setSelectedPaperId(null);
+                    onNodeClick={(node, isRightClick) => {
+                      if (!node) {
+                        setSelectedNodeId(null);
+                        setHoveredCoauthorId(null);
+                        setPinnedCoauthorId(null);
+                        setSelectedPaperId(null);
+                        return;
+                      }
+                      
+                      // If right click, we specifically want to pin as co-author if we have a primary selection
+                      if (isRightClick && selectedNodeId && selectedNodeId !== node.id) {
+                        setPinnedCoauthorId(node.id);
+                        setHoveredCoauthorId(null);
+                        setSelectedPaperId(null);
+                        return;
+                      }
+
+                      if (selectedNodeId === node.id) {
+                        // Deselect if clicking the same node
+                        setSelectedNodeId(null);
+                        setHoveredCoauthorId(null);
+                        setPinnedCoauthorId(null);
+                        setSelectedPaperId(null);
+                      } else if (selectedNodeId) {
+                        // If we already have a selection, clicking another node pins it as co-author
+                        if (pinnedCoauthorId === node.id) {
+                          // Unpin if clicking already pinned co-author
+                          setPinnedCoauthorId(null);
+                        } else {
+                          setPinnedCoauthorId(node.id);
+                        }
+                        setHoveredCoauthorId(null);
+                        setSelectedPaperId(null);
+                      } else {
+                        // Initial selection
+                        setSelectedNodeId(node.id);
+                        setHoveredCoauthorId(null);
+                        setPinnedCoauthorId(null);
+                        setSelectedPaperId(null);
+                      }
                     }}
                     onNodeHover={node => setHoveredCoauthorId(node?.id || null)}
                   />
@@ -607,8 +752,25 @@ function App() {
                     nodes={filteredNodes}
                     selectedNodeId={selectedNodeId}
                     onNodeClick={node => {
-                      setSelectedNodeId(node?.id || null);
-                      setHoveredCoauthorId(null);
+                      if (!node) {
+                        setSelectedNodeId(null);
+                        setHoveredCoauthorId(null);
+                        setPinnedCoauthorId(null);
+                        return;
+                      }
+                      
+                      if (selectedNodeId === node.id) {
+                        setSelectedNodeId(null);
+                        setHoveredCoauthorId(null);
+                        setPinnedCoauthorId(null);
+                      } else if (selectedNodeId) {
+                        setPinnedCoauthorId(node.id);
+                        setHoveredCoauthorId(null);
+                      } else {
+                        setSelectedNodeId(node.id);
+                        setHoveredCoauthorId(null);
+                        setPinnedCoauthorId(null);
+                      }
                     }}
                   />
                 </CardContent>
@@ -629,8 +791,25 @@ function App() {
                     metric={metric}
                     selectedNodeId={selectedNodeId}
                     onNodeClick={node => {
-                      setSelectedNodeId(node?.id || null);
-                      setHoveredCoauthorId(null);
+                      if (!node) {
+                        setSelectedNodeId(null);
+                        setHoveredCoauthorId(null);
+                        setPinnedCoauthorId(null);
+                        return;
+                      }
+                      
+                      if (selectedNodeId === node.id) {
+                        setSelectedNodeId(null);
+                        setHoveredCoauthorId(null);
+                        setPinnedCoauthorId(null);
+                      } else if (selectedNodeId) {
+                        setPinnedCoauthorId(node.id);
+                        setHoveredCoauthorId(null);
+                      } else {
+                        setSelectedNodeId(node.id);
+                        setHoveredCoauthorId(null);
+                        setPinnedCoauthorId(null);
+                      }
                     }}
                   />
                 </CardContent>
@@ -639,6 +818,82 @@ function App() {
           </div>
         </div>
       </div>
+
+      <Dialog open={isPaperDialogOpen} onOpenChange={setIsPaperDialogOpen}>
+        <DialogContent className="sm:max-w-[600px] max-h-[85vh] flex flex-col p-0 overflow-hidden">
+          {selectedPaper && (
+            <>
+              <DialogHeader className="p-6 pb-2">
+                <div className="flex justify-between items-start gap-4">
+                  <div className="space-y-1">
+                    <DialogTitle className="text-xl leading-tight pr-6">
+                      {selectedPaper.title}
+                    </DialogTitle>
+                    <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-muted-foreground mt-2">
+                      <span className="flex items-center gap-1 font-medium">
+                        🗓️ {selectedPaper.year || 'Unknown Year'}
+                      </span>
+                      <span className="flex items-center gap-1">
+                        📍 {selectedPaper.venue || 'No Venue Listed'}
+                      </span>
+                      <span className="flex items-center gap-1">
+                        🔥 {selectedPaper.cited_by} Citations
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </DialogHeader>
+
+              <ScrollArea className="flex-1 p-6 pt-2 overflow-auto">
+                <div className="space-y-6">
+                  <div>
+                    <h4 className="text-sm font-semibold mb-2 uppercase tracking-wider text-muted-foreground">Authors</h4>
+                    <div className="flex flex-wrap gap-2">
+                      {selectedPaperAuthors.map((author, idx) => (
+                        <Badge key={idx} variant="secondary" className="px-2 py-0.5 text-xs font-normal">
+                          {author}
+                        </Badge>
+                      ))}
+                    </div>
+                  </div>
+
+                  <div>
+                    <h4 className="text-sm font-semibold mb-2 uppercase tracking-wider text-muted-foreground">Abstract</h4>
+                    <p className="text-sm leading-relaxed text-foreground/90 whitespace-pre-line">
+                      {selectedPaper.abstract || 'No abstract available for this paper.'}
+                    </p>
+                  </div>
+                </div>
+              </ScrollArea>
+
+              <DialogFooter className="p-4 bg-muted/30 border-t flex sm:justify-between items-center gap-4">
+                <div className="text-[11px] text-muted-foreground italic">
+                  ID: {selectedPaper.paper_id}
+                </div>
+                <div className="flex gap-2">
+                  <button
+                    onClick={() => setIsPaperDialogOpen(false)}
+                    className="px-4 py-2 text-sm font-medium rounded-md border border-border hover:bg-muted transition"
+                  >
+                    Close
+                  </button>
+                  {selectedPaper.url && (
+                    <a
+                      href={selectedPaper.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-md bg-primary text-primary-foreground hover:bg-primary/90 transition shadow-sm"
+                    >
+                      <ExternalLink className="size-4" />
+                      View Paper
+                    </a>
+                  )}
+                </div>
+              </DialogFooter>
+            </>
+          )}
+        </DialogContent>
+      </Dialog>
     </div>
   );
 }
