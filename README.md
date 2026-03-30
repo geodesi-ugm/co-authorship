@@ -53,7 +53,7 @@ Navigate your browser to `http://localhost:5173/` to view the interactive networ
   - `predeploy`: `npm run build`
   - `deploy`: `npm install --no-save gh-pages && npx gh-pages -d dist`
 - `vite.config.ts` includes:
-  - `base: process.env.VITE_BASE_URL || "/"`
+  - `base: (import.meta.env.VITE_BASE_URL as string) || "/co-authorship/"`
 - `.env` includes:
   - `VITE_BASE_URL=/co-authorship/`
 

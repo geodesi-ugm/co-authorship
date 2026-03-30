@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react"
 import { defineConfig } from "vite"
 
 export default defineConfig({
-  base: process.env.VITE_BASE_URL || "/",
+  base: (import.meta.env.VITE_BASE_URL as string) || "/co-authorship/",
   plugins: [react()],
   resolve: {
     alias: {
